@@ -1,8 +1,130 @@
 {
-  "generated_at": "2026-06-12T21:16:26.606379Z",
+  "generated_at": "2026-06-12T22:56:35.781645Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c6069eed8b00",
+      "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
+      "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
+      "primary_url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "be0b202f755e718442d572da700da022d8e78bee",
+          "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
+          "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T22:26:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "be0b202f755e718442d572da700da022d8e78bee",
+          "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
+          "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T22:26:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8688,
+      "importance": 0.8688,
+      "importance_score": 0.8688,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.979,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T22:26:23Z",
+      "latest_at": "2026-06-12T22:26:23Z",
+      "primary_item": {
+        "id": "be0b202f755e718442d572da700da022d8e78bee",
+        "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
+        "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3fe3bf526cee",
+      "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
+      "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+      "primary_url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c4aac80ecde24e684fec4bfb65b4f363c8b01e77",
+          "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
+          "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T21:37:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c4aac80ecde24e684fec4bfb65b4f363c8b01e77",
+          "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
+          "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T21:37:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9449,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T21:37:14Z",
+      "latest_at": "2026-06-12T21:37:14Z",
+      "primary_item": {
+        "id": "c4aac80ecde24e684fec4bfb65b4f363c8b01e77",
+        "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
+        "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_80b8efd89b1a",
       "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
@@ -57,14 +179,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8655,
-      "importance": 0.8655,
-      "importance_score": 0.8655,
+      "score": 0.8516,
+      "importance": 0.8516,
+      "importance_score": 0.8516,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7776,
+        "recency": 0.708,
         "story_heat": 0.25
       },
       "category": "official",
@@ -81,67 +203,6 @@
         "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
         "url": "https://huggingface.co/blog/allenai/olmo-eval",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3eb5a5a79b7b",
-      "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
-      "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
-      "primary_url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a6ef4eb629d64ef64b74b60a8eccc99ec891234f",
-          "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
-          "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T16:04:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a6ef4eb629d64ef64b74b60a8eccc99ec891234f",
-          "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
-          "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T16:04:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7837,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T16:04:57Z",
-      "latest_at": "2026-06-12T16:04:57Z",
-      "primary_item": {
-        "id": "a6ef4eb629d64ef64b74b60a8eccc99ec891234f",
-        "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
-        "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -199,14 +260,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7893,
-      "importance": 0.7893,
-      "importance_score": 0.7893,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7617,
+        "recency": 0.6922,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -223,6 +284,67 @@
         "url": "https://www.ithome.com/0/963/725.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3eb5a5a79b7b",
+      "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
+      "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
+      "primary_url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a6ef4eb629d64ef64b74b60a8eccc99ec891234f",
+          "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
+          "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T16:04:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a6ef4eb629d64ef64b74b60a8eccc99ec891234f",
+          "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
+          "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T16:04:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7141,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T16:04:57Z",
+      "latest_at": "2026-06-12T16:04:57Z",
+      "primary_item": {
+        "id": "a6ef4eb629d64ef64b74b60a8eccc99ec891234f",
+        "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
+        "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -260,14 +382,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7907,
+        "recency": 0.7211,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -282,6 +404,66 @@
         "title": "Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业",
         "url": "https://www.anthropic.com/news/anthropic-public-record",
         "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a9b684fade30",
+      "title": "如何在OpenRouter上获得最低成本的LLM推理",
+      "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+      "primary_url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d041510c11b726a400fc03f3b9f83a80494b4c8b",
+          "title": "如何在OpenRouter上获得最低成本的LLM推理",
+          "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d041510c11b726a400fc03f3b9f83a80494b4c8b",
+          "title": "如何在OpenRouter上获得最低成本的LLM推理",
+          "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7107,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T16:00:00Z",
+      "latest_at": "2026-06-12T16:00:00Z",
+      "primary_item": {
+        "id": "d041510c11b726a400fc03f3b9f83a80494b4c8b",
+        "title": "如何在OpenRouter上获得最低成本的LLM推理",
+        "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -320,20 +502,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7052,
+        "recency": 0.6356,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T14:11:53Z",
       "latest_at": "2026-06-12T14:11:53Z",
@@ -399,14 +580,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5511,
+        "recency": 0.4815,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -478,14 +659,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5302,
+        "recency": 0.4607,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -504,303 +685,67 @@
       }
     },
     {
-      "story_id": "story_7448e1f4e364",
-      "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
-      "url": "https://www.aibase.com/news/28888",
-      "primary_url": "https://www.aibase.com/news/28888",
+      "story_id": "story_5392f93a7f2e",
+      "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
+      "url": "https://www.aibase.com/news/28868",
+      "primary_url": "https://www.aibase.com/news/28868",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
-          "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
-          "url": "https://www.aibase.com/news/28888",
+          "id": "022da61af0454fbb7730a68011863183049b3c7f",
+          "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
+          "url": "https://www.aibase.com/news/28868",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
-          "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
-          "url": "https://www.aibase.com/news/28888",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5726,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T11:00:59.299873Z",
-      "latest_at": "2026-06-12T11:00:59.299873Z",
-      "primary_item": {
-        "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
-        "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
-        "url": "https://www.aibase.com/news/28888",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_be2fde6aec8a",
-      "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
-      "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
-          "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
-          "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-12T10:16:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
-          "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
-          "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-12T10:16:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5414,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T10:16:02Z",
-      "latest_at": "2026-06-12T10:16:02Z",
-      "primary_item": {
-        "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
-        "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
-        "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a42e5937dbff",
-      "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
-      "url": "https://www.aibase.com/news/28892",
-      "primary_url": "https://www.aibase.com/news/28892",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
-          "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
-          "url": "https://www.aibase.com/news/28892",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
-          "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
-          "url": "https://www.aibase.com/news/28892",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5726,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T11:00:59.299873Z",
-      "latest_at": "2026-06-12T11:00:59.299873Z",
-      "primary_item": {
-        "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
-        "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
-        "url": "https://www.aibase.com/news/28892",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ae337f6f1aa3",
-      "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
-      "url": "https://www.aibase.com/news/28890",
-      "primary_url": "https://www.aibase.com/news/28890",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
-          "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
-          "url": "https://www.aibase.com/news/28890",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
-          "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
-          "url": "https://www.aibase.com/news/28890",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5726,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T11:00:59.299873Z",
-      "latest_at": "2026-06-12T11:00:59.299873Z",
-      "primary_item": {
-        "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
-        "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
-        "url": "https://www.aibase.com/news/28890",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_397f7cdf88e0",
-      "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "primary_url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T22:23:17Z"
+          "published_at": "2026-06-12T01:56:22.834939Z"
         },
         {
-          "id": "7a0befc00623be120d658dbbea4fe5223b6ce434",
-          "title": "我们来玩个游戏吧？——在95%的模拟中，大型语言模型都会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "www.kennethpayne.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-11T22:23:17.154000Z"
+          "id": "aab55a4254d412b85de79a4288008e603cc115b4",
+          "title": "DoorDash 发布「Ask DoorDash」AI 聊天机器人，支持文本与照片跨模态下单",
+          "url": "https://www.aibase.com/zh/news/28868",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.kennethpayne.uk"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T22:23:17Z"
+          "id": "022da61af0454fbb7730a68011863183049b3c7f",
+          "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
+          "url": "https://www.aibase.com/news/28868",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T01:56:22.834939Z"
         },
         {
-          "id": "7a0befc00623be120d658dbbea4fe5223b6ce434",
-          "title": "我们来玩个游戏吧？——在95%的模拟中，大型语言模型都会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "www.kennethpayne.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-11T22:23:17.154000Z"
+          "id": "aab55a4254d412b85de79a4288008e603cc115b4",
+          "title": "DoorDash 发布「Ask DoorDash」AI 聊天机器人，支持文本与照片跨模态下单",
+          "url": "https://www.aibase.com/zh/news/28868",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6463,
-      "importance": 0.6463,
-      "importance_score": 0.6463,
+      "score": 0.662,
+      "importance": 0.662,
+      "importance_score": 0.662,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0464,
+        "recency": 0.1249,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -808,191 +753,92 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-11T22:23:17Z",
-      "latest_at": "2026-06-11T22:23:17.154000Z",
+      "earliest_at": "2026-06-12T01:56:22.834939Z",
+      "latest_at": "2026-06-12T01:56:22.834939Z",
       "primary_item": {
-        "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
-        "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-        "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_555e228c89f6",
-      "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
-      "url": "https://www.aibase.com/news/28887",
-      "primary_url": "https://www.aibase.com/news/28887",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
-          "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
-          "url": "https://www.aibase.com/news/28887",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
-          "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
-          "url": "https://www.aibase.com/news/28887",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5726,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T11:00:59.299873Z",
-      "latest_at": "2026-06-12T11:00:59.299873Z",
-      "primary_item": {
-        "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
-        "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
-        "url": "https://www.aibase.com/news/28887",
+        "id": "022da61af0454fbb7730a68011863183049b3c7f",
+        "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
+        "url": "https://www.aibase.com/news/28868",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_baaf5ca7e6fa",
-      "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
-      "url": "https://www.aibase.com/news/28886",
-      "primary_url": "https://www.aibase.com/news/28886",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_cc5bab81a6a4",
+      "title": "ClaudeCraft 的 MMORPG 世界，采用《神鬼寓言 5》编码的氛围 / Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+      "url": "https://news.ycombinator.com/item?id=48509143",
+      "primary_url": "https://news.ycombinator.com/item?id=48509143",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
-          "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
-          "url": "https://www.aibase.com/news/28886",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
+          "id": "f88e111532559feb98176cf86985227265b2ef64",
+          "title": "ClaudeCraft 的 MMORPG 世界，采用《神鬼寓言 5》编码的氛围 / Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+          "url": "https://news.ycombinator.com/item?id=48509143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-12T22:57:04.989000Z"
+        },
+        {
+          "id": "9417bb6955a243895a0d3faa630d4be7e032a215",
+          "title": "ClaudeCraft 的 MMORPG 世界，采用《神鬼寓言 5》编码的氛围 / Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+          "url": "https://worldofclaudecraft.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-12T20:34:42Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
-          "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
-          "url": "https://www.aibase.com/news/28886",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5726,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T11:00:59.299873Z",
-      "latest_at": "2026-06-12T11:00:59.299873Z",
-      "primary_item": {
-        "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
-        "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
-        "url": "https://www.aibase.com/news/28886",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ec9ca77f4ef4",
-      "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
-      "url": "https://www.aibase.com/news/28884",
-      "primary_url": "https://www.aibase.com/news/28884",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
+          "id": "f88e111532559feb98176cf86985227265b2ef64",
+          "title": "ClaudeCraft 的 MMORPG 世界，采用《神鬼寓言 5》编码的氛围 / Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+          "url": "https://news.ycombinator.com/item?id=48509143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-12T22:57:04.989000Z"
+        },
         {
-          "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
-          "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
-          "url": "https://www.aibase.com/news/28884",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
+          "id": "9417bb6955a243895a0d3faa630d4be7e032a215",
+          "title": "ClaudeCraft 的 MMORPG 世界，采用《神鬼寓言 5》编码的氛围 / Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+          "url": "https://worldofclaudecraft.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-12T20:34:42Z"
         }
       ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
-          "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
-          "url": "https://www.aibase.com/news/28884",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5726,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-12T11:00:59.299873Z",
-      "latest_at": "2026-06-12T11:00:59.299873Z",
+      "earliest_at": "2026-06-12T20:34:42Z",
+      "latest_at": "2026-06-12T22:57:04.989000Z",
       "primary_item": {
-        "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
-        "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
-        "url": "https://www.aibase.com/news/28884",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "f88e111532559feb98176cf86985227265b2ef64",
+        "title": "ClaudeCraft 的 MMORPG 世界，采用《神鬼寓言 5》编码的氛围 / Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+        "url": "https://news.ycombinator.com/item?id=48509143",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1068,14 +914,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9375,
+        "recency": 0.8679,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1165,14 +1011,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5493,
-      "importance": 0.5493,
-      "importance_score": 0.5493,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8817,
+        "recency": 0.8121,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1187,65 +1033,6 @@
         "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
         "source": "envs.net",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0061bf37a21d",
-      "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
-      "url": "https://www.aibase.com/news/28885",
-      "primary_url": "https://www.aibase.com/news/28885",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
-          "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
-          "url": "https://www.aibase.com/news/28885",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
-          "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
-          "url": "https://www.aibase.com/news/28885",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5726,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T11:00:59.299873Z",
-      "latest_at": "2026-06-12T11:00:59.299873Z",
-      "primary_item": {
-        "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
-        "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
-        "url": "https://www.aibase.com/news/28885",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1302,14 +1089,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9469,
+        "recency": 0.8774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1380,14 +1167,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8483,
+        "recency": 0.7788,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1402,6 +1189,318 @@
         "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2c6462ab00f4",
+      "title": "解读本周这场受Anthropic启发的AI恐慌",
+      "url": "https://www.businessinsider.com/anthropic-freaked-out-ai-industry-mythos-fable-open-source-models-2026-6",
+      "primary_url": "https://www.businessinsider.com/anthropic-freaked-out-ai-industry-mythos-fable-open-source-models-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8ac7931bf74c7565c5f96bd4f67c613633290ef7",
+          "title": "解读本周这场受Anthropic启发的AI恐慌",
+          "url": "https://www.businessinsider.com/anthropic-freaked-out-ai-industry-mythos-fable-open-source-models-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T17:22:10.593000Z"
+        },
+        {
+          "id": "85df97026d0ad40dc5f0b530b66d856ca41116e9",
+          "title": "解读本周这场受Anthropic启发的AI恐慌 / This week's Anthropic-inspired AI freakout, explained",
+          "url": "https://www.businessinsider.com/anthropic-freaked-out-ai-industry-mythos-fable-open-source-models-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-12T17:02:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "8ac7931bf74c7565c5f96bd4f67c613633290ef7",
+          "title": "解读本周这场受Anthropic启发的AI恐慌",
+          "url": "https://www.businessinsider.com/anthropic-freaked-out-ai-industry-mythos-fable-open-source-models-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T17:22:10.593000Z"
+        },
+        {
+          "id": "85df97026d0ad40dc5f0b530b66d856ca41116e9",
+          "title": "解读本周这场受Anthropic启发的AI恐慌 / This week's Anthropic-inspired AI freakout, explained",
+          "url": "https://www.businessinsider.com/anthropic-freaked-out-ai-industry-mythos-fable-open-source-models-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-12T17:02:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7678,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-12T17:02:48Z",
+      "latest_at": "2026-06-12T17:22:10.593000Z",
+      "primary_item": {
+        "id": "8ac7931bf74c7565c5f96bd4f67c613633290ef7",
+        "title": "解读本周这场受Anthropic启发的AI恐慌",
+        "url": "https://www.businessinsider.com/anthropic-freaked-out-ai-industry-mythos-fable-open-source-models-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_af3f77c5ca79",
+      "title": "氪星晚报｜SpaceX 确定发行价，募资 750 亿美元创史上最大 IPO；OpenAI CEO 奥特曼推迟访韩计划；中央网信办举报中心开设「涉 AI 应用乱象举报专区」",
+      "url": "https://36kr.com/p/3849942472512769?f=rss",
+      "primary_url": "https://36kr.com/p/3849942472512769?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "005b8c83d0ef20505f0686e5fbe42344d3634d6a",
+          "title": "氪星晚报｜SpaceX 确定发行价，募资 750 亿美元创史上最大 IPO；OpenAI CEO 奥特曼推迟访韩计划；中央网信办举报中心开设「涉 AI 应用乱象举报专区」",
+          "url": "https://36kr.com/p/3849942472512769?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "aab3c747dd58f3092b3be5b9348594d2a4b5c403",
+          "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
+          "url": "https://36kr.com/p/3849942472512769?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-12T13:15:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "005b8c83d0ef20505f0686e5fbe42344d3634d6a",
+          "title": "氪星晚报｜SpaceX 确定发行价，募资 750 亿美元创史上最大 IPO；OpenAI CEO 奥特曼推迟访韩计划；中央网信办举报中心开设「涉 AI 应用乱象举报专区」",
+          "url": "https://36kr.com/p/3849942472512769?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "aab3c747dd58f3092b3be5b9348594d2a4b5c403",
+          "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
+          "url": "https://36kr.com/p/3849942472512769?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-12T13:15:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4762,
+      "importance": 0.4762,
+      "importance_score": 0.4762,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6408,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-12T13:15:02Z",
+      "latest_at": "2026-06-12T14:19:21.974200Z",
+      "primary_item": {
+        "id": "005b8c83d0ef20505f0686e5fbe42344d3634d6a",
+        "title": "氪星晚报｜SpaceX 确定发行价，募资 750 亿美元创史上最大 IPO；OpenAI CEO 奥特曼推迟访韩计划；中央网信办举报中心开设「涉 AI 应用乱象举报专区」",
+        "url": "https://36kr.com/p/3849942472512769?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1f49f4d42dcf",
+      "title": "谷歌起诉一个利用Gemini自动化实施诈骗的中国网络犯罪团伙",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams",
+      "primary_url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "41f12ecb271370a204026c02de97c9d020f33a68",
+          "title": "谷歌起诉一个利用Gemini自动化实施诈骗的中国网络犯罪团伙",
+          "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T17:38:02.185000Z"
+        },
+        {
+          "id": "cde782e46f0308c7207beddc0b4e15e753b2b90c",
+          "title": "谷歌起诉一个利用Gemini自动化实施诈骗的中国网络犯罪团伙 / Google sues Chinese cybercrime network that used Gemini to automate scams",
+          "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-12T16:34:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "41f12ecb271370a204026c02de97c9d020f33a68",
+          "title": "谷歌起诉一个利用Gemini自动化实施诈骗的中国网络犯罪团伙",
+          "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T17:38:02.185000Z"
+        },
+        {
+          "id": "cde782e46f0308c7207beddc0b4e15e753b2b90c",
+          "title": "谷歌起诉一个利用Gemini自动化实施诈骗的中国网络犯罪团伙 / Google sues Chinese cybercrime network that used Gemini to automate scams",
+          "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-12T16:34:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7788,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-12T16:34:36Z",
+      "latest_at": "2026-06-12T17:38:02.185000Z",
+      "primary_item": {
+        "id": "41f12ecb271370a204026c02de97c9d020f33a68",
+        "title": "谷歌起诉一个利用Gemini自动化实施诈骗的中国网络犯罪团伙",
+        "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f5b08b34e6a9",
+      "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
+      "url": "https://news.ycombinator.com/item?id=48506575",
+      "primary_url": "https://news.ycombinator.com/item?id=48506575",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "57eb880a84e55e54eb975cf011e1b8e57d6bea02",
+          "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
+          "url": "https://news.ycombinator.com/item?id=48506575",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-12T17:22:16.157000Z"
+        },
+        {
+          "id": "925a92feafbee82eb32fae7ed1f3426fbac195d5",
+          "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
+          "url": "https://apply.gauntletai.com/register/champions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-12T17:00:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "57eb880a84e55e54eb975cf011e1b8e57d6bea02",
+          "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
+          "url": "https://news.ycombinator.com/item?id=48506575",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-12T17:22:16.157000Z"
+        },
+        {
+          "id": "925a92feafbee82eb32fae7ed1f3426fbac195d5",
+          "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
+          "url": "https://apply.gauntletai.com/register/champions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-12T17:00:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7678,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-12T17:00:40Z",
+      "latest_at": "2026-06-12T17:22:16.157000Z",
+      "primary_item": {
+        "id": "57eb880a84e55e54eb975cf011e1b8e57d6bea02",
+        "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
+        "url": "https://news.ycombinator.com/item?id=48506575",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
