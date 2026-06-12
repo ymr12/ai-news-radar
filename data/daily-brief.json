@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T01:56:22.834939Z",
+  "generated_at": "2026-06-12T06:45:26.869652Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -113,14 +113,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8824,
-      "importance": 0.8824,
-      "importance_score": 0.8824,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.852,
+        "recency": 0.6513,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -140,81 +140,61 @@
       }
     },
     {
-      "story_id": "story_34c2425ad136",
-      "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
-      "url": "https://www.aibase.com/news/28868",
-      "primary_url": "https://www.aibase.com/news/28868",
+      "story_id": "story_68870284b65b",
+      "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
+      "url": "https://www.aibase.com/news/28874",
+      "primary_url": "https://www.aibase.com/news/28874",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "022da61af0454fbb7730a68011863183049b3c7f",
-          "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
-          "url": "https://www.aibase.com/news/28868",
+          "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
+          "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
+          "url": "https://www.aibase.com/news/28874",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T01:56:22.834939Z"
-        },
-        {
-          "id": "aab55a4254d412b85de79a4288008e603cc115b4",
-          "title": "DoorDash 发布「Ask DoorDash」AI 聊天机器人，支持文本与照片跨模态下单",
-          "url": "https://www.aibase.com/zh/news/28868",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-06-12T06:45:26.869652Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "022da61af0454fbb7730a68011863183049b3c7f",
-          "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
-          "url": "https://www.aibase.com/news/28868",
+          "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
+          "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
+          "url": "https://www.aibase.com/news/28874",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T01:56:22.834939Z"
-        },
-        {
-          "id": "aab55a4254d412b85de79a4288008e603cc115b4",
-          "title": "DoorDash 发布「Ask DoorDash」AI 聊天机器人，支持文本与照片跨模态下单",
-          "url": "https://www.aibase.com/zh/news/28868",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-06-12T06:45:26.869652Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-12T01:56:22.834939Z",
-      "latest_at": "2026-06-12T01:56:22.834939Z",
+      "earliest_at": "2026-06-12T06:45:26.869652Z",
+      "latest_at": "2026-06-12T06:45:26.869652Z",
       "primary_item": {
-        "id": "022da61af0454fbb7730a68011863183049b3c7f",
-        "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
-        "url": "https://www.aibase.com/news/28868",
+        "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
+        "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
+        "url": "https://www.aibase.com/news/28874",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -254,14 +234,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8684,
+        "recency": 0.6677,
         "story_heat": 0.0
       },
       "category": "official",
@@ -278,6 +258,246 @@
         "url": "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1952e9089061",
+      "title": "小互开源公众号自动排版技能组合",
+      "url": "https://x.com/xiaohu/status/2065278092441268246",
+      "primary_url": "https://x.com/xiaohu/status/2065278092441268246",
+      "source": "X：小互 (@xiaohu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "235a3adcac431160aa296531f6de13e41ec35363",
+          "title": "小互开源公众号自动排版技能组合",
+          "url": "https://x.com/xiaohu/status/2065278092441268246",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T03:40:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小互 (@xiaohu)"
+      ],
+      "items": [
+        {
+          "id": "235a3adcac431160aa296531f6de13e41ec35363",
+          "title": "小互开源公众号自动排版技能组合",
+          "url": "https://x.com/xiaohu/status/2065278092441268246",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T03:40:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8717,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T03:40:42Z",
+      "latest_at": "2026-06-12T03:40:42Z",
+      "primary_item": {
+        "id": "235a3adcac431160aa296531f6de13e41ec35363",
+        "title": "小互开源公众号自动排版技能组合",
+        "url": "https://x.com/xiaohu/status/2065278092441268246",
+        "source": "X：小互 (@xiaohu)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2826833d7ea6",
+      "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
+      "url": "https://www.aibase.com/news/28882",
+      "primary_url": "https://www.aibase.com/news/28882",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
+          "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
+          "url": "https://www.aibase.com/news/28882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T06:45:26.869652Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
+          "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
+          "url": "https://www.aibase.com/news/28882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T06:45:26.869652Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T06:45:26.869652Z",
+      "latest_at": "2026-06-12T06:45:26.869652Z",
+      "primary_item": {
+        "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
+        "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
+        "url": "https://www.aibase.com/news/28882",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_11b9909bbd0d",
+      "title": "qiaomu-ai-prd：面向AI的PRD生成Prompt",
+      "url": "https://x.com/vista8/status/2065264509170876417",
+      "primary_url": "https://x.com/vista8/status/2065264509170876417",
+      "source": "X：Vista (@vista8)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2bce480adbe6988991a8b48abf78e19075566c3f",
+          "title": "qiaomu-ai-prd：面向AI的PRD生成Prompt",
+          "url": "https://x.com/vista8/status/2065264509170876417",
+          "source": "X：Vista (@vista8)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T02:46:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Vista (@vista8)"
+      ],
+      "items": [
+        {
+          "id": "2bce480adbe6988991a8b48abf78e19075566c3f",
+          "title": "qiaomu-ai-prd：面向AI的PRD生成Prompt",
+          "url": "https://x.com/vista8/status/2065264509170876417",
+          "source": "X：Vista (@vista8)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T02:46:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8342,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T02:46:44Z",
+      "latest_at": "2026-06-12T02:46:44Z",
+      "primary_item": {
+        "id": "2bce480adbe6988991a8b48abf78e19075566c3f",
+        "title": "qiaomu-ai-prd：面向AI的PRD生成Prompt",
+        "url": "https://x.com/vista8/status/2065264509170876417",
+        "source": "X：Vista (@vista8)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_afc726edf83e",
+      "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
+      "url": "https://www.ithome.com/0/963/302.htm",
+      "primary_url": "https://www.ithome.com/0/963/302.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "63ce652d5156213643f24488c883fd19d582303e",
+          "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
+          "url": "https://www.ithome.com/0/963/302.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T02:06:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "63ce652d5156213643f24488c883fd19d582303e",
+          "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
+          "url": "https://www.ithome.com/0/963/302.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T02:06:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8064,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T02:06:41Z",
+      "latest_at": "2026-06-12T02:06:41Z",
+      "primary_item": {
+        "id": "63ce652d5156213643f24488c883fd19d582303e",
+        "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
+        "url": "https://www.ithome.com/0/963/302.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -315,14 +535,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9511,
+        "recency": 0.7504,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -375,14 +595,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9297,
+        "recency": 0.7289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -435,14 +655,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7974,
-      "importance": 0.7974,
-      "importance_score": 0.7974,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
+        "recency": 0.7262,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -461,21 +681,21 @@
       }
     },
     {
-      "story_id": "story_2ed541c2ea28",
-      "title": "AI代你买单？Visa联手OpenAI，彻底重塑购物体验",
-      "url": "https://www.aibase.com/news/28865",
-      "primary_url": "https://www.aibase.com/news/28865",
+      "story_id": "story_579d2f74bb4e",
+      "title": "​全球芯片产能紧张 谷歌计划联合三星代工新一代AI芯片",
+      "url": "https://www.aibase.com/news/28875",
+      "primary_url": "https://www.aibase.com/news/28875",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7ff8fa0b2c4a5e45c47d88bf7e809ac7b76edce7",
-          "title": "AI代你买单？Visa联手OpenAI，彻底重塑购物体验",
-          "url": "https://www.aibase.com/news/28865",
+          "id": "9981309828f329207eb5818642554bf071bf4323",
+          "title": "​全球芯片产能紧张 谷歌计划联合三星代工新一代AI芯片",
+          "url": "https://www.aibase.com/news/28875",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T01:56:22.834939Z"
+          "published_at": "2026-06-12T06:45:26.869652Z"
         }
       ],
       "source_count": 1,
@@ -484,13 +704,13 @@
       ],
       "items": [
         {
-          "id": "7ff8fa0b2c4a5e45c47d88bf7e809ac7b76edce7",
-          "title": "AI代你买单？Visa联手OpenAI，彻底重塑购物体验",
-          "url": "https://www.aibase.com/news/28865",
+          "id": "9981309828f329207eb5818642554bf071bf4323",
+          "title": "​全球芯片产能紧张 谷歌计划联合三星代工新一代AI芯片",
+          "url": "https://www.aibase.com/news/28875",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T01:56:22.834939Z"
+          "published_at": "2026-06-12T06:45:26.869652Z"
         }
       ],
       "item_count": 1,
@@ -510,12 +730,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-12T01:56:22.834939Z",
-      "latest_at": "2026-06-12T01:56:22.834939Z",
+      "earliest_at": "2026-06-12T06:45:26.869652Z",
+      "latest_at": "2026-06-12T06:45:26.869652Z",
       "primary_item": {
-        "id": "7ff8fa0b2c4a5e45c47d88bf7e809ac7b76edce7",
-        "title": "AI代你买单？Visa联手OpenAI，彻底重塑购物体验",
-        "url": "https://www.aibase.com/news/28865",
+        "id": "9981309828f329207eb5818642554bf071bf4323",
+        "title": "​全球芯片产能紧张 谷歌计划联合三星代工新一代AI芯片",
+        "url": "https://www.aibase.com/news/28875",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -555,20 +775,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.836,
+        "recency": 0.6352,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T22:00:10Z",
       "latest_at": "2026-06-11T22:00:10Z",
@@ -615,21 +834,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5858,
+        "recency": 0.3851,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T16:00:00Z",
       "latest_at": "2026-06-11T16:00:00Z",
@@ -676,20 +894,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8142,
+        "recency": 0.6135,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T21:28:54Z",
       "latest_at": "2026-06-11T21:28:54Z",
@@ -736,14 +953,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7115,
+        "recency": 0.5108,
         "story_heat": 0.0
       },
       "category": "official",
@@ -763,21 +980,21 @@
       }
     },
     {
-      "story_id": "story_c3fd9aa332d9",
-      "title": "Anthropic布局美国数据中心 拟寻求谷歌母公司资金支持",
-      "url": "https://www.aibase.com/news/28870",
-      "primary_url": "https://www.aibase.com/news/28870",
+      "story_id": "story_cc109d503548",
+      "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
+      "url": "https://www.aibase.com/news/28883",
+      "primary_url": "https://www.aibase.com/news/28883",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1b059f973ec5113a54687babce306a3f5ee882f3",
-          "title": "Anthropic布局美国数据中心 拟寻求谷歌母公司资金支持",
-          "url": "https://www.aibase.com/news/28870",
+          "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
+          "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
+          "url": "https://www.aibase.com/news/28883",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T01:56:22.834939Z"
+          "published_at": "2026-06-12T06:45:26.869652Z"
         }
       ],
       "source_count": 1,
@@ -786,13 +1003,13 @@
       ],
       "items": [
         {
-          "id": "1b059f973ec5113a54687babce306a3f5ee882f3",
-          "title": "Anthropic布局美国数据中心 拟寻求谷歌母公司资金支持",
-          "url": "https://www.aibase.com/news/28870",
+          "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
+          "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
+          "url": "https://www.aibase.com/news/28883",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T01:56:22.834939Z"
+          "published_at": "2026-06-12T06:45:26.869652Z"
         }
       ],
       "item_count": 1,
@@ -812,73 +1029,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-12T01:56:22.834939Z",
-      "latest_at": "2026-06-12T01:56:22.834939Z",
+      "earliest_at": "2026-06-12T06:45:26.869652Z",
+      "latest_at": "2026-06-12T06:45:26.869652Z",
       "primary_item": {
-        "id": "1b059f973ec5113a54687babce306a3f5ee882f3",
-        "title": "Anthropic布局美国数据中心 拟寻求谷歌母公司资金支持",
-        "url": "https://www.aibase.com/news/28870",
+        "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
+        "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
+        "url": "https://www.aibase.com/news/28883",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_27ec170172da",
-      "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
-      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "primary_url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "857c5083b2fdbe30aeadada010bd5a494a3ebb31",
-          "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
-          "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T18:13:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "857c5083b2fdbe30aeadada010bd5a494a3ebb31",
-          "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
-          "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T18:13:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6784,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T18:13:16Z",
-      "latest_at": "2026-06-11T18:13:16Z",
-      "primary_item": {
-        "id": "857c5083b2fdbe30aeadada010bd5a494a3ebb31",
-        "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
-        "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -916,20 +1074,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.628,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T21:49:43Z",
       "latest_at": "2026-06-11T21:49:43Z",
@@ -938,65 +1095,6 @@
         "title": "Replit 与 Databricks 集成升级，公开预览开放",
         "url": "https://x.com/Replit/status/2065189762365813089",
         "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_686c53d337c6",
-      "title": "Perplexity Computer 集成 Deep Research",
-      "url": "https://x.com/perplexity_ai/status/2065124930463916317",
-      "primary_url": "https://x.com/perplexity_ai/status/2065124930463916317",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f550ebcdc9848ab5f2575d89f719fc5e12074ae2",
-          "title": "Perplexity Computer 集成 Deep Research",
-          "url": "https://x.com/perplexity_ai/status/2065124930463916317",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T17:32:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Perplexity (@perplexity_ai)"
-      ],
-      "items": [
-        {
-          "id": "f550ebcdc9848ab5f2575d89f719fc5e12074ae2",
-          "title": "Perplexity Computer 集成 Deep Research",
-          "url": "https://x.com/perplexity_ai/status/2065124930463916317",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T17:32:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6498,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T17:32:06Z",
-      "latest_at": "2026-06-11T17:32:06Z",
-      "primary_item": {
-        "id": "f550ebcdc9848ab5f2575d89f719fc5e12074ae2",
-        "title": "Perplexity Computer 集成 Deep Research",
-        "url": "https://x.com/perplexity_ai/status/2065124930463916317",
-        "source": "X：Perplexity (@perplexity_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -1035,14 +1133,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.688,
+        "recency": 0.4872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1062,166 +1160,48 @@
       }
     },
     {
-      "story_id": "story_449f08f51e92",
-      "title": "Gemini Omni Flash 视频任务达 SOTA",
-      "url": "https://x.com/OfficialLoganK/status/2065118111360303414",
-      "primary_url": "https://x.com/OfficialLoganK/status/2065118111360303414",
-      "source": "X：Logan Kilpatrick (@OfficialLoganK)",
-      "source_name": "AI HOT",
+      "story_id": "story_2111d398c1a1",
+      "title": "总规模17.5亿元！IDC首发中国智能体开发平台市场份额报告",
+      "url": "https://www.aibase.com/news/28881",
+      "primary_url": "https://www.aibase.com/news/28881",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "1d9aef927abaf6233ce992842a20f01bd45eb35d",
-          "title": "Gemini Omni Flash 视频任务达 SOTA",
-          "url": "https://x.com/OfficialLoganK/status/2065118111360303414",
-          "source": "X：Logan Kilpatrick (@OfficialLoganK)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T17:05:00Z"
+          "id": "7e91af0fdd3f66bc3ae48ff8ad1d8a661a6b9e69",
+          "title": "总规模17.5亿元！IDC首发中国智能体开发平台市场份额报告",
+          "url": "https://www.aibase.com/news/28881",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T06:45:26.869652Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Logan Kilpatrick (@OfficialLoganK)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "1d9aef927abaf6233ce992842a20f01bd45eb35d",
-          "title": "Gemini Omni Flash 视频任务达 SOTA",
-          "url": "https://x.com/OfficialLoganK/status/2065118111360303414",
-          "source": "X：Logan Kilpatrick (@OfficialLoganK)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T17:05:00Z"
+          "id": "7e91af0fdd3f66bc3ae48ff8ad1d8a661a6b9e69",
+          "title": "总规模17.5亿元！IDC首发中国智能体开发平台市场份额报告",
+          "url": "https://www.aibase.com/news/28881",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T06:45:26.869652Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.631,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T17:05:00Z",
-      "latest_at": "2026-06-11T17:05:00Z",
-      "primary_item": {
-        "id": "1d9aef927abaf6233ce992842a20f01bd45eb35d",
-        "title": "Gemini Omni Flash 视频任务达 SOTA",
-        "url": "https://x.com/OfficialLoganK/status/2065118111360303414",
-        "source": "X：Logan Kilpatrick (@OfficialLoganK)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8785dfa62de5",
-      "title": "什么是 LLM 网关？应用与 AI 模型之间缺失的一层",
-      "url": "https://openrouter.ai/blog/insights/llm-gateway",
-      "primary_url": "https://openrouter.ai/blog/insights/llm-gateway",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "714cc7982049458f821eb3d5ef8317260a7127c9",
-          "title": "什么是 LLM 网关？应用与 AI 模型之间缺失的一层",
-          "url": "https://openrouter.ai/blog/insights/llm-gateway",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "714cc7982049458f821eb3d5ef8317260a7127c9",
-          "title": "什么是 LLM 网关？应用与 AI 模型之间缺失的一层",
-          "url": "https://openrouter.ai/blog/insights/llm-gateway",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5858,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T16:00:00Z",
-      "latest_at": "2026-06-11T16:00:00Z",
-      "primary_item": {
-        "id": "714cc7982049458f821eb3d5ef8317260a7127c9",
-        "title": "什么是 LLM 网关？应用与 AI 模型之间缺失的一层",
-        "url": "https://openrouter.ai/blog/insights/llm-gateway",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f31cbcdb3513",
-      "title": "全自主无人机首次击毙了人类士兵",
-      "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time",
-      "primary_url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1e603a0ac0727975c07d22f45ed22d09f91da484",
-          "title": "全自主无人机首次击毙了人类士兵",
-          "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T19:29:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "1e603a0ac0727975c07d22f45ed22d09f91da484",
-          "title": "全自主无人机首次击毙了人类士兵",
-          "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T19:29:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7311,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1229,73 +1209,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-11T19:29:06Z",
-      "latest_at": "2026-06-11T19:29:06Z",
+      "earliest_at": "2026-06-12T06:45:26.869652Z",
+      "latest_at": "2026-06-12T06:45:26.869652Z",
       "primary_item": {
-        "id": "1e603a0ac0727975c07d22f45ed22d09f91da484",
-        "title": "全自主无人机首次击毙了人类士兵",
-        "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "7e91af0fdd3f66bc3ae48ff8ad1d8a661a6b9e69",
+        "title": "总规模17.5亿元！IDC首发中国智能体开发平台市场份额报告",
+        "url": "https://www.aibase.com/news/28881",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_94f9d69ecc2b",
-      "title": "xAI Grok Build插件市场进入Beta测试",
-      "url": "https://x.com/xai/status/2065099299541893577",
-      "primary_url": "https://x.com/xai/status/2065099299541893577",
-      "source": "X：xAI (@xai)",
-      "source_name": "AI HOT",
+      "story_id": "story_fae97ecdc455",
+      "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
+      "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
+      "primary_url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e4f07928e11b9b4db4fc997addcfb6ec80982331",
-          "title": "xAI Grok Build插件市场进入Beta测试",
-          "url": "https://x.com/xai/status/2065099299541893577",
-          "source": "X：xAI (@xai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:50:15Z"
+          "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
+          "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
+          "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-11T16:44:55Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：xAI (@xai)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "e4f07928e11b9b4db4fc997addcfb6ec80982331",
-          "title": "xAI Grok Build插件市场进入Beta测试",
-          "url": "https://x.com/xai/status/2065099299541893577",
-          "source": "X：xAI (@xai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:50:15Z"
+          "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
+          "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
+          "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-11T16:44:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
-      "importance_label": "行业动态",
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5791,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.4163,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-11T15:50:15Z",
-      "latest_at": "2026-06-11T15:50:15Z",
+      "earliest_at": "2026-06-11T16:44:55Z",
+      "latest_at": "2026-06-11T16:44:55Z",
       "primary_item": {
-        "id": "e4f07928e11b9b4db4fc997addcfb6ec80982331",
-        "title": "xAI Grok Build插件市场进入Beta测试",
-        "url": "https://x.com/xai/status/2065099299541893577",
-        "source": "X：xAI (@xai)",
-        "source_name": "AI HOT"
+        "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
+        "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
+        "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
