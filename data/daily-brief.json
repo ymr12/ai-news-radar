@@ -1,8 +1,268 @@
 {
-  "generated_at": "2026-06-12T06:45:26.869652Z",
+  "generated_at": "2026-06-12T11:00:59.299873Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_fa5471338ad3",
+      "title": "中美AI计算之战：中国豪掷2950亿美元，美国数据中心建设加速",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-12/china-s-ai-infrastructure-plan-295-billion-project-to-challenge-us",
+      "primary_url": "https://www.bloomberg.com/news/newsletters/2026-06-12/china-s-ai-infrastructure-plan-295-billion-project-to-challenge-us",
+      "source": "Bloomberg：Technology（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49f514cdd8720abac3b234b40973abfa6d57c5bb",
+          "title": "中美AI计算之战：中国豪掷2950亿美元，美国数据中心建设加速",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-06-12/china-s-ai-infrastructure-plan-295-billion-project-to-challenge-us",
+          "source": "Bloomberg：Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T10:30:01Z"
+        },
+        {
+          "id": "f55d2da698b6d11d3eba38e4c7548688cf1cac58",
+          "title": "中美人工智能领域的下一场较量将围绕算力展开——而中国正大举投入",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-06-12/china-s-ai-infrastructure-plan-295-billion-project-to-challenge-us",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T10:47:24.683000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Bloomberg：Technology（RSS）",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "49f514cdd8720abac3b234b40973abfa6d57c5bb",
+          "title": "中美AI计算之战：中国豪掷2950亿美元，美国数据中心建设加速",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-06-12/china-s-ai-infrastructure-plan-295-billion-project-to-challenge-us",
+          "source": "Bloomberg：Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T10:30:01Z"
+        },
+        {
+          "id": "f55d2da698b6d11d3eba38e4c7548688cf1cac58",
+          "title": "中美人工智能领域的下一场较量将围绕算力展开——而中国正大举投入",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-06-12/china-s-ai-infrastructure-plan-295-billion-project-to-challenge-us",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T10:47:24.683000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9785,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:30:01Z",
+      "latest_at": "2026-06-12T10:47:24.683000Z",
+      "primary_item": {
+        "id": "49f514cdd8720abac3b234b40973abfa6d57c5bb",
+        "title": "中美AI计算之战：中国豪掷2950亿美元，美国数据中心建设加速",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-12/china-s-ai-infrastructure-plan-295-billion-project-to-challenge-us",
+        "source": "Bloomberg：Technology（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7448e1f4e364",
+      "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
+      "url": "https://www.aibase.com/news/28888",
+      "primary_url": "https://www.aibase.com/news/28888",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
+          "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
+          "url": "https://www.aibase.com/news/28888",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T11:00:59.299873Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
+          "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
+          "url": "https://www.aibase.com/news/28888",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T11:00:59.299873Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T11:00:59.299873Z",
+      "latest_at": "2026-06-12T11:00:59.299873Z",
+      "primary_item": {
+        "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
+        "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
+        "url": "https://www.aibase.com/news/28888",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_be2fde6aec8a",
+      "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
+      "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
+          "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
+          "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T10:16:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
+          "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
+          "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T10:16:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9688,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:16:02Z",
+      "latest_at": "2026-06-12T10:16:02Z",
+      "primary_item": {
+        "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
+        "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
+        "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a42e5937dbff",
+      "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
+      "url": "https://www.aibase.com/news/28892",
+      "primary_url": "https://www.aibase.com/news/28892",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
+          "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
+          "url": "https://www.aibase.com/news/28892",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T11:00:59.299873Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
+          "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
+          "url": "https://www.aibase.com/news/28892",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T11:00:59.299873Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T11:00:59.299873Z",
+      "latest_at": "2026-06-12T11:00:59.299873Z",
+      "primary_item": {
+        "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
+        "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
+        "url": "https://www.aibase.com/news/28892",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_397f7cdf88e0",
       "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
@@ -30,15 +290,6 @@
           "published_at": "2026-06-11T22:23:17.154000Z"
         },
         {
-          "id": "c06f4c1a150c2fcf9b60a83be1d91cf7cf915bfc",
-          "title": "我们玩个游戏吧？ – 法学硕士在 95% 的模拟中使用战术核武器 / Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-          "url": "https://news.ycombinator.com/item?id=48495575",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-11T21:10:07.936000Z"
-        },
-        {
           "id": "a1e03371b6e48457831c4d57ca178ed9e7344d62",
           "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? My AI nuclear simulation",
           "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
@@ -57,11 +308,10 @@
           "published_at": "2026-06-11T19:54:54Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
         "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
         "www.kennethpayne.uk"
       ],
       "items": [
@@ -84,15 +334,6 @@
           "published_at": "2026-06-11T22:23:17.154000Z"
         },
         {
-          "id": "c06f4c1a150c2fcf9b60a83be1d91cf7cf915bfc",
-          "title": "我们玩个游戏吧？ – 法学硕士在 95% 的模拟中使用战术核武器 / Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-          "url": "https://news.ycombinator.com/item?id=48495575",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-11T21:10:07.936000Z"
-        },
-        {
           "id": "a1e03371b6e48457831c4d57ca178ed9e7344d62",
           "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? My AI nuclear simulation",
           "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
@@ -111,17 +352,17 @@
           "published_at": "2026-06-11T19:54:54Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6513,
-        "story_heat": 1.0
+        "recency": 0.4738,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -140,63 +381,64 @@
       }
     },
     {
-      "story_id": "story_68870284b65b",
-      "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
-      "url": "https://www.aibase.com/news/28874",
-      "primary_url": "https://www.aibase.com/news/28874",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_dcc2fd07a9e8",
+      "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "primary_url": "https://openai.com/index/preply",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
-          "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
-          "url": "https://www.aibase.com/news/28874",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:45:26.869652Z"
+          "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
+          "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
+          "url": "https://openai.com/index/preply",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
-          "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
-          "url": "https://www.aibase.com/news/28874",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:45:26.869652Z"
+          "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
+          "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
+          "url": "https://openai.com/index/preply",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.541,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-12T06:45:26.869652Z",
-      "latest_at": "2026-06-12T06:45:26.869652Z",
+      "earliest_at": "2026-06-12T00:00:00Z",
+      "latest_at": "2026-06-12T00:00:00Z",
       "primary_item": {
-        "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
-        "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
-        "url": "https://www.aibase.com/news/28874",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
+        "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
+        "url": "https://openai.com/index/preply",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -234,14 +476,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7945,
-      "importance": 0.7945,
-      "importance_score": 0.7945,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6677,
+        "recency": 0.4902,
         "story_heat": 0.0
       },
       "category": "official",
@@ -258,6 +500,66 @@
         "url": "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ae337f6f1aa3",
+      "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
+      "url": "https://www.aibase.com/news/28890",
+      "primary_url": "https://www.aibase.com/news/28890",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
+          "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
+          "url": "https://www.aibase.com/news/28890",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T11:00:59.299873Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
+          "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
+          "url": "https://www.aibase.com/news/28890",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T11:00:59.299873Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T11:00:59.299873Z",
+      "latest_at": "2026-06-12T11:00:59.299873Z",
+      "primary_item": {
+        "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
+        "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
+        "url": "https://www.aibase.com/news/28890",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -295,14 +597,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8717,
+        "recency": 0.6942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -318,66 +620,6 @@
         "url": "https://x.com/xiaohu/status/2065278092441268246",
         "source": "X：小互 (@xiaohu)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2826833d7ea6",
-      "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
-      "url": "https://www.aibase.com/news/28882",
-      "primary_url": "https://www.aibase.com/news/28882",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
-          "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
-          "url": "https://www.aibase.com/news/28882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:45:26.869652Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
-          "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
-          "url": "https://www.aibase.com/news/28882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:45:26.869652Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T06:45:26.869652Z",
-      "latest_at": "2026-06-12T06:45:26.869652Z",
-      "primary_item": {
-        "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
-        "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
-        "url": "https://www.aibase.com/news/28882",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -415,20 +657,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8342,
+        "recency": 0.6568,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T02:46:44Z",
       "latest_at": "2026-06-12T02:46:44Z",
@@ -475,20 +716,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8064,
+        "recency": 0.629,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T02:06:41Z",
       "latest_at": "2026-06-12T02:06:41Z",
@@ -535,20 +775,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7504,
+        "recency": 0.5729,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T00:46:02Z",
       "latest_at": "2026-06-12T00:46:02Z",
@@ -595,20 +834,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7289,
+        "recency": 0.5515,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T00:15:07Z",
       "latest_at": "2026-06-12T00:15:07Z",
@@ -618,6 +856,66 @@
         "url": "https://x.com/OpenAIDevs/status/2065226355495895521",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_555e228c89f6",
+      "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
+      "url": "https://www.aibase.com/news/28887",
+      "primary_url": "https://www.aibase.com/news/28887",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
+          "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
+          "url": "https://www.aibase.com/news/28887",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T11:00:59.299873Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
+          "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
+          "url": "https://www.aibase.com/news/28887",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T11:00:59.299873Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T11:00:59.299873Z",
+      "latest_at": "2026-06-12T11:00:59.299873Z",
+      "primary_item": {
+        "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
+        "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
+        "url": "https://www.aibase.com/news/28887",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -655,20 +953,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7262,
+        "recency": 0.5487,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T00:11:11Z",
       "latest_at": "2026-06-12T00:11:11Z",
@@ -677,244 +974,6 @@
         "title": "OpenAI Codex 推出速率重置攒存功能",
         "url": "https://x.com/OpenAI/status/2065225362544726371",
         "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_579d2f74bb4e",
-      "title": "​全球芯片产能紧张 谷歌计划联合三星代工新一代AI芯片",
-      "url": "https://www.aibase.com/news/28875",
-      "primary_url": "https://www.aibase.com/news/28875",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9981309828f329207eb5818642554bf071bf4323",
-          "title": "​全球芯片产能紧张 谷歌计划联合三星代工新一代AI芯片",
-          "url": "https://www.aibase.com/news/28875",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:45:26.869652Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9981309828f329207eb5818642554bf071bf4323",
-          "title": "​全球芯片产能紧张 谷歌计划联合三星代工新一代AI芯片",
-          "url": "https://www.aibase.com/news/28875",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:45:26.869652Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T06:45:26.869652Z",
-      "latest_at": "2026-06-12T06:45:26.869652Z",
-      "primary_item": {
-        "id": "9981309828f329207eb5818642554bf071bf4323",
-        "title": "​全球芯片产能紧张 谷歌计划联合三星代工新一代AI芯片",
-        "url": "https://www.aibase.com/news/28875",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9b353a6b4f8b",
-      "title": "Replit 专家级提示词技巧",
-      "url": "https://x.com/Replit/status/2065192392718733327",
-      "primary_url": "https://x.com/Replit/status/2065192392718733327",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "83f1fe476104c94a8f29f971b176a8b0e48c1ba6",
-          "title": "Replit 专家级提示词技巧",
-          "url": "https://x.com/Replit/status/2065192392718733327",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T22:00:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Replit (@Replit)"
-      ],
-      "items": [
-        {
-          "id": "83f1fe476104c94a8f29f971b176a8b0e48c1ba6",
-          "title": "Replit 专家级提示词技巧",
-          "url": "https://x.com/Replit/status/2065192392718733327",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T22:00:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6352,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T22:00:10Z",
-      "latest_at": "2026-06-11T22:00:10Z",
-      "primary_item": {
-        "id": "83f1fe476104c94a8f29f971b176a8b0e48c1ba6",
-        "title": "Replit 专家级提示词技巧",
-        "url": "https://x.com/Replit/status/2065192392718733327",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0c19e76fe6dc",
-      "title": "让秘密扫描更值得信赖：大规模减少误报 / Making secret scanning more trustworthy: Reducing false positives at scale",
-      "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-      "primary_url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fae3e10b0e7277178307d91e5093c0da71fb45ab",
-          "title": "让秘密扫描更值得信赖：大规模减少误报 / Making secret scanning more trustworthy: Reducing false positives at scale",
-          "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "fae3e10b0e7277178307d91e5093c0da71fb45ab",
-          "title": "让秘密扫描更值得信赖：大规模减少误报 / Making secret scanning more trustworthy: Reducing false positives at scale",
-          "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3851,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T16:00:00Z",
-      "latest_at": "2026-06-11T16:00:00Z",
-      "primary_item": {
-        "id": "fae3e10b0e7277178307d91e5093c0da71fb45ab",
-        "title": "让秘密扫描更值得信赖：大规模减少误报 / Making secret scanning more trustworthy: Reducing false positives at scale",
-        "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2cb62a62b0d3",
-      "title": "Jeff Bezos 在 CNBC 披露 Prometheus 愿景：构建人工通用工程师，融资 120 亿美元估值 410 亿美元",
-      "url": "https://x.com/rohanpaul_ai/status/2065184524754112720",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2065184524754112720",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f6d3ff702933b2b08bbe18f079d9a21b2cbcf472",
-          "title": "Jeff Bezos 在 CNBC 披露 Prometheus 愿景：构建人工通用工程师，融资 120 亿美元估值 410 亿美元",
-          "url": "https://x.com/rohanpaul_ai/status/2065184524754112720",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T21:28:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "f6d3ff702933b2b08bbe18f079d9a21b2cbcf472",
-          "title": "Jeff Bezos 在 CNBC 披露 Prometheus 愿景：构建人工通用工程师，融资 120 亿美元估值 410 亿美元",
-          "url": "https://x.com/rohanpaul_ai/status/2065184524754112720",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T21:28:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6135,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T21:28:54Z",
-      "latest_at": "2026-06-11T21:28:54Z",
-      "primary_item": {
-        "id": "f6d3ff702933b2b08bbe18f079d9a21b2cbcf472",
-        "title": "Jeff Bezos 在 CNBC 披露 Prometheus 愿景：构建人工通用工程师，融资 120 亿美元估值 410 亿美元",
-        "url": "https://x.com/rohanpaul_ai/status/2065184524754112720",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -953,21 +1012,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5108,
+        "recency": 0.3333,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T19:00:56Z",
       "latest_at": "2026-06-11T19:00:56Z",
@@ -980,21 +1038,21 @@
       }
     },
     {
-      "story_id": "story_cc109d503548",
-      "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
-      "url": "https://www.aibase.com/news/28883",
-      "primary_url": "https://www.aibase.com/news/28883",
+      "story_id": "story_baaf5ca7e6fa",
+      "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
+      "url": "https://www.aibase.com/news/28886",
+      "primary_url": "https://www.aibase.com/news/28886",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
-          "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
-          "url": "https://www.aibase.com/news/28883",
+          "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
+          "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
+          "url": "https://www.aibase.com/news/28886",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T06:45:26.869652Z"
+          "published_at": "2026-06-12T11:00:59.299873Z"
         }
       ],
       "source_count": 1,
@@ -1003,13 +1061,13 @@
       ],
       "items": [
         {
-          "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
-          "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
-          "url": "https://www.aibase.com/news/28883",
+          "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
+          "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
+          "url": "https://www.aibase.com/news/28886",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T06:45:26.869652Z"
+          "published_at": "2026-06-12T11:00:59.299873Z"
         }
       ],
       "item_count": 1,
@@ -1029,73 +1087,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-12T06:45:26.869652Z",
-      "latest_at": "2026-06-12T06:45:26.869652Z",
+      "earliest_at": "2026-06-12T11:00:59.299873Z",
+      "latest_at": "2026-06-12T11:00:59.299873Z",
       "primary_item": {
-        "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
-        "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
-        "url": "https://www.aibase.com/news/28883",
+        "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
+        "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
+        "url": "https://www.aibase.com/news/28886",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_78751a65033a",
-      "title": "Replit 与 Databricks 集成升级，公开预览开放",
-      "url": "https://x.com/Replit/status/2065189762365813089",
-      "primary_url": "https://x.com/Replit/status/2065189762365813089",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2d20cb0ae7d08ec380c1a8d3eb4c7366e02add26",
-          "title": "Replit 与 Databricks 集成升级，公开预览开放",
-          "url": "https://x.com/Replit/status/2065189762365813089",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T21:49:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Replit (@Replit)"
-      ],
-      "items": [
-        {
-          "id": "2d20cb0ae7d08ec380c1a8d3eb4c7366e02add26",
-          "title": "Replit 与 Databricks 集成升级，公开预览开放",
-          "url": "https://x.com/Replit/status/2065189762365813089",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T21:49:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.628,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T21:49:43Z",
-      "latest_at": "2026-06-11T21:49:43Z",
-      "primary_item": {
-        "id": "2d20cb0ae7d08ec380c1a8d3eb4c7366e02add26",
-        "title": "Replit 与 Databricks 集成升级，公开预览开放",
-        "url": "https://x.com/Replit/status/2065189762365813089",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1133,21 +1132,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4872,
+        "recency": 0.3098,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T18:27:05Z",
       "latest_at": "2026-06-11T18:27:05Z",
@@ -1160,21 +1158,21 @@
       }
     },
     {
-      "story_id": "story_2111d398c1a1",
-      "title": "总规模17.5亿元！IDC首发中国智能体开发平台市场份额报告",
-      "url": "https://www.aibase.com/news/28881",
-      "primary_url": "https://www.aibase.com/news/28881",
+      "story_id": "story_ec9ca77f4ef4",
+      "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
+      "url": "https://www.aibase.com/news/28884",
+      "primary_url": "https://www.aibase.com/news/28884",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7e91af0fdd3f66bc3ae48ff8ad1d8a661a6b9e69",
-          "title": "总规模17.5亿元！IDC首发中国智能体开发平台市场份额报告",
-          "url": "https://www.aibase.com/news/28881",
+          "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
+          "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
+          "url": "https://www.aibase.com/news/28884",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T06:45:26.869652Z"
+          "published_at": "2026-06-12T11:00:59.299873Z"
         }
       ],
       "source_count": 1,
@@ -1183,13 +1181,13 @@
       ],
       "items": [
         {
-          "id": "7e91af0fdd3f66bc3ae48ff8ad1d8a661a6b9e69",
-          "title": "总规模17.5亿元！IDC首发中国智能体开发平台市场份额报告",
-          "url": "https://www.aibase.com/news/28881",
+          "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
+          "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
+          "url": "https://www.aibase.com/news/28884",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-12T06:45:26.869652Z"
+          "published_at": "2026-06-12T11:00:59.299873Z"
         }
       ],
       "item_count": 1,
@@ -1209,75 +1207,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-12T06:45:26.869652Z",
-      "latest_at": "2026-06-12T06:45:26.869652Z",
+      "earliest_at": "2026-06-12T11:00:59.299873Z",
+      "latest_at": "2026-06-12T11:00:59.299873Z",
       "primary_item": {
-        "id": "7e91af0fdd3f66bc3ae48ff8ad1d8a661a6b9e69",
-        "title": "总规模17.5亿元！IDC首发中国智能体开发平台市场份额报告",
-        "url": "https://www.aibase.com/news/28881",
+        "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
+        "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
+        "url": "https://www.aibase.com/news/28884",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_fae97ecdc455",
-      "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
-      "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
-      "primary_url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_0061bf37a21d",
+      "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
+      "url": "https://www.aibase.com/news/28885",
+      "primary_url": "https://www.aibase.com/news/28885",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
-          "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
-          "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T16:44:55Z"
+          "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
+          "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
+          "url": "https://www.aibase.com/news/28885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T11:00:59.299873Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
-          "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
-          "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T16:44:55Z"
+          "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
+          "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
+          "url": "https://www.aibase.com/news/28885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T11:00:59.299873Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
-      "importance_label": "官方更新",
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4163,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-11T16:44:55Z",
-      "latest_at": "2026-06-11T16:44:55Z",
+      "earliest_at": "2026-06-12T11:00:59.299873Z",
+      "latest_at": "2026-06-12T11:00:59.299873Z",
       "primary_item": {
-        "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
-        "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
-        "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
+        "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
+        "url": "https://www.aibase.com/news/28885",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
