@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-06-14T22:40:47.414044Z",
+  "generated_at": "2026-06-15T00:09:24.119395Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_888bd1de6f40",
+      "title": "OpenAI 合作伙伴网络简介 / Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "primary_url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8b3669c4386a8b185720b7597e92c5536a1391d8",
+          "title": "OpenAI 合作伙伴网络简介 / Introducing the OpenAI Partner Network",
+          "url": "https://openai.com/index/introducing-openai-partner-network",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-14T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "8b3669c4386a8b185720b7597e92c5536a1391d8",
+          "title": "OpenAI 合作伙伴网络简介 / Introducing the OpenAI Partner Network",
+          "url": "https://openai.com/index/introducing-openai-partner-network",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-14T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7018,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-14T17:00:00Z",
+      "latest_at": "2026-06-14T17:00:00Z",
+      "primary_item": {
+        "id": "8b3669c4386a8b185720b7597e92c5536a1391d8",
+        "title": "OpenAI 合作伙伴网络简介 / Introducing the OpenAI Partner Network",
+        "url": "https://openai.com/index/introducing-openai-partner-network",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_bc26e4958a43",
       "title": "Anthropic 因出口管制派员赴华盛顿修复白宫冲突",
@@ -38,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8634,
+        "recency": 0.8019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,20 +159,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7325,
+        "recency": 0.671,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-14T16:15:35Z",
       "latest_at": "2026-06-14T16:15:35Z",
@@ -158,20 +218,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7032,
+        "recency": 0.6417,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-14T15:33:24Z",
       "latest_at": "2026-06-14T15:33:24Z",
@@ -218,14 +277,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6576,
+        "recency": 0.5961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -296,14 +355,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.673,
-      "importance": 0.673,
-      "importance_score": 0.673,
+      "score": 0.6607,
+      "importance": 0.6607,
+      "importance_score": 0.6607,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.18,
+        "recency": 0.1185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -319,6 +378,355 @@
         "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c73b029d678b",
+      "title": "Anthropic是自找的吗？",
+      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "primary_url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "source": "www.verysane.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c65e940032f34c6348dc3b03f25d02432b3ddb5d",
+          "title": "Anthropic是自找的吗？",
+          "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+          "source": "www.verysane.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T23:58:17.033000Z"
+        },
+        {
+          "id": "b4991a55ef917e07d3c427c6fe430492d01ead9d",
+          "title": "Anthropic 有要求吗？ / Did Anthropic ask for this?",
+          "url": "https://news.ycombinator.com/item?id=48533504",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T23:50:01.617000Z"
+        },
+        {
+          "id": "5323c715c6dee6bbe94525de2fbcfb56543cca2e",
+          "title": "Anthropic是自找的吗？ / Did Anthropic ask for this?",
+          "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T22:23:05Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "www.verysane.ai"
+      ],
+      "items": [
+        {
+          "id": "c65e940032f34c6348dc3b03f25d02432b3ddb5d",
+          "title": "Anthropic是自找的吗？",
+          "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+          "source": "www.verysane.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T23:58:17.033000Z"
+        },
+        {
+          "id": "b4991a55ef917e07d3c427c6fe430492d01ead9d",
+          "title": "Anthropic 有要求吗？ / Did Anthropic ask for this?",
+          "url": "https://news.ycombinator.com/item?id=48533504",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T23:50:01.617000Z"
+        },
+        {
+          "id": "5323c715c6dee6bbe94525de2fbcfb56543cca2e",
+          "title": "Anthropic是自找的吗？ / Did Anthropic ask for this?",
+          "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T22:23:05Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5715,
+      "importance": 0.5715,
+      "importance_score": 0.5715,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9923,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T22:23:05Z",
+      "latest_at": "2026-06-14T23:58:17.033000Z",
+      "primary_item": {
+        "id": "c65e940032f34c6348dc3b03f25d02432b3ddb5d",
+        "title": "Anthropic是自找的吗？",
+        "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+        "source": "www.verysane.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a55226033b99",
+      "title": "21世纪最伟大的CEO，会是一个AI吗？",
+      "url": "https://www.huxiu.com/article/4867239.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4867239.html?f=rss",
+      "source": "虎嗅 (Huxiu)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c3ee0ced71449a76aab69e41f60c5fc6454cf8f6",
+          "title": "21世纪最伟大的CEO，会是一个AI吗？",
+          "url": "https://www.huxiu.com/article/4867239.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T23:15:00Z"
+        },
+        {
+          "id": "d05469e9692e58f1e050cc49b39d4de9b2e3c577",
+          "title": "21 世纪最伟大的 CEO，会是一个 AI 吗？|| 大视野",
+          "url": "https://www.huxiu.com/article/4867239.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ec1137888661cb9b4c9d77bcd8b22b11b6228147",
+          "title": "21世纪最伟大的CEO，会是一个AI吗？|| 大视野",
+          "url": "https://www.huxiu.com/article/4867239.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T16:13:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "c3ee0ced71449a76aab69e41f60c5fc6454cf8f6",
+          "title": "21世纪最伟大的CEO，会是一个AI吗？",
+          "url": "https://www.huxiu.com/article/4867239.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T23:15:00Z"
+        },
+        {
+          "id": "d05469e9692e58f1e050cc49b39d4de9b2e3c577",
+          "title": "21 世纪最伟大的 CEO，会是一个 AI 吗？|| 大视野",
+          "url": "https://www.huxiu.com/article/4867239.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ec1137888661cb9b4c9d77bcd8b22b11b6228147",
+          "title": "21世纪最伟大的CEO，会是一个AI吗？|| 大视野",
+          "url": "https://www.huxiu.com/article/4867239.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T16:13:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5654,
+      "importance": 0.5654,
+      "importance_score": 0.5654,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9622,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T16:13:36Z",
+      "latest_at": "2026-06-14T23:15:00Z",
+      "primary_item": {
+        "id": "c3ee0ced71449a76aab69e41f60c5fc6454cf8f6",
+        "title": "21世纪最伟大的CEO，会是一个AI吗？",
+        "url": "https://www.huxiu.com/article/4867239.html?f=rss",
+        "source": "虎嗅 (Huxiu)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_306377e34aa4",
+      "title": "谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生「选择乐观」",
+      "url": "https://www.ithome.com/0/964/193.htm",
+      "primary_url": "https://www.ithome.com/0/964/193.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e60dbab5ebc82145d8537b3c3f85bbb3c018d8d7",
+          "title": "谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生「选择乐观」",
+          "url": "https://www.ithome.com/0/964/193.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d527f262c873a9000fa628e466b5426b416ff00d",
+          "title": "谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”",
+          "url": "https://www.ithome.com/0/964/193.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T23:00:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e60dbab5ebc82145d8537b3c3f85bbb3c018d8d7",
+          "title": "谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生「选择乐观」",
+          "url": "https://www.ithome.com/0/964/193.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d527f262c873a9000fa628e466b5426b416ff00d",
+          "title": "谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”",
+          "url": "https://www.ithome.com/0/964/193.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T23:00:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T23:00:27Z",
+      "latest_at": "2026-06-15T00:09:24.119395Z",
+      "primary_item": {
+        "id": "e60dbab5ebc82145d8537b3c3f85bbb3c018d8d7",
+        "title": "谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生「选择乐观」",
+        "url": "https://www.ithome.com/0/964/193.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_91301c00d4c2",
+      "title": "Jqwik 反人工智能事件 / The Jqwik Anti-AI Affair",
+      "url": "https://news.ycombinator.com/item?id=48533736",
+      "primary_url": "https://news.ycombinator.com/item?id=48533736",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "88021deb249b733b6116945c8abf0ba281ef8253",
+          "title": "Jqwik 反人工智能事件 / The Jqwik Anti-AI Affair",
+          "url": "https://news.ycombinator.com/item?id=48533736",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T23:50:01.617000Z"
+        },
+        {
+          "id": "f4854da92dafba12d9b2658332e4406cb39f065e",
+          "title": "Jqwik 反人工智能事件 / The Jqwik Anti-AI Affair",
+          "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T22:43:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "88021deb249b733b6116945c8abf0ba281ef8253",
+          "title": "Jqwik 反人工智能事件 / The Jqwik Anti-AI Affair",
+          "url": "https://news.ycombinator.com/item?id=48533736",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T23:50:01.617000Z"
+        },
+        {
+          "id": "f4854da92dafba12d9b2658332e4406cb39f065e",
+          "title": "Jqwik 反人工智能事件 / The Jqwik Anti-AI Affair",
+          "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T22:43:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9865,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T22:43:49Z",
+      "latest_at": "2026-06-14T23:50:01.617000Z",
+      "primary_item": {
+        "id": "88021deb249b733b6116945c8abf0ba281ef8253",
+        "title": "Jqwik 反人工智能事件 / The Jqwik Anti-AI Affair",
+        "url": "https://news.ycombinator.com/item?id=48533736",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -413,14 +821,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5557,
-      "importance": 0.5557,
-      "importance_score": 0.5557,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7883,
+        "recency": 0.7267,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -510,14 +918,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8869,
+        "recency": 0.8253,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -535,81 +943,81 @@
       }
     },
     {
-      "story_id": "story_ebd61a3aea6e",
-      "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
-      "url": "https://news.ycombinator.com/item?id=48533308",
-      "primary_url": "https://news.ycombinator.com/item?id=48533308",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_774f7412d1a3",
+      "title": "人工智能、神明与自我：极其有效的幻象",
+      "url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+      "primary_url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "78394ba7fcc9426839cc64da4e1493269ce28fe3",
-          "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
-          "url": "https://news.ycombinator.com/item?id=48533308",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-14T22:19:46.628000Z"
+          "id": "4e622df9439f8128eae9061178e9567b624d674c",
+          "title": "人工智能、神明与自我：极其有效的幻象",
+          "url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T22:54:00.758000Z"
         },
         {
-          "id": "e0c38fa423426b50d8bc6888c1200261589ae566",
-          "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
-          "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
-          "source": "Hacker News (黑客新闻)",
+          "id": "db115879f71127d087550327c717550e2558dc37",
+          "title": "人工智能、神明与自我：极其有效的幻象 / AI, Gods and Selves: Incredibly Effective Illusions",
+          "url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-14T22:04:01Z"
+          "published_at": "2026-06-14T22:49:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Lobsters (技术社区)",
+        "www.youtube.com"
       ],
       "items": [
         {
-          "id": "78394ba7fcc9426839cc64da4e1493269ce28fe3",
-          "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
-          "url": "https://news.ycombinator.com/item?id=48533308",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-14T22:19:46.628000Z"
+          "id": "4e622df9439f8128eae9061178e9567b624d674c",
+          "title": "人工智能、神明与自我：极其有效的幻象",
+          "url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T22:54:00.758000Z"
         },
         {
-          "id": "e0c38fa423426b50d8bc6888c1200261589ae566",
-          "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
-          "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
-          "source": "Hacker News (黑客新闻)",
+          "id": "db115879f71127d087550327c717550e2558dc37",
+          "title": "人工智能、神明与自我：极其有效的幻象 / AI, Gods and Selves: Incredibly Effective Illusions",
+          "url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-14T22:04:01Z"
+          "published_at": "2026-06-14T22:49:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9854,
+        "recency": 0.9476,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-14T22:04:01Z",
-      "latest_at": "2026-06-14T22:19:46.628000Z",
+      "earliest_at": "2026-06-14T22:49:27Z",
+      "latest_at": "2026-06-14T22:54:00.758000Z",
       "primary_item": {
-        "id": "78394ba7fcc9426839cc64da4e1493269ce28fe3",
-        "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
-        "url": "https://news.ycombinator.com/item?id=48533308",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "4e622df9439f8128eae9061178e9567b624d674c",
+        "title": "人工智能、神明与自我：极其有效的幻象",
+        "url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -666,14 +1074,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9425,
+        "recency": 0.881,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -763,14 +1171,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8092,
+        "recency": 0.7477,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -860,14 +1268,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7981,
+        "recency": 0.7366,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -882,6 +1290,84 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjV5UElrM0pwdjE0dkFUM09CRHd6elhGdTJuUXVkb29QWVNrU3lpQnBNSXpJT2lfUnppQVlzN0NZMHBienBaWWlub3lxTjItbm1FbFNSdnZtMUE4MndyMWVEV0FfVE9iYjBsbGJnNGVkT3kyNEN2NE04ZXI3WUN3a2dxSWV5bUh0aVBrLWFZVEpXOERDWU9Qc3NPbGlRQkZLZEtrR3ktb04tY2ZHRmM0NzlKVm5ITF8zNVM3TlpXSUFYc2dSQWRieA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3a79de7d7a98",
+      "title": "人工智能是代码——并且不能被促使变得更聪明 / AI is code – and can't be prompted into being smarter",
+      "url": "https://news.ycombinator.com/item?id=48532178",
+      "primary_url": "https://news.ycombinator.com/item?id=48532178",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a12b9a6e022426c1108de208a1c1b42190e470bc",
+          "title": "人工智能是代码——并且不能被促使变得更聪明 / AI is code – and can't be prompted into being smarter",
+          "url": "https://news.ycombinator.com/item?id=48532178",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T23:50:01.617000Z"
+        },
+        {
+          "id": "60f680b853f2def255113e00a8cef6afc1e8394e",
+          "title": "人工智能是代码——并且不能被促使变得更聪明 / AI is code – and can't be prompted into being smarter",
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T20:17:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a12b9a6e022426c1108de208a1c1b42190e470bc",
+          "title": "人工智能是代码——并且不能被促使变得更聪明 / AI is code – and can't be prompted into being smarter",
+          "url": "https://news.ycombinator.com/item?id=48532178",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T23:50:01.617000Z"
+        },
+        {
+          "id": "60f680b853f2def255113e00a8cef6afc1e8394e",
+          "title": "人工智能是代码——并且不能被促使变得更聪明 / AI is code – and can't be prompted into being smarter",
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T20:17:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9865,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T20:17:54Z",
+      "latest_at": "2026-06-14T23:50:01.617000Z",
+      "primary_item": {
+        "id": "a12b9a6e022426c1108de208a1c1b42190e470bc",
+        "title": "人工智能是代码——并且不能被促使变得更聪明 / AI is code – and can't be prompted into being smarter",
+        "url": "https://news.ycombinator.com/item?id=48532178",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -938,14 +1424,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8456,
+        "recency": 0.784,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1016,14 +1502,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5165,
-      "importance": 0.5165,
-      "importance_score": 0.5165,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8425,
+        "recency": 0.7809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1041,548 +1527,81 @@
       }
     },
     {
-      "story_id": "story_a55226033b99",
-      "title": "21 世纪最伟大的 CEO，会是一个 AI 吗？|| 大视野",
-      "url": "https://www.huxiu.com/article/4867239.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4867239.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d05469e9692e58f1e050cc49b39d4de9b2e3c577",
-          "title": "21 世纪最伟大的 CEO，会是一个 AI 吗？|| 大视野",
-          "url": "https://www.huxiu.com/article/4867239.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ec1137888661cb9b4c9d77bcd8b22b11b6228147",
-          "title": "21世纪最伟大的CEO，会是一个AI吗？|| 大视野",
-          "url": "https://www.huxiu.com/article/4867239.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-14T16:13:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "d05469e9692e58f1e050cc49b39d4de9b2e3c577",
-          "title": "21 世纪最伟大的 CEO，会是一个 AI 吗？|| 大视野",
-          "url": "https://www.huxiu.com/article/4867239.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ec1137888661cb9b4c9d77bcd8b22b11b6228147",
-          "title": "21世纪最伟大的CEO，会是一个AI吗？|| 大视野",
-          "url": "https://www.huxiu.com/article/4867239.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-14T16:13:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8028,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T16:13:36Z",
-      "latest_at": "2026-06-14T17:56:46.700814Z",
-      "primary_item": {
-        "id": "d05469e9692e58f1e050cc49b39d4de9b2e3c577",
-        "title": "21 世纪最伟大的 CEO，会是一个 AI 吗？|| 大视野",
-        "url": "https://www.huxiu.com/article/4867239.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9d46ec2a3200",
-      "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么",
-      "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
-      "primary_url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cddf78308c6ad14bf11084f51c0e3970ed4b7531",
-          "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么",
-          "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T18:38:10.744000Z"
-        },
-        {
-          "id": "bd95a778dcd23801b2bb67706696108fc3fb6508",
-          "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么 / Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic",
-          "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-14T17:15:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cddf78308c6ad14bf11084f51c0e3970ed4b7531",
-          "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么",
-          "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T18:38:10.744000Z"
-        },
-        {
-          "id": "bd95a778dcd23801b2bb67706696108fc3fb6508",
-          "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么 / Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic",
-          "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-14T17:15:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8315,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T17:15:27Z",
-      "latest_at": "2026-06-14T18:38:10.744000Z",
-      "primary_item": {
-        "id": "cddf78308c6ad14bf11084f51c0e3970ed4b7531",
-        "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么",
-        "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0563c243fc6d",
-      "title": "瑞士选民否决了将人口上限设定为1000万的提案 / Swiss voters reject proposal to cap Population at 10M",
-      "url": "https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac",
-      "primary_url": "https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "6bc582f38293d74aabb39b24cf90c87f96400a88",
-          "title": "瑞士选民否决了将人口上限设定为1000万的提案 / Swiss voters reject proposal to cap Population at 10M",
-          "url": "https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-14T18:17:49Z"
-        },
-        {
-          "id": "03787ca45bba19b0e4cbddd445745c1f2c46d4b1",
-          "title": "瑞士选民否决了将人口上限设定为1000万的提案 / Swiss voters reject proposal to cap population at ten million",
-          "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-14T16:28:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "6bc582f38293d74aabb39b24cf90c87f96400a88",
-          "title": "瑞士选民否决了将人口上限设定为1000万的提案 / Swiss voters reject proposal to cap Population at 10M",
-          "url": "https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-14T18:17:49Z"
-        },
-        {
-          "id": "03787ca45bba19b0e4cbddd445745c1f2c46d4b1",
-          "title": "瑞士选民否决了将人口上限设定为1000万的提案 / Swiss voters reject proposal to cap population at ten million",
-          "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-14T16:28:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8174,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T16:28:54Z",
-      "latest_at": "2026-06-14T18:17:49Z",
-      "primary_item": {
-        "id": "6bc582f38293d74aabb39b24cf90c87f96400a88",
-        "title": "瑞士选民否决了将人口上限设定为1000万的提案 / Swiss voters reject proposal to cap Population at 10M",
-        "url": "https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_f8eadd933b18",
-      "title": "按当前估值计算，FTX此前持有的Anthropic股份价值约为750亿美元 / FTX's former Anthropic stake would be worth about $75B at today's valuation",
-      "url": "https://news.ycombinator.com/item?id=48529190",
-      "primary_url": "https://news.ycombinator.com/item?id=48529190",
+      "story_id": "story_ebd61a3aea6e",
+      "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
+      "url": "https://news.ycombinator.com/item?id=48533308",
+      "primary_url": "https://news.ycombinator.com/item?id=48533308",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "65ad8eae2f40af414a9d6c2097efc9d8c92157a2",
-          "title": "按当前估值计算，FTX此前持有的Anthropic股份价值约为750亿美元 / FTX's former Anthropic stake would be worth about $75B at today's valuation",
-          "url": "https://news.ycombinator.com/item?id=48529190",
+          "id": "78394ba7fcc9426839cc64da4e1493269ce28fe3",
+          "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
+          "url": "https://news.ycombinator.com/item?id=48533308",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-14T17:57:14.233000Z"
+          "published_at": "2026-06-14T22:19:46.628000Z"
         },
         {
-          "id": "1ea89376cae957422e667b1bab7be09b8a94b2d5",
-          "title": "按当前估值计算，FTX此前持有的Anthropic股份价值约为750亿美元",
-          "url": "https://news.ycombinator.com/item?id=48529190",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T16:46:14.648000Z"
+          "id": "e0c38fa423426b50d8bc6888c1200261589ae566",
+          "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
+          "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T22:04:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "hackernews",
-        "news.ycombinator.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "65ad8eae2f40af414a9d6c2097efc9d8c92157a2",
-          "title": "按当前估值计算，FTX此前持有的Anthropic股份价值约为750亿美元 / FTX's former Anthropic stake would be worth about $75B at today's valuation",
-          "url": "https://news.ycombinator.com/item?id=48529190",
+          "id": "78394ba7fcc9426839cc64da4e1493269ce28fe3",
+          "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
+          "url": "https://news.ycombinator.com/item?id=48533308",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-14T17:57:14.233000Z"
+          "published_at": "2026-06-14T22:19:46.628000Z"
         },
         {
-          "id": "1ea89376cae957422e667b1bab7be09b8a94b2d5",
-          "title": "按当前估值计算，FTX此前持有的Anthropic股份价值约为750亿美元",
-          "url": "https://news.ycombinator.com/item?id=48529190",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T16:46:14.648000Z"
+          "id": "e0c38fa423426b50d8bc6888c1200261589ae566",
+          "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
+          "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T22:04:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8031,
+        "recency": 0.9239,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-14T16:46:14.648000Z",
-      "latest_at": "2026-06-14T17:57:14.233000Z",
+      "earliest_at": "2026-06-14T22:04:01Z",
+      "latest_at": "2026-06-14T22:19:46.628000Z",
       "primary_item": {
-        "id": "65ad8eae2f40af414a9d6c2097efc9d8c92157a2",
-        "title": "按当前估值计算，FTX此前持有的Anthropic股份价值约为750亿美元 / FTX's former Anthropic stake would be worth about $75B at today's valuation",
-        "url": "https://news.ycombinator.com/item?id=48529190",
+        "id": "78394ba7fcc9426839cc64da4e1493269ce28fe3",
+        "title": "为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?",
+        "url": "https://news.ycombinator.com/item?id=48533308",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8e8457af7ac3",
-      "title": "正秘密测试 AI 版支付宝？蚂蚁集团拒绝评论",
-      "url": "https://www.huxiu.com/article/4867241.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4867241.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9826f7016aac9481e83dd074a993d12ed55d7fd1",
-          "title": "正秘密测试 AI 版支付宝？蚂蚁集团拒绝评论",
-          "url": "https://www.huxiu.com/article/4867241.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "399e43b59bced0165d2fcda9e4fe25f0e2199294",
-          "title": "“正秘密测试AI版支付宝”？蚂蚁集团拒绝评论",
-          "url": "https://www.huxiu.com/article/4867241.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-14T16:28:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "9826f7016aac9481e83dd074a993d12ed55d7fd1",
-          "title": "正秘密测试 AI 版支付宝？蚂蚁集团拒绝评论",
-          "url": "https://www.huxiu.com/article/4867241.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "399e43b59bced0165d2fcda9e4fe25f0e2199294",
-          "title": "“正秘密测试AI版支付宝”？蚂蚁集团拒绝评论",
-          "url": "https://www.huxiu.com/article/4867241.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-14T16:28:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8028,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T16:28:56Z",
-      "latest_at": "2026-06-14T17:56:46.700814Z",
-      "primary_item": {
-        "id": "9826f7016aac9481e83dd074a993d12ed55d7fd1",
-        "title": "正秘密测试 AI 版支付宝？蚂蚁集团拒绝评论",
-        "url": "https://www.huxiu.com/article/4867241.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c45c234d1e1b",
-      "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
-      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "primary_url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a1046f758f86f4a99c7f56faafc6656e53df9c33",
-          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
-          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "797c97673a15539931deee9aafcd02a8b923f96f",
-          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots /      Introduction-to-Autonomous-Robots",
-          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-14T11:59:20.637000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "a1046f758f86f4a99c7f56faafc6656e53df9c33",
-          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
-          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "797c97673a15539931deee9aafcd02a8b923f96f",
-          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots /      Introduction-to-Autonomous-Robots",
-          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-14T11:59:20.637000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4622,
-      "importance": 0.4622,
-      "importance_score": 0.4622,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5708,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T11:59:20.637000Z",
-      "latest_at": "2026-06-14T12:22:45.650277Z",
-      "primary_item": {
-        "id": "a1046f758f86f4a99c7f56faafc6656e53df9c33",
-        "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
-        "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a2a2a7c8197e",
-      "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议",
-      "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
-      "primary_url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0de6d0b140eaf3b985ceafd7a48903c2c8d7713f",
-          "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议",
-          "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T17:02:19.290000Z"
-        },
-        {
-          "id": "9112d8eb2bbce9936594aae1aab5ff855af5f182",
-          "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议 / Emily Blunt refused Steven Spielberg's offer to use AI for her alien voice in 'Disclosure Day'",
-          "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-14T16:32:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "0de6d0b140eaf3b985ceafd7a48903c2c8d7713f",
-          "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议",
-          "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T17:02:19.290000Z"
-        },
-        {
-          "id": "9112d8eb2bbce9936594aae1aab5ff855af5f182",
-          "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议 / Emily Blunt refused Steven Spielberg's offer to use AI for her alien voice in 'Disclosure Day'",
-          "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-14T16:32:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.765,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T16:32:09Z",
-      "latest_at": "2026-06-14T17:02:19.290000Z",
-      "primary_item": {
-        "id": "0de6d0b140eaf3b985ceafd7a48903c2c8d7713f",
-        "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议",
-        "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
