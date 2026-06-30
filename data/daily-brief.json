@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T10:40:43.457182Z",
+  "generated_at": "2026-06-30T11:55:09.723372Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9347,
+        "recency": 0.9181,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7865,
+        "recency": 0.7725,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7723,
+        "recency": 0.7586,
         "story_heat": 0.0
       },
       "category": "official",
@@ -262,15 +262,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9442,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -343,15 +343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9776,
+        "recency": 0.9602,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -368,6 +368,87 @@
         "url": "https://www.aibase.com/news/29272",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_42e26984ee68",
+      "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
+      "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+      "primary_url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9be482f343df6de8317876b5e8bbadef6d50533a",
+          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
+          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T11:14:52Z"
+        },
+        {
+          "id": "7ed729c25f314fccca6bd0316f07511b202b3f2d",
+          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示 / Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
+          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-30T11:14:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9be482f343df6de8317876b5e8bbadef6d50533a",
+          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
+          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T11:14:52Z"
+        },
+        {
+          "id": "7ed729c25f314fccca6bd0316f07511b202b3f2d",
+          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示 / Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
+          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-30T11:14:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9903,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T11:14:52Z",
+      "latest_at": "2026-06-30T11:14:52Z",
+      "primary_item": {
+        "id": "9be482f343df6de8317876b5e8bbadef6d50533a",
+        "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
+        "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -405,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9001,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -485,15 +566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9083,
+        "recency": 0.8922,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -547,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7651,
+        "recency": 0.7515,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,15 +690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7636,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "official",
@@ -690,15 +771,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7865,
+        "recency": 0.7726,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -752,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.9007,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,15 +913,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9776,
+        "recency": 0.9602,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -894,15 +975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8221,
+        "recency": 0.8075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,87 +998,6 @@
         "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
         "url": "https://x.com/EMostaque/status/2071701921241448574",
         "source": "X：Emad Mostaque (@EMostaque)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d42ae9023142",
-      "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-      "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-      "primary_url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T12:30:21Z"
-        },
-        {
-          "id": "c02f35f588baf81cbaa1e47dc362b61ff44b7e94",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标 / The US military used AI to pick thousands of targets but missed a note saying one was a school",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-29T12:30:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T12:30:21Z"
-        },
-        {
-          "id": "c02f35f588baf81cbaa1e47dc362b61ff44b7e94",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标 / The US military used AI to pick thousands of targets but missed a note saying one was a school",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-29T12:30:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.726,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T12:30:21Z",
-      "latest_at": "2026-06-29T12:30:21Z",
-      "primary_item": {
-        "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
-        "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-        "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1036,21 +1036,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8209,
+        "recency": 0.8063,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T21:00:47Z",
       "latest_at": "2026-06-29T21:00:47Z",
@@ -1097,15 +1096,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9449,
+        "recency": 0.9281,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1120,86 +1119,6 @@
         "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
         "url": "https://www.ithome.com/0/970/539.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_31e36f083719",
-      "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-      "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-      "primary_url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
-          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T10:42:47Z"
-        },
-        {
-          "id": "1baf6bc9b33acf85d68d9d0cdba184798bede9ad",
-          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能 / Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills",
-          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-29T10:42:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
-          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T10:42:47Z"
-        },
-        {
-          "id": "1baf6bc9b33acf85d68d9d0cdba184798bede9ad",
-          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能 / Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills",
-          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-29T10:42:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7075,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T10:42:47Z",
-      "latest_at": "2026-06-29T10:42:47Z",
-      "primary_item": {
-        "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
-        "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-        "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1238,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1298,15 +1217,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8795,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1358,15 +1277,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7225,
+        "recency": 0.7097,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,6 +1299,66 @@
         "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
         "url": "https://x.com/AIatMeta/status/2071566924803395741",
         "source": "X：AI at Meta (@AIatMeta)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eee9aecd1888",
+      "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+      "url": "https://x.com/berryxia/status/2071610700213191075",
+      "primary_url": "https://x.com/berryxia/status/2071610700213191075",
+      "source": "X：Berry Xia (@berryxia)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
+          "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+          "url": "https://x.com/berryxia/status/2071610700213191075",
+          "source": "X：Berry Xia (@berryxia)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T15:04:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Berry Xia (@berryxia)"
+      ],
+      "items": [
+        {
+          "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
+          "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+          "url": "https://x.com/berryxia/status/2071610700213191075",
+          "source": "X：Berry Xia (@berryxia)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T15:04:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.74,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-29T15:04:14Z",
+      "latest_at": "2026-06-29T15:04:14Z",
+      "primary_item": {
+        "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
+        "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+        "url": "https://x.com/berryxia/status/2071610700213191075",
+        "source": "X：Berry Xia (@berryxia)",
         "source_name": "AI HOT"
       }
     }
