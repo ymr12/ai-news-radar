@@ -1,128 +1,8 @@
 {
-  "generated_at": "2026-06-30T23:35:34.239867Z",
+  "generated_at": "2026-07-01T01:16:06.669854Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_0f764e9bc764",
-      "title": "Claude Sonnet 5 发布 / Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "primary_url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "Anthropic News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7e39f08e8809094e45239d1f341e029dfd62682f",
-          "title": "Claude Sonnet 5 发布 / Introducing Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
-        },
-        {
-          "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
-          "title": "Claude Sonnet 5 发布",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T18:02:06.984000Z"
-        },
-        {
-          "id": "67fa563844e9154887350136b4fe9208b8030f96",
-          "title": "克劳德·索内特 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T18:19:05.316000Z"
-        },
-        {
-          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
-          "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T17:59:52Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Anthropic News",
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "7e39f08e8809094e45239d1f341e029dfd62682f",
-          "title": "Claude Sonnet 5 发布 / Introducing Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
-        },
-        {
-          "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
-          "title": "Claude Sonnet 5 发布",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T18:02:06.984000Z"
-        },
-        {
-          "id": "67fa563844e9154887350136b4fe9208b8030f96",
-          "title": "克劳德·索内特 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T18:19:05.316000Z"
-        },
-        {
-          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
-          "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T17:59:52Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.883,
-      "importance": 0.883,
-      "importance_score": 0.883,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7113,
-        "story_heat": 0.75
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T00:00:00Z",
-      "latest_at": "2026-06-30T18:19:05.316000Z",
-      "primary_item": {
-        "id": "7e39f08e8809094e45239d1f341e029dfd62682f",
-        "title": "Claude Sonnet 5 发布 / Introducing Claude Sonnet 5",
-        "url": "https://www.anthropic.com/news/claude-sonnet-5",
-        "source": "Anthropic News",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_f8c0cbef5e2e",
       "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
@@ -177,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8584,
-      "importance": 0.8584,
-      "importance_score": 0.8584,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8967,
+        "recency": 0.8753,
         "story_heat": 0.25
       },
       "category": "official",
@@ -240,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8534,
-      "importance": 0.8534,
-      "importance_score": 0.8534,
+      "score": 0.8494,
+      "importance": 0.8494,
+      "importance_score": 0.8494,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9297,
+        "recency": 0.9075,
         "story_heat": 0.0
       },
       "category": "official",
@@ -321,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.81,
+        "recency": 0.7906,
         "story_heat": 0.25
       },
       "category": "official",
@@ -384,15 +264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9149,
+        "recency": 0.893,
         "story_heat": 0.0
       },
       "category": "official",
@@ -409,6 +289,187 @@
         "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0f764e9bc764",
+      "title": "Claude Sonnet 5 发布",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "primary_url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
+          "title": "Claude Sonnet 5 发布",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:02:06.984000Z"
+        },
+        {
+          "id": "67fa563844e9154887350136b4fe9208b8030f96",
+          "title": "克劳德·索内特 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-30T18:19:05.316000Z"
+        },
+        {
+          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
+          "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T17:59:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News (黑客新闻)",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
+          "title": "Claude Sonnet 5 发布",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:02:06.984000Z"
+        },
+        {
+          "id": "67fa563844e9154887350136b4fe9208b8030f96",
+          "title": "克劳德·索内特 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-30T18:19:05.316000Z"
+        },
+        {
+          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
+          "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T17:59:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9008,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T17:59:52Z",
+      "latest_at": "2026-06-30T18:19:05.316000Z",
+      "primary_item": {
+        "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
+        "title": "Claude Sonnet 5 发布",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_adc0d337ee6f",
+      "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+      "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+      "primary_url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
+          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+          "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T00:11:00Z"
+        },
+        {
+          "id": "62a6b81d5f61661b85148e64a141616e9f8c54cf",
+          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
+          "url": "https://www.huxiu.com/article/4871698.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-01T00:55:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：数字生命卡兹克",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
+          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+          "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T00:11:00Z"
+        },
+        {
+          "id": "62a6b81d5f61661b85148e64a141616e9f8c54cf",
+          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
+          "url": "https://www.huxiu.com/article/4871698.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-01T00:55:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9845,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T00:11:00Z",
+      "latest_at": "2026-07-01T00:55:08Z",
+      "primary_item": {
+        "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
+        "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+        "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -446,15 +507,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8789,
+        "recency": 0.8579,
         "story_heat": 0.0
       },
       "category": "official",
@@ -546,15 +607,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9302,
+        "recency": 0.908,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -608,15 +669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7757,
+        "recency": 0.7571,
         "story_heat": 0.0
       },
       "category": "official",
@@ -670,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8962,
+        "recency": 0.8748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -698,167 +759,165 @@
       }
     },
     {
-      "story_id": "story_d5f7bd1f6df8",
-      "title": "Claude Science 科研工作台正式上线 / Claude Science, an AI workbench for scientists, is now available",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "primary_url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "source": "Anthropic News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c03d611c300f",
+      "title": "Claude Sonnet 5 发布：AI 主力模型进入“高能低耗”新时代",
+      "url": "https://www.aibase.com/news/29278",
+      "primary_url": "https://www.aibase.com/news/29278",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e851698f224d2ead39febd4da48c4125c94a8612",
-          "title": "Claude Science 科研工作台正式上线 / Claude Science, an AI workbench for scientists, is now available",
-          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
+          "id": "277860b8d39ac172e042f63d912e4a249a6f90f4",
+          "title": "Claude Sonnet 5 发布：AI 主力模型进入“高能低耗”新时代",
+          "url": "https://www.aibase.com/news/29278",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T01:16:06.669854Z"
         },
         {
-          "id": "c6de65356b1ef1fff743dc3f8a5a6a60b54eae32",
-          "title": "Claude Science 科研工作台正式上线",
-          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:32:06.724000Z"
+          "id": "873c6b1b4ec3ec531c8f5cc07f537efd1a688a80",
+          "title": "Claude Sonnet 5 发布：AI 主力模型进入「高能低耗」新时代",
+          "url": "https://www.aibase.com/zh/news/29278",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Anthropic News",
-        "Anthropic：Newsroom（网页）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "e851698f224d2ead39febd4da48c4125c94a8612",
-          "title": "Claude Science 科研工作台正式上线 / Claude Science, an AI workbench for scientists, is now available",
-          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
+          "id": "277860b8d39ac172e042f63d912e4a249a6f90f4",
+          "title": "Claude Sonnet 5 发布：AI 主力模型进入“高能低耗”新时代",
+          "url": "https://www.aibase.com/news/29278",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T01:16:06.669854Z"
         },
         {
-          "id": "c6de65356b1ef1fff743dc3f8a5a6a60b54eae32",
-          "title": "Claude Science 科研工作台正式上线",
-          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:32:06.724000Z"
+          "id": "873c6b1b4ec3ec531c8f5cc07f537efd1a688a80",
+          "title": "Claude Sonnet 5 发布：AI 主力模型进入「高能低耗」新时代",
+          "url": "https://www.aibase.com/zh/news/29278",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
-      "importance_label": "官方更新",
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7113,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T00:00:00Z",
-      "latest_at": "2026-06-30T17:32:06.724000Z",
+      "earliest_at": "2026-07-01T01:16:06.669854Z",
+      "latest_at": "2026-07-01T01:16:06.669854Z",
       "primary_item": {
-        "id": "e851698f224d2ead39febd4da48c4125c94a8612",
-        "title": "Claude Science 科研工作台正式上线 / Claude Science, an AI workbench for scientists, is now available",
-        "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-        "source": "Anthropic News",
-        "source_name": "Official AI Updates"
+        "id": "277860b8d39ac172e042f63d912e4a249a6f90f4",
+        "title": "Claude Sonnet 5 发布：AI 主力模型进入“高能低耗”新时代",
+        "url": "https://www.aibase.com/news/29278",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3c923494434c",
-      "title": "OpenAI 发布 GeneBench-Pro：计算生物学研究级基准测试 / Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
-      "primary_url": "https://openai.com/index/introducing-genebench-pro",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_0fc811547c38",
+      "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+      "url": "https://www.ithome.com/0/970/810.htm",
+      "primary_url": "https://www.ithome.com/0/970/810.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9157744ec9c96573f59ee884d5856822401393ea",
-          "title": "OpenAI 发布 GeneBench-Pro：计算生物学研究级基准测试 / Introducing GeneBench-Pro",
-          "url": "https://openai.com/index/introducing-genebench-pro",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
-        },
-        {
-          "id": "a39254a466531f1e0eb06844f4ecf1685c278c16",
-          "title": "OpenAI 发布 GeneBench-Pro：计算生物学研究级基准测试",
-          "url": "https://openai.com/index/introducing-genebench-pro",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "d5eb0a29d17463e21b534c85b25a7b97746b67d7",
+          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+          "url": "https://www.ithome.com/0/970/810.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T00:00:00Z"
+          "published_at": "2026-06-30T23:43:32Z"
+        },
+        {
+          "id": "73d52bb52fa0bf7707679fec31f1ca43886abadb",
+          "title": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
+          "url": "https://www.ithome.com/0/970/810.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T23:43:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "9157744ec9c96573f59ee884d5856822401393ea",
-          "title": "OpenAI 发布 GeneBench-Pro：计算生物学研究级基准测试 / Introducing GeneBench-Pro",
-          "url": "https://openai.com/index/introducing-genebench-pro",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
-        },
-        {
-          "id": "a39254a466531f1e0eb06844f4ecf1685c278c16",
-          "title": "OpenAI 发布 GeneBench-Pro：计算生物学研究级基准测试",
-          "url": "https://openai.com/index/introducing-genebench-pro",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "d5eb0a29d17463e21b534c85b25a7b97746b67d7",
+          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+          "url": "https://www.ithome.com/0/970/810.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T00:00:00Z"
+          "published_at": "2026-06-30T23:43:32Z"
+        },
+        {
+          "id": "73d52bb52fa0bf7707679fec31f1ca43886abadb",
+          "title": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
+          "url": "https://www.ithome.com/0/970/810.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T23:43:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
-      "importance_label": "官方更新",
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7113,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.978,
         "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T00:00:00Z",
-      "latest_at": "2026-06-30T00:00:00Z",
+      "earliest_at": "2026-06-30T23:43:32Z",
+      "latest_at": "2026-06-30T23:43:32Z",
       "primary_item": {
-        "id": "9157744ec9c96573f59ee884d5856822401393ea",
-        "title": "OpenAI 发布 GeneBench-Pro：计算生物学研究级基准测试 / Introducing GeneBench-Pro",
-        "url": "https://openai.com/index/introducing-genebench-pro",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "d5eb0a29d17463e21b534c85b25a7b97746b67d7",
+        "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+        "url": "https://www.ithome.com/0/970/810.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -915,15 +974,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.8988,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -977,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1000,106 +1059,6 @@
         "title": "AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题",
         "url": "https://x.com/AISafetyMemes/status/2072085914558558402",
         "source": "X：AI Safety Memes (@AISafetyMemes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fb28522465f5",
-      "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-      "url": "https://www.ithome.com/0/970/583.htm",
-      "primary_url": "https://www.ithome.com/0/970/583.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "81cd8ae1da674afac36a2697129faa7f21958375",
-          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T07:56:46Z"
-        },
-        {
-          "id": "aef5db7d6cf70f9639e8251939af13a6342a5de2",
-          "title": "另类资管巨头黑石未来 3~5 年将斥资 300 亿美元在日本建设 AI 数据中心",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7a1ee91186ea97569a2cdcf6cd78ec2d46cbf5a2",
-          "title": "另类资管巨头黑石计划斥资 300 亿美元在日本建设超 1GW AI 数据中心",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T07:56:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "81cd8ae1da674afac36a2697129faa7f21958375",
-          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T07:56:46Z"
-        },
-        {
-          "id": "aef5db7d6cf70f9639e8251939af13a6342a5de2",
-          "title": "另类资管巨头黑石未来 3~5 年将斥资 300 亿美元在日本建设 AI 数据中心",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7a1ee91186ea97569a2cdcf6cd78ec2d46cbf5a2",
-          "title": "另类资管巨头黑石计划斥资 300 亿美元在日本建设超 1GW AI 数据中心",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T07:56:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7978,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T07:56:46Z",
-      "latest_at": "2026-06-30T09:06:27.026561Z",
-      "primary_item": {
-        "id": "81cd8ae1da674afac36a2697129faa7f21958375",
-        "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-        "url": "https://www.ithome.com/0/970/583.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1138,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9053,
+        "recency": 0.8837,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1166,26 +1125,26 @@
       }
     },
     {
-      "story_id": "story_3fc589d804fb",
-      "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
-      "url": "https://www.aibase.com/news/29272",
-      "primary_url": "https://www.aibase.com/news/29272",
+      "story_id": "story_96fad724fd79",
+      "title": "美国修订隐私法案:拟十年拨款10亿禁止AI公司出售健康数据",
+      "url": "https://www.aibase.com/news/29281",
+      "primary_url": "https://www.aibase.com/news/29281",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "60de1a406a8e570cb3f742cca7ecdfcd45b8777d",
-          "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
-          "url": "https://www.aibase.com/news/29272",
+          "id": "2366f3de9b11d075c20727e87f84149dcd2df989",
+          "title": "美国修订隐私法案:拟十年拨款10亿禁止AI公司出售健康数据",
+          "url": "https://www.aibase.com/news/29281",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T09:06:27.026561Z"
+          "published_at": "2026-07-01T01:16:06.669854Z"
         },
         {
-          "id": "3b62ee91758566d23dfdc7f3a396d649602bae1a",
-          "title": "工业智造新突破：全球首个工业跨具身泛化大模型「智合」在沪发布",
-          "url": "https://www.aibase.com/zh/news/29272",
+          "id": "2b9f562b6728fe632f25a0fdc4aa9247e0a0ec0e",
+          "title": "美国修订隐私法案：拟十年拨款 10 亿禁止 AI 公司出售健康数据",
+          "url": "https://www.aibase.com/zh/news/29281",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1199,18 +1158,18 @@
       ],
       "items": [
         {
-          "id": "60de1a406a8e570cb3f742cca7ecdfcd45b8777d",
-          "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
-          "url": "https://www.aibase.com/news/29272",
+          "id": "2366f3de9b11d075c20727e87f84149dcd2df989",
+          "title": "美国修订隐私法案:拟十年拨款10亿禁止AI公司出售健康数据",
+          "url": "https://www.aibase.com/news/29281",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T09:06:27.026561Z"
+          "published_at": "2026-07-01T01:16:06.669854Z"
         },
         {
-          "id": "3b62ee91758566d23dfdc7f3a396d649602bae1a",
-          "title": "工业智造新突破：全球首个工业跨具身泛化大模型「智合」在沪发布",
-          "url": "https://www.aibase.com/zh/news/29272",
+          "id": "2b9f562b6728fe632f25a0fdc4aa9247e0a0ec0e",
+          "title": "美国修订隐私法案：拟十年拨款 10 亿禁止 AI 公司出售健康数据",
+          "url": "https://www.aibase.com/zh/news/29281",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1219,15 +1178,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8113,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1236,12 +1195,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T09:06:27.026561Z",
-      "latest_at": "2026-06-30T09:06:27.026561Z",
+      "earliest_at": "2026-07-01T01:16:06.669854Z",
+      "latest_at": "2026-07-01T01:16:06.669854Z",
       "primary_item": {
-        "id": "60de1a406a8e570cb3f742cca7ecdfcd45b8777d",
-        "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
-        "url": "https://www.aibase.com/news/29272",
+        "id": "2366f3de9b11d075c20727e87f84149dcd2df989",
+        "title": "美国修订隐私法案:拟十年拨款10亿禁止AI公司出售健康数据",
+        "url": "https://www.aibase.com/news/29281",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1300,15 +1259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8367,
+        "recency": 0.8167,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1325,68 +1284,6 @@
         "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3f0a56fa7011",
-      "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "primary_url": "https://huggingface.co/blog/eee-community-evals",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
-          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-          "url": "https://huggingface.co/blog/eee-community-evals",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
-          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-          "url": "https://huggingface.co/blog/eee-community-evals",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7113,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T00:00:00Z",
-      "latest_at": "2026-06-30T00:00:00Z",
-      "primary_item": {
-        "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
-        "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-        "url": "https://huggingface.co/blog/eee-community-evals",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1424,15 +1321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.908,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1485,21 +1382,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9154,
+        "recency": 0.8936,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T17:28:28.530000Z",
       "latest_at": "2026-06-30T17:28:28.530000Z",
@@ -1508,6 +1404,66 @@
         "title": "Claude Code 入门：智能体循环",
         "url": "https://claude.com/blog/getting-started-with-loops",
         "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5a1ae999ca0c",
+      "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
+      "url": "https://x.com/xiaohu/status/2071796715162857477",
+      "primary_url": "https://x.com/xiaohu/status/2071796715162857477",
+      "source": "X：小互 (@xiaohu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
+          "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
+          "url": "https://x.com/xiaohu/status/2071796715162857477",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T03:23:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小互 (@xiaohu)"
+      ],
+      "items": [
+        {
+          "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
+          "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
+          "url": "https://x.com/xiaohu/status/2071796715162857477",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T03:23:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7291,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-30T03:23:23Z",
+      "latest_at": "2026-06-30T03:23:23Z",
+      "primary_item": {
+        "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
+        "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
+        "url": "https://x.com/xiaohu/status/2071796715162857477",
+        "source": "X：小互 (@xiaohu)",
         "source_name": "AI HOT"
       }
     }
