@@ -1,24 +1,106 @@
 {
-  "generated_at": "2026-07-02T08:07:51.936302Z",
+  "generated_at": "2026-07-02T09:38:47.755378Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_774ebb0256c8",
-      "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "story_id": "story_f7b1eaa8826e",
+      "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布 / Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T18:39:17Z"
+          "published_at": "2026-07-01T19:00:21Z"
+        },
+        {
+          "id": "c1ba6c397a5e2969ce5d11a3991cd7ec6392422c",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:24:53.347000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Changelog",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T19:00:21Z"
+        },
+        {
+          "id": "c1ba6c397a5e2969ce5d11a3991cd7ec6392422c",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:24:53.347000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8094,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T19:00:21Z",
+      "latest_at": "2026-07-02T08:24:53.347000Z",
+      "primary_item": {
+        "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+        "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布 / Kimi K2.7 Code is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_155ea32414b0",
+      "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T08:17:17Z"
         }
       ],
       "source_count": 1,
@@ -27,26 +109,26 @@
       ],
       "items": [
         {
-          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T18:39:17Z"
+          "published_at": "2026-07-02T08:17:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8232,
+        "ai_relevance": 0.87,
+        "recency": 0.9806,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,12 +137,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T18:39:17Z",
-      "latest_at": "2026-07-01T18:39:17Z",
+      "earliest_at": "2026-07-02T08:17:17Z",
+      "latest_at": "2026-07-02T08:17:17Z",
       "primary_item": {
-        "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-        "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-        "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+        "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+        "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+        "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -100,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8184,
+        "recency": 0.8006,
         "story_heat": 0.0
       },
       "category": "official",
@@ -128,65 +210,84 @@
       }
     },
     {
-      "story_id": "story_0818b7e36264",
-      "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-      "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-      "primary_url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_90ddcf143e5b",
+      "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+      "url": "https://www.aibase.com/news/29346",
+      "primary_url": "https://www.aibase.com/news/29346",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T20:32:52Z"
+          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
+          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+          "url": "https://www.aibase.com/news/29346",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T09:38:47.755378Z"
+        },
+        {
+          "id": "6ac7c2d5395a6c2db4c55bc3dadbb7b552f75985",
+          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+          "url": "https://www.aibase.com/zh/news/29346",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T20:32:52Z"
+          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
+          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+          "url": "https://www.aibase.com/news/29346",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T09:38:47.755378Z"
+        },
+        {
+          "id": "6ac7c2d5395a6c2db4c55bc3dadbb7b552f75985",
+          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+          "url": "https://www.aibase.com/zh/news/29346",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.846,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T20:32:52Z",
-      "latest_at": "2026-07-01T20:32:52Z",
+      "earliest_at": "2026-07-02T09:38:47.755378Z",
+      "latest_at": "2026-07-02T09:38:47.755378Z",
       "primary_item": {
-        "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-        "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-        "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
+        "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+        "url": "https://www.aibase.com/news/29346",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -224,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,87 +349,6 @@
         "url": "https://www.ithome.com/0/971/469.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7b5406df4999",
-      "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
-      "url": "https://www.aibase.com/news/29322",
-      "primary_url": "https://www.aibase.com/news/29322",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
-          "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
-          "url": "https://www.aibase.com/news/29322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T02:25:07.966789Z"
-        },
-        {
-          "id": "fc17b0ac1b315bde1bad1f35bd399993411fcb06",
-          "title": "AI 云平台 Together AI 完成 8 亿美元 C 轮融资，估值达 83 亿美元、年预订额超 11 亿",
-          "url": "https://www.aibase.com/zh/news/29322",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
-          "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
-          "url": "https://www.aibase.com/news/29322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T02:25:07.966789Z"
-        },
-        {
-          "id": "fc17b0ac1b315bde1bad1f35bd399993411fcb06",
-          "title": "AI 云平台 Together AI 完成 8 亿美元 C 轮融资，估值达 83 亿美元、年预订额超 11 亿",
-          "url": "https://www.aibase.com/zh/news/29322",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9208,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T02:25:07.966789Z",
-      "latest_at": "2026-07-02T02:25:07.966789Z",
-      "primary_item": {
-        "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
-        "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
-        "url": "https://www.aibase.com/news/29322",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -366,15 +386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7922,
+        "recency": 0.7751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -428,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -452,6 +472,129 @@
         "url": "https://x.com/testingcatalog/status/2072585845542969583",
         "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_220c563c3540",
+      "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+      "primary_url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
+          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:46:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
+          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:46:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9876,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T08:46:56Z",
+      "latest_at": "2026-07-02T08:46:56Z",
+      "primary_item": {
+        "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
+        "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+        "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_774ebb0256c8",
+      "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T18:39:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T18:39:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8053,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T18:39:17Z",
+      "latest_at": "2026-07-01T18:39:17Z",
+      "primary_item": {
+        "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+        "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+        "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -489,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9015,
+        "recency": 0.882,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -587,15 +730,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7271,
+        "recency": 0.7114,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -612,68 +755,6 @@
         "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f7b1eaa8826e",
-      "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T19:00:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T19:00:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8273,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T19:00:21Z",
-      "latest_at": "2026-07-01T19:00:21Z",
-      "primary_item": {
-        "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-        "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -730,22 +811,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7665,
+        "recency": 0.7499,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T13:43:07Z",
       "latest_at": "2026-07-01T13:43:07Z",
@@ -754,6 +834,409 @@
         "title": "Meta效仿SpaceX，将过剩AI算力变现",
         "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7b5406df4999",
+      "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+      "url": "https://www.aibase.com/news/29322",
+      "primary_url": "https://www.aibase.com/news/29322",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
+          "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+          "url": "https://www.aibase.com/news/29322",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T02:25:07.966789Z"
+        },
+        {
+          "id": "fc17b0ac1b315bde1bad1f35bd399993411fcb06",
+          "title": "AI 云平台 Together AI 完成 8 亿美元 C 轮融资，估值达 83 亿美元、年预订额超 11 亿",
+          "url": "https://www.aibase.com/zh/news/29322",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
+          "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+          "url": "https://www.aibase.com/news/29322",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T02:25:07.966789Z"
+        },
+        {
+          "id": "fc17b0ac1b315bde1bad1f35bd399993411fcb06",
+          "title": "AI 云平台 Together AI 完成 8 亿美元 C 轮融资，估值达 83 亿美元、年预订额超 11 亿",
+          "url": "https://www.aibase.com/zh/news/29322",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9009,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T02:25:07.966789Z",
+      "latest_at": "2026-07-02T02:25:07.966789Z",
+      "primary_item": {
+        "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
+        "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+        "url": "https://www.aibase.com/news/29322",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_69c215f0bf18",
+      "title": "Claude Code v2.1.198 发布",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
+          "title": "Claude Code v2.1.198 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T20:45:36Z"
+        },
+        {
+          "id": "328e91c43f76178b569f3be140e99b4037ed373d",
+          "title": "v2.1.198",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T20:45:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude Code Releases",
+        "Claude Code：GitHub Releases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
+          "title": "Claude Code v2.1.198 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T20:45:36Z"
+        },
+        {
+          "id": "328e91c43f76178b569f3be140e99b4037ed373d",
+          "title": "v2.1.198",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T20:45:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8302,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T20:45:36Z",
+      "latest_at": "2026-07-01T20:45:36Z",
+      "primary_item": {
+        "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
+        "title": "Claude Code v2.1.198 发布",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0054df545125",
+      "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+      "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+      "primary_url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+      "source": "公众号：昆仑万维（天工）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "454069cd6d29664414373234271738c1cfe9e519",
+          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+          "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T02:53:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：昆仑万维（天工）"
+      ],
+      "items": [
+        {
+          "id": "454069cd6d29664414373234271738c1cfe9e519",
+          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+          "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T02:53:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.907,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-02T02:53:26Z",
+      "latest_at": "2026-07-02T02:53:26Z",
+      "primary_item": {
+        "id": "454069cd6d29664414373234271738c1cfe9e519",
+        "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+        "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+        "source": "公众号：昆仑万维（天工）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0818b7e36264",
+      "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+      "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T20:32:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T20:32:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8277,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T20:32:52Z",
+      "latest_at": "2026-07-01T20:32:52Z",
+      "primary_item": {
+        "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+        "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+        "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7e785d3f2ef4",
+      "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
+      "url": "https://x.com/xai/status/2072342803787702422",
+      "primary_url": "https://x.com/xai/status/2072342803787702422",
+      "source": "X：xAI (@xai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "19e6a758562d4ee800ea3e69234d42ca926cadb9",
+          "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
+          "url": "https://x.com/xai/status/2072342803787702422",
+          "source": "X：xAI (@xai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T15:33:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：xAI (@xai)"
+      ],
+      "items": [
+        {
+          "id": "19e6a758562d4ee800ea3e69234d42ca926cadb9",
+          "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
+          "url": "https://x.com/xai/status/2072342803787702422",
+          "source": "X：xAI (@xai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T15:33:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T15:33:21Z",
+      "latest_at": "2026-07-01T15:33:21Z",
+      "primary_item": {
+        "id": "19e6a758562d4ee800ea3e69234d42ca926cadb9",
+        "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
+        "url": "https://x.com/xai/status/2072342803787702422",
+        "source": "X：xAI (@xai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7bec97c12fd8",
+      "title": "Meta 大规模 AI 存储蓝图",
+      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+      "primary_url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+      "source": "Meta Engineering Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "47cce869fdc7767c028d74cc046f7f674885f398",
+          "title": "Meta 大规模 AI 存储蓝图",
+          "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T16:00:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Meta Engineering Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "47cce869fdc7767c028d74cc046f7f674885f398",
+          "title": "Meta 大规模 AI 存储蓝图",
+          "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T16:00:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7752,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T16:00:36Z",
+      "latest_at": "2026-07-01T16:00:36Z",
+      "primary_item": {
+        "id": "47cce869fdc7767c028d74cc046f7f674885f398",
+        "title": "Meta 大规模 AI 存储蓝图",
+        "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+        "source": "Meta Engineering Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -811,15 +1294,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.9009,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -836,286 +1319,6 @@
         "url": "https://www.aibase.com/news/29325",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ebdc837ee1f0",
-      "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
-      "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
-      "primary_url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a02da64dc6e9f253657f250719231d72c42a1cd6",
-          "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
-          "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T08:10:17Z"
-        },
-        {
-          "id": "0fafe80f32af041dd3b919708611c1997b1364e7",
-          "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型 / NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
-          "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T08:10:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a02da64dc6e9f253657f250719231d72c42a1cd6",
-          "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
-          "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T08:10:17Z"
-        },
-        {
-          "id": "0fafe80f32af041dd3b919708611c1997b1364e7",
-          "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型 / NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
-          "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T08:10:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7075,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T08:10:17Z",
-      "latest_at": "2026-07-01T08:10:17Z",
-      "primary_item": {
-        "id": "a02da64dc6e9f253657f250719231d72c42a1cd6",
-        "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
-        "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_69c215f0bf18",
-      "title": "Claude Code v2.1.198 发布",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
-          "title": "Claude Code v2.1.198 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T20:45:36Z"
-        },
-        {
-          "id": "328e91c43f76178b569f3be140e99b4037ed373d",
-          "title": "v2.1.198",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T20:45:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude Code Releases",
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
-          "title": "Claude Code v2.1.198 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T20:45:36Z"
-        },
-        {
-          "id": "328e91c43f76178b569f3be140e99b4037ed373d",
-          "title": "v2.1.198",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T20:45:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8486,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T20:45:36Z",
-      "latest_at": "2026-07-01T20:45:36Z",
-      "primary_item": {
-        "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
-        "title": "Claude Code v2.1.198 发布",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0054df545125",
-      "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-      "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
-      "primary_url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
-      "source": "公众号：昆仑万维（天工）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "454069cd6d29664414373234271738c1cfe9e519",
-          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-          "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T02:53:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：昆仑万维（天工）"
-      ],
-      "items": [
-        {
-          "id": "454069cd6d29664414373234271738c1cfe9e519",
-          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-          "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T02:53:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9271,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T02:53:26Z",
-      "latest_at": "2026-07-02T02:53:26Z",
-      "primary_item": {
-        "id": "454069cd6d29664414373234271738c1cfe9e519",
-        "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-        "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
-        "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7e785d3f2ef4",
-      "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
-      "url": "https://x.com/xai/status/2072342803787702422",
-      "primary_url": "https://x.com/xai/status/2072342803787702422",
-      "source": "X：xAI (@xai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "19e6a758562d4ee800ea3e69234d42ca926cadb9",
-          "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
-          "url": "https://x.com/xai/status/2072342803787702422",
-          "source": "X：xAI (@xai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T15:33:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：xAI (@xai)"
-      ],
-      "items": [
-        {
-          "id": "19e6a758562d4ee800ea3e69234d42ca926cadb9",
-          "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
-          "url": "https://x.com/xai/status/2072342803787702422",
-          "source": "X：xAI (@xai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T15:33:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7871,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T15:33:21Z",
-      "latest_at": "2026-07-01T15:33:21Z",
-      "primary_item": {
-        "id": "19e6a758562d4ee800ea3e69234d42ca926cadb9",
-        "title": "xAI 推出 Voice Agent Builder 语音智能体平台",
-        "url": "https://x.com/xai/status/2072342803787702422",
-        "source": "X：xAI (@xai)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1153,15 +1356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8696,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1178,187 +1381,6 @@
         "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7bec97c12fd8",
-      "title": "Meta 大规模 AI 存储蓝图",
-      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-      "primary_url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-      "source": "Meta Engineering Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "47cce869fdc7767c028d74cc046f7f674885f398",
-          "title": "Meta 大规模 AI 存储蓝图",
-          "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T16:00:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Meta Engineering Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "47cce869fdc7767c028d74cc046f7f674885f398",
-          "title": "Meta 大规模 AI 存储蓝图",
-          "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T16:00:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7923,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T16:00:36Z",
-      "latest_at": "2026-07-01T16:00:36Z",
-      "primary_item": {
-        "id": "47cce869fdc7767c028d74cc046f7f674885f398",
-        "title": "Meta 大规模 AI 存储蓝图",
-        "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-        "source": "Meta Engineering Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1d6ba25fd397",
-      "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
-      "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
-      "primary_url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0bba8dc83cb74e835ca79c5d4daaa9600a00e4da",
-          "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
-          "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T17:17:56.374000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0bba8dc83cb74e835ca79c5d4daaa9600a00e4da",
-          "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
-          "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T17:17:56.374000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8072,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T17:17:56.374000Z",
-      "latest_at": "2026-07-01T17:17:56.374000Z",
-      "primary_item": {
-        "id": "0bba8dc83cb74e835ca79c5d4daaa9600a00e4da",
-        "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
-        "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4cfc32091eff",
-      "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
-      "url": "https://www.aibase.com/news/29343",
-      "primary_url": "https://www.aibase.com/news/29343",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "35633bbaf13fe2293401400f26a31b105fc21609",
-          "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
-          "url": "https://www.aibase.com/news/29343",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T08:07:51.936302Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "35633bbaf13fe2293401400f26a31b105fc21609",
-          "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
-          "url": "https://www.aibase.com/news/29343",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T08:07:51.936302Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:07:51.936302Z",
-      "latest_at": "2026-07-02T08:07:51.936302Z",
-      "primary_item": {
-        "id": "35633bbaf13fe2293401400f26a31b105fc21609",
-        "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
-        "url": "https://www.aibase.com/news/29343",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
