@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:00:10.023509Z",
+  "generated_at": "2026-07-02T11:54:56.019992Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7937,
+        "recency": 0.7833,
         "story_heat": 0.25
       },
       "category": "official",
@@ -83,6 +83,125 @@
         "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d9b5489d8ce2",
+      "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+      "url": "https://senior-swe-bench.snorkel.ai",
+      "primary_url": "https://senior-swe-bench.snorkel.ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:04:07.048000Z"
+        },
+        {
+          "id": "f0a802751bdfc6355642d0b10abc9a4ad8a126be",
+          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "senior-swe-bench.snorkel.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T11:04:07.048000Z"
+        },
+        {
+          "id": "44b9ee525eb636ab1d6f7ecc83a60b0b20202e13",
+          "title": "Senior SWE-Bench：评估代理为高级工程师的开源基准 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "url": "https://news.ycombinator.com/item?id=48755928",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T03:50:03.611000Z"
+        },
+        {
+          "id": "a293e1687a992ba913921d84c24a95a849331e6e",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T02:55:16Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "senior-swe-bench.snorkel.ai"
+      ],
+      "items": [
+        {
+          "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:04:07.048000Z"
+        },
+        {
+          "id": "f0a802751bdfc6355642d0b10abc9a4ad8a126be",
+          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "senior-swe-bench.snorkel.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T11:04:07.048000Z"
+        },
+        {
+          "id": "44b9ee525eb636ab1d6f7ecc83a60b0b20202e13",
+          "title": "Senior SWE-Bench：评估代理为高级工程师的开源基准 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "url": "https://news.ycombinator.com/item?id=48755928",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T03:50:03.611000Z"
+        },
+        {
+          "id": "a293e1687a992ba913921d84c24a95a849331e6e",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T02:55:16Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9878,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T02:55:16Z",
+      "latest_at": "2026-07-02T11:04:07.048000Z",
+      "primary_item": {
+        "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
+        "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+        "url": "https://senior-swe-bench.snorkel.ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -120,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9616,
+        "recency": 0.949,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7851,
+        "recency": 0.7748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -207,6 +326,67 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b1ace1e3f9bf",
+      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+      "url": "https://x.com/shao__meng/status/2072644710523691110",
+      "primary_url": "https://x.com/shao__meng/status/2072644710523691110",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:33:01Z",
+      "latest_at": "2026-07-02T11:33:01Z",
+      "primary_item": {
+        "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+        "url": "https://x.com/shao__meng/status/2072644710523691110",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -263,15 +443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7868,
+      "importance": 0.7868,
+      "importance_score": 0.7868,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9678,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -344,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9684,
+        "recency": 0.9558,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -406,15 +586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.889,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -467,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.76,
+        "recency": 0.7501,
         "story_heat": 0.0
       },
       "category": "official",
@@ -529,15 +709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9528,
+        "recency": 0.9403,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,6 +732,67 @@
         "title": "OpenAI提议美国政府持股5%估值426亿美元",
         "url": "https://x.com/testingcatalog/status/2072585845542969583",
         "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_93d430ce90c0",
+      "title": "谷歌AI建设导致2025年用电量增长37%",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+      "primary_url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffb59e970921b8c03e6494ac178ab4119a203df2",
+          "title": "谷歌AI建设导致2025年用电量增长37%",
+          "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:15:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffb59e970921b8c03e6494ac178ab4119a203df2",
+          "title": "谷歌AI建设导致2025年用电量增长37%",
+          "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:15:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9906,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:15:49Z",
+      "latest_at": "2026-07-02T11:15:49Z",
+      "primary_item": {
+        "id": "ffb59e970921b8c03e6494ac178ab4119a203df2",
+        "title": "谷歌AI建设导致2025年用电量增长37%",
+        "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -590,15 +831,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7897,
+        "recency": 0.7794,
         "story_heat": 0.0
       },
       "category": "official",
@@ -618,64 +859,84 @@
       }
     },
     {
-      "story_id": "story_d8f3653ac051",
-      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-      "url": "https://x.com/shao__meng/status/2072484635955900792",
-      "primary_url": "https://x.com/shao__meng/status/2072484635955900792",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
+      "story_id": "story_49bd0efe02c7",
+      "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+      "url": "https://www.aibase.com/news/29342",
+      "primary_url": "https://www.aibase.com/news/29342",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
-          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-          "url": "https://x.com/shao__meng/status/2072484635955900792",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T00:56:56Z"
+          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
+          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+          "url": "https://www.aibase.com/news/29342",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T08:07:51.936302Z"
+        },
+        {
+          "id": "412baf47c5e79794459ce1dcad201ecd550e8406",
+          "title": "让 Agent 越用越强：AReaL 2.0 开源，打造面向自演进智能体的 RL 基础设施",
+          "url": "https://www.qbitai.com/2026/07/442134.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：邵猛 (@shao__meng)"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
-          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-          "url": "https://x.com/shao__meng/status/2072484635955900792",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T00:56:56Z"
+          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
+          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+          "url": "https://www.aibase.com/news/29342",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T08:07:51.936302Z"
+        },
+        {
+          "id": "412baf47c5e79794459ce1dcad201ecd550e8406",
+          "title": "让 Agent 越用越强：AReaL 2.0 开源，打造面向自演进智能体的 RL 基础设施",
+          "url": "https://www.qbitai.com/2026/07/442134.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8649,
-        "story_heat": 0.0
+        "recency": 0.9468,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T00:56:56Z",
-      "latest_at": "2026-07-02T00:56:56Z",
+      "earliest_at": "2026-07-02T08:07:51.936302Z",
+      "latest_at": "2026-07-02T11:54:56.019992Z",
       "primary_item": {
-        "id": "be89553067b21e59ee095ac130c583c9121efbfc",
-        "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-        "url": "https://x.com/shao__meng/status/2072484635955900792",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
+        "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
+        "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+        "url": "https://www.aibase.com/news/29342",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -732,15 +993,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7354,
+        "recency": 0.7258,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -756,87 +1017,6 @@
         "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7b5406df4999",
-      "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
-      "url": "https://www.aibase.com/news/29322",
-      "primary_url": "https://www.aibase.com/news/29322",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
-          "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
-          "url": "https://www.aibase.com/news/29322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T02:25:07.966789Z"
-        },
-        {
-          "id": "fc17b0ac1b315bde1bad1f35bd399993411fcb06",
-          "title": "AI 云平台 Together AI 完成 8 亿美元 C 轮融资，估值达 83 亿美元、年预订额超 11 亿",
-          "url": "https://www.aibase.com/zh/news/29322",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
-          "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
-          "url": "https://www.aibase.com/news/29322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T02:25:07.966789Z"
-        },
-        {
-          "id": "fc17b0ac1b315bde1bad1f35bd399993411fcb06",
-          "title": "AI 云平台 Together AI 完成 8 亿美元 C 轮融资，估值达 83 亿美元、年预订额超 11 亿",
-          "url": "https://www.aibase.com/zh/news/29322",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8834,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T02:25:07.966789Z",
-      "latest_at": "2026-07-02T02:25:07.966789Z",
-      "primary_item": {
-        "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
-        "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
-        "url": "https://www.aibase.com/news/29322",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -874,15 +1054,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9909,
+        "recency": 0.9779,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -953,15 +1133,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8141,
+        "recency": 0.8034,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1014,15 +1194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8895,
+        "recency": 0.8778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,15 +1254,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8116,
+        "recency": 0.801,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1102,49 +1282,49 @@
       }
     },
     {
-      "story_id": "story_eee24709d878",
-      "title": "证监会同意宇树科技科创板 IPO 注册申请",
-      "url": "https://www.ithome.com/0/971/790.htm",
-      "primary_url": "https://www.ithome.com/0/971/790.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_d8f3653ac051",
+      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+      "url": "https://x.com/shao__meng/status/2072484635955900792",
+      "primary_url": "https://x.com/shao__meng/status/2072484635955900792",
+      "source": "X：邵猛 (@shao__meng)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "62ad6650d7e42d6aea5838c848815ee92ebf000e",
-          "title": "证监会同意宇树科技科创板 IPO 注册申请",
-          "url": "https://www.ithome.com/0/971/790.htm",
-          "source": "IT之家（RSS）",
+          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
+          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+          "url": "https://x.com/shao__meng/status/2072484635955900792",
+          "source": "X：邵猛 (@shao__meng)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T09:10:36Z"
+          "published_at": "2026-07-02T00:56:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：邵猛 (@shao__meng)"
       ],
       "items": [
         {
-          "id": "62ad6650d7e42d6aea5838c848815ee92ebf000e",
-          "title": "证监会同意宇树科技科创板 IPO 注册申请",
-          "url": "https://www.ithome.com/0/971/790.htm",
-          "source": "IT之家（RSS）",
+          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
+          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+          "url": "https://x.com/shao__meng/status/2072484635955900792",
+          "source": "X：邵猛 (@shao__meng)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T09:10:36Z"
+          "published_at": "2026-07-02T00:56:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.974,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1152,13 +1332,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T09:10:36Z",
-      "latest_at": "2026-07-02T09:10:36Z",
+      "earliest_at": "2026-07-02T00:56:56Z",
+      "latest_at": "2026-07-02T00:56:56Z",
       "primary_item": {
-        "id": "62ad6650d7e42d6aea5838c848815ee92ebf000e",
-        "title": "证监会同意宇树科技科创板 IPO 注册申请",
-        "url": "https://www.ithome.com/0/971/790.htm",
-        "source": "IT之家（RSS）",
+        "id": "be89553067b21e59ee095ac130c583c9121efbfc",
+        "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+        "url": "https://x.com/shao__meng/status/2072484635955900792",
+        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     },
@@ -1197,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7552,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1220,147 +1400,6 @@
         "url": "https://x.com/xai/status/2072342803787702422",
         "source": "X：xAI (@xai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7bec97c12fd8",
-      "title": "Meta 大规模 AI 存储蓝图",
-      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-      "primary_url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-      "source": "Meta Engineering Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "47cce869fdc7767c028d74cc046f7f674885f398",
-          "title": "Meta 大规模 AI 存储蓝图",
-          "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T16:00:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Meta Engineering Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "47cce869fdc7767c028d74cc046f7f674885f398",
-          "title": "Meta 大规模 AI 存储蓝图",
-          "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T16:00:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7601,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T16:00:36Z",
-      "latest_at": "2026-07-01T16:00:36Z",
-      "primary_item": {
-        "id": "47cce869fdc7767c028d74cc046f7f674885f398",
-        "title": "Meta 大规模 AI 存储蓝图",
-        "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-        "source": "Meta Engineering Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5c663f539d31",
-      "title": "Meta效仿SpaceX建立云业务:转售闲置AI算力，股价大涨10%",
-      "url": "https://www.aibase.com/news/29325",
-      "primary_url": "https://www.aibase.com/news/29325",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b79ddc30019edd199a16d439a396ed3c4206ab1c",
-          "title": "Meta效仿SpaceX建立云业务:转售闲置AI算力，股价大涨10%",
-          "url": "https://www.aibase.com/news/29325",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T02:25:07.966789Z"
-        },
-        {
-          "id": "16b62ff099d27a7a0443a75894bbb4ea56a2edc0",
-          "title": "Meta 效仿 SpaceX 建立云业务：转售闲置 AI 算力，股价大涨 10%",
-          "url": "https://www.aibase.com/zh/news/29325",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b79ddc30019edd199a16d439a396ed3c4206ab1c",
-          "title": "Meta效仿SpaceX建立云业务:转售闲置AI算力，股价大涨10%",
-          "url": "https://www.aibase.com/news/29325",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T02:25:07.966789Z"
-        },
-        {
-          "id": "16b62ff099d27a7a0443a75894bbb4ea56a2edc0",
-          "title": "Meta 效仿 SpaceX 建立云业务：转售闲置 AI 算力，股价大涨 10%",
-          "url": "https://www.aibase.com/zh/news/29325",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8834,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T02:25:07.966789Z",
-      "latest_at": "2026-07-02T02:25:07.966789Z",
-      "primary_item": {
-        "id": "b79ddc30019edd199a16d439a396ed3c4206ab1c",
-        "title": "Meta效仿SpaceX建立云业务:转售闲置AI算力，股价大涨10%",
-        "url": "https://www.aibase.com/news/29325",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
