@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T06:48:31.303915Z",
+  "generated_at": "2026-07-02T08:07:51.936302Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.839,
+        "recency": 0.8232,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8341,
+        "recency": 0.8184,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8623,
+        "recency": 0.846,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -304,15 +304,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9386,
+        "recency": 0.9208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -366,15 +366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8075,
+        "recency": 0.7922,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,6 +391,67 @@
         "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8d75d1916b30",
+      "title": "OpenAI提议美国政府持股5%估值426亿美元",
+      "url": "https://x.com/testingcatalog/status/2072585845542969583",
+      "primary_url": "https://x.com/testingcatalog/status/2072585845542969583",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "338f15597c804ed8693a8a85a9fc1c54164fb9c2",
+          "title": "OpenAI提议美国政府持股5%估值426亿美元",
+          "url": "https://x.com/testingcatalog/status/2072585845542969583",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T07:39:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "items": [
+        {
+          "id": "338f15597c804ed8693a8a85a9fc1c54164fb9c2",
+          "title": "OpenAI提议美国政府持股5%估值426亿美元",
+          "url": "https://x.com/testingcatalog/status/2072585845542969583",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T07:39:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9931,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T07:39:07Z",
+      "latest_at": "2026-07-02T07:39:07Z",
+      "primary_item": {
+        "id": "338f15597c804ed8693a8a85a9fc1c54164fb9c2",
+        "title": "OpenAI提议美国政府持股5%估值426亿美元",
+        "url": "https://x.com/testingcatalog/status/2072585845542969583",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -428,15 +489,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9189,
+        "recency": 0.9015,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,15 +587,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7411,
+        "recency": 0.7271,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -588,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8433,
+        "recency": 0.8273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -669,15 +730,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7813,
+        "recency": 0.7665,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -750,15 +811,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9386,
+        "recency": 0.9208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -831,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7212,
+        "recency": 0.7075,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -911,15 +972,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8649,
+        "recency": 0.8486,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -972,15 +1033,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.945,
+        "recency": 0.9271,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1032,15 +1093,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8023,
+        "recency": 0.7871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1092,15 +1153,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8864,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1154,15 +1215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8076,
+        "recency": 0.7923,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1214,15 +1275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8228,
+        "recency": 0.8072,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1240,21 +1301,21 @@
       }
     },
     {
-      "story_id": "story_1b6f6f5228d6",
-      "title": "无缝升级!阿里打包升级QoderWork等多款AI工具，聚焦企业核心场景",
-      "url": "https://www.aibase.com/news/29337",
-      "primary_url": "https://www.aibase.com/news/29337",
+      "story_id": "story_4cfc32091eff",
+      "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
+      "url": "https://www.aibase.com/news/29343",
+      "primary_url": "https://www.aibase.com/news/29343",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2e87953a9117e14dde20ff121a939ab2638d4723",
-          "title": "无缝升级!阿里打包升级QoderWork等多款AI工具，聚焦企业核心场景",
-          "url": "https://www.aibase.com/news/29337",
+          "id": "35633bbaf13fe2293401400f26a31b105fc21609",
+          "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
+          "url": "https://www.aibase.com/news/29343",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T06:48:31.303915Z"
+          "published_at": "2026-07-02T08:07:51.936302Z"
         }
       ],
       "source_count": 1,
@@ -1263,13 +1324,13 @@
       ],
       "items": [
         {
-          "id": "2e87953a9117e14dde20ff121a939ab2638d4723",
-          "title": "无缝升级!阿里打包升级QoderWork等多款AI工具，聚焦企业核心场景",
-          "url": "https://www.aibase.com/news/29337",
+          "id": "35633bbaf13fe2293401400f26a31b105fc21609",
+          "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
+          "url": "https://www.aibase.com/news/29343",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T06:48:31.303915Z"
+          "published_at": "2026-07-02T08:07:51.936302Z"
         }
       ],
       "item_count": 1,
@@ -1290,76 +1351,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T06:48:31.303915Z",
-      "latest_at": "2026-07-02T06:48:31.303915Z",
+      "earliest_at": "2026-07-02T08:07:51.936302Z",
+      "latest_at": "2026-07-02T08:07:51.936302Z",
       "primary_item": {
-        "id": "2e87953a9117e14dde20ff121a939ab2638d4723",
-        "title": "无缝升级!阿里打包升级QoderWork等多款AI工具，聚焦企业核心场景",
-        "url": "https://www.aibase.com/news/29337",
+        "id": "35633bbaf13fe2293401400f26a31b105fc21609",
+        "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
+        "url": "https://www.aibase.com/news/29343",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bfcd7a3f6d8e",
-      "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-      "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-      "primary_url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
-          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:33:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
-          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:33:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8378,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T18:33:24Z",
-      "latest_at": "2026-07-01T18:33:24Z",
-      "primary_item": {
-        "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
-        "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
-        "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
