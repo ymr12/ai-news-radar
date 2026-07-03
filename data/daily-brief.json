@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T22:55:48.185541Z",
+  "generated_at": "2026-07-03T23:28:25.847416Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8845,
+        "recency": 0.8776,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9493,
+        "recency": 0.9419,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -144,68 +144,6 @@
         "url": "https://github.com/teamchong/pxpipe",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_43115179668d",
-      "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-      "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-      "primary_url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
-          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:19:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
-          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:19:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7111,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T23:19:06Z",
-      "latest_at": "2026-07-02T23:19:06Z",
-      "primary_item": {
-        "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
-        "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-        "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -262,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8208,
+        "recency": 0.8143,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -287,68 +225,6 @@
         "url": "https://www.ithome.com/0/972/341.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_95944acec510",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-      "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-      "primary_url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:07:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:07:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.709,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T23:07:06Z",
-      "latest_at": "2026-07-02T23:07:06Z",
-      "primary_item": {
-        "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-        "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -405,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8342,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -467,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9428,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,15 +442,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8296,
+        "recency": 0.8231,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -590,6 +466,87 @@
         "title": "面向 Web 开发者的 Safari MCP 服务器",
         "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5fa8133bc14c",
+      "title": "Leanstral 1.5：人人可用的证明丰富性",
+      "url": "https://mistral.ai/news/leanstral-1-5",
+      "primary_url": "https://mistral.ai/news/leanstral-1-5",
+      "source": "Mistral AI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f671b636d24355b474d498f38c883db269d5f550",
+          "title": "Leanstral 1.5：人人可用的证明丰富性",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T15:19:52.792000Z"
+        },
+        {
+          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
+          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Mistral AI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "f671b636d24355b474d498f38c883db269d5f550",
+          "title": "Leanstral 1.5：人人可用的证明丰富性",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T15:19:52.792000Z"
+        },
+        {
+          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
+          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8891,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T15:19:52.792000Z",
+      "latest_at": "2026-07-03T22:33:10Z",
+      "primary_item": {
+        "id": "f671b636d24355b474d498f38c883db269d5f550",
+        "title": "Leanstral 1.5：人人可用的证明丰富性",
+        "url": "https://mistral.ai/news/leanstral-1-5",
+        "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -628,15 +585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.8525,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -689,15 +646,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.817,
+        "recency": 0.8106,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -768,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7548,
+        "recency": 0.7489,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -849,15 +806,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7144,
+        "recency": 0.7088,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -910,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8454,
+        "recency": 0.8387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,66 +889,6 @@
         "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
         "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
         "source": "公众号：生数科技（Vidu·视频）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5fa8133bc14c",
-      "title": "Leanstral 1.5：人人可用的证明丰富性",
-      "url": "https://mistral.ai/news/leanstral-1-5",
-      "primary_url": "https://mistral.ai/news/leanstral-1-5",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f671b636d24355b474d498f38c883db269d5f550",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52.792000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "f671b636d24355b474d498f38c883db269d5f550",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52.792000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8961,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T15:19:52.792000Z",
-      "latest_at": "2026-07-03T15:19:52.792000Z",
-      "primary_item": {
-        "id": "f671b636d24355b474d498f38c883db269d5f550",
-        "title": "Leanstral 1.5：人人可用的证明丰富性",
-        "url": "https://mistral.ai/news/leanstral-1-5",
-        "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1049,15 +946,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8023,
+        "recency": 0.796,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1111,15 +1008,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8304,
+        "recency": 0.8239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1190,15 +1087,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7712,
+        "recency": 0.7651,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1271,15 +1168,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7863,
+        "recency": 0.7801,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1333,15 +1230,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8534,
+        "recency": 0.8467,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1413,15 +1310,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7862,
+        "recency": 0.78,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1437,6 +1334,200 @@
         "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_43ac18a63f07",
+      "title": "可灵AI 获 30 亿美元融资，估值达 180 亿美元创视频大模型融资纪录",
+      "url": "https://www.aibase.com/news/29349",
+      "primary_url": "https://www.aibase.com/news/29349",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d418f0e5bbea10f149a57bca1742bbcf6098420d",
+          "title": "可灵AI 获 30 亿美元融资，估值达 180 亿美元创视频大模型融资纪录",
+          "url": "https://www.aibase.com/news/29349",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T01:41:09.258628Z"
+        },
+        {
+          "id": "ccdfa5c12a6d3b57249dd70c7ac0d997556067b4",
+          "title": "可灵 AI 获 30 亿美元融资，估值达 180 亿美元创视频大模型融资纪录",
+          "url": "https://www.aibase.com/zh/news/29349",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d418f0e5bbea10f149a57bca1742bbcf6098420d",
+          "title": "可灵AI 获 30 亿美元融资，估值达 180 亿美元创视频大模型融资纪录",
+          "url": "https://www.aibase.com/news/29349",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T01:41:09.258628Z"
+        },
+        {
+          "id": "ccdfa5c12a6d3b57249dd70c7ac0d997556067b4",
+          "title": "可灵 AI 获 30 亿美元融资，估值达 180 亿美元创视频大模型融资纪录",
+          "url": "https://www.aibase.com/zh/news/29349",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7301,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T01:41:09.258628Z",
+      "latest_at": "2026-07-03T01:41:09.258628Z",
+      "primary_item": {
+        "id": "d418f0e5bbea10f149a57bca1742bbcf6098420d",
+        "title": "可灵AI 获 30 亿美元融资，估值达 180 亿美元创视频大模型融资纪录",
+        "url": "https://www.aibase.com/news/29349",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-03",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "5d7f9264c7495b8f5875fd8aa25facfd1201ec78",
+          "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-03T18:00:37.123701Z"
+        },
+        {
+          "id": "7be30fc5004302e8d685fa42513f6dcf508bde9c",
+          "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-03T17:00:56.208442Z"
+        },
+        {
+          "id": "3732ef9e062ca1ed59de9e1cbe68d7347b3591c8",
+          "title": "很多团队已经把 Cursor、Claude Code、原型工具接进日常工作，可真正卡人的地方常常不在模型参数。任务还是散落在邮件、日历、Slack、文件夹和脑子里，人还在手动搬数据、反复确认权限、盯着屏幕等 AI 跑完。Anthropic 工程负责人 Felix Rieseberg 在这期对话里就拆解了他们日常到底怎么用Claude处理这种协作问题的。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-03T17:00:56.208442Z"
+        },
+        {
+          "id": "59dca140a0ff479fc02a44a422749daf48fe29f3",
+          "title": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-03T17:00:56.208442Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-07-03"
+      ],
+      "items": [
+        {
+          "id": "5d7f9264c7495b8f5875fd8aa25facfd1201ec78",
+          "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-03T18:00:37.123701Z"
+        },
+        {
+          "id": "7be30fc5004302e8d685fa42513f6dcf508bde9c",
+          "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-03T17:00:56.208442Z"
+        },
+        {
+          "id": "3732ef9e062ca1ed59de9e1cbe68d7347b3591c8",
+          "title": "很多团队已经把 Cursor、Claude Code、原型工具接进日常工作，可真正卡人的地方常常不在模型参数。任务还是散落在邮件、日历、Slack、文件夹和脑子里，人还在手动搬数据、反复确认权限、盯着屏幕等 AI 跑完。Anthropic 工程负责人 Felix Rieseberg 在这期对话里就拆解了他们日常到底怎么用Claude处理这种协作问题的。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-03T17:00:56.208442Z"
+        },
+        {
+          "id": "59dca140a0ff479fc02a44a422749daf48fe29f3",
+          "title": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-03T17:00:56.208442Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6323,
+      "importance": 0.6323,
+      "importance_score": 0.6323,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4752,
+        "source_tier": 0.54,
+        "ai_relevance": 0.66,
+        "recency": 0.911,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T17:00:56.208442Z",
+      "latest_at": "2026-07-03T18:00:37.123701Z",
+      "primary_item": {
+        "id": "7be30fc5004302e8d685fa42513f6dcf508bde9c",
+        "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-03",
+        "source_name": "WaytoAGI"
       }
     }
   ]
