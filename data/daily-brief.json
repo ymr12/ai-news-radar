@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T01:41:09.258628Z",
+  "generated_at": "2026-07-03T03:14:04.643252Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8459,
-      "importance": 0.8459,
-      "importance_score": 0.8459,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9664,
+        "recency": 0.945,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9636,
+        "recency": 0.9423,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,125 +125,6 @@
         "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d9b5489d8ce2",
-      "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-      "url": "https://senior-swe-bench.snorkel.ai",
-      "primary_url": "https://senior-swe-bench.snorkel.ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
-          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:04:07.048000Z"
-        },
-        {
-          "id": "f0a802751bdfc6355642d0b10abc9a4ad8a126be",
-          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "senior-swe-bench.snorkel.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-02T11:04:07.048000Z"
-        },
-        {
-          "id": "44b9ee525eb636ab1d6f7ecc83a60b0b20202e13",
-          "title": "Senior SWE-Bench：评估代理为高级工程师的开源基准 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-          "url": "https://news.ycombinator.com/item?id=48755928",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-02T03:50:03.611000Z"
-        },
-        {
-          "id": "029738a6aaa5600ef197c2efe024b2c0931cae74",
-          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-02T02:55:16Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "senior-swe-bench.snorkel.ai"
-      ],
-      "items": [
-        {
-          "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
-          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:04:07.048000Z"
-        },
-        {
-          "id": "f0a802751bdfc6355642d0b10abc9a4ad8a126be",
-          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "senior-swe-bench.snorkel.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-02T11:04:07.048000Z"
-        },
-        {
-          "id": "44b9ee525eb636ab1d6f7ecc83a60b0b20202e13",
-          "title": "Senior SWE-Bench：评估代理为高级工程师的开源基准 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-          "url": "https://news.ycombinator.com/item?id=48755928",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-02T03:50:03.611000Z"
-        },
-        {
-          "id": "029738a6aaa5600ef197c2efe024b2c0931cae74",
-          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-02T02:55:16Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8097,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T02:55:16Z",
-      "latest_at": "2026-07-02T11:04:07.048000Z",
-      "primary_item": {
-        "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
-        "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-        "url": "https://senior-swe-bench.snorkel.ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -300,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.912,
+        "recency": 0.8918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9779,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9708,
+        "recency": 0.9494,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -524,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9269,
+        "recency": 0.9064,
         "story_heat": 0.0
       },
       "category": "official",
@@ -624,15 +505,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.812,
+        "recency": 0.794,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -648,351 +529,6 @@
         "title": "谷歌AI建设导致2025年用电量增长37%",
         "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
         "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_457e95cf2cb4",
-      "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-      "primary_url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
-          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:51:39Z"
-        },
-        {
-          "id": "d268415982924c19f5449a3ba0c5c886147116dd",
-          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控 / Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
-          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T20:51:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
-          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:51:39Z"
-        },
-        {
-          "id": "d268415982924c19f5449a3ba0c5c886147116dd",
-          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控 / Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
-          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T20:51:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9327,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T20:51:39Z",
-      "latest_at": "2026-07-02T20:51:39Z",
-      "primary_item": {
-        "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
-        "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-        "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_88db1ffe96a6",
-      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-      "url": "https://www.ithome.com/0/971/937.htm",
-      "primary_url": "https://www.ithome.com/0/971/937.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
-          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-          "url": "https://www.ithome.com/0/971/937.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T14:22:49Z"
-        },
-        {
-          "id": "ff6e685d87a407c2e7fedbfbd04141e9630300ed",
-          "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
-          "url": "https://www.ithome.com/0/971/937.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
-          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-          "url": "https://www.ithome.com/0/971/937.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T14:22:49Z"
-        },
-        {
-          "id": "ff6e685d87a407c2e7fedbfbd04141e9630300ed",
-          "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
-          "url": "https://www.ithome.com/0/971/937.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8494,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T14:22:49Z",
-      "latest_at": "2026-07-02T14:53:01.862170Z",
-      "primary_item": {
-        "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
-        "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-        "url": "https://www.ithome.com/0/971/937.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_34e272d19172",
-      "title": "关于Mythos和网络安全的讨论并非炒作",
-      "url": "https://x.com/emollick/status/2072778376494895139",
-      "primary_url": "https://x.com/emollick/status/2072778376494895139",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-          "title": "关于Mythos和网络安全的讨论并非炒作",
-          "url": "https://x.com/emollick/status/2072778376494895139",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:24:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Ethan Mollick (@emollick)"
-      ],
-      "items": [
-        {
-          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-          "title": "关于Mythos和网络安全的讨论并非炒作",
-          "url": "https://x.com/emollick/status/2072778376494895139",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:24:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9265,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T20:24:09Z",
-      "latest_at": "2026-07-02T20:24:09Z",
-      "primary_item": {
-        "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-        "title": "关于Mythos和网络安全的讨论并非炒作",
-        "url": "https://x.com/emollick/status/2072778376494895139",
-        "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b1ace1e3f9bf",
-      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-      "url": "https://x.com/shao__meng/status/2072644710523691110",
-      "primary_url": "https://x.com/shao__meng/status/2072644710523691110",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://x.com/shao__meng/status/2072644710523691110",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://x.com/shao__meng/status/2072644710523691110",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8154,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T11:33:01Z",
-      "latest_at": "2026-07-02T11:33:01Z",
-      "primary_item": {
-        "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-        "url": "https://x.com/shao__meng/status/2072644710523691110",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5f6848e30c5a",
-      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-      "url": "https://x.com/kimmonismus/status/2072718147279335507",
-      "primary_url": "https://x.com/kimmonismus/status/2072718147279335507",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
-          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-          "url": "https://x.com/kimmonismus/status/2072718147279335507",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T16:24:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
-          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-          "url": "https://x.com/kimmonismus/status/2072718147279335507",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T16:24:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8747,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T16:24:50Z",
-      "latest_at": "2026-07-02T16:24:50Z",
-      "primary_item": {
-        "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
-        "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-        "url": "https://x.com/kimmonismus/status/2072718147279335507",
-        "source": "X：Kim (@kimmonismus)",
         "source_name": "AI HOT"
       }
     },
@@ -1069,15 +605,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7793,
+        "recency": 0.762,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1093,6 +629,351 @@
         "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
         "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_457e95cf2cb4",
+      "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+      "primary_url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
+          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:51:39Z"
+        },
+        {
+          "id": "d268415982924c19f5449a3ba0c5c886147116dd",
+          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控 / Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
+          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T20:51:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
+          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:51:39Z"
+        },
+        {
+          "id": "d268415982924c19f5449a3ba0c5c886147116dd",
+          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控 / Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
+          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T20:51:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9121,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T20:51:39Z",
+      "latest_at": "2026-07-02T20:51:39Z",
+      "primary_item": {
+        "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
+        "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+        "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_88db1ffe96a6",
+      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+      "url": "https://www.ithome.com/0/971/937.htm",
+      "primary_url": "https://www.ithome.com/0/971/937.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
+          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T14:22:49Z"
+        },
+        {
+          "id": "ff6e685d87a407c2e7fedbfbd04141e9630300ed",
+          "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
+          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T14:22:49Z"
+        },
+        {
+          "id": "ff6e685d87a407c2e7fedbfbd04141e9630300ed",
+          "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8306,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T14:22:49Z",
+      "latest_at": "2026-07-02T14:53:01.862170Z",
+      "primary_item": {
+        "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
+        "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+        "url": "https://www.ithome.com/0/971/937.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_34e272d19172",
+      "title": "关于Mythos和网络安全的讨论并非炒作",
+      "url": "https://x.com/emollick/status/2072778376494895139",
+      "primary_url": "https://x.com/emollick/status/2072778376494895139",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
+          "title": "关于Mythos和网络安全的讨论并非炒作",
+          "url": "https://x.com/emollick/status/2072778376494895139",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:24:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ethan Mollick (@emollick)"
+      ],
+      "items": [
+        {
+          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
+          "title": "关于Mythos和网络安全的讨论并非炒作",
+          "url": "https://x.com/emollick/status/2072778376494895139",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:24:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9061,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T20:24:09Z",
+      "latest_at": "2026-07-02T20:24:09Z",
+      "primary_item": {
+        "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
+        "title": "关于Mythos和网络安全的讨论并非炒作",
+        "url": "https://x.com/emollick/status/2072778376494895139",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b1ace1e3f9bf",
+      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+      "url": "https://x.com/shao__meng/status/2072644710523691110",
+      "primary_url": "https://x.com/shao__meng/status/2072644710523691110",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7973,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:33:01Z",
+      "latest_at": "2026-07-02T11:33:01Z",
+      "primary_item": {
+        "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+        "url": "https://x.com/shao__meng/status/2072644710523691110",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f6848e30c5a",
+      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+      "url": "https://x.com/kimmonismus/status/2072718147279335507",
+      "primary_url": "https://x.com/kimmonismus/status/2072718147279335507",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
+          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+          "url": "https://x.com/kimmonismus/status/2072718147279335507",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T16:24:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kim (@kimmonismus)"
+      ],
+      "items": [
+        {
+          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
+          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+          "url": "https://x.com/kimmonismus/status/2072718147279335507",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T16:24:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8553,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T16:24:50Z",
+      "latest_at": "2026-07-02T16:24:50Z",
+      "primary_item": {
+        "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
+        "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+        "url": "https://x.com/kimmonismus/status/2072718147279335507",
+        "source": "X：Kim (@kimmonismus)",
         "source_name": "AI HOT"
       }
     },
@@ -1131,15 +1012,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.896,
+        "recency": 0.8762,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1159,21 +1040,21 @@
       }
     },
     {
-      "story_id": "story_d27ddcf10896",
-      "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
-      "url": "https://www.aibase.com/news/29353",
-      "primary_url": "https://www.aibase.com/news/29353",
+      "story_id": "story_9425deafab70",
+      "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+      "url": "https://www.aibase.com/news/29357",
+      "primary_url": "https://www.aibase.com/news/29357",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
-          "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
-          "url": "https://www.aibase.com/news/29353",
+          "id": "67d61511e88d800fc0153ddef899081752e64fa5",
+          "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+          "url": "https://www.aibase.com/news/29357",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-03T01:41:09.258628Z"
+          "published_at": "2026-07-03T03:14:04.643252Z"
         }
       ],
       "source_count": 1,
@@ -1182,13 +1063,13 @@
       ],
       "items": [
         {
-          "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
-          "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
-          "url": "https://www.aibase.com/news/29353",
+          "id": "67d61511e88d800fc0153ddef899081752e64fa5",
+          "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+          "url": "https://www.aibase.com/news/29357",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-03T01:41:09.258628Z"
+          "published_at": "2026-07-03T03:14:04.643252Z"
         }
       ],
       "item_count": 1,
@@ -1209,12 +1090,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-03T01:41:09.258628Z",
-      "latest_at": "2026-07-03T01:41:09.258628Z",
+      "earliest_at": "2026-07-03T03:14:04.643252Z",
+      "latest_at": "2026-07-03T03:14:04.643252Z",
       "primary_item": {
-        "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
-        "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
-        "url": "https://www.aibase.com/news/29353",
+        "id": "67d61511e88d800fc0153ddef899081752e64fa5",
+        "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+        "url": "https://www.aibase.com/news/29357",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1254,15 +1135,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 0.8723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1314,15 +1195,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7707,
+        "recency": 0.7537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1374,15 +1255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9797,
+        "recency": 0.958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1453,15 +1334,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8282,
+        "recency": 0.8099,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1477,6 +1358,67 @@
         "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
         "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_87803e07e4a5",
+      "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+      "url": "https://www.ithome.com/0/971/971.htm",
+      "primary_url": "https://www.ithome.com/0/971/971.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d4cdd024dd389d1951401429fce6186aca5fbac0",
+          "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+          "url": "https://www.ithome.com/0/971/971.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T23:43:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d4cdd024dd389d1951401429fce6186aca5fbac0",
+          "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+          "url": "https://www.ithome.com/0/971/971.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T23:43:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9505,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T23:43:15Z",
+      "latest_at": "2026-07-02T23:43:15Z",
+      "primary_item": {
+        "id": "d4cdd024dd389d1951401429fce6186aca5fbac0",
+        "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+        "url": "https://www.ithome.com/0/971/971.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     }
