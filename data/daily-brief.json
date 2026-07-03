@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-02T23:30:28.866693Z",
+  "generated_at": "2026-07-03T00:55:34.819881Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_841cfa5430ed",
-      "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "story_id": "story_43115179668d",
+      "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+      "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+      "primary_url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
+          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-02T20:25:32Z"
+          "published_at": "2026-07-02T23:19:06Z"
         }
       ],
       "source_count": 1,
@@ -27,26 +27,26 @@
       ],
       "items": [
         {
-          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
+          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-02T20:25:32Z"
+          "published_at": "2026-07-02T23:19:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8442,
-      "importance": 0.8442,
-      "importance_score": 0.8442,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9565,
+        "recency": 0.977,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,12 +55,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T20:25:32Z",
-      "latest_at": "2026-07-02T20:25:32Z",
+      "earliest_at": "2026-07-02T23:19:06Z",
+      "latest_at": "2026-07-02T23:19:06Z",
       "primary_item": {
-        "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-        "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-        "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+        "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
+        "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+        "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_95944acec510",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+      "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+      "primary_url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T23:07:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T23:07:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9742,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T23:07:06Z",
+      "latest_at": "2026-07-02T23:07:06Z",
+      "primary_item": {
+        "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+        "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -157,15 +219,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8356,
+        "recency": 0.8186,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -182,68 +244,6 @@
         "url": "https://senior-swe-bench.snorkel.ai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1bf7e1ec92fc",
-      "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T18:05:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T18:05:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9247,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T18:05:05Z",
-      "latest_at": "2026-07-02T18:05:05Z",
-      "primary_item": {
-        "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-        "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -300,15 +300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9412,
+        "recency": 0.9221,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -325,6 +325,149 @@
         "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b97dfb6a3918",
+      "title": "扎克伯格称AI智能体开发速度未如预期",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "primary_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90fd0bfb295ceff6e7c24011069cfba5d752b799",
+          "title": "扎克伯格称AI智能体开发速度未如预期",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T23:38:10Z"
+        },
+        {
+          "id": "5ab2b5807c58ddff30bbf7770f3e130a70ebb9de",
+          "title": "扎克伯格称AI智能体开发速度未如预期 / Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T23:38:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "90fd0bfb295ceff6e7c24011069cfba5d752b799",
+          "title": "扎克伯格称AI智能体开发速度未如预期",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T23:38:10Z"
+        },
+        {
+          "id": "5ab2b5807c58ddff30bbf7770f3e130a70ebb9de",
+          "title": "扎克伯格称AI智能体开发速度未如预期 / Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T23:38:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9815,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T23:38:10Z",
+      "latest_at": "2026-07-02T23:38:10Z",
+      "primary_item": {
+        "id": "90fd0bfb295ceff6e7c24011069cfba5d752b799",
+        "title": "扎克伯格称AI智能体开发速度未如预期",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_841cfa5430ed",
+      "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T20:25:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T20:25:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9371,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T20:25:32Z",
+      "latest_at": "2026-07-02T20:25:32Z",
+      "primary_item": {
+        "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+        "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+        "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -400,15 +543,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8379,
+        "recency": 0.8209,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -481,15 +624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9625,
+        "recency": 0.943,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -562,15 +705,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8765,
+        "recency": 0.8587,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -624,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9561,
+        "recency": 0.9368,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -647,129 +790,6 @@
         "title": "关于Mythos和网络安全的讨论并非炒作",
         "url": "https://x.com/emollick/status/2072778376494895139",
         "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2153c74c2c67",
-      "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "primary_url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T16:00:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T16:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8974,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T16:00:51Z",
-      "latest_at": "2026-07-02T16:00:51Z",
-      "primary_item": {
-        "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-        "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-        "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b1ace1e3f9bf",
-      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-      "url": "https://x.com/shao__meng/status/2072644710523691110",
-      "primary_url": "https://x.com/shao__meng/status/2072644710523691110",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://x.com/shao__meng/status/2072644710523691110",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://x.com/shao__meng/status/2072644710523691110",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8414,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T11:33:01Z",
-      "latest_at": "2026-07-02T11:33:01Z",
-      "primary_item": {
-        "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-        "url": "https://x.com/shao__meng/status/2072644710523691110",
-        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     },
@@ -827,15 +847,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8186,
+        "recency": 0.802,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -852,6 +872,67 @@
         "url": "https://www.aibase.com/news/29346",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b1ace1e3f9bf",
+      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+      "url": "https://x.com/shao__meng/status/2072644710523691110",
+      "primary_url": "https://x.com/shao__meng/status/2072644710523691110",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8244,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:33:01Z",
+      "latest_at": "2026-07-02T11:33:01Z",
+      "primary_item": {
+        "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+        "url": "https://x.com/shao__meng/status/2072644710523691110",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -889,15 +970,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9026,
+        "recency": 0.8843,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -988,15 +1069,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8042,
+        "recency": 0.7879,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1013,6 +1094,68 @@
         "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1bf7e1ec92fc",
+      "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T18:05:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T18:05:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9059,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T18:05:05Z",
+      "latest_at": "2026-07-02T18:05:05Z",
+      "primary_item": {
+        "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+        "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1050,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.9019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1110,15 +1253,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7954,
+        "recency": 0.7792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1132,6 +1275,66 @@
         "title": "OpenAI提议美国政府持股5%估值426亿美元",
         "url": "https://x.com/testingcatalog/status/2072585845542969583",
         "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_976f7a63ecae",
+      "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+      "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+      "primary_url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
+          "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+          "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T00:16:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
+          "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+          "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T00:16:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9905,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T00:16:00Z",
+      "latest_at": "2026-07-03T00:16:00Z",
+      "primary_item": {
+        "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
+        "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+        "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -1189,15 +1392,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8546,
+        "recency": 0.8373,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1217,287 +1420,64 @@
       }
     },
     {
-      "story_id": "story_220c563c3540",
-      "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-      "primary_url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-      "source": "MarkTechPost（RSS）",
+      "story_id": "story_87803e07e4a5",
+      "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+      "url": "https://www.ithome.com/0/971/971.htm",
+      "primary_url": "https://www.ithome.com/0/971/971.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost（RSS）",
+          "id": "d4cdd024dd389d1951401429fce6186aca5fbac0",
+          "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+          "url": "https://www.ithome.com/0/971/971.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T08:46:56Z"
-        },
-        {
-          "id": "c544d5357b6932994f2055e5581648898361c7f9",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具 / The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T08:46:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:46:56Z"
-        },
-        {
-          "id": "c544d5357b6932994f2055e5581648898361c7f9",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具 / The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T08:46:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8084,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:46:56Z",
-      "latest_at": "2026-07-02T08:46:56Z",
-      "primary_item": {
-        "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-        "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-        "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_49bd0efe02c7",
-      "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-      "url": "https://www.aibase.com/news/29342",
-      "primary_url": "https://www.aibase.com/news/29342",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
-          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-          "url": "https://www.aibase.com/news/29342",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T08:07:51.936302Z"
-        },
-        {
-          "id": "412baf47c5e79794459ce1dcad201ecd550e8406",
-          "title": "让 Agent 越用越强：AReaL 2.0 开源，打造面向自演进智能体的 RL 基础设施",
-          "url": "https://www.qbitai.com/2026/07/442134.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
-          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-          "url": "https://www.aibase.com/news/29342",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T08:07:51.936302Z"
-        },
-        {
-          "id": "412baf47c5e79794459ce1dcad201ecd550e8406",
-          "title": "让 Agent 越用越强：AReaL 2.0 开源，打造面向自演进智能体的 RL 基础设施",
-          "url": "https://www.qbitai.com/2026/07/442134.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8009,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:07:51.936302Z",
-      "latest_at": "2026-07-02T11:54:56.019992Z",
-      "primary_item": {
-        "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
-        "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-        "url": "https://www.aibase.com/news/29342",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e170951e0600",
-      "title": "Claude Enterprise 新增用量与成本分析及支出管控功能",
-      "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-      "primary_url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "26d85349521da1e3ea17fa3de30128f43dfed886",
-          "title": "Claude Enterprise 新增用量与成本分析及支出管控功能",
-          "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T18:03:22.345000Z"
+          "published_at": "2026-07-02T23:43:15Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "26d85349521da1e3ea17fa3de30128f43dfed886",
-          "title": "Claude Enterprise 新增用量与成本分析及支出管控功能",
-          "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-          "source": "Claude：Blog（网页）",
+          "id": "d4cdd024dd389d1951401429fce6186aca5fbac0",
+          "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+          "url": "https://www.ithome.com/0/971/971.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T18:03:22.345000Z"
+          "published_at": "2026-07-02T23:43:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.61,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9243,
+        "recency": 0.9827,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T18:03:22.345000Z",
-      "latest_at": "2026-07-02T18:03:22.345000Z",
-      "primary_item": {
-        "id": "26d85349521da1e3ea17fa3de30128f43dfed886",
-        "title": "Claude Enterprise 新增用量与成本分析及支出管控功能",
-        "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_155ea32414b0",
-      "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T08:17:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T08:17:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8027,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T08:17:17Z",
-      "latest_at": "2026-07-02T08:17:17Z",
+      "earliest_at": "2026-07-02T23:43:15Z",
+      "latest_at": "2026-07-02T23:43:15Z",
       "primary_item": {
-        "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-        "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-        "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "d4cdd024dd389d1951401429fce6186aca5fbac0",
+        "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+        "url": "https://www.ithome.com/0/971/971.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     }
   ]
