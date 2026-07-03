@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T00:55:34.819881Z",
+  "generated_at": "2026-07-03T01:41:09.258628Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 87,
+  "total_events": 91,
   "events": [
     {
       "story_id": "story_7b5406df4999",
@@ -84,13 +84,6 @@
       "story_id": "story_98fb2eeccf20",
       "item_id": "607b523d2dee9da5916212a504907c359a0dacd1",
       "merged_into": "story_98fb2eeccf20",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_ebb4adcdcc63",
-      "item_id": "6cf3a3ea2b2a0bf542f62652946304737050072a",
-      "merged_into": "story_ebb4adcdcc63",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -606,11 +599,46 @@
       "similarity": 1.0
     },
     {
+      "story_id": "story_05fbe2b6e97f",
+      "item_id": "981ace8bf67409fc85c9eaabee60415a1914ff13",
+      "merged_into": "story_05fbe2b6e97f",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
       "story_id": "story_7b17c3bd5d7f",
       "item_id": "20b03cebb8a318e4016a43a8122390bfab1e5be3",
       "merged_into": "story_7b17c3bd5d7f",
       "reason": "canonical_url",
       "similarity": 1.0
+    },
+    {
+      "story_id": "story_4c2a4317cf03",
+      "item_id": "2306c4a8c502b2d968e5e364f3ac5c3b9e4b7e56",
+      "merged_into": "story_4c2a4317cf03",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_920f54d252a1",
+      "item_id": "a27aaf314c07b66a72e1a8c8b0e983d5d52a41cf",
+      "merged_into": "story_920f54d252a1",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_e48e1b989c6b",
+      "item_id": "38c217e1a7751030f7a66ee7b4c30f5eca56db13",
+      "merged_into": "story_e48e1b989c6b",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_43ac18a63f07",
+      "item_id": "ccdfa5c12a6d3b57249dd70c7ac0d997556067b4",
+      "merged_into": "story_43ac18a63f07",
+      "reason": "title_similarity",
+      "similarity": 0.992
     }
   ]
 }
