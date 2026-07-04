@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T04:46:11.116843Z",
+  "generated_at": "2026-07-04T06:07:18.782332Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8129,
+        "recency": 0.7972,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8726,
+        "recency": 0.8557,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7544,
+        "recency": 0.7398,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,15 +300,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8236,
+        "recency": 0.8077,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -381,22 +381,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7668,
+        "recency": 0.752,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T10:22:47.778242Z",
       "latest_at": "2026-07-03T10:22:47.778242Z",
@@ -443,15 +442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8498,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7897,
+        "recency": 0.7745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -563,15 +562,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7509,
+        "recency": 0.7364,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -585,147 +584,6 @@
         "title": "Wan Video 推出\"音乐伴舞\"新功能",
         "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
         "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e5663cb740f",
-      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "primary_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7088,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T04:56:06.814000Z",
-      "latest_at": "2026-07-03T04:56:06.814000Z",
-      "primary_item": {
-        "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a01c4885e987",
-      "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-      "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-      "primary_url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
-          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-          "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:17:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：生数科技（Vidu·视频）"
-      ],
-      "items": [
-        {
-          "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
-          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-          "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:17:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.777,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T11:17:47Z",
-      "latest_at": "2026-07-03T11:17:47Z",
-      "primary_item": {
-        "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
-        "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-        "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-        "source": "公众号：生数科技（Vidu·视频）",
         "source_name": "AI HOT"
       }
     },
@@ -783,15 +641,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7374,
+        "recency": 0.7232,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -844,15 +702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7844,
+        "recency": 0.7692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -866,6 +724,86 @@
         "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
         "url": "https://www.ithome.com/0/972/424.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4d4c122ecd26",
+      "title": "《Fable》通关指南：短绳AI编程法",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+      "primary_url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5c41e5456360cef6e306453f2407deaaadc0a847",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T06:16:11.377000Z"
+        },
+        {
+          "id": "76313b5508221d5ee88f498ca8d9fccbfe766e41",
+          "title": "《Fable》通关指南：短绳AI编程法 / The Short Leash AI Coding Method For Beating Fable",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T12:50:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)"
+      ],
+      "items": [
+        {
+          "id": "5c41e5456360cef6e306453f2407deaaadc0a847",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T06:16:11.377000Z"
+        },
+        {
+          "id": "76313b5508221d5ee88f498ca8d9fccbfe766e41",
+          "title": "《Fable》通关指南：短绳AI编程法 / The Short Leash AI Coding Method For Beating Fable",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T12:50:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7086,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T06:16:11.377000Z",
+      "latest_at": "2026-07-03T12:50:53Z",
+      "primary_item": {
+        "id": "5c41e5456360cef6e306453f2407deaaadc0a847",
+        "title": "《Fable》通关指南：短绳AI编程法",
+        "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -923,15 +861,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7227,
+        "recency": 0.7087,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -945,146 +883,6 @@
         "id": "c08121a2e01974cc013492309eaf78998d114e6f",
         "title": "Meta 出击 AI 游戏赛道：推出“灵感生成”新应用 Pocket",
         "url": "https://www.aibase.com/news/29363",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4d4c122ecd26",
-      "title": "《Fable》通关指南：短绳AI编程法",
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-      "primary_url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c41e5456360cef6e306453f2407deaaadc0a847",
-          "title": "《Fable》通关指南：短绳AI编程法",
-          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T06:16:11.377000Z"
-        },
-        {
-          "id": "76313b5508221d5ee88f498ca8d9fccbfe766e41",
-          "title": "《Fable》通关指南：短绳AI编程法 / The Short Leash AI Coding Method For Beating Fable",
-          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T12:50:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)"
-      ],
-      "items": [
-        {
-          "id": "5c41e5456360cef6e306453f2407deaaadc0a847",
-          "title": "《Fable》通关指南：短绳AI编程法",
-          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T06:16:11.377000Z"
-        },
-        {
-          "id": "76313b5508221d5ee88f498ca8d9fccbfe766e41",
-          "title": "《Fable》通关指南：短绳AI编程法 / The Short Leash AI Coding Method For Beating Fable",
-          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T12:50:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7226,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T06:16:11.377000Z",
-      "latest_at": "2026-07-03T12:50:53Z",
-      "primary_item": {
-        "id": "5c41e5456360cef6e306453f2407deaaadc0a847",
-        "title": "《Fable》通关指南：短绳AI编程法",
-        "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_45743761a27c",
-      "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-      "url": "https://www.aibase.com/news/29378",
-      "primary_url": "https://www.aibase.com/news/29378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:22:47.778242Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:22:47.778242Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7668,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:22:47.778242Z",
-      "latest_at": "2026-07-03T10:22:47.778242Z",
-      "primary_item": {
-        "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-        "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-        "url": "https://www.aibase.com/news/29378",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1124,15 +922,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7625,
+        "recency": 0.7478,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1147,6 +945,66 @@
         "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_45743761a27c",
+      "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
+      "url": "https://www.aibase.com/news/29378",
+      "primary_url": "https://www.aibase.com/news/29378",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
+          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
+          "url": "https://www.aibase.com/news/29378",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T10:22:47.778242Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
+          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
+          "url": "https://www.aibase.com/news/29378",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T10:22:47.778242Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.752,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T10:22:47.778242Z",
+      "latest_at": "2026-07-03T10:22:47.778242Z",
+      "primary_item": {
+        "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
+        "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
+        "url": "https://www.aibase.com/news/29378",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1238,15 +1096,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6203,
-      "importance": 0.6203,
-      "importance_score": 0.6203,
+      "score": 0.6173,
+      "importance": 0.6173,
+      "importance_score": 0.6173,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.8439,
+        "recency": 0.8276,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1298,15 +1156,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7539,
+        "recency": 0.7394,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1415,15 +1273,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5753,
-      "importance": 0.5753,
-      "importance_score": 0.5753,
+      "score": 0.5722,
+      "importance": 0.5722,
+      "importance_score": 0.5722,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8861,
+        "recency": 0.869,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1475,15 +1333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7539,
+        "recency": 0.7394,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1498,6 +1356,220 @@
         "url": "https://www.aibase.com/news/29374",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b7e86ff92336",
+      "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "primary_url": "https://www.wafer.ai/blog/glm52-amd",
+      "source": "www.wafer.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T02:31:35.646000Z"
+        },
+        {
+          "id": "9ecda57c66fe24481e8c7e612c808664ba26d77e",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:49:06Z"
+        },
+        {
+          "id": "1bae42dd1741066c292419fab2e69b257a252ff5",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:49:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.wafer.ai"
+      ],
+      "items": [
+        {
+          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T02:31:35.646000Z"
+        },
+        {
+          "id": "9ecda57c66fe24481e8c7e612c808664ba26d77e",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:49:06Z"
+        },
+        {
+          "id": "1bae42dd1741066c292419fab2e69b257a252ff5",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:49:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5617,
+      "importance": 0.5617,
+      "importance_score": 0.5617,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9494,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:49:06Z",
+      "latest_at": "2026-07-04T02:31:35.646000Z",
+      "primary_item": {
+        "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+        "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+        "url": "https://www.wafer.ai/blog/glm52-amd",
+        "source": "www.wafer.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_db7c575dece9",
+      "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+      "primary_url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d8c027c601ce8a2d472256fa264961590a45bd2e",
+          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T08:55:43.852000Z"
+        },
+        {
+          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
+          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://news.ycombinator.com/item?id=48772443",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T08:46:12.518000Z"
+        },
+        {
+          "id": "433d5a579ca633aaa0812c7eb5002d05498451c3",
+          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-03T08:31:37Z"
+        },
+        {
+          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
+          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
+          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
+          "source": "The Next Web",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T07:30:12Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "The Next Web",
+        "hackernews",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "d8c027c601ce8a2d472256fa264961590a45bd2e",
+          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T08:55:43.852000Z"
+        },
+        {
+          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
+          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://news.ycombinator.com/item?id=48772443",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T08:46:12.518000Z"
+        },
+        {
+          "id": "433d5a579ca633aaa0812c7eb5002d05498451c3",
+          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-03T08:31:37Z"
+        },
+        {
+          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
+          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
+          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
+          "source": "The Next Web",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T07:30:12Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5483,
+      "importance": 0.5483,
+      "importance_score": 0.5483,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7364,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T07:30:12Z",
+      "latest_at": "2026-07-03T08:55:43.852000Z",
+      "primary_item": {
+        "id": "d8c027c601ce8a2d472256fa264961590a45bd2e",
+        "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具",
+        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       }
     }
   ]
