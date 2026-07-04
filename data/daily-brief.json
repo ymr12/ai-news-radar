@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:33:24.239953Z",
+  "generated_at": "2026-07-04T20:25:34.379535Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9754,
+        "recency": 0.9632,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -118,15 +118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8604,
+        "recency": 0.8497,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -180,15 +180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8106,
+        "recency": 0.8005,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.8184,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -372,15 +372,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6888,
-      "importance": 0.6888,
-      "importance_score": 0.6888,
+      "score": 0.6866,
+      "importance": 0.6866,
+      "importance_score": 0.6866,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.9701,
+        "recency": 0.958,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -395,6 +395,85 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-04",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_944998d16f3d",
+      "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+      "url": "https://news.ycombinator.com/item?id=48788361",
+      "primary_url": "https://news.ycombinator.com/item?id=48788361",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://news.ycombinator.com/item?id=48788361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T20:26:15.130000Z"
+        },
+        {
+          "id": "1c6f3712a18547f100a652990797154453473d1b",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T19:50:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://news.ycombinator.com/item?id=48788361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T20:26:15.130000Z"
+        },
+        {
+          "id": "1c6f3712a18547f100a652990797154453473d1b",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T19:50:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T19:50:08Z",
+      "latest_at": "2026-07-04T20:26:15.130000Z",
+      "primary_item": {
+        "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
+        "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+        "url": "https://news.ycombinator.com/item?id=48788361",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -470,15 +549,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.861,
+        "recency": 0.8503,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -549,15 +628,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9492,
+        "recency": 0.9374,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -646,15 +725,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.782,
+        "recency": 0.7722,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -725,15 +804,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8849,
+        "recency": 0.8739,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -804,15 +883,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.871,
+        "recency": 0.8601,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -827,85 +906,6 @@
         "url": "https://www.businessinsider.com/career-expert-shares-resume-template-for-ai-era-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ac8d4855fa95",
-      "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-      "url": "https://news.ycombinator.com/item?id=48782890",
-      "primary_url": "https://news.ycombinator.com/item?id=48782890",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://news.ycombinator.com/item?id=48782890",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T07:17:48.953000Z"
-        },
-        {
-          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://www.hyperstitionai.com/unslop-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T05:37:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://news.ycombinator.com/item?id=48782890",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T07:17:48.953000Z"
-        },
-        {
-          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://www.hyperstitionai.com/unslop-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T05:37:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8377,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T05:37:25Z",
-      "latest_at": "2026-07-04T07:17:48.953000Z",
-      "primary_item": {
-        "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-        "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-        "url": "https://news.ycombinator.com/item?id=48782890",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -962,15 +962,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8077,
+        "recency": 0.7976,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1041,15 +1041,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
+      "score": 0.5091,
+      "importance": 0.5091,
+      "importance_score": 0.5091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.806,
+        "recency": 0.7959,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1120,15 +1120,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5076,
-      "importance": 0.5076,
-      "importance_score": 0.5076,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.788,
+        "recency": 0.7782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1198,15 +1198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9174,
+        "recency": 0.906,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1277,15 +1277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8849,
+        "recency": 0.8739,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1356,15 +1356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8643,
+        "recency": 0.8536,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1379,6 +1379,85 @@
         "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ac8d4855fa95",
+      "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
+      "url": "https://news.ycombinator.com/item?id=48782890",
+      "primary_url": "https://news.ycombinator.com/item?id=48782890",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
+          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
+          "url": "https://news.ycombinator.com/item?id=48782890",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T07:17:48.953000Z"
+        },
+        {
+          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
+          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
+          "url": "https://www.hyperstitionai.com/unslop-results",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T05:37:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
+          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
+          "url": "https://news.ycombinator.com/item?id=48782890",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T07:17:48.953000Z"
+        },
+        {
+          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
+          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
+          "url": "https://www.hyperstitionai.com/unslop-results",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T05:37:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8273,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T05:37:25Z",
+      "latest_at": "2026-07-04T07:17:48.953000Z",
+      "primary_item": {
+        "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
+        "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
+        "url": "https://news.ycombinator.com/item?id=48782890",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1435,15 +1514,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5016,
-      "importance": 0.5016,
-      "importance_score": 0.5016,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7542,
+        "recency": 0.7448,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1458,85 +1537,6 @@
         "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_45ca8d17b7af",
-      "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-      "url": "https://news.ycombinator.com/item?id=48780128",
-      "primary_url": "https://news.ycombinator.com/item?id=48780128",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://news.ycombinator.com/item?id=48780128",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T21:58:52.964000Z"
-        },
-        {
-          "id": "51b7c441a71fced6e580df2892d61fb6889ad62e",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:21:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://news.ycombinator.com/item?id=48780128",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T21:58:52.964000Z"
-        },
-        {
-          "id": "51b7c441a71fced6e580df2892d61fb6889ad62e",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:21:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4976,
-      "importance": 0.4976,
-      "importance_score": 0.4976,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7323,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:21:08Z",
-      "latest_at": "2026-07-03T21:58:52.964000Z",
-      "primary_item": {
-        "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-        "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-        "url": "https://news.ycombinator.com/item?id=48780128",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1593,15 +1593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8849,
+        "recency": 0.8739,
         "story_heat": 0.25
       },
       "category": "watch",
