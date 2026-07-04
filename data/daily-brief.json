@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T07:28:37.911567Z",
+  "generated_at": "2026-07-04T08:25:54.336616Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7818,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7946,
+      "importance": 0.7946,
+      "importance_score": 0.7946,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8391,
+        "recency": 0.8276,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7255,
+        "recency": 0.7155,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,15 +300,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.792,
+        "recency": 0.7812,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -381,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7374,
+        "recency": 0.7273,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -442,15 +442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 0.8219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -502,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7594,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -562,15 +562,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7221,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -585,86 +585,6 @@
         "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
         "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_17acad24df5f",
-      "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
-      "url": "https://www.aibase.com/news/29368",
-      "primary_url": "https://www.aibase.com/news/29368",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3c0fe854cf8a6629c659301760ba8f0aded94858",
-          "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
-          "url": "https://www.aibase.com/news/29368",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T07:40:40.505978Z"
-        },
-        {
-          "id": "29d52b83cd36e29ec040456b63fbd169abd4818e",
-          "title": "订阅制红利终结？Anthropic 收紧最强 AI 模型，Claude Fable5 将按量计费",
-          "url": "https://www.aibase.com/zh/news/29368",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3c0fe854cf8a6629c659301760ba8f0aded94858",
-          "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
-          "url": "https://www.aibase.com/news/29368",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T07:40:40.505978Z"
-        },
-        {
-          "id": "29d52b83cd36e29ec040456b63fbd169abd4818e",
-          "title": "订阅制红利终结？Anthropic 收紧最强 AI 模型，Claude Fable5 将按量计费",
-          "url": "https://www.aibase.com/zh/news/29368",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7092,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T07:40:40.505978Z",
-      "latest_at": "2026-07-03T07:40:40.505978Z",
-      "primary_item": {
-        "id": "3c0fe854cf8a6629c659301760ba8f0aded94858",
-        "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
-        "url": "https://www.aibase.com/news/29368",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -702,15 +622,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7543,
+        "recency": 0.744,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -725,66 +645,6 @@
         "url": "https://www.ithome.com/0/972/424.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_45743761a27c",
-      "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-      "url": "https://www.aibase.com/news/29378",
-      "primary_url": "https://www.aibase.com/news/29378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:22:47.778242Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:22:47.778242Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7374,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:22:47.778242Z",
-      "latest_at": "2026-07-03T10:22:47.778242Z",
-      "primary_item": {
-        "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-        "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-        "url": "https://www.aibase.com/news/29378",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -876,15 +736,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6144,
-      "importance": 0.6144,
-      "importance_score": 0.6144,
+      "score": 0.6124,
+      "importance": 0.6124,
+      "importance_score": 0.6124,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.8115,
+        "recency": 0.8004,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -899,141 +759,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-03",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_db7c575dece9",
-      "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-      "primary_url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T11:19:37.346000Z"
-        },
-        {
-          "id": "d8c027c601ce8a2d472256fa264961590a45bd2e",
-          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T08:55:43.852000Z"
-        },
-        {
-          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://news.ycombinator.com/item?id=48772443",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T08:46:12.518000Z"
-        },
-        {
-          "id": "433d5a579ca633aaa0812c7eb5002d05498451c3",
-          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-03T08:31:37Z"
-        },
-        {
-          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
-          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T07:30:12Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "The Next Web",
-        "hackernews",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T11:19:37.346000Z"
-        },
-        {
-          "id": "d8c027c601ce8a2d472256fa264961590a45bd2e",
-          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T08:55:43.852000Z"
-        },
-        {
-          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://news.ycombinator.com/item?id=48772443",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T08:46:12.518000Z"
-        },
-        {
-          "id": "433d5a579ca633aaa0812c7eb5002d05498451c3",
-          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-03T08:31:37Z"
-        },
-        {
-          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
-          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T07:30:12Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5754,
-      "importance": 0.5754,
-      "importance_score": 0.5754,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7475,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T07:30:12Z",
-      "latest_at": "2026-07-03T11:19:37.346000Z",
-      "primary_item": {
-        "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-        "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1128,15 +853,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5692,
-      "importance": 0.5692,
-      "importance_score": 0.5692,
+      "score": 0.5671,
+      "importance": 0.5671,
+      "importance_score": 0.5671,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8521,
+        "recency": 0.8405,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1225,15 +950,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.5561,
+      "importance": 0.5561,
+      "importance_score": 0.5561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.931,
+        "recency": 0.9183,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1247,6 +972,122 @@
         "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
         "url": "https://www.wafer.ai/blog/glm52-amd",
         "source": "www.wafer.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d162f41fa6af",
+      "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+      "primary_url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
+          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T11:19:37.346000Z"
+        },
+        {
+          "id": "d8c027c601ce8a2d472256fa264961590a45bd2e",
+          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T08:55:43.852000Z"
+        },
+        {
+          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
+          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://news.ycombinator.com/item?id=48772443",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T08:46:12.518000Z"
+        },
+        {
+          "id": "433d5a579ca633aaa0812c7eb5002d05498451c3",
+          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-03T08:31:37Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "hackernews",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
+          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T11:19:37.346000Z"
+        },
+        {
+          "id": "d8c027c601ce8a2d472256fa264961590a45bd2e",
+          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T08:55:43.852000Z"
+        },
+        {
+          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
+          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://news.ycombinator.com/item?id=48772443",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T08:46:12.518000Z"
+        },
+        {
+          "id": "433d5a579ca633aaa0812c7eb5002d05498451c3",
+          "title": "消息人士称，阿里巴巴将禁止员工使用Anthropic的编程工具 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-03T08:31:37Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5485,
+      "importance": 0.5485,
+      "importance_score": 0.5485,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7373,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T08:31:37Z",
+      "latest_at": "2026-07-03T11:19:37.346000Z",
+      "primary_item": {
+        "id": "d577e65916d0132a8d722321af0a77d645f856f1",
+        "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
+        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     },
@@ -1304,15 +1145,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1383,15 +1224,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9974,
+        "recency": 0.9837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1481,15 +1322,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8327,
+        "recency": 0.8213,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1560,15 +1401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9617,
+        "recency": 0.9485,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1639,15 +1480,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9596,
+        "recency": 0.9465,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1662,6 +1503,183 @@
         "url": "https://danluu.com/ai-coding",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_9b40a0a6a0ae",
+      "title": "请停止这场关于人工智能的“自信秀”",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "primary_url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "source": "www.elenaverna.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
+          "title": "请停止这场关于人工智能的“自信秀”",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "www.elenaverna.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T14:31:55.291000Z"
+        },
+        {
+          "id": "2378c5b3bd688fed54ed9cdc0bb462009a9729e1",
+          "title": "请停止AI信心剧场 / Please stop the AI confidence theater",
+          "url": "https://news.ycombinator.com/item?id=48774414",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T14:19:25.554000Z"
+        },
+        {
+          "id": "40c006bb51421ce3c3e4a53249370cc7ffd30687",
+          "title": "请停止这场关于人工智能的“自信秀” / Please stop the AI confidence theater",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T12:51:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.elenaverna.com"
+      ],
+      "items": [
+        {
+          "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
+          "title": "请停止这场关于人工智能的“自信秀”",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "www.elenaverna.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T14:31:55.291000Z"
+        },
+        {
+          "id": "2378c5b3bd688fed54ed9cdc0bb462009a9729e1",
+          "title": "请停止AI信心剧场 / Please stop the AI confidence theater",
+          "url": "https://news.ycombinator.com/item?id=48774414",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T14:19:25.554000Z"
+        },
+        {
+          "id": "40c006bb51421ce3c3e4a53249370cc7ffd30687",
+          "title": "请停止这场关于人工智能的“自信秀” / Please stop the AI confidence theater",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T12:51:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7722,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T12:51:17Z",
+      "latest_at": "2026-07-03T14:31:55.291000Z",
+      "primary_item": {
+        "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
+        "title": "请停止这场关于人工智能的“自信秀”",
+        "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+        "source": "www.elenaverna.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_17fc9c6b8121",
+      "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+      "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T22:47:55.026000Z"
+        },
+        {
+          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T20:27:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T22:47:55.026000Z"
+        },
+        {
+          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T20:27:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8701,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T20:27:34Z",
+      "latest_at": "2026-07-03T22:47:55.026000Z",
+      "primary_item": {
+        "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+        "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+        "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
