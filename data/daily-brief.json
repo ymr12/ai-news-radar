@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T01:00:08.570279Z",
+  "generated_at": "2026-07-05T01:44:02.442852Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9016,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -118,15 +118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7953,
+        "recency": 0.787,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -180,15 +180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7493,
+        "recency": 0.7414,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -312,15 +312,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6756,
-      "importance": 0.6756,
-      "importance_score": 0.6756,
+      "score": 0.6739,
+      "importance": 0.6739,
+      "importance_score": 0.6739,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.8968,
+        "recency": 0.8874,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -410,15 +410,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
+      "score": 0.566,
+      "importance": 0.566,
+      "importance_score": 0.566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9836,
+        "recency": 0.9733,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -433,6 +433,85 @@
         "url": "https://github.com/openai/codex/issues/30364",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_85705186a84e",
+      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://news.ycombinator.com/item?id=48789986",
+      "primary_url": "https://news.ycombinator.com/item?id=48789986",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T01:44:41.512000Z"
+        },
+        {
+          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:25:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T01:44:41.512000Z"
+        },
+        {
+          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:25:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T23:25:53Z",
+      "latest_at": "2026-07-05T01:44:41.512000Z",
+      "primary_item": {
+        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+        "url": "https://news.ycombinator.com/item?id=48789986",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -489,15 +568,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9895,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -512,6 +591,162 @@
         "url": "https://www.ithome.com/0/972/685.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9c79f138d1f8",
+      "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+      "url": "https://rakyll.org/coding-agents",
+      "primary_url": "https://rakyll.org/coding-agents",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        },
+        {
+          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)"
+      ],
+      "items": [
+        {
+          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        },
+        {
+          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9009,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T18:30:17Z",
+      "latest_at": "2026-07-04T18:30:17Z",
+      "primary_item": {
+        "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
+        "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+        "url": "https://rakyll.org/coding-agents",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_09d5ebd5eb2a",
+      "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+      "url": "https://www.v2ex.com/t/1225003",
+      "primary_url": "https://www.v2ex.com/t/1225003",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "7d353032b7daa24cf69029deb13679e494371135",
+          "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        },
+        {
+          "id": "926c3b12a08ac735cdc96746f144a82e670e9c96",
+          "title": "[程序员] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "7d353032b7daa24cf69029deb13679e494371135",
+          "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        },
+        {
+          "id": "926c3b12a08ac735cdc96746f144a82e670e9c96",
+          "title": "[程序员] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8729,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T16:19:27Z",
+      "latest_at": "2026-07-04T16:19:27Z",
+      "primary_item": {
+        "id": "7d353032b7daa24cf69029deb13679e494371135",
+        "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+        "url": "https://www.v2ex.com/t/1225003",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -568,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9956,
+        "recency": 0.9852,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -591,84 +826,6 @@
         "url": "https://news.ycombinator.com/item?id=48789325",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_9c79f138d1f8",
-      "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-      "url": "https://rakyll.org/coding-agents",
-      "primary_url": "https://rakyll.org/coding-agents",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        },
-        {
-          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)"
-      ],
-      "items": [
-        {
-          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        },
-        {
-          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9104,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T18:30:17Z",
-      "latest_at": "2026-07-04T18:30:17Z",
-      "primary_item": {
-        "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-        "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-        "url": "https://rakyll.org/coding-agents",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -725,15 +882,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.818,
+        "recency": 0.8094,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -804,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8051,
+        "recency": 0.7967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -827,164 +984,6 @@
         "url": "https://www.businessinsider.com/career-expert-shares-resume-template-for-ai-era-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_944998d16f3d",
-      "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-      "url": "https://news.ycombinator.com/item?id=48788361",
-      "primary_url": "https://news.ycombinator.com/item?id=48788361",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://news.ycombinator.com/item?id=48788361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T20:26:15.130000Z"
-        },
-        {
-          "id": "1c6f3712a18547f100a652990797154453473d1b",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T19:50:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://news.ycombinator.com/item?id=48788361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T20:26:15.130000Z"
-        },
-        {
-          "id": "1c6f3712a18547f100a652990797154453473d1b",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T19:50:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9362,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T19:50:08Z",
-      "latest_at": "2026-07-04T20:26:15.130000Z",
-      "primary_item": {
-        "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-        "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-        "url": "https://news.ycombinator.com/item?id=48788361",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e34f076112fc",
-      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-      "url": "https://www.36kr.com/p/3880629882679301",
-      "primary_url": "https://www.36kr.com/p/3880629882679301",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "214fd98757e9a3b5f2abadb597a74db09dde621d",
-          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-          "url": "https://www.36kr.com/p/3880629882679301",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "313797d77cee023d6cf1b214745bf2f5227124f0",
-          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-          "url": "https://36kr.com/p/3880629882679301?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T01:03:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "36氪 · 24小时热榜"
-      ],
-      "items": [
-        {
-          "id": "214fd98757e9a3b5f2abadb597a74db09dde621d",
-          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-          "url": "https://www.36kr.com/p/3880629882679301",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "313797d77cee023d6cf1b214745bf2f5227124f0",
-          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-          "url": "https://36kr.com/p/3880629882679301?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T01:03:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7466,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T01:03:44Z",
-      "latest_at": "2026-07-04T04:46:11.116843Z",
-      "primary_item": {
-        "id": "214fd98757e9a3b5f2abadb597a74db09dde621d",
-        "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-        "url": "https://www.36kr.com/p/3880629882679301",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1041,15 +1040,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4999,
-      "importance": 0.4999,
-      "importance_score": 0.4999,
+      "score": 0.4985,
+      "importance": 0.4985,
+      "importance_score": 0.4985,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.745,
+        "recency": 0.7372,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1120,15 +1119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8774,
+        "recency": 0.8682,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1199,15 +1198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.818,
+        "recency": 0.8094,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,15 +1277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5096,
-      "importance": 0.5096,
-      "importance_score": 0.5096,
+      "score": 0.5081,
+      "importance": 0.5081,
+      "importance_score": 0.5081,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.799,
+        "recency": 0.7906,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1301,6 +1300,85 @@
         "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_944998d16f3d",
+      "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+      "url": "https://news.ycombinator.com/item?id=48788361",
+      "primary_url": "https://news.ycombinator.com/item?id=48788361",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://news.ycombinator.com/item?id=48788361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T20:26:15.130000Z"
+        },
+        {
+          "id": "1c6f3712a18547f100a652990797154453473d1b",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T19:50:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://news.ycombinator.com/item?id=48788361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T20:26:15.130000Z"
+        },
+        {
+          "id": "1c6f3712a18547f100a652990797154453473d1b",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T19:50:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9264,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T19:50:08Z",
+      "latest_at": "2026-07-04T20:26:15.130000Z",
+      "primary_item": {
+        "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
+        "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+        "url": "https://news.ycombinator.com/item?id=48788361",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1356,15 +1434,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.848,
+        "recency": 0.8391,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1435,15 +1513,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.818,
+        "recency": 0.8094,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1458,85 +1536,6 @@
         "url": "https://github.com/crynta/terax-ai",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ac8d4855fa95",
-      "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-      "url": "https://news.ycombinator.com/item?id=48782890",
-      "primary_url": "https://news.ycombinator.com/item?id=48782890",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://news.ycombinator.com/item?id=48782890",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T07:17:48.953000Z"
-        },
-        {
-          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://www.hyperstitionai.com/unslop-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T05:37:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://news.ycombinator.com/item?id=48782890",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T07:17:48.953000Z"
-        },
-        {
-          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://www.hyperstitionai.com/unslop-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T05:37:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5052,
-      "importance": 0.5052,
-      "importance_score": 0.5052,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7744,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T05:37:25Z",
-      "latest_at": "2026-07-04T07:17:48.953000Z",
-      "primary_item": {
-        "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-        "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-        "url": "https://news.ycombinator.com/item?id=48782890",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1593,15 +1592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5114,
-      "importance": 0.5114,
-      "importance_score": 0.5114,
+      "score": 0.5099,
+      "importance": 0.5099,
+      "importance_score": 0.5099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8088,
+        "recency": 0.8003,
         "story_heat": 0.25
       },
       "category": "watch",
