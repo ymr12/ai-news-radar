@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T04:51:05.604206Z",
+  "generated_at": "2026-07-05T06:22:11.439586Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8529,
+        "recency": 0.8344,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -118,22 +118,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7523,
+        "recency": 0.736,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-04T09:08:41Z",
       "latest_at": "2026-07-04T09:08:41Z",
@@ -142,66 +141,6 @@
         "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
         "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf238df386fd",
-      "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-      "url": "https://www.ithome.com/0/972/526.htm",
-      "primary_url": "https://www.ithome.com/0/972/526.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62b3f204ab1808a0bdca1c844189a9ff700c8346",
-          "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-          "url": "https://www.ithome.com/0/972/526.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T05:01:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "62b3f204ab1808a0bdca1c844189a9ff700c8346",
-          "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-          "url": "https://www.ithome.com/0/972/526.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T05:01:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7088,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-04T05:01:02Z",
-      "latest_at": "2026-07-04T05:01:02Z",
-      "primary_item": {
-        "id": "62b3f204ab1808a0bdca1c844189a9ff700c8346",
-        "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-        "url": "https://www.ithome.com/0/972/526.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -312,15 +251,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6669,
-      "importance": 0.6669,
-      "importance_score": 0.6669,
+      "score": 0.6635,
+      "importance": 0.6635,
+      "importance_score": 0.6635,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.8483,
+        "recency": 0.8299,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -410,15 +349,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5583,
-      "importance": 0.5583,
-      "importance_score": 0.5583,
+      "score": 0.5546,
+      "importance": 0.5546,
+      "importance_score": 0.5546,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9304,
+        "recency": 0.9103,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -436,30 +375,30 @@
       }
     },
     {
-      "story_id": "story_97517798b056",
-      "title": "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
-      "url": "https://www.huxiu.com/article/4872733.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872733.html?f=rss",
+      "story_id": "story_481f7d3244f8",
+      "title": "Codex、ChatGPT 为何合体？Codex 未来何去何从？OpenAI 核心 leader 回应一切",
+      "url": "https://www.huxiu.com/article/4872739.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872739.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "39d21379ea51c7f77385e50431b717ad6de617b9",
-          "title": "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
-          "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+          "id": "21fd1104613f8016d326c4a6eb75c4385266e25f",
+          "title": "Codex、ChatGPT 为何合体？Codex 未来何去何从？OpenAI 核心 leader 回应一切",
+          "url": "https://www.huxiu.com/article/4872739.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "1a8376dd9b307762a3c627d7702f1f5c04960457",
-          "title": "赛博菩萨Cloudflare，AI爬虫最严厉的父亲",
-          "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+          "id": "2ec3a4d9293736cbd6ecacd7722636238f601707",
+          "title": "Codex、ChatGPT为何合体？Codex未来何去何从？OpenAI核心leader回应一切",
+          "url": "https://www.huxiu.com/article/4872739.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T04:06:00Z"
+          "published_at": "2026-07-05T04:43:57Z"
         }
       ],
       "source_count": 2,
@@ -469,22 +408,22 @@
       ],
       "items": [
         {
-          "id": "39d21379ea51c7f77385e50431b717ad6de617b9",
-          "title": "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
-          "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+          "id": "21fd1104613f8016d326c4a6eb75c4385266e25f",
+          "title": "Codex、ChatGPT 为何合体？Codex 未来何去何从？OpenAI 核心 leader 回应一切",
+          "url": "https://www.huxiu.com/article/4872739.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "1a8376dd9b307762a3c627d7702f1f5c04960457",
-          "title": "赛博菩萨Cloudflare，AI爬虫最严厉的父亲",
-          "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+          "id": "2ec3a4d9293736cbd6ecacd7722636238f601707",
+          "title": "Codex、ChatGPT为何合体？Codex未来何去何从？OpenAI核心leader回应一切",
+          "url": "https://www.huxiu.com/article/4872739.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T04:06:00Z"
+          "published_at": "2026-07-05T04:43:57Z"
         }
       ],
       "item_count": 2,
@@ -504,91 +443,91 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T04:06:00Z",
-      "latest_at": "2026-07-05T04:51:05.604206Z",
+      "earliest_at": "2026-07-05T04:43:57Z",
+      "latest_at": "2026-07-05T06:22:11.439586Z",
       "primary_item": {
-        "id": "39d21379ea51c7f77385e50431b717ad6de617b9",
-        "title": "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
-        "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+        "id": "21fd1104613f8016d326c4a6eb75c4385266e25f",
+        "title": "Codex、ChatGPT 为何合体？Codex 未来何去何从？OpenAI 核心 leader 回应一切",
+        "url": "https://www.huxiu.com/article/4872739.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_85705186a84e",
-      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-      "url": "https://news.ycombinator.com/item?id=48789986",
-      "primary_url": "https://news.ycombinator.com/item?id=48789986",
+      "story_id": "story_854a38c44b10",
+      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=48791380",
+      "primary_url": "https://news.ycombinator.com/item?id=48791380",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T01:44:41.512000Z"
+          "published_at": "2026-07-05T05:54:15.296000Z"
         },
         {
-          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T23:25:53Z"
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T01:44:41.512000Z"
+          "published_at": "2026-07-05T05:54:15.296000Z"
         },
         {
-          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T23:25:53Z"
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9561,
+        "recency": 0.9933,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T23:25:53Z",
-      "latest_at": "2026-07-05T01:44:41.512000Z",
+      "earliest_at": "2026-07-05T05:01:14Z",
+      "latest_at": "2026-07-05T05:54:15.296000Z",
       "primary_item": {
-        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-        "url": "https://news.ycombinator.com/item?id=48789986",
+        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://news.ycombinator.com/item?id=48791380",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -646,15 +585,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8612,
+        "recency": 0.8425,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -669,6 +608,85 @@
         "url": "https://rakyll.org/coding-agents",
         "source": "Lobsters (技术社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_791a371bcccc",
+      "title": "当 AI 成为一种文化，人类的知识、理解与判断力需要重构",
+      "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872740.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "036a89f77839dbd9cc8068eb6c1b22668ee7fead",
+          "title": "当 AI 成为一种文化，人类的知识、理解与判断力需要重构",
+          "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a1d10e914c1859509be0e759b3ff87d181f3a1dc",
+          "title": "当AI成为一种文化，人类的知识、理解与判断力需要重构",
+          "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T04:49:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "036a89f77839dbd9cc8068eb6c1b22668ee7fead",
+          "title": "当 AI 成为一种文化，人类的知识、理解与判断力需要重构",
+          "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a1d10e914c1859509be0e759b3ff87d181f3a1dc",
+          "title": "当AI成为一种文化，人类的知识、理解与判断力需要重构",
+          "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T04:49:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T04:49:26Z",
+      "latest_at": "2026-07-05T06:22:11.439586Z",
+      "primary_item": {
+        "id": "036a89f77839dbd9cc8068eb6c1b22668ee7fead",
+        "title": "当 AI 成为一种文化，人类的知识、理解与判断力需要重构",
+        "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -724,15 +742,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8509,
+        "recency": 0.8324,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,15 +820,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8463,
+        "recency": 0.8279,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -828,159 +846,80 @@
       }
     },
     {
-      "story_id": "story_e82c5ca69fab",
-      "title": "AI 后半场，该关注什么？",
-      "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872721.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
-          "title": "AI 后半场，该关注什么？",
-          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d65e310f7bd8868cbe14986231e36e281e3cf36e",
-          "title": "AI后半场，该关注什么？",
-          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T02:08:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
-          "title": "AI 后半场，该关注什么？",
-          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d65e310f7bd8868cbe14986231e36e281e3cf36e",
-          "title": "AI后半场，该关注什么？",
-          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T02:08:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9774,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T02:08:26Z",
-      "latest_at": "2026-07-05T03:15:54.220070Z",
-      "primary_item": {
-        "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
-        "title": "AI 后半场，该关注什么？",
-        "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9e78dadfe763",
-      "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-      "url": "https://news.ycombinator.com/item?id=48789325",
-      "primary_url": "https://news.ycombinator.com/item?id=48789325",
+      "story_id": "story_85705186a84e",
+      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://news.ycombinator.com/item?id=48789986",
+      "primary_url": "https://news.ycombinator.com/item?id=48789986",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://news.ycombinator.com/item?id=48789325",
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T00:42:01.301000Z"
+          "published_at": "2026-07-05T01:44:41.512000Z"
         },
         {
-          "id": "8a9efd5a603fa218be1cfe29d8a4e4df97a03a70",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T21:35:30Z"
+          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:25:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://news.ycombinator.com/item?id=48789325",
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T00:42:01.301000Z"
+          "published_at": "2026-07-05T01:44:41.512000Z"
         },
         {
-          "id": "8a9efd5a603fa218be1cfe29d8a4e4df97a03a70",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T21:35:30Z"
+          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:25:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9418,
+        "recency": 0.9354,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T21:35:30Z",
-      "latest_at": "2026-07-05T00:42:01.301000Z",
+      "earliest_at": "2026-07-04T23:25:53Z",
+      "latest_at": "2026-07-05T01:44:41.512000Z",
       "primary_item": {
-        "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-        "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-        "url": "https://news.ycombinator.com/item?id=48789325",
+        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+        "url": "https://news.ycombinator.com/item?id=48789986",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1039,15 +978,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7738,
+        "recency": 0.757,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1118,15 +1057,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7616,
+        "recency": 0.7451,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1141,6 +1080,85 @@
         "url": "https://www.businessinsider.com/career-expert-shares-resume-template-for-ai-era-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_df185242ad58",
+      "title": "老登对 AI 时代的思考：盛世与先驱",
+      "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872737.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fcc8695fb434508a6db22267e19df1ec1df59d2f",
+          "title": "老登对 AI 时代的思考：盛世与先驱",
+          "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "10fa2fe16c3441eb6d319dd5693ffe68fe29ad9a",
+          "title": "老登对AI时代的思考：盛世与先驱",
+          "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T04:34:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "fcc8695fb434508a6db22267e19df1ec1df59d2f",
+          "title": "老登对 AI 时代的思考：盛世与先驱",
+          "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "10fa2fe16c3441eb6d319dd5693ffe68fe29ad9a",
+          "title": "老登对AI时代的思考：盛世与先驱",
+          "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T04:34:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T04:34:52Z",
+      "latest_at": "2026-07-05T06:22:11.439586Z",
+      "primary_item": {
+        "id": "fcc8695fb434508a6db22267e19df1ec1df59d2f",
+        "title": "老登对 AI 时代的思考：盛世与先驱",
+        "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1196,15 +1214,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.516,
-      "importance": 0.516,
-      "importance_score": 0.516,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8345,
+        "recency": 0.8164,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1219,85 +1237,6 @@
         "url": "https://www.v2ex.com/t/1225003",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_0e0ad99c6388",
-      "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
-      "url": "https://www.ithome.com/0/972/685.htm",
-      "primary_url": "https://www.ithome.com/0/972/685.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
-          "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
-          "url": "https://www.ithome.com/0/972/685.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7a68b683acf1ae87a92d2b562b9948637e50b89f",
-          "title": "英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址",
-          "url": "https://www.ithome.com/0/972/685.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T23:32:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
-          "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
-          "url": "https://www.ithome.com/0/972/685.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7a68b683acf1ae87a92d2b562b9948637e50b89f",
-          "title": "英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址",
-          "url": "https://www.ithome.com/0/972/685.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T23:32:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9459,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T23:32:43Z",
-      "latest_at": "2026-07-05T01:00:08.570279Z",
-      "primary_item": {
-        "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
-        "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
-        "url": "https://www.ithome.com/0/972/685.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1354,15 +1293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7738,
+        "recency": 0.757,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,6 +1316,85 @@
         "url": "https://github.com/alirezarezvani/claude-skills",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9e78dadfe763",
+      "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "url": "https://news.ycombinator.com/item?id=48789325",
+      "primary_url": "https://news.ycombinator.com/item?id=48789325",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://news.ycombinator.com/item?id=48789325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T00:42:01.301000Z"
+        },
+        {
+          "id": "8a9efd5a603fa218be1cfe29d8a4e4df97a03a70",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T21:35:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://news.ycombinator.com/item?id=48789325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T00:42:01.301000Z"
+        },
+        {
+          "id": "8a9efd5a603fa218be1cfe29d8a4e4df97a03a70",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T21:35:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9214,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T21:35:30Z",
+      "latest_at": "2026-07-05T00:42:01.301000Z",
+      "primary_item": {
+        "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+        "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+        "url": "https://news.ycombinator.com/item?id=48789325",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1433,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5018,
-      "importance": 0.5018,
-      "importance_score": 0.5018,
+      "score": 0.4989,
+      "importance": 0.4989,
+      "importance_score": 0.4989,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7558,
+        "recency": 0.7394,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1459,82 +1477,82 @@
       }
     },
     {
-      "story_id": "story_944998d16f3d",
-      "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-      "url": "https://news.ycombinator.com/item?id=48788361",
-      "primary_url": "https://news.ycombinator.com/item?id=48788361",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_97517798b056",
+      "title": "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
+      "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872733.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://news.ycombinator.com/item?id=48788361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T20:26:15.130000Z"
+          "id": "39d21379ea51c7f77385e50431b717ad6de617b9",
+          "title": "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
+          "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "1c6f3712a18547f100a652990797154453473d1b",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T19:50:08Z"
+          "id": "1a8376dd9b307762a3c627d7702f1f5c04960457",
+          "title": "赛博菩萨Cloudflare，AI爬虫最严厉的父亲",
+          "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T04:06:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://news.ycombinator.com/item?id=48788361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T20:26:15.130000Z"
+          "id": "39d21379ea51c7f77385e50431b717ad6de617b9",
+          "title": "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
+          "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "1c6f3712a18547f100a652990797154453473d1b",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T19:50:08Z"
+          "id": "1a8376dd9b307762a3c627d7702f1f5c04960457",
+          "title": "赛博菩萨Cloudflare，AI爬虫最严厉的父亲",
+          "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T04:06:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8856,
+        "recency": 0.9783,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T19:50:08Z",
-      "latest_at": "2026-07-04T20:26:15.130000Z",
+      "earliest_at": "2026-07-05T04:06:00Z",
+      "latest_at": "2026-07-05T04:51:05.604206Z",
       "primary_item": {
-        "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-        "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-        "url": "https://news.ycombinator.com/item?id=48788361",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "39d21379ea51c7f77385e50431b717ad6de617b9",
+        "title": "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
+        "url": "https://www.huxiu.com/article/4872733.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1591,15 +1609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7738,
+        "recency": 0.757,
         "story_heat": 0.25
       },
       "category": "watch",
