@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T16:55:40.929534Z",
+  "generated_at": "2026-07-05T17:30:51.153757Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8422,
-      "importance": 0.8422,
-      "importance_score": 0.8422,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9809,
+        "recency": 0.9727,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.877,
+        "recency": 0.8696,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9923,
+        "recency": 0.984,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7164,
+        "recency": 0.7104,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -396,38 +396,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-05T14:37:19.207742Z"
-        },
-        {
-          "id": "92f7d898593aeb16900a5965794d4c6bd90d29cd",
-          "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:27:28.382070Z"
-        },
-        {
-          "id": "2740c4ee78a51f3a39014127a4eed4895fe3f5c7",
-          "title": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:27:28.382070Z"
-        },
-        {
-          "id": "0e78145e55abed8abe13fd3ed9da824db1c4f046",
-          "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:27:28.382070Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-07-04",
         "社区更新 · 2026-07-05"
       ],
       "items": [
@@ -475,53 +447,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-05T14:37:19.207742Z"
-        },
-        {
-          "id": "92f7d898593aeb16900a5965794d4c6bd90d29cd",
-          "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:27:28.382070Z"
-        },
-        {
-          "id": "2740c4ee78a51f3a39014127a4eed4895fe3f5c7",
-          "title": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:27:28.382070Z"
-        },
-        {
-          "id": "0e78145e55abed8abe13fd3ed9da824db1c4f046",
-          "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:27:28.382070Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6677,
+      "importance": 0.6677,
+      "importance_score": 0.6677,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9916,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T17:27:28.382070Z",
+      "earliest_at": "2026-07-05T14:37:19.207742Z",
       "latest_at": "2026-07-05T16:55:40.929534Z",
       "primary_item": {
         "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
@@ -529,6 +474,85 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-05",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_b97dfb6a3918",
+      "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "url": "https://news.ycombinator.com/item?id=48795826",
+      "primary_url": "https://news.ycombinator.com/item?id=48795826",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://news.ycombinator.com/item?id=48795826",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T17:15:25.227000Z"
+        },
+        {
+          "id": "d5fb070d15bed262278a2d988de6a25ddac601ce",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T17:05:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://news.ycombinator.com/item?id=48795826",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T17:15:25.227000Z"
+        },
+        {
+          "id": "d5fb070d15bed262278a2d988de6a25ddac601ce",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T17:05:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9963,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T17:05:35Z",
+      "latest_at": "2026-07-05T17:15:25.227000Z",
+      "primary_item": {
+        "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
+        "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+        "url": "https://news.ycombinator.com/item?id=48795826",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -585,15 +609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9916,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -608,85 +632,6 @@
         "url": "https://www.huxiu.com/article/4872798.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d900ec4b1bf6",
-      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-      "url": "https://news.ycombinator.com/item?id=48795174",
-      "primary_url": "https://news.ycombinator.com/item?id=48795174",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://news.ycombinator.com/item?id=48795174",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T16:15:01.932000Z"
-        },
-        {
-          "id": "37b07960c20bfbfbb84c351ad7c851a028c29bda",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T15:49:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://news.ycombinator.com/item?id=48795174",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T16:15:01.932000Z"
-        },
-        {
-          "id": "37b07960c20bfbfbb84c351ad7c851a028c29bda",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T15:49:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9903,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T15:49:18Z",
-      "latest_at": "2026-07-05T16:15:01.932000Z",
-      "primary_item": {
-        "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-        "url": "https://news.ycombinator.com/item?id=48795174",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -743,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.944,
+        "recency": 0.9361,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -822,15 +767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9223,
+        "recency": 0.9145,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -920,15 +865,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7815,
+        "recency": 0.775,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -998,15 +943,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8358,
+        "recency": 0.8288,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1024,30 +969,30 @@
       }
     },
     {
-      "story_id": "story_d7e88052ae44",
-      "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-      "url": "https://news.ycombinator.com/item?id=48793298",
-      "primary_url": "https://news.ycombinator.com/item?id=48793298",
+      "story_id": "story_d900ec4b1bf6",
+      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "url": "https://news.ycombinator.com/item?id=48795174",
+      "primary_url": "https://news.ycombinator.com/item?id=48795174",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://news.ycombinator.com/item?id=48793298",
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T15:14:57.368000Z"
+          "published_at": "2026-07-05T16:15:01.932000Z"
         },
         {
-          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://prediohq.com",
+          "id": "37b07960c20bfbfbb84c351ad7c851a028c29bda",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T11:30:14Z"
+          "published_at": "2026-07-05T15:49:18Z"
         }
       ],
       "source_count": 2,
@@ -1057,47 +1002,47 @@
       ],
       "items": [
         {
-          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://news.ycombinator.com/item?id=48793298",
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T15:14:57.368000Z"
+          "published_at": "2026-07-05T16:15:01.932000Z"
         },
         {
-          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://prediohq.com",
+          "id": "37b07960c20bfbfbb84c351ad7c851a028c29bda",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T11:30:14Z"
+          "published_at": "2026-07-05T15:49:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.976,
+        "recency": 0.9819,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T11:30:14Z",
-      "latest_at": "2026-07-05T15:14:57.368000Z",
+      "earliest_at": "2026-07-05T15:49:18Z",
+      "latest_at": "2026-07-05T16:15:01.932000Z",
       "primary_item": {
-        "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
-        "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-        "url": "https://news.ycombinator.com/item?id=48793298",
+        "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+        "url": "https://news.ycombinator.com/item?id=48795174",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1156,15 +1101,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9672,
+        "recency": 0.9591,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1235,15 +1180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.944,
+        "recency": 0.9361,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1314,15 +1259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8943,
+        "recency": 0.8868,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1392,15 +1337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7234,
+        "recency": 0.7173,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1470,15 +1415,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4944,
-      "importance": 0.4944,
-      "importance_score": 0.4944,
+      "score": 0.4934,
+      "importance": 0.4934,
+      "importance_score": 0.4934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7147,
+        "recency": 0.7087,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1493,6 +1438,85 @@
         "url": "https://www.v2ex.com/t/1225009",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_d7e88052ae44",
+      "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+      "url": "https://news.ycombinator.com/item?id=48793298",
+      "primary_url": "https://news.ycombinator.com/item?id=48793298",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://news.ycombinator.com/item?id=48793298",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T15:14:57.368000Z"
+        },
+        {
+          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://prediohq.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T11:30:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://news.ycombinator.com/item?id=48793298",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T15:14:57.368000Z"
+        },
+        {
+          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://prediohq.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T11:30:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9678,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T11:30:14Z",
+      "latest_at": "2026-07-05T15:14:57.368000Z",
+      "primary_item": {
+        "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+        "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+        "url": "https://news.ycombinator.com/item?id=48793298",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1548,15 +1572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9532,
+        "recency": 0.9451,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1626,15 +1650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.5043,
+      "importance": 0.5043,
+      "importance_score": 0.5043,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7761,
+        "recency": 0.7695,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1649,85 +1673,6 @@
         "url": "https://www.cggonzalez.com/blog/index.html",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_141dc99ed661",
-      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
-        },
-        {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
-        },
-        {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8909,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T08:41:01Z",
-      "latest_at": "2026-07-05T08:55:31.703000Z",
-      "primary_item": {
-        "id": "19017868000fe1555529a118219dd004ce6095fe",
-        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
