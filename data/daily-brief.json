@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T12:00:26.457130Z",
+  "generated_at": "2026-07-05T12:55:37.526215Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9416,
+        "recency": 0.9292,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7692,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -251,15 +251,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6519,
-      "importance": 0.6519,
-      "importance_score": 0.6519,
+      "score": 0.65,
+      "importance": 0.65,
+      "importance_score": 0.65,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.765,
+        "recency": 0.7549,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -274,6 +274,243 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-04",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_c7f7e9fbc46c",
+      "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "primary_url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T12:56:17.466000Z"
+        },
+        {
+          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T12:56:17.466000Z"
+        },
+        {
+          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T12:00:26.457130Z",
+      "latest_at": "2026-07-05T12:56:17.466000Z",
+      "primary_item": {
+        "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
+        "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
+        "url": "https://github.com/hesreallyhim/awesome-claude-code",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_44de5f528adc",
+      "title": "克劳德设计系统提示 / Claude Design System Prompt",
+      "url": "https://news.ycombinator.com/item?id=48792399",
+      "primary_url": "https://news.ycombinator.com/item?id=48792399",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T12:45:02.779000Z"
+        },
+        {
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T12:45:02.779000Z"
+        },
+        {
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T08:43:37Z",
+      "latest_at": "2026-07-05T12:45:02.779000Z",
+      "primary_item": {
+        "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+        "title": "克劳德设计系统提示 / Claude Design System Prompt",
+        "url": "https://news.ycombinator.com/item?id=48792399",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_86b22559dc84",
+      "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+      "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+      "primary_url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T11:19:41.901000Z"
+        },
+        {
+          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T11:06:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T11:19:41.901000Z"
+        },
+        {
+          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T11:06:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9772,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T11:06:01Z",
+      "latest_at": "2026-07-05T11:19:41.901000Z",
+      "primary_item": {
+        "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+        "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+        "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -330,15 +567,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9887,
+        "recency": 0.9757,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -428,15 +665,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8391,
+        "recency": 0.828,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -451,164 +688,6 @@
         "url": "https://github.com/openai/codex/issues/30364",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f3a6a004da89",
-      "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-      "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T09:11:39.560000Z"
-        },
-        {
-          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T09:03:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T09:11:39.560000Z"
-        },
-        {
-          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T09:03:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9602,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T09:03:02Z",
-      "latest_at": "2026-07-05T09:11:39.560000Z",
-      "primary_item": {
-        "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
-        "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-        "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_854a38c44b10",
-      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-      "url": "https://news.ycombinator.com/item?id=48791380",
-      "primary_url": "https://news.ycombinator.com/item?id=48791380",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://news.ycombinator.com/item?id=48791380",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T05:54:15.296000Z"
-        },
-        {
-          "id": "7099819c095c4c195d71135dec37d895ad569659",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://hic-ai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T05:01:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://news.ycombinator.com/item?id=48791380",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T05:54:15.296000Z"
-        },
-        {
-          "id": "7099819c095c4c195d71135dec37d895ad569659",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://hic-ai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T05:01:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5306,
-      "importance": 0.5306,
-      "importance_score": 0.5306,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9156,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T05:01:14Z",
-      "latest_at": "2026-07-05T05:54:15.296000Z",
-      "primary_item": {
-        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-        "url": "https://news.ycombinator.com/item?id=48791380",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -664,15 +743,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8974,
+        "recency": 0.8855,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -687,6 +766,85 @@
         "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_fa6538e9d176",
+      "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "primary_url": "https://github.com/steipete/CodexBar",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
+          "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T12:56:17.466000Z"
+        },
+        {
+          "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
+          "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
+          "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T12:56:17.466000Z"
+        },
+        {
+          "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
+          "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T12:00:26.457130Z",
+      "latest_at": "2026-07-05T12:56:17.466000Z",
+      "primary_item": {
+        "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
+        "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
+        "url": "https://github.com/steipete/CodexBar",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -743,15 +901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9759,
+        "recency": 0.963,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -769,30 +927,30 @@
       }
     },
     {
-      "story_id": "story_141dc99ed661",
-      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "story_id": "story_f3a6a004da89",
+      "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+      "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
+          "published_at": "2026-07-05T09:11:39.560000Z"
         },
         {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
+          "published_at": "2026-07-05T09:03:02Z"
         }
       ],
       "source_count": 2,
@@ -802,47 +960,47 @@
       ],
       "items": [
         {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
+          "published_at": "2026-07-05T09:11:39.560000Z"
         },
         {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
+          "published_at": "2026-07-05T09:03:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9565,
+        "recency": 0.9475,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T08:41:01Z",
-      "latest_at": "2026-07-05T08:55:31.703000Z",
+      "earliest_at": "2026-07-05T09:03:02Z",
+      "latest_at": "2026-07-05T09:11:39.560000Z",
       "primary_item": {
-        "id": "19017868000fe1555529a118219dd004ce6095fe",
-        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+        "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+        "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+        "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -900,15 +1058,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5056,
-      "importance": 0.5056,
-      "importance_score": 0.5056,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7767,
+        "recency": 0.7664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -978,15 +1136,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5039,
-      "importance": 0.5039,
-      "importance_score": 0.5039,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7674,
+        "recency": 0.7572,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1004,80 +1162,80 @@
       }
     },
     {
-      "story_id": "story_85705186a84e",
-      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-      "url": "https://news.ycombinator.com/item?id=48789986",
-      "primary_url": "https://news.ycombinator.com/item?id=48789986",
+      "story_id": "story_854a38c44b10",
+      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=48791380",
+      "primary_url": "https://news.ycombinator.com/item?id=48791380",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T01:44:41.512000Z"
+          "published_at": "2026-07-05T05:54:15.296000Z"
         },
         {
-          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T23:25:53Z"
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T01:44:41.512000Z"
+          "published_at": "2026-07-05T05:54:15.296000Z"
         },
         {
-          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T23:25:53Z"
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8623,
+        "recency": 0.9036,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T23:25:53Z",
-      "latest_at": "2026-07-05T01:44:41.512000Z",
+      "earliest_at": "2026-07-05T05:01:14Z",
+      "latest_at": "2026-07-05T05:54:15.296000Z",
       "primary_item": {
-        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-        "url": "https://news.ycombinator.com/item?id=48789986",
+        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://news.ycombinator.com/item?id=48791380",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1135,15 +1293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8332,
+        "recency": 0.8222,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1214,15 +1372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9598,
+        "recency": 0.9471,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1237,6 +1395,85 @@
         "url": "https://www.ithome.com/0/972/771.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_141dc99ed661",
+      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "19017868000fe1555529a118219dd004ce6095fe",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T08:55:31.703000Z"
+        },
+        {
+          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T08:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "19017868000fe1555529a118219dd004ce6095fe",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T08:55:31.703000Z"
+        },
+        {
+          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T08:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9439,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T08:41:01Z",
+      "latest_at": "2026-07-05T08:55:31.703000Z",
+      "primary_item": {
+        "id": "19017868000fe1555529a118219dd004ce6095fe",
+        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1292,15 +1529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5013,
-      "importance": 0.5013,
-      "importance_score": 0.5013,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7526,
+        "recency": 0.7427,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1318,316 +1555,80 @@
       }
     },
     {
-      "story_id": "story_9e78dadfe763",
-      "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-      "url": "https://news.ycombinator.com/item?id=48789325",
-      "primary_url": "https://news.ycombinator.com/item?id=48789325",
+      "story_id": "story_85705186a84e",
+      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://news.ycombinator.com/item?id=48789986",
+      "primary_url": "https://news.ycombinator.com/item?id=48789986",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://news.ycombinator.com/item?id=48789325",
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T00:42:01.301000Z"
+          "published_at": "2026-07-05T01:44:41.512000Z"
         },
         {
-          "id": "d42df26464b2a7805bcbe1ab12eaec8a04a8aa2e",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T21:35:30Z"
+          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:25:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://news.ycombinator.com/item?id=48789325",
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T00:42:01.301000Z"
+          "published_at": "2026-07-05T01:44:41.512000Z"
         },
         {
-          "id": "d42df26464b2a7805bcbe1ab12eaec8a04a8aa2e",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T21:35:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8494,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T21:35:30Z",
-      "latest_at": "2026-07-05T00:42:01.301000Z",
-      "primary_item": {
-        "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-        "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-        "url": "https://news.ycombinator.com/item?id=48789325",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_4a7960e33ae9",
-      "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-      "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872728.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
-          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T07:53:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
-          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T07:53:38Z"
+          "published_at": "2026-07-04T23:25:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9598,
+        "recency": 0.8509,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T07:53:38Z",
-      "latest_at": "2026-07-05T09:09:46.703390Z",
+      "earliest_at": "2026-07-04T23:25:53Z",
+      "latest_at": "2026-07-05T01:44:41.512000Z",
       "primary_item": {
-        "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-        "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-        "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5f09d23ce6db",
-      "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-      "url": "https://www.eso.org/public/news/eso2607",
-      "primary_url": "https://www.eso.org/public/news/eso2607",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
-        },
-        {
-          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
-        },
-        {
-          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5032,
-      "importance": 0.5032,
-      "importance_score": 0.5032,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7632,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T17:17:28Z",
-      "latest_at": "2026-07-04T17:17:28Z",
-      "primary_item": {
-        "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-        "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-        "url": "https://www.eso.org/public/news/eso2607",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_944998d16f3d",
-      "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-      "url": "https://news.ycombinator.com/item?id=48788361",
-      "primary_url": "https://news.ycombinator.com/item?id=48788361",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://news.ycombinator.com/item?id=48788361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T20:26:15.130000Z"
-        },
-        {
-          "id": "48ddc0b33f4d9a1c69fdd49dbfe302541fc40fb9",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T19:50:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://news.ycombinator.com/item?id=48788361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T20:26:15.130000Z"
-        },
-        {
-          "id": "48ddc0b33f4d9a1c69fdd49dbfe302541fc40fb9",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T19:50:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5096,
-      "importance": 0.5096,
-      "importance_score": 0.5096,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7986,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T19:50:08Z",
-      "latest_at": "2026-07-04T20:26:15.130000Z",
-      "primary_item": {
-        "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-        "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-        "url": "https://news.ycombinator.com/item?id=48788361",
+        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+        "url": "https://news.ycombinator.com/item?id=48789986",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
