@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T01:01:38.300088Z",
+  "generated_at": "2026-07-06T02:22:16.926595Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8727,
+        "recency": 0.8559,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -120,6 +120,87 @@
         "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e295a2fb0082",
+      "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
+      "url": "https://www.aibase.com/news/29386",
+      "primary_url": "https://www.aibase.com/news/29386",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a88ec576695a1f8ee1def45debbd24cf8d03f479",
+          "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
+          "url": "https://www.aibase.com/news/29386",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        },
+        {
+          "id": "6aeac43fa883a262b0d62fee0b70d7823595f4e0",
+          "title": "具身智能的「ChatGPT 时刻」临近：宇树科技描绘机器人产业新图景",
+          "url": "https://www.aibase.com/zh/news/29386",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a88ec576695a1f8ee1def45debbd24cf8d03f479",
+          "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
+          "url": "https://www.aibase.com/news/29386",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        },
+        {
+          "id": "6aeac43fa883a262b0d62fee0b70d7823595f4e0",
+          "title": "具身智能的「ChatGPT 时刻」临近：宇树科技描绘机器人产业新图景",
+          "url": "https://www.aibase.com/zh/news/29386",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T02:22:16.926595Z",
+      "latest_at": "2026-07-06T02:22:16.926595Z",
+      "primary_item": {
+        "id": "a88ec576695a1f8ee1def45debbd24cf8d03f479",
+        "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
+        "url": "https://www.aibase.com/news/29386",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -157,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,6 +261,67 @@
         "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
         "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1cdb1783355f",
+      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+      "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "primary_url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:19:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:19:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9849,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T01:19:09Z",
+      "latest_at": "2026-07-06T01:19:09Z",
+      "primary_item": {
+        "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+        "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+        "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -218,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9436,
+        "recency": 0.9255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -279,15 +421,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8529,
+        "recency": 0.8365,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -306,49 +448,130 @@
       }
     },
     {
-      "story_id": "story_0aae4f63f51e",
-      "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
-      "url": "https://www.aibase.com/news/29381",
-      "primary_url": "https://www.aibase.com/news/29381",
+      "story_id": "story_71f698610ab9",
+      "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
+      "url": "https://www.aibase.com/news/29388",
+      "primary_url": "https://www.aibase.com/news/29388",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2e79b5bc49b49cc2746c3796e349791545e6933c",
-          "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
-          "url": "https://www.aibase.com/news/29381",
+          "id": "65e06845d3b143ed536e86071e9e946d5f8ca1b3",
+          "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
+          "url": "https://www.aibase.com/news/29388",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T01:01:38.300088Z"
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        },
+        {
+          "id": "cded9c922467f56e2ab21958ed83e2901638fc12",
+          "title": "复旦期末开卷新高度：学生出题反向「调教」AI， 4 人斩获满分",
+          "url": "https://www.aibase.com/zh/news/29388",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "2e79b5bc49b49cc2746c3796e349791545e6933c",
-          "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
-          "url": "https://www.aibase.com/news/29381",
+          "id": "65e06845d3b143ed536e86071e9e946d5f8ca1b3",
+          "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
+          "url": "https://www.aibase.com/news/29388",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T01:01:38.300088Z"
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        },
+        {
+          "id": "cded9c922467f56e2ab21958ed83e2901638fc12",
+          "title": "复旦期末开卷新高度：学生出题反向「调教」AI， 4 人斩获满分",
+          "url": "https://www.aibase.com/zh/news/29388",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T02:22:16.926595Z",
+      "latest_at": "2026-07-06T02:22:16.926595Z",
+      "primary_item": {
+        "id": "65e06845d3b143ed536e86071e9e946d5f8ca1b3",
+        "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
+        "url": "https://www.aibase.com/news/29388",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3bc87a70e847",
+      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+      "url": "https://www.ithome.com/0/972/896.htm",
+      "primary_url": "https://www.ithome.com/0/972/896.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+          "url": "https://www.ithome.com/0/972/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:09:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+          "url": "https://www.ithome.com/0/972/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:09:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -356,14 +579,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T01:01:38.300088Z",
-      "latest_at": "2026-07-06T01:01:38.300088Z",
+      "earliest_at": "2026-07-06T01:09:29Z",
+      "latest_at": "2026-07-06T01:09:29Z",
       "primary_item": {
-        "id": "2e79b5bc49b49cc2746c3796e349791545e6933c",
-        "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
-        "url": "https://www.aibase.com/news/29381",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+        "url": "https://www.ithome.com/0/972/896.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -420,15 +643,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7802,
+        "recency": 0.7652,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -501,15 +724,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9,
+        "recency": 0.8827,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -529,21 +752,21 @@
       }
     },
     {
-      "story_id": "story_15b31e10db5f",
-      "title": "年费 51 万送孩子上\"AI私塾\"：美国富人正在用真金白银押注教育革命",
-      "url": "https://www.aibase.com/news/29380",
-      "primary_url": "https://www.aibase.com/news/29380",
+      "story_id": "story_3fc6b379c5e2",
+      "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
+      "url": "https://www.aibase.com/news/29387",
+      "primary_url": "https://www.aibase.com/news/29387",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "81fa202686cea5a4d9e61bdf6d6d67df21ef336d",
-          "title": "年费 51 万送孩子上\"AI私塾\"：美国富人正在用真金白银押注教育革命",
-          "url": "https://www.aibase.com/news/29380",
+          "id": "3e45893744618c84531937954f8f68d50556bd73",
+          "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
+          "url": "https://www.aibase.com/news/29387",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T01:01:38.300088Z"
+          "published_at": "2026-07-06T02:22:16.926595Z"
         }
       ],
       "source_count": 1,
@@ -552,13 +775,13 @@
       ],
       "items": [
         {
-          "id": "81fa202686cea5a4d9e61bdf6d6d67df21ef336d",
-          "title": "年费 51 万送孩子上\"AI私塾\"：美国富人正在用真金白银押注教育革命",
-          "url": "https://www.aibase.com/news/29380",
+          "id": "3e45893744618c84531937954f8f68d50556bd73",
+          "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
+          "url": "https://www.aibase.com/news/29387",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T01:01:38.300088Z"
+          "published_at": "2026-07-06T02:22:16.926595Z"
         }
       ],
       "item_count": 1,
@@ -579,12 +802,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T01:01:38.300088Z",
-      "latest_at": "2026-07-06T01:01:38.300088Z",
+      "earliest_at": "2026-07-06T02:22:16.926595Z",
+      "latest_at": "2026-07-06T02:22:16.926595Z",
       "primary_item": {
-        "id": "81fa202686cea5a4d9e61bdf6d6d67df21ef336d",
-        "title": "年费 51 万送孩子上\"AI私塾\"：美国富人正在用真金白银押注教育革命",
-        "url": "https://www.aibase.com/news/29380",
+        "id": "3e45893744618c84531937954f8f68d50556bd73",
+        "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
+        "url": "https://www.aibase.com/news/29387",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -643,15 +866,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8828,
+        "recency": 0.8658,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -668,6 +891,128 @@
         "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_97be09b05ad8",
+      "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
+      "url": "https://www.aibase.com/news/29383",
+      "primary_url": "https://www.aibase.com/news/29383",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c929943bdc2d514569d1d5cffa583cb9039547ae",
+          "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
+          "url": "https://www.aibase.com/news/29383",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c929943bdc2d514569d1d5cffa583cb9039547ae",
+          "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
+          "url": "https://www.aibase.com/news/29383",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T02:22:16.926595Z",
+      "latest_at": "2026-07-06T02:22:16.926595Z",
+      "primary_item": {
+        "id": "c929943bdc2d514569d1d5cffa583cb9039547ae",
+        "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
+        "url": "https://www.aibase.com/news/29383",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1400d5a8cf38",
+      "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
+      "url": "https://www.aibase.com/news/29384",
+      "primary_url": "https://www.aibase.com/news/29384",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f6d12482edd184cd87becbf1eda2c1932366f5f",
+          "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
+          "url": "https://www.aibase.com/news/29384",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3f6d12482edd184cd87becbf1eda2c1932366f5f",
+          "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
+          "url": "https://www.aibase.com/news/29384",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T02:22:16.926595Z",
+      "latest_at": "2026-07-06T02:22:16.926595Z",
+      "primary_item": {
+        "id": "3f6d12482edd184cd87becbf1eda2c1932366f5f",
+        "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
+        "url": "https://www.aibase.com/news/29384",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -777,15 +1122,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6493,
-      "importance": 0.6493,
-      "importance_score": 0.6493,
+      "score": 0.6463,
+      "importance": 0.6463,
+      "importance_score": 0.6463,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8896,
+        "recency": 0.8725,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -800,6 +1145,128 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-05",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_374876eb538a",
+      "title": "影坛版权博弈升级：Midjourney 要求好莱坞制片厂“自证清白”",
+      "url": "https://www.aibase.com/news/29385",
+      "primary_url": "https://www.aibase.com/news/29385",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "072076889b848753fcd2e113bdf45f38b9d47520",
+          "title": "影坛版权博弈升级：Midjourney 要求好莱坞制片厂“自证清白”",
+          "url": "https://www.aibase.com/news/29385",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "072076889b848753fcd2e113bdf45f38b9d47520",
+          "title": "影坛版权博弈升级：Midjourney 要求好莱坞制片厂“自证清白”",
+          "url": "https://www.aibase.com/news/29385",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T02:22:16.926595Z",
+      "latest_at": "2026-07-06T02:22:16.926595Z",
+      "primary_item": {
+        "id": "072076889b848753fcd2e113bdf45f38b9d47520",
+        "title": "影坛版权博弈升级：Midjourney 要求好莱坞制片厂“自证清白”",
+        "url": "https://www.aibase.com/news/29385",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_10724ad0505c",
+      "title": "百年超导竞赛迎来AI破局： 28 小时精准筛选，锁定四种全新材料",
+      "url": "https://www.aibase.com/news/29389",
+      "primary_url": "https://www.aibase.com/news/29389",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d92bab9c3614599db46182e4067b9a172f8f0dbe",
+          "title": "百年超导竞赛迎来AI破局： 28 小时精准筛选，锁定四种全新材料",
+          "url": "https://www.aibase.com/news/29389",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d92bab9c3614599db46182e4067b9a172f8f0dbe",
+          "title": "百年超导竞赛迎来AI破局： 28 小时精准筛选，锁定四种全新材料",
+          "url": "https://www.aibase.com/news/29389",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T02:22:16.926595Z",
+      "latest_at": "2026-07-06T02:22:16.926595Z",
+      "primary_item": {
+        "id": "d92bab9c3614599db46182e4067b9a172f8f0dbe",
+        "title": "百年超导竞赛迎来AI破局： 28 小时精准筛选，锁定四种全新材料",
+        "url": "https://www.aibase.com/news/29389",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -875,15 +1342,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5644,
-      "importance": 0.5644,
-      "importance_score": 0.5644,
+      "score": 0.5611,
+      "importance": 0.5611,
+      "importance_score": 0.5611,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9646,
+        "recency": 0.946,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -898,6 +1365,67 @@
         "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
         "source": "intextbooks.science.uu.nl",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c9c87cc137d6",
+      "title": "豆包、通义千问双双下线\"AI拟人化\"功能： 7 月 15 日新规落地，行业集体收缩",
+      "url": "https://www.aibase.com/news/29382",
+      "primary_url": "https://www.aibase.com/news/29382",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "92a7f045559edf69dcc32671b495f08bf88883de",
+          "title": "豆包、通义千问双双下线\"AI拟人化\"功能： 7 月 15 日新规落地，行业集体收缩",
+          "url": "https://www.aibase.com/news/29382",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "92a7f045559edf69dcc32671b495f08bf88883de",
+          "title": "豆包、通义千问双双下线\"AI拟人化\"功能： 7 月 15 日新规落地，行业集体收缩",
+          "url": "https://www.aibase.com/news/29382",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T02:22:16.926595Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T02:22:16.926595Z",
+      "latest_at": "2026-07-06T02:22:16.926595Z",
+      "primary_item": {
+        "id": "92a7f045559edf69dcc32671b495f08bf88883de",
+        "title": "豆包、通义千问双双下线\"AI拟人化\"功能： 7 月 15 日新规落地，行业集体收缩",
+        "url": "https://www.aibase.com/news/29382",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -973,15 +1501,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5559,
-      "importance": 0.5559,
-      "importance_score": 0.5559,
+      "score": 0.5528,
+      "importance": 0.5528,
+      "importance_score": 0.5528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9174,
+        "recency": 0.8998,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -996,636 +1524,6 @@
         "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
         "source": "techcrunch.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_011d0b4bfae4",
-      "title": "AI 时代，甲方 IT 正在被业务抛弃",
-      "url": "https://www.huxiu.com/article/4872813.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872813.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "0bf1650ed6299c961050cabd67d7d6aab0eae586",
-          "title": "AI 时代，甲方 IT 正在被业务抛弃",
-          "url": "https://www.huxiu.com/article/4872813.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "becd2f6b66e28e8351a264722e30ad4e8a9269cd",
-          "title": "AI时代，甲方IT正在被业务抛弃",
-          "url": "https://www.huxiu.com/article/4872813.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T00:06:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "0bf1650ed6299c961050cabd67d7d6aab0eae586",
-          "title": "AI 时代，甲方 IT 正在被业务抛弃",
-          "url": "https://www.huxiu.com/article/4872813.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "becd2f6b66e28e8351a264722e30ad4e8a9269cd",
-          "title": "AI时代，甲方IT正在被业务抛弃",
-          "url": "https://www.huxiu.com/article/4872813.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T00:06:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T00:06:26Z",
-      "latest_at": "2026-07-06T01:01:38.300088Z",
-      "primary_item": {
-        "id": "0bf1650ed6299c961050cabd67d7d6aab0eae586",
-        "title": "AI 时代，甲方 IT 正在被业务抛弃",
-        "url": "https://www.huxiu.com/article/4872813.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0a5406dd2dc7",
-      "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "url": "https://news.ycombinator.com/item?id=48799256",
-      "primary_url": "https://news.ycombinator.com/item?id=48799256",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
-          "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://news.ycombinator.com/item?id=48799256",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:33:58.209000Z"
-        },
-        {
-          "id": "488cdefc119bbe2cc2526509a0d58325c3edab5d",
-          "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T00:04:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
-          "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://news.ycombinator.com/item?id=48799256",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:33:58.209000Z"
-        },
-        {
-          "id": "488cdefc119bbe2cc2526509a0d58325c3edab5d",
-          "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T00:04:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9934,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T00:04:48Z",
-      "latest_at": "2026-07-06T00:33:58.209000Z",
-      "primary_item": {
-        "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
-        "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-        "url": "https://news.ycombinator.com/item?id=48799256",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8d3a264c4c34",
-      "title": "可维修且开源的纸质打印机 / OpenPrinter",
-      "url": "https://www.opentools.studio",
-      "primary_url": "https://www.opentools.studio",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0bdb604888ffb73068096e27c7f35562d6a57768",
-          "title": "可维修且开源的纸质打印机 / OpenPrinter",
-          "url": "https://www.opentools.studio",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T21:03:06Z"
-        },
-        {
-          "id": "f4cd398e58344ffc8325c8e519b49a70cd4ea140",
-          "title": "可维修且开源的纸质打印机 / Reparaible and open source paper printer",
-          "url": "https://www.opentools.studio",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T21:03:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "0bdb604888ffb73068096e27c7f35562d6a57768",
-          "title": "可维修且开源的纸质打印机 / OpenPrinter",
-          "url": "https://www.opentools.studio",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T21:03:06Z"
-        },
-        {
-          "id": "f4cd398e58344ffc8325c8e519b49a70cd4ea140",
-          "title": "可维修且开源的纸质打印机 / Reparaible and open source paper printer",
-          "url": "https://www.opentools.studio",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T21:03:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9442,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T21:03:06Z",
-      "latest_at": "2026-07-05T21:03:06Z",
-      "primary_item": {
-        "id": "0bdb604888ffb73068096e27c7f35562d6a57768",
-        "title": "可维修且开源的纸质打印机 / OpenPrinter",
-        "url": "https://www.opentools.studio",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_c7f7e9fbc46c",
-      "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "primary_url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T12:56:17.466000Z"
-        },
-        {
-          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T12:56:17.466000Z"
-        },
-        {
-          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8398,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T12:00:26.457130Z",
-      "latest_at": "2026-07-05T12:56:17.466000Z",
-      "primary_item": {
-        "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
-        "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
-        "url": "https://github.com/hesreallyhim/awesome-claude-code",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_88345d84bd68",
-      "title": "我找到 4 位被 AI 盗脸的人，记录了他们的抵抗过程",
-      "url": "https://www.huxiu.com/article/4872070.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872070.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "5c43cd35fb09c68113e093ed3a92fa22d262c6a3",
-          "title": "我找到 4 位被 AI 盗脸的人，记录了他们的抵抗过程",
-          "url": "https://www.huxiu.com/article/4872070.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4b7361b0ef6957ac3eb42046c9b7f1ee1fa03b29",
-          "title": "我找到4位被AI盗脸的人，记录了他们的抵抗过程",
-          "url": "https://www.huxiu.com/article/4872070.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "5c43cd35fb09c68113e093ed3a92fa22d262c6a3",
-          "title": "我找到 4 位被 AI 盗脸的人，记录了他们的抵抗过程",
-          "url": "https://www.huxiu.com/article/4872070.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4b7361b0ef6957ac3eb42046c9b7f1ee1fa03b29",
-          "title": "我找到4位被AI盗脸的人，记录了他们的抵抗过程",
-          "url": "https://www.huxiu.com/article/4872070.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T00:00:00Z",
-      "latest_at": "2026-07-06T01:01:38.300088Z",
-      "primary_item": {
-        "id": "5c43cd35fb09c68113e093ed3a92fa22d262c6a3",
-        "title": "我找到 4 位被 AI 盗脸的人，记录了他们的抵抗过程",
-        "url": "https://www.huxiu.com/article/4872070.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_86b22559dc84",
-      "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-      "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-      "primary_url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T11:19:41.901000Z"
-        },
-        {
-          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T11:06:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T11:19:41.901000Z"
-        },
-        {
-          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T11:06:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8205,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T11:06:01Z",
-      "latest_at": "2026-07-05T11:19:41.901000Z",
-      "primary_item": {
-        "id": "c9394fa856aed24e10debffb50f237b97632c66b",
-        "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-        "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8113be29e7a3",
-      "title": "Tripadvisor AI 摘要对危险酒店给予好评 / Tripadvisor AI summaries give glowing reviews to dangerous hotels",
-      "url": "https://news.ycombinator.com/item?id=48797529",
-      "primary_url": "https://news.ycombinator.com/item?id=48797529",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c2ac1339ca47ce6692015aef9b5bb2dd4afa06b1",
-          "title": "Tripadvisor AI 摘要对危险酒店给予好评 / Tripadvisor AI summaries give glowing reviews to dangerous hotels",
-          "url": "https://news.ycombinator.com/item?id=48797529",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T21:15:45.416000Z"
-        },
-        {
-          "id": "23710f57c2e96043ea6321752142e5221b7c57d2",
-          "title": "Tripadvisor AI 摘要对危险酒店给予好评 / Tripadvisor AI summaries give glowing reviews to dangerous hotels",
-          "url": "https://www.euronews.com/travel/2026/07/03/tripadvisor-ai-summaries-give-glowing-reviews-to-dangerous-hotels-consumer-watchdog-finds",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T20:09:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c2ac1339ca47ce6692015aef9b5bb2dd4afa06b1",
-          "title": "Tripadvisor AI 摘要对危险酒店给予好评 / Tripadvisor AI summaries give glowing reviews to dangerous hotels",
-          "url": "https://news.ycombinator.com/item?id=48797529",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T21:15:45.416000Z"
-        },
-        {
-          "id": "23710f57c2e96043ea6321752142e5221b7c57d2",
-          "title": "Tripadvisor AI 摘要对危险酒店给予好评 / Tripadvisor AI summaries give glowing reviews to dangerous hotels",
-          "url": "https://www.euronews.com/travel/2026/07/03/tripadvisor-ai-summaries-give-glowing-reviews-to-dangerous-hotels-consumer-watchdog-finds",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T20:09:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9471,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T20:09:34Z",
-      "latest_at": "2026-07-05T21:15:45.416000Z",
-      "primary_item": {
-        "id": "c2ac1339ca47ce6692015aef9b5bb2dd4afa06b1",
-        "title": "Tripadvisor AI 摘要对危险酒店给予好评 / Tripadvisor AI summaries give glowing reviews to dangerous hotels",
-        "url": "https://news.ycombinator.com/item?id=48797529",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_10b779949e90",
-      "title": "电脑主演 / Starring the Computer",
-      "url": "https://www.starringthecomputer.com/computers.html",
-      "primary_url": "https://www.starringthecomputer.com/computers.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "6118f16347c9c81abf11638e80862f7c91a99263",
-          "title": "电脑主演 / Starring the Computer",
-          "url": "https://www.starringthecomputer.com/computers.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T17:33:04Z"
-        },
-        {
-          "id": "56fc171a3aa5ab165e13867b6f1db6ba71c32380",
-          "title": "电脑主演 / The Computers Used in Movies",
-          "url": "https://www.starringthecomputer.com/computers.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T17:33:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "6118f16347c9c81abf11638e80862f7c91a99263",
-          "title": "电脑主演 / Starring the Computer",
-          "url": "https://www.starringthecomputer.com/computers.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T17:33:04Z"
-        },
-        {
-          "id": "56fc171a3aa5ab165e13867b6f1db6ba71c32380",
-          "title": "电脑主演 / The Computers Used in Movies",
-          "url": "https://www.starringthecomputer.com/computers.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T17:33:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8977,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T17:33:04Z",
-      "latest_at": "2026-07-05T17:33:04Z",
-      "primary_item": {
-        "id": "6118f16347c9c81abf11638e80862f7c91a99263",
-        "title": "电脑主演 / Starring the Computer",
-        "url": "https://www.starringthecomputer.com/computers.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
