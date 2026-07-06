@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T14:39:08.122457Z",
+  "generated_at": "2026-07-06T16:10:40.871094Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,6 +66,68 @@
       }
     },
     {
+      "story_id": "story_088a18b234ed",
+      "title": "PRX 第 4 部分：我们的数据策略 / PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "primary_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4445bdbc0527b7146032ce4e31166332c0c03867",
+          "title": "PRX 第 4 部分：我们的数据策略 / PRX Part 4: Our Data Strategy",
+          "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T15:30:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4445bdbc0527b7146032ce4e31166332c0c03867",
+          "title": "PRX 第 4 部分：我们的数据策略 / PRX Part 4: Our Data Strategy",
+          "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T15:30:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8583,
+      "importance": 0.8583,
+      "importance_score": 0.8583,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9905,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T15:30:55Z",
+      "latest_at": "2026-07-06T15:30:55Z",
+      "primary_item": {
+        "id": "4445bdbc0527b7146032ce4e31166332c0c03867",
+        "title": "PRX 第 4 部分：我们的数据策略 / PRX Part 4: Our Data Strategy",
+        "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
       "story_id": "story_944998d16f3d",
       "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
       "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
@@ -119,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9605,
+        "recency": 0.9396,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -144,68 +206,6 @@
         "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c57690ad336e",
-      "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "primary_url": "https://huggingface.co/blog/revamped-kernels",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
-          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-          "url": "https://huggingface.co/blog/revamped-kernels",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
-          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-          "url": "https://huggingface.co/blog/revamped-kernels",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T00:00:00Z",
-      "latest_at": "2026-07-06T00:00:00Z",
-      "primary_item": {
-        "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
-        "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-        "url": "https://huggingface.co/blog/revamped-kernels",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -262,15 +262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.886,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -324,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.9685,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -404,15 +404,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8714,
+        "recency": 0.8524,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -429,6 +429,68 @@
         "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c57690ad336e",
+      "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "primary_url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7917,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T00:00:00Z",
+      "latest_at": "2026-07-06T00:00:00Z",
+      "primary_item": {
+        "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+        "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+        "url": "https://huggingface.co/blog/revamped-kernels",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -466,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7457,
+        "recency": 0.7294,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,15 +589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9268,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,15 +669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7873,
-      "importance": 0.7873,
-      "importance_score": 0.7873,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9207,
+        "recency": 0.9006,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -669,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8846,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -729,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7751,
+        "recency": 0.7582,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -789,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.8069,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -868,15 +930,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8375,
+        "recency": 0.8192,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -930,15 +992,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9157,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1009,15 +1071,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8375,
+        "recency": 0.8192,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1071,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8229,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1093,86 +1155,6 @@
         "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
         "url": "https://www.ithome.com/0/972/896.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_44de5f528adc",
-      "title": "Anthropic Claude Design 反向工程提示词开源更新",
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "primary_url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
-          "title": "Anthropic Claude Design 反向工程提示词开源更新",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        },
-        {
-          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
-          "title": "Claude 设计系统提示词",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
-          "title": "Anthropic Claude Design 反向工程提示词开源更新",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        },
-        {
-          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
-          "title": "Claude 设计系统提示词",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7168,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-05T15:35:42.919000Z",
-      "latest_at": "2026-07-05T15:35:42.919000Z",
-      "primary_item": {
-        "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
-        "title": "Anthropic Claude Design 反向工程提示词开源更新",
-        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1211,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9572,
+        "recency": 0.9364,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1235,6 +1217,121 @@
         "url": "https://www.aibase.com/news/29405",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-06",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "a75ec76121431530d46b241d5ff8ff03700b7d56",
+          "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T16:10:40.871094Z"
+        },
+        {
+          "id": "b35c47498086229d6d5bf67aae4ac1b7dcf28ab7",
+          "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T16:10:40.871094Z"
+        },
+        {
+          "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
+          "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T16:55:40.929534Z"
+        },
+        {
+          "id": "3a5920148152ebbc651d634969fe3012dbb461fb",
+          "title": "如果你在使用Codex搭载GPT5.5 Pro模型处理复杂推理过程中频繁遭遇AI降智，梦飞这篇实操指南可以帮你快速解决。文中附带检测脚本，还给出了完整配置修改流程，快来一起检测下。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T16:28:12.817189Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-07-05",
+        "社区更新 · 2026-07-06"
+      ],
+      "items": [
+        {
+          "id": "a75ec76121431530d46b241d5ff8ff03700b7d56",
+          "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T16:10:40.871094Z"
+        },
+        {
+          "id": "b35c47498086229d6d5bf67aae4ac1b7dcf28ab7",
+          "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T16:10:40.871094Z"
+        },
+        {
+          "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
+          "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T16:55:40.929534Z"
+        },
+        {
+          "id": "3a5920148152ebbc651d634969fe3012dbb461fb",
+          "title": "如果你在使用Codex搭载GPT5.5 Pro模型处理复杂推理过程中频繁遭遇AI降智，梦飞这篇实操指南可以帮你快速解决。文中附带检测脚本，还给出了完整配置修改流程，快来一起检测下。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T16:28:12.817189Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T16:28:12.817189Z",
+      "latest_at": "2026-07-06T16:10:40.871094Z",
+      "primary_item": {
+        "id": "a75ec76121431530d46b241d5ff8ff03700b7d56",
+        "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-06",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1272,15 +1369,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9572,
+        "recency": 0.9364,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,67 +1391,6 @@
         "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
         "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
         "url": "https://www.aibase.com/news/29404",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a2d65654a136",
-      "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-      "url": "https://www.aibase.com/news/29403",
-      "primary_url": "https://www.aibase.com/news/29403",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-          "url": "https://www.aibase.com/news/29403",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T09:32:02.490433Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-          "url": "https://www.aibase.com/news/29403",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T09:32:02.490433Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9288,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T09:32:02.490433Z",
-      "latest_at": "2026-07-06T09:32:02.490433Z",
-      "primary_item": {
-        "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-        "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-        "url": "https://www.aibase.com/news/29403",
         "source": "AIbase",
         "source_name": "AIbase"
       }
