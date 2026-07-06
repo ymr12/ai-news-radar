@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-06T09:32:02.490433Z",
+  "generated_at": "2026-07-06T11:37:32.003263Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0a1d2bd6cc12",
+      "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "primary_url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.87,
+      "importance": 0.87,
+      "importance_score": 0.87,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T00:00:00Z",
+      "latest_at": "2026-07-07T00:00:00Z",
+      "primary_item": {
+        "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+        "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+        "url": "https://huggingface.co/blog/lerobot-release-v060",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_c57690ad336e",
       "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8714,
+        "recency": 0.8455,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9913,
+        "recency": 0.9618,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9462,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9382,
+        "recency": 0.9103,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -305,6 +367,67 @@
         "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
         "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9074fbe55dba",
+      "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+      "url": "https://www.ithome.com/0/973/207.htm",
+      "primary_url": "https://www.ithome.com/0/973/207.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
+          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+          "url": "https://www.ithome.com/0/973/207.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T09:23:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
+          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+          "url": "https://www.ithome.com/0/973/207.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T09:23:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9682,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T09:23:28Z",
+      "latest_at": "2026-07-06T09:23:28Z",
+      "primary_item": {
+        "id": "b971e664e08458d1ac031b373405c8139ef6c669",
+        "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+        "url": "https://www.ithome.com/0/973/207.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -343,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8029,
+        "recency": 0.779,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -404,15 +527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9524,
+        "recency": 0.9241,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -427,67 +550,6 @@
         "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
         "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
         "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1cdb1783355f",
-      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-      "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-      "primary_url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
-          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T01:19:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
-          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T01:19:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8881,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T01:19:09Z",
-      "latest_at": "2026-07-06T01:19:09Z",
-      "primary_item": {
-        "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
-        "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-        "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -526,21 +588,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7543,
+        "recency": 0.7318,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-05T14:00:18Z",
       "latest_at": "2026-07-05T14:00:18Z",
@@ -549,6 +610,66 @@
         "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
         "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
         "source": "X：美团 LongCat (@Meituan_LongCat)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1cdb1783355f",
+      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+      "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "primary_url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:19:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:19:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8617,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T01:19:09Z",
+      "latest_at": "2026-07-06T01:19:09Z",
+      "primary_item": {
+        "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+        "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+        "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -587,15 +708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8345,
+        "recency": 0.8097,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -666,15 +787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9017,
+        "recency": 0.8749,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -728,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9859,
+        "recency": 0.9566,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -750,66 +871,6 @@
         "title": "Runway 宣布设立巴黎办公室",
         "url": "https://runwayml.com/news/announcing-our-paris-office",
         "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3bc87a70e847",
-      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-      "url": "https://www.ithome.com/0/972/896.htm",
-      "primary_url": "https://www.ithome.com/0/972/896.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-          "url": "https://www.ithome.com/0/972/896.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T01:09:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-          "url": "https://www.ithome.com/0/972/896.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T01:09:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8861,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T01:09:29Z",
-      "latest_at": "2026-07-06T01:09:29Z",
-      "primary_item": {
-        "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-        "url": "https://www.ithome.com/0/972/896.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -867,15 +928,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7718,
+        "recency": 0.7488,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -948,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9017,
+        "recency": 0.8749,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -973,6 +1034,66 @@
         "url": "https://www.aibase.com/news/29388",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3bc87a70e847",
+      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+      "url": "https://www.ithome.com/0/972/896.htm",
+      "primary_url": "https://www.ithome.com/0/972/896.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+          "url": "https://www.ithome.com/0/972/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:09:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+          "url": "https://www.ithome.com/0/972/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:09:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8597,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T01:09:29Z",
+      "latest_at": "2026-07-06T01:09:29Z",
+      "primary_item": {
+        "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+        "url": "https://www.ithome.com/0/972/896.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1029,15 +1150,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7808,
+        "recency": 0.7575,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1056,21 +1177,21 @@
       }
     },
     {
-      "story_id": "story_a2d65654a136",
-      "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-      "url": "https://www.aibase.com/news/29403",
-      "primary_url": "https://www.aibase.com/news/29403",
+      "story_id": "story_083716f16ea9",
+      "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+      "url": "https://www.aibase.com/news/29405",
+      "primary_url": "https://www.aibase.com/news/29405",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-          "url": "https://www.aibase.com/news/29403",
+          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
+          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+          "url": "https://www.aibase.com/news/29405",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T09:32:02.490433Z"
+          "published_at": "2026-07-06T11:37:32.003263Z"
         }
       ],
       "source_count": 1,
@@ -1079,13 +1200,13 @@
       ],
       "items": [
         {
-          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-          "url": "https://www.aibase.com/news/29403",
+          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
+          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+          "url": "https://www.aibase.com/news/29405",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T09:32:02.490433Z"
+          "published_at": "2026-07-06T11:37:32.003263Z"
         }
       ],
       "item_count": 1,
@@ -1106,32 +1227,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T09:32:02.490433Z",
-      "latest_at": "2026-07-06T09:32:02.490433Z",
+      "earliest_at": "2026-07-06T11:37:32.003263Z",
+      "latest_at": "2026-07-06T11:37:32.003263Z",
       "primary_item": {
-        "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-        "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-        "url": "https://www.aibase.com/news/29403",
+        "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
+        "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+        "url": "https://www.aibase.com/news/29405",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_aaeb755b7c2e",
-      "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-      "url": "https://www.aibase.com/news/29397",
-      "primary_url": "https://www.aibase.com/news/29397",
+      "story_id": "story_07dd471aa88d",
+      "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
+      "url": "https://www.aibase.com/news/29404",
+      "primary_url": "https://www.aibase.com/news/29404",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-          "url": "https://www.aibase.com/news/29397",
+          "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
+          "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
+          "url": "https://www.aibase.com/news/29404",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T07:47:39.749873Z"
+          "published_at": "2026-07-06T11:37:32.003263Z"
         }
       ],
       "source_count": 1,
@@ -1140,26 +1261,26 @@
       ],
       "items": [
         {
-          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-          "url": "https://www.aibase.com/news/29397",
+          "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
+          "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
+          "url": "https://www.aibase.com/news/29404",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T07:47:39.749873Z"
+          "published_at": "2026-07-06T11:37:32.003263Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1167,12 +1288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T07:47:39.749873Z",
-      "latest_at": "2026-07-06T07:47:39.749873Z",
+      "earliest_at": "2026-07-06T11:37:32.003263Z",
+      "latest_at": "2026-07-06T11:37:32.003263Z",
       "primary_item": {
-        "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-        "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-        "url": "https://www.aibase.com/news/29397",
+        "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
+        "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
+        "url": "https://www.aibase.com/news/29404",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1212,15 +1333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.796,
+        "recency": 0.7723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1235,199 +1356,6 @@
         "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-05",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
-          "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T16:55:40.929534Z"
-        },
-        {
-          "id": "3a5920148152ebbc651d634969fe3012dbb461fb",
-          "title": "如果你在使用Codex搭载GPT5.5 Pro模型处理复杂推理过程中频繁遭遇AI降智，梦飞这篇实操指南可以帮你快速解决。文中附带检测脚本，还给出了完整配置修改流程，快来一起检测下。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T16:28:12.817189Z"
-        },
-        {
-          "id": "893612912fa5c7c925508d78c6f07c061042b85d",
-          "title": "Pincus 是 Zynga 创始人，也经历过 Web、社交网络、移动游戏三轮计算平台变化。他的新书《Life at the Speed of Play》总结的是一套产品和创始人打法。今天的 PM、创业者和 AI 产品团队读这期，最有用的部分，是一个冷门命题被讲清楚了：当投资人都在看企业 AI，消费产品团队应该怎样判断时机、设计新产品、撑过没有共识的早期。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T14:37:19.207742Z"
-        },
-        {
-          "id": "b6fb13bc6400a1e232fc2f954f8e82103e806cd1",
-          "title": "不少开发者用 Codex 产出大量半成品项目，因为缺少版本管理反复重做白白浪费精力。芋头小宝这套零基础GitHub实操方案完美解决了项目杂乱丢失的问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T14:37:19.207742Z"
-        },
-        {
-          "id": "89974226a90f52cc5d37b5a7f3988f6203616ef9",
-          "title": "正在搭建团队、筹备AI赛道创业的管理者，这场与深度参与过字节、美团组织建设的人力负责人的访谈可以补齐组织管理与人才招聘的核心认知。不仅有轻量化创业管理、人才筛选谈判落地方法，还剖析了AI重构岗位分工带来的组织变革。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T14:37:19.207742Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-07-05"
-      ],
-      "items": [
-        {
-          "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
-          "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T16:55:40.929534Z"
-        },
-        {
-          "id": "3a5920148152ebbc651d634969fe3012dbb461fb",
-          "title": "如果你在使用Codex搭载GPT5.5 Pro模型处理复杂推理过程中频繁遭遇AI降智，梦飞这篇实操指南可以帮你快速解决。文中附带检测脚本，还给出了完整配置修改流程，快来一起检测下。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T16:28:12.817189Z"
-        },
-        {
-          "id": "893612912fa5c7c925508d78c6f07c061042b85d",
-          "title": "Pincus 是 Zynga 创始人，也经历过 Web、社交网络、移动游戏三轮计算平台变化。他的新书《Life at the Speed of Play》总结的是一套产品和创始人打法。今天的 PM、创业者和 AI 产品团队读这期，最有用的部分，是一个冷门命题被讲清楚了：当投资人都在看企业 AI，消费产品团队应该怎样判断时机、设计新产品、撑过没有共识的早期。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T14:37:19.207742Z"
-        },
-        {
-          "id": "b6fb13bc6400a1e232fc2f954f8e82103e806cd1",
-          "title": "不少开发者用 Codex 产出大量半成品项目，因为缺少版本管理反复重做白白浪费精力。芋头小宝这套零基础GitHub实操方案完美解决了项目杂乱丢失的问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T14:37:19.207742Z"
-        },
-        {
-          "id": "89974226a90f52cc5d37b5a7f3988f6203616ef9",
-          "title": "正在搭建团队、筹备AI赛道创业的管理者，这场与深度参与过字节、美团组织建设的人力负责人的访谈可以补齐组织管理与人才招聘的核心认知。不仅有轻量化创业管理、人才筛选谈判落地方法，还剖析了AI重构岗位分工带来的组织变革。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T14:37:19.207742Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6308,
-      "importance": 0.6308,
-      "importance_score": 0.6308,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7868,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T14:37:19.207742Z",
-      "latest_at": "2026-07-05T16:55:40.929534Z",
-      "primary_item": {
-        "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
-        "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-05",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_03bd63676800",
-      "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
-      "url": "https://www.aibase.com/news/29396",
-      "primary_url": "https://www.aibase.com/news/29396",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
-          "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
-          "url": "https://www.aibase.com/news/29396",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T07:47:39.749873Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
-          "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
-          "url": "https://www.aibase.com/news/29396",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T07:47:39.749873Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9752,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T07:47:39.749873Z",
-      "latest_at": "2026-07-06T07:47:39.749873Z",
-      "primary_item": {
-        "id": "6d98ea53233e50708308aa6ce6e65218b3271732",
-        "title": "全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条",
-        "url": "https://www.aibase.com/news/29396",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
