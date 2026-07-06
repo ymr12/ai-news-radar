@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T11:37:32.003263Z",
+  "generated_at": "2026-07-06T13:25:37.003576Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,6 +66,87 @@
       }
     },
     {
+      "story_id": "story_944998d16f3d",
+      "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+      "primary_url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
+          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        },
+        {
+          "id": "3b70c3267e06134915113a248c810f481242a2ed",
+          "title": "人工智能彻底颠覆了初级程序员的就业市场",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "seldo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "seldo.com"
+      ],
+      "items": [
+        {
+          "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
+          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        },
+        {
+          "id": "3b70c3267e06134915113a248c810f481242a2ed",
+          "title": "人工智能彻底颠覆了初级程序员的就业市场",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "seldo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9776,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T11:51:40.808000Z",
+      "latest_at": "2026-07-06T11:51:40.808000Z",
+      "primary_item": {
+        "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
+        "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+        "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_c57690ad336e",
       "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
       "url": "https://huggingface.co/blog/revamped-kernels",
@@ -100,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8455,
+        "recency": 0.8237,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,87 +206,6 @@
         "url": "https://huggingface.co/blog/revamped-kernels",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b463ef360b99",
-      "title": "AT&T 1956年专利法令：公共天才的私有化",
-      "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-      "primary_url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
-          "title": "AT&T 1956年专利法令：公共天才的私有化",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T08:55:43.404000Z"
-        },
-        {
-          "id": "4c230bd9d4596488aa09867088346e4fd2b92de7",
-          "title": "AT&T 1956年专利法令：公共天才的私有化 / The Private Capture of Public Genius",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T23:52:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
-          "title": "AT&T 1956年专利法令：公共天才的私有化",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T08:55:43.404000Z"
-        },
-        {
-          "id": "4c230bd9d4596488aa09867088346e4fd2b92de7",
-          "title": "AT&T 1956年专利法令：公共天才的私有化 / The Private Capture of Public Genius",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T23:52:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9618,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-05T23:52:20Z",
-      "latest_at": "2026-07-06T08:55:43.404000Z",
-      "primary_item": {
-        "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
-        "title": "AT&T 1956年专利法令：公共天才的私有化",
-        "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -262,15 +262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9462,
+        "recency": 0.9219,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9103,
+        "recency": 0.887,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -405,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9682,
+        "recency": 0.9434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -428,6 +428,87 @@
         "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
         "url": "https://www.ithome.com/0/973/207.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b463ef360b99",
+      "title": "AT&T 1956年专利法令：公共天才的私有化",
+      "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+      "primary_url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
+          "title": "AT&T 1956年专利法令：公共天才的私有化",
+          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T08:55:43.404000Z"
+        },
+        {
+          "id": "4c230bd9d4596488aa09867088346e4fd2b92de7",
+          "title": "AT&T 1956年专利法令：公共天才的私有化 / The Private Capture of Public Genius",
+          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T23:52:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
+          "title": "AT&T 1956年专利法令：公共天才的私有化",
+          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T08:55:43.404000Z"
+        },
+        {
+          "id": "4c230bd9d4596488aa09867088346e4fd2b92de7",
+          "title": "AT&T 1956年专利法令：公共天才的私有化 / The Private Capture of Public Genius",
+          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T23:52:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9371,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T23:52:20Z",
+      "latest_at": "2026-07-06T08:55:43.404000Z",
+      "primary_item": {
+        "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
+        "title": "AT&T 1956年专利法令：公共天才的私有化",
+        "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -466,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9241,
+        "recency": 0.9004,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -588,15 +669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7318,
+        "recency": 0.713,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -648,15 +729,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8617,
+        "recency": 0.8396,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -708,15 +789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8097,
+        "recency": 0.7889,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -787,15 +868,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8749,
+        "recency": 0.8524,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -849,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9566,
+        "recency": 0.932,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -871,87 +952,6 @@
         "title": "Runway 宣布设立巴黎办公室",
         "url": "https://runwayml.com/news/announcing-our-paris-office",
         "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_44de5f528adc",
-      "title": "Anthropic Claude Design 反向工程提示词开源更新",
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "primary_url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
-          "title": "Anthropic Claude Design 反向工程提示词开源更新",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        },
-        {
-          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
-          "title": "Claude 设计系统提示词",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
-          "title": "Anthropic Claude Design 反向工程提示词开源更新",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        },
-        {
-          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
-          "title": "Claude 设计系统提示词",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7488,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-05T15:35:42.919000Z",
-      "latest_at": "2026-07-05T15:35:42.919000Z",
-      "primary_item": {
-        "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
-        "title": "Anthropic Claude Design 反向工程提示词开源更新",
-        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1009,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8749,
+        "recency": 0.8524,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1071,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.8376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1097,68 +1097,68 @@
       }
     },
     {
-      "story_id": "story_bbaeaf520e1a",
-      "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-      "primary_url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+      "story_id": "story_44de5f528adc",
+      "title": "Anthropic Claude Design 反向工程提示词开源更新",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "primary_url": "https://github.com/Trystan-SA/claude-design-system-prompt",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bdeb16b67320ff95237b97bfe6036b442fdada3d",
-          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+          "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
+          "title": "Anthropic Claude Design 反向工程提示词开源更新",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-05T16:23:44.440000Z"
+          "published_at": "2026-07-05T15:35:42.919000Z"
         },
         {
-          "id": "407215f20f095c81e1dda84f067decc1ca8ffb7a",
-          "title": "欧盟理事会通过快速通道强制推行“聊天管控” / EU Council forces Chat Control via fast-track",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T11:44:04Z"
+          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
+          "title": "Claude 设计系统提示词",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T15:35:42.919000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "bdeb16b67320ff95237b97bfe6036b442fdada3d",
-          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+          "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
+          "title": "Anthropic Claude Design 反向工程提示词开源更新",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-05T16:23:44.440000Z"
+          "published_at": "2026-07-05T15:35:42.919000Z"
         },
         {
-          "id": "407215f20f095c81e1dda84f067decc1ca8ffb7a",
-          "title": "欧盟理事会通过快速通道强制推行“聊天管控” / EU Council forces Chat Control via fast-track",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T11:44:04Z"
+          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
+          "title": "Claude 设计系统提示词",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T15:35:42.919000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7575,
+        "recency": 0.7296,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1166,12 +1166,12 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-05T11:44:04Z",
-      "latest_at": "2026-07-05T16:23:44.440000Z",
+      "earliest_at": "2026-07-05T15:35:42.919000Z",
+      "latest_at": "2026-07-05T15:35:42.919000Z",
       "primary_item": {
-        "id": "bdeb16b67320ff95237b97bfe6036b442fdada3d",
-        "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-        "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+        "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
+        "title": "Anthropic Claude Design 反向工程提示词开源更新",
+        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -1211,15 +1211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,15 +1272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1299,63 +1299,135 @@
       }
     },
     {
-      "story_id": "story_0a49822c4024",
-      "title": "三周前，我不小心创办了一家小公司",
-      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-      "primary_url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_2df82173bb28",
+      "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-05",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-          "title": "三周前，我不小心创办了一家小公司",
-          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T17:43:57.442000Z"
+          "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
+          "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T16:55:40.929534Z"
+        },
+        {
+          "id": "3a5920148152ebbc651d634969fe3012dbb461fb",
+          "title": "如果你在使用Codex搭载GPT5.5 Pro模型处理复杂推理过程中频繁遭遇AI降智，梦飞这篇实操指南可以帮你快速解决。文中附带检测脚本，还给出了完整配置修改流程，快来一起检测下。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T16:28:12.817189Z"
+        },
+        {
+          "id": "893612912fa5c7c925508d78c6f07c061042b85d",
+          "title": "Pincus 是 Zynga 创始人，也经历过 Web、社交网络、移动游戏三轮计算平台变化。他的新书《Life at the Speed of Play》总结的是一套产品和创始人打法。今天的 PM、创业者和 AI 产品团队读这期，最有用的部分，是一个冷门命题被讲清楚了：当投资人都在看企业 AI，消费产品团队应该怎样判断时机、设计新产品、撑过没有共识的早期。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T14:37:19.207742Z"
+        },
+        {
+          "id": "b6fb13bc6400a1e232fc2f954f8e82103e806cd1",
+          "title": "不少开发者用 Codex 产出大量半成品项目，因为缺少版本管理反复重做白白浪费精力。芋头小宝这套零基础GitHub实操方案完美解决了项目杂乱丢失的问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T14:37:19.207742Z"
+        },
+        {
+          "id": "89974226a90f52cc5d37b5a7f3988f6203616ef9",
+          "title": "正在搭建团队、筹备AI赛道创业的管理者，这场与深度参与过字节、美团组织建设的人力负责人的访谈可以补齐组织管理与人才招聘的核心认知。不仅有轻量化创业管理、人才筛选谈判落地方法，还剖析了AI重构岗位分工带来的组织变革。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T14:37:19.207742Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 5,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "社区更新 · 2026-07-05"
       ],
       "items": [
         {
-          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-          "title": "三周前，我不小心创办了一家小公司",
-          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T17:43:57.442000Z"
+          "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
+          "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T16:55:40.929534Z"
+        },
+        {
+          "id": "3a5920148152ebbc651d634969fe3012dbb461fb",
+          "title": "如果你在使用Codex搭载GPT5.5 Pro模型处理复杂推理过程中频繁遭遇AI降智，梦飞这篇实操指南可以帮你快速解决。文中附带检测脚本，还给出了完整配置修改流程，快来一起检测下。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T16:28:12.817189Z"
+        },
+        {
+          "id": "893612912fa5c7c925508d78c6f07c061042b85d",
+          "title": "Pincus 是 Zynga 创始人，也经历过 Web、社交网络、移动游戏三轮计算平台变化。他的新书《Life at the Speed of Play》总结的是一套产品和创始人打法。今天的 PM、创业者和 AI 产品团队读这期，最有用的部分，是一个冷门命题被讲清楚了：当投资人都在看企业 AI，消费产品团队应该怎样判断时机、设计新产品、撑过没有共识的早期。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T14:37:19.207742Z"
+        },
+        {
+          "id": "b6fb13bc6400a1e232fc2f954f8e82103e806cd1",
+          "title": "不少开发者用 Codex 产出大量半成品项目，因为缺少版本管理反复重做白白浪费精力。芋头小宝这套零基础GitHub实操方案完美解决了项目杂乱丢失的问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T14:37:19.207742Z"
+        },
+        {
+          "id": "89974226a90f52cc5d37b5a7f3988f6203616ef9",
+          "title": "正在搭建团队、筹备AI赛道创业的管理者，这场与深度参与过字节、美团组织建设的人力负责人的访谈可以补齐组织管理与人才招聘的核心认知。不仅有轻量化创业管理、人才筛选谈判落地方法，还剖析了AI重构岗位分工带来的组织变革。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T14:37:19.207742Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6231,
+      "importance": 0.6231,
+      "importance_score": 0.6231,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7723,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.7438,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-05T17:43:57.442000Z",
-      "latest_at": "2026-07-05T17:43:57.442000Z",
+      "earliest_at": "2026-07-05T14:37:19.207742Z",
+      "latest_at": "2026-07-05T16:55:40.929534Z",
       "primary_item": {
-        "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-        "title": "三周前，我不小心创办了一家小公司",
-        "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
+        "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-05",
+        "source_name": "WaytoAGI"
       }
     }
   ]
