@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-06T03:48:59.829019Z",
+  "generated_at": "2026-07-06T05:34:24.946557Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c57690ad336e",
+      "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "primary_url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9227,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T00:00:00Z",
+      "latest_at": "2026-07-06T00:00:00Z",
+      "primary_item": {
+        "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+        "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+        "url": "https://huggingface.co/blog/revamped-kernels",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_44de5f528adc",
       "title": "Anthropic Claude Design 反向工程提示词开源更新",
@@ -40,7 +102,7 @@
         },
         {
           "id": "21c8e03608576391a997ed5bcdd98deb50994c50",
-          "title": "Anthropic Claude Design 反向工程提示词开源更新 / Claude Design System Prompt",
+          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
           "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -85,7 +147,7 @@
         },
         {
           "id": "21c8e03608576391a997ed5bcdd98deb50994c50",
-          "title": "Anthropic Claude Design 反向工程提示词开源更新 / Claude Design System Prompt",
+          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
           "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -95,15 +157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8382,
+        "recency": 0.8172,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9793,
+        "recency": 0.9548,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.872,
+        "recency": 0.8501,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -261,6 +323,67 @@
         "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
         "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_28fb2bef73e3",
+      "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
+      "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+      "primary_url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "561750708a1628527fd977ffc842c2a553754c12",
+          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
+          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T05:07:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "561750708a1628527fd977ffc842c2a553754c12",
+          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
+          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T05:07:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9935,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T05:07:12Z",
+      "latest_at": "2026-07-06T05:07:12Z",
+      "primary_item": {
+        "id": "561750708a1628527fd977ffc842c2a553754c12",
+        "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
+        "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -299,15 +422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.9404,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9064,
+        "recency": 0.8836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -421,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8192,
+        "recency": 0.7987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -501,15 +624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9793,
+        "recency": 0.9548,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -563,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9382,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -586,86 +709,6 @@
         "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
         "url": "https://www.ithome.com/0/972/896.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ae60d5911c44",
-      "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-      "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-      "primary_url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "77704dd66c469d012c8d6864e734413470dfbc18",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T07:50:19Z"
-        },
-        {
-          "id": "2c676c591b0aea68ed98df4f4af084d48ffa180b",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用 / LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
-          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-05T07:50:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "77704dd66c469d012c8d6864e734413470dfbc18",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T07:50:19Z"
-        },
-        {
-          "id": "2c676c591b0aea68ed98df4f4af084d48ffa180b",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用 / LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
-          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-05T07:50:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7494,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-05T07:50:19Z",
-      "latest_at": "2026-07-05T07:50:19Z",
-      "primary_item": {
-        "id": "77704dd66c469d012c8d6864e734413470dfbc18",
-        "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-        "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -723,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.848,
+        "recency": 0.8267,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -747,6 +790,86 @@
         "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
         "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ae60d5911c44",
+      "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
+      "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
+      "primary_url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "77704dd66c469d012c8d6864e734413470dfbc18",
+          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
+          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T07:50:19Z"
+        },
+        {
+          "id": "2c676c591b0aea68ed98df4f4af084d48ffa180b",
+          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用 / LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
+          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-05T07:50:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "77704dd66c469d012c8d6864e734413470dfbc18",
+          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
+          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T07:50:19Z"
+        },
+        {
+          "id": "2c676c591b0aea68ed98df4f4af084d48ffa180b",
+          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用 / LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
+          "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-05T07:50:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7306,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-05T07:50:19Z",
+      "latest_at": "2026-07-05T07:50:19Z",
+      "primary_item": {
+        "id": "77704dd66c469d012c8d6864e734413470dfbc18",
+        "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
+        "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -785,15 +908,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -807,67 +930,6 @@
         "id": "57bf456cd4122cf3f2de4573dad9791bfe200bc2",
         "title": "AI编程迎来“深度思考”：Deep Code正式适配DeepSeek-V4",
         "url": "https://www.aibase.com/news/29391",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_523ce8f8d5c0",
-      "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
-      "url": "https://www.aibase.com/news/29393",
-      "primary_url": "https://www.aibase.com/news/29393",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
-          "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
-          "url": "https://www.aibase.com/news/29393",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T03:48:59.829019Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
-          "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
-          "url": "https://www.aibase.com/news/29393",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T03:48:59.829019Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T03:48:59.829019Z",
-      "latest_at": "2026-07-06T03:48:59.829019Z",
-      "primary_item": {
-        "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
-        "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
-        "url": "https://www.aibase.com/news/29393",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -907,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8645,
+        "recency": 0.8428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -930,6 +992,67 @@
         "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_523ce8f8d5c0",
+      "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
+      "url": "https://www.aibase.com/news/29393",
+      "primary_url": "https://www.aibase.com/news/29393",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
+          "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
+          "url": "https://www.aibase.com/news/29393",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T03:48:59.829019Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
+          "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
+          "url": "https://www.aibase.com/news/29393",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T03:48:59.829019Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9749,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T03:48:59.829019Z",
+      "latest_at": "2026-07-06T03:48:59.829019Z",
+      "primary_item": {
+        "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
+        "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
+        "url": "https://www.aibase.com/news/29393",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -967,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1100,15 +1223,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.643,
-      "importance": 0.643,
-      "importance_score": 0.643,
+      "score": 0.6392,
+      "importance": 0.6392,
+      "importance_score": 0.6392,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8545,
+        "recency": 0.8331,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1160,15 +1283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1221,15 +1344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1248,296 +1371,100 @@
       }
     },
     {
-      "story_id": "story_df10d95f0b77",
-      "title": "GPT-5.6 Sol Ultra 将收录于 Codex 中",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "primary_url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "source": "twitter.com",
+      "story_id": "story_2e30a31411cd",
+      "title": "韩国SK海力士启动280亿美元的美国上市计划，以顺应全球人工智能浪潮 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOExMMERoTnlfeUtLdDFoejc3emp1SXBuQ3NHUGk4YndsTjBxamcyYnh5Qmp6ckFrNk4xTGtld1ZNT2NDOVJHZGVwODVfSENhYXA1Qkg3SjhnZnNjTmhmSjg5Y2x5MzhZbWRDU3M1VHhBV0NxdGJqYkg0ZnlUSUEybVVNRm9MN3R2VnBWRHZVN2NTbFZJZjVSVEpaV3k3ZGVGOXg1Rl9Hd0dveVlLMGRYQ0xtQWx3VkM4N3Bmc1p1MmRSMVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOExMMERoTnlfeUtLdDFoejc3emp1SXBuQ3NHUGk4YndsTjBxamcyYnh5Qmp6ckFrNk4xTGtld1ZNT2NDOVJHZGVwODVfSENhYXA1Qkg3SjhnZnNjTmhmSjg5Y2x5MzhZbWRDU3M1VHhBV0NxdGJqYkg0ZnlUSUEybVVNRm9MN3R2VnBWRHZVN2NTbFZJZjVSVEpaV3k3ZGVGOXg1Rl9Hd0dveVlLMGRYQ0xtQWx3VkM4N3Bmc1p1MmRSMVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "610f229955388e4741f5179a42f39918d1fb7bd2",
-          "title": "GPT-5.6 Sol Ultra 将收录于 Codex 中",
-          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-          "source": "twitter.com",
+          "id": "76b4c4773c2fd9e310e02709cda4e9f8c57c7c3f",
+          "title": "韩国SK海力士启动280亿美元的美国上市计划，以顺应全球人工智能浪潮 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOExMMERoTnlfeUtLdDFoejc3emp1SXBuQ3NHUGk4YndsTjBxamcyYnh5Qmp6ckFrNk4xTGtld1ZNT2NDOVJHZGVwODVfSENhYXA1Qkg3SjhnZnNjTmhmSjg5Y2x5MzhZbWRDU3M1VHhBV0NxdGJqYkg0ZnlUSUEybVVNRm9MN3R2VnBWRHZVN2NTbFZJZjVSVEpaV3k3ZGVGOXg1Rl9Hd0dveVlLMGRYQ0xtQWx3VkM4N3Bmc1p1MmRSMVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-06T03:35:38.567000Z"
+          "published_at": "2026-07-06T05:11:45.943000Z"
         },
         {
-          "id": "55c2a8d688b3e4d9c716529371a677f7f6cff731",
-          "title": "GPT-5.6 Sol Ultra 将出现在 Codex 中 / GPT-5.6 Sol Ultra will be in Codex",
-          "url": "https://news.ycombinator.com/item?id=48799614",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T02:22:51.941000Z"
+          "id": "5d5da7057d9861af1afc348307db8153a967a488",
+          "title": "韩国 SK 海力士将启动 280 亿美元美国上市计划 以顺应全球人工智能浪潮",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifvkki1824970.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "7b0d9c0ec5728c40dba69fafbacd70b54381f71a",
-          "title": "GPT-5.6 Sol Ultra 将收录于 Codex 中 / GPT-5.6 Sol Ultra will be in Codex",
-          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T01:04:03Z"
+          "id": "bdcd5f7f6e5ce295e086d2076c5d80ebe0cc32b4",
+          "title": "韩国SK海力士将启动280亿美元的美国上市计划，以顺应全球人工智能浪潮",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T00:23:41.376000Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "hackernews",
-        "twitter.com"
+        "Readhub · AI",
+        "news.google.com",
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "610f229955388e4741f5179a42f39918d1fb7bd2",
-          "title": "GPT-5.6 Sol Ultra 将收录于 Codex 中",
-          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-          "source": "twitter.com",
+          "id": "76b4c4773c2fd9e310e02709cda4e9f8c57c7c3f",
+          "title": "韩国SK海力士启动280亿美元的美国上市计划，以顺应全球人工智能浪潮 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOExMMERoTnlfeUtLdDFoejc3emp1SXBuQ3NHUGk4YndsTjBxamcyYnh5Qmp6ckFrNk4xTGtld1ZNT2NDOVJHZGVwODVfSENhYXA1Qkg3SjhnZnNjTmhmSjg5Y2x5MzhZbWRDU3M1VHhBV0NxdGJqYkg0ZnlUSUEybVVNRm9MN3R2VnBWRHZVN2NTbFZJZjVSVEpaV3k3ZGVGOXg1Rl9Hd0dveVlLMGRYQ0xtQWx3VkM4N3Bmc1p1MmRSMVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-06T03:35:38.567000Z"
+          "published_at": "2026-07-06T05:11:45.943000Z"
         },
         {
-          "id": "55c2a8d688b3e4d9c716529371a677f7f6cff731",
-          "title": "GPT-5.6 Sol Ultra 将出现在 Codex 中 / GPT-5.6 Sol Ultra will be in Codex",
-          "url": "https://news.ycombinator.com/item?id=48799614",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T02:22:51.941000Z"
+          "id": "5d5da7057d9861af1afc348307db8153a967a488",
+          "title": "韩国 SK 海力士将启动 280 亿美元美国上市计划 以顺应全球人工智能浪潮",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifvkki1824970.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "7b0d9c0ec5728c40dba69fafbacd70b54381f71a",
-          "title": "GPT-5.6 Sol Ultra 将收录于 Codex 中 / GPT-5.6 Sol Ultra will be in Codex",
-          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T01:04:03Z"
+          "id": "bdcd5f7f6e5ce295e086d2076c5d80ebe0cc32b4",
+          "title": "韩国SK海力士将启动280亿美元的美国上市计划，以顺应全球人工智能浪潮",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T00:23:41.376000Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9968,
+        "recency": 0.9946,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-06T01:04:03Z",
-      "latest_at": "2026-07-06T03:35:38.567000Z",
+      "earliest_at": "2026-07-06T00:23:41.376000Z",
+      "latest_at": "2026-07-06T05:11:45.943000Z",
       "primary_item": {
-        "id": "610f229955388e4741f5179a42f39918d1fb7bd2",
-        "title": "GPT-5.6 Sol Ultra 将收录于 Codex 中",
-        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0a5406dd2dc7",
-      "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案",
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "primary_url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "source": "www.readtheline.ca",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "15f3ccb3094030750360e813bd7bf9e17195c5d0",
-          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-          "source": "www.readtheline.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T03:19:43.349000Z"
-        },
-        {
-          "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
-          "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://news.ycombinator.com/item?id=48799256",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:33:58.209000Z"
-        },
-        {
-          "id": "488cdefc119bbe2cc2526509a0d58325c3edab5d",
-          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T00:04:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.readtheline.ca"
-      ],
-      "items": [
-        {
-          "id": "15f3ccb3094030750360e813bd7bf9e17195c5d0",
-          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-          "source": "www.readtheline.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T03:19:43.349000Z"
-        },
-        {
-          "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
-          "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://news.ycombinator.com/item?id=48799256",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:33:58.209000Z"
-        },
-        {
-          "id": "488cdefc119bbe2cc2526509a0d58325c3edab5d",
-          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T00:04:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.993,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T00:04:48Z",
-      "latest_at": "2026-07-06T03:19:43.349000Z",
-      "primary_item": {
-        "id": "15f3ccb3094030750360e813bd7bf9e17195c5d0",
-        "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案",
-        "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-        "source": "www.readtheline.ca",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_54e97f468046",
-      "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "primary_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "source": "intextbooks.science.uu.nl",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "intextbooks.science.uu.nl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T22:31:42.105000Z"
-        },
-        {
-          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48796817",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T19:15:37.222000Z"
-        },
-        {
-          "id": "0e2c8060c184d2498571c53e592bb53e2e4bde1b",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T18:47:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "intextbooks.science.uu.nl"
-      ],
-      "items": [
-        {
-          "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "intextbooks.science.uu.nl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T22:31:42.105000Z"
-        },
-        {
-          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48796817",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T19:15:37.222000Z"
-        },
-        {
-          "id": "0e2c8060c184d2498571c53e592bb53e2e4bde1b",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T18:47:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5576,
-      "importance": 0.5576,
-      "importance_score": 0.5576,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9265,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T18:47:43Z",
-      "latest_at": "2026-07-05T22:31:42.105000Z",
-      "primary_item": {
-        "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
-        "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
-        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-        "source": "intextbooks.science.uu.nl",
+        "id": "76b4c4773c2fd9e310e02709cda4e9f8c57c7c3f",
+        "title": "韩国SK海力士启动280亿美元的美国上市计划，以顺应全球人工智能浪潮 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOExMMERoTnlfeUtLdDFoejc3emp1SXBuQ3NHUGk4YndsTjBxamcyYnh5Qmp6ckFrNk4xTGtld1ZNT2NDOVJHZGVwODVfSENhYXA1Qkg3SjhnZnNjTmhmSjg5Y2x5MzhZbWRDU3M1VHhBV0NxdGJqYkg0ZnlUSUEybVVNRm9MN3R2VnBWRHZVN2NTbFZJZjVSVEpaV3k3ZGVGOXg1Rl9Hd0dveVlLMGRYQ0xtQWx3VkM4N3Bmc1p1MmRSMVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     }
