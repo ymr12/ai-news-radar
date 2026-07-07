@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T03:14:51.837637Z",
+  "generated_at": "2026-07-07T06:25:50.112354Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8618,
-      "importance": 0.8618,
-      "importance_score": 0.8618,
+      "score": 0.854,
+      "importance": 0.854,
+      "importance_score": 0.854,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9542,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -92,18 +92,18 @@
           "published_at": "2026-07-06T23:03:34.910000Z"
         },
         {
-          "id": "1daa69c01a65c4d5eae24e6e51f5d6b3942efbd4",
+          "id": "c0edef91074bd1918b880c882d0a93dbe1ec476f",
           "title": "OfficeCLI：为AI智能体设计的开源Office套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
           "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-06T16:47:44Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com"
       ],
@@ -127,26 +127,26 @@
           "published_at": "2026-07-06T23:03:34.910000Z"
         },
         {
-          "id": "1daa69c01a65c4d5eae24e6e51f5d6b3942efbd4",
+          "id": "c0edef91074bd1918b880c882d0a93dbe1ec476f",
           "title": "OfficeCLI：为AI智能体设计的开源Office套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
           "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-06T16:47:44Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9413,
+        "recency": 0.899,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -237,15 +237,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8824,
+        "recency": 0.8428,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -299,15 +299,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8442,
+        "recency": 0.8062,
         "story_heat": 0.0
       },
       "category": "official",
@@ -327,49 +327,130 @@
       }
     },
     {
-      "story_id": "story_d318fef7b9ba",
-      "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
-      "url": "https://www.aibase.com/news/29419",
-      "primary_url": "https://www.aibase.com/news/29419",
+      "story_id": "story_32d306e067bc",
+      "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+      "url": "https://www.aibase.com/news/29432",
+      "primary_url": "https://www.aibase.com/news/29432",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1d407812a2eae659e948025343ecedd1884e4e5a",
-          "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
-          "url": "https://www.aibase.com/news/29419",
+          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.aibase.com/news/29432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-07T03:14:51.837637Z"
+        },
+        {
+          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
+          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.qbitai.com/2026/07/445184.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "量子位 · 每日最新"
       ],
       "items": [
         {
-          "id": "1d407812a2eae659e948025343ecedd1884e4e5a",
-          "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
-          "url": "https://www.aibase.com/news/29419",
+          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.aibase.com/news/29432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-07T03:14:51.837637Z"
+        },
+        {
+          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
+          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.qbitai.com/2026/07/445184.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9551,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T03:14:51.837637Z",
+      "latest_at": "2026-07-07T06:25:50.112354Z",
+      "primary_item": {
+        "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+        "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+        "url": "https://www.aibase.com/news/29432",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_75ff08dc19d5",
+      "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+      "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+      "primary_url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
+          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T05:59:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
+          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T05:59:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -377,14 +458,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T03:14:51.837637Z",
-      "latest_at": "2026-07-07T03:14:51.837637Z",
+      "earliest_at": "2026-07-07T05:59:07Z",
+      "latest_at": "2026-07-07T05:59:07Z",
       "primary_item": {
-        "id": "1d407812a2eae659e948025343ecedd1884e4e5a",
-        "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
-        "url": "https://www.aibase.com/news/29419",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
+        "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+        "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9af14cc051d7",
+      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+      "url": "https://x.com/emollick/status/2074348274136346871",
+      "primary_url": "https://x.com/emollick/status/2074348274136346871",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
+          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+          "url": "https://x.com/emollick/status/2074348274136346871",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T04:22:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ethan Mollick (@emollick)"
+      ],
+      "items": [
+        {
+          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
+          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+          "url": "https://x.com/emollick/status/2074348274136346871",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T04:22:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9707,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T04:22:22Z",
+      "latest_at": "2026-07-07T04:22:22Z",
+      "primary_item": {
+        "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
+        "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+        "url": "https://x.com/emollick/status/2074348274136346871",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -441,15 +583,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9385,
+        "recency": 0.8964,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -522,15 +664,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9533,
+        "recency": 0.9105,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -584,21 +726,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9526,
+        "recency": 0.9098,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T23:52:57Z",
       "latest_at": "2026-07-06T23:52:57Z",
@@ -645,15 +786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8254,
+        "recency": 0.7884,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -668,6 +809,67 @@
         "url": "https://x.com/vista8/status/2074130700421456089",
         "source": "X：Vista (@vista8)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf5265d5a9bf",
+      "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+      "url": "https://www.aibase.com/news/29436",
+      "primary_url": "https://www.aibase.com/news/29436",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
+          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T06:25:50.112354Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
+          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T06:25:50.112354Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T06:25:50.112354Z",
+      "latest_at": "2026-07-07T06:25:50.112354Z",
+      "primary_item": {
+        "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
+        "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+        "url": "https://www.aibase.com/news/29436",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -724,15 +926,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8008,
+        "recency": 0.7648,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,15 +988,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8896,
+        "recency": 0.8496,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -808,86 +1010,6 @@
         "title": "Claude Code 团队详解四种智能体循环类型",
         "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
         "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_28fb2bef73e3",
-      "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
-      "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-      "primary_url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "561750708a1628527fd977ffc842c2a553754c12",
-          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
-          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T05:07:12Z"
-        },
-        {
-          "id": "0f769c7194c750a08f833e1e2d56091f5ba199c4",
-          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台 / Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
-          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T05:07:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "561750708a1628527fd977ffc842c2a553754c12",
-          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
-          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T05:07:12Z"
-        },
-        {
-          "id": "0f769c7194c750a08f833e1e2d56091f5ba199c4",
-          "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台 / Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
-          "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T05:07:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7265,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T05:07:12Z",
-      "latest_at": "2026-07-06T05:07:12Z",
-      "primary_item": {
-        "id": "561750708a1628527fd977ffc842c2a553754c12",
-        "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
-        "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -926,15 +1048,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8793,
+        "recency": 0.8398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -949,67 +1071,6 @@
         "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1c22ac9bbad4",
-      "title": "Claude Code 迎来 v2.1.202 更新：远程控制与工作流稳定性大幅提升",
-      "url": "https://www.aibase.com/news/29407",
-      "primary_url": "https://www.aibase.com/news/29407",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fb4ecc356454766f7e2e5320df856afa60b1b165",
-          "title": "Claude Code 迎来 v2.1.202 更新：远程控制与工作流稳定性大幅提升",
-          "url": "https://www.aibase.com/news/29407",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T03:14:51.837637Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fb4ecc356454766f7e2e5320df856afa60b1b165",
-          "title": "Claude Code 迎来 v2.1.202 更新：远程控制与工作流稳定性大幅提升",
-          "url": "https://www.aibase.com/news/29407",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T03:14:51.837637Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T03:14:51.837637Z",
-      "latest_at": "2026-07-07T03:14:51.837637Z",
-      "primary_item": {
-        "id": "fb4ecc356454766f7e2e5320df856afa60b1b165",
-        "title": "Claude Code 迎来 v2.1.202 更新：远程控制与工作流稳定性大幅提升",
-        "url": "https://www.aibase.com/news/29407",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1047,15 +1108,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7727,
+        "recency": 0.738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1069,126 +1130,6 @@
         "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
         "url": "https://www.ithome.com/0/973/207.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_de6778c5c1da",
-      "title": "OpenClaw 登陆 HuggingFace 本地应用",
-      "url": "https://x.com/openclaw/status/2074187998602871212",
-      "primary_url": "https://x.com/openclaw/status/2074187998602871212",
-      "source": "X：OpenClaw (@openclaw)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
-          "title": "OpenClaw 登陆 HuggingFace 本地应用",
-          "url": "https://x.com/openclaw/status/2074187998602871212",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:45:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenClaw (@openclaw)"
-      ],
-      "items": [
-        {
-          "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
-          "title": "OpenClaw 登陆 HuggingFace 本地应用",
-          "url": "https://x.com/openclaw/status/2074187998602871212",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:45:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8719,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T17:45:30Z",
-      "latest_at": "2026-07-06T17:45:30Z",
-      "primary_item": {
-        "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
-        "title": "OpenClaw 登陆 HuggingFace 本地应用",
-        "url": "https://x.com/openclaw/status/2074187998602871212",
-        "source": "X：OpenClaw (@openclaw)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fee7021d79c4",
-      "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
-      "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-      "primary_url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0b1e680809c3618bdc9a9cff4b300815ff7bb037",
-          "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
-          "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T06:09:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "0b1e680809c3618bdc9a9cff4b300815ff7bb037",
-          "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
-          "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T06:09:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7375,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T06:09:29Z",
-      "latest_at": "2026-07-06T06:09:29Z",
-      "primary_item": {
-        "id": "0b1e680809c3618bdc9a9cff4b300815ff7bb037",
-        "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
-        "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-        "source": "公众号：通义实验室（千问）",
         "source_name": "AI HOT"
       }
     },
@@ -1246,15 +1187,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8247,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1274,21 +1215,21 @@
       }
     },
     {
-      "story_id": "story_150cf288ab79",
-      "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
-      "url": "https://www.aibase.com/news/29411",
-      "primary_url": "https://www.aibase.com/news/29411",
+      "story_id": "story_8503c6afa662",
+      "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+      "url": "https://www.aibase.com/news/29433",
+      "primary_url": "https://www.aibase.com/news/29433",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2f789038815ac645adfc944e8fa7143dd1abee9f",
-          "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
-          "url": "https://www.aibase.com/news/29411",
+          "id": "c50170106c4c63293a6884053b51f510deb4eb3e",
+          "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+          "url": "https://www.aibase.com/news/29433",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T03:14:51.837637Z"
+          "published_at": "2026-07-07T06:25:50.112354Z"
         }
       ],
       "source_count": 1,
@@ -1297,13 +1238,13 @@
       ],
       "items": [
         {
-          "id": "2f789038815ac645adfc944e8fa7143dd1abee9f",
-          "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
-          "url": "https://www.aibase.com/news/29411",
+          "id": "c50170106c4c63293a6884053b51f510deb4eb3e",
+          "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+          "url": "https://www.aibase.com/news/29433",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T03:14:51.837637Z"
+          "published_at": "2026-07-07T06:25:50.112354Z"
         }
       ],
       "item_count": 1,
@@ -1324,32 +1265,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T03:14:51.837637Z",
-      "latest_at": "2026-07-07T03:14:51.837637Z",
+      "earliest_at": "2026-07-07T06:25:50.112354Z",
+      "latest_at": "2026-07-07T06:25:50.112354Z",
       "primary_item": {
-        "id": "2f789038815ac645adfc944e8fa7143dd1abee9f",
-        "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
-        "url": "https://www.aibase.com/news/29411",
+        "id": "c50170106c4c63293a6884053b51f510deb4eb3e",
+        "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+        "url": "https://www.aibase.com/news/29433",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d9e57ddb245d",
-      "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
-      "url": "https://www.aibase.com/news/29431",
-      "primary_url": "https://www.aibase.com/news/29431",
+      "story_id": "story_5cbf7fed655b",
+      "title": "强强联手：TeraWulf携手Anthropic共建百亿规模AI算力新据点",
+      "url": "https://www.aibase.com/news/29434",
+      "primary_url": "https://www.aibase.com/news/29434",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "356d42d5092d289d65541f6e1db6af46eb870804",
-          "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
-          "url": "https://www.aibase.com/news/29431",
+          "id": "965c1dcde42bb3ba7f913cc58fd226aa614dccef",
+          "title": "强强联手：TeraWulf携手Anthropic共建百亿规模AI算力新据点",
+          "url": "https://www.aibase.com/news/29434",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T03:14:51.837637Z"
+          "published_at": "2026-07-07T06:25:50.112354Z"
         }
       ],
       "source_count": 1,
@@ -1358,13 +1299,13 @@
       ],
       "items": [
         {
-          "id": "356d42d5092d289d65541f6e1db6af46eb870804",
-          "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
-          "url": "https://www.aibase.com/news/29431",
+          "id": "965c1dcde42bb3ba7f913cc58fd226aa614dccef",
+          "title": "强强联手：TeraWulf携手Anthropic共建百亿规模AI算力新据点",
+          "url": "https://www.aibase.com/news/29434",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T03:14:51.837637Z"
+          "published_at": "2026-07-07T06:25:50.112354Z"
         }
       ],
       "item_count": 1,
@@ -1385,14 +1326,183 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T03:14:51.837637Z",
-      "latest_at": "2026-07-07T03:14:51.837637Z",
+      "earliest_at": "2026-07-07T06:25:50.112354Z",
+      "latest_at": "2026-07-07T06:25:50.112354Z",
       "primary_item": {
-        "id": "356d42d5092d289d65541f6e1db6af46eb870804",
-        "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
-        "url": "https://www.aibase.com/news/29431",
+        "id": "965c1dcde42bb3ba7f913cc58fd226aa614dccef",
+        "title": "强强联手：TeraWulf携手Anthropic共建百亿规模AI算力新据点",
+        "url": "https://www.aibase.com/news/29434",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "排版问题怎么解决？每次发完文章之后都有很多朋友问公众号是怎么排版的，这次甲木和小李直接封装成Skill开源，兼容所有国内Agent和相关模型，希望每个人都能把自己的颜色、比例、审美偏好，生成一套专属公众号排版风格。欢迎fork、star和提issue。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-07",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "a0e456ce531e01605b0ffe2ed789885ba725c12a",
+          "title": "排版问题怎么解决？每次发完文章之后都有很多朋友问公众号是怎么排版的，这次甲木和小李直接封装成Skill开源，兼容所有国内Agent和相关模型，希望每个人都能把自己的颜色、比例、审美偏好，生成一套专属公众号排版风格。欢迎fork、star和提issue。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-07T06:25:50.112354Z"
+        },
+        {
+          "id": "d2f960b34b21595be48e36fa0bb90b4318443551",
+          "title": "GPT-5.6 Sol 是 OpenAI 在6月26日公开预览的 GPT-5.6 系列旗舰模型，定位为该系列中能力最强的一档。整理了一些用户的实测案例，快来看看效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T18:19:08.497052Z"
+        },
+        {
+          "id": "9b41a51dbfb850048fddd52d03be2f20337fb56b",
+          "title": "不知道该学什么技能？AI、编程、营销、做自媒体……学什么都怕两年后过时。知名独立创作者 Dan Koe点明读懂人性是最保值的技能。学会之后，你再学任何别的技能，威力都会跟着涨。因为不管你做产品、找工作还是搞创作，掏钱的、给机会的、给资源的，都是人。小互这篇文章做了完整拆解，一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T17:27:57.931905Z"
+        },
+        {
+          "id": "ab06a64e8dae76d528389600232cc81aedca7e4d",
+          "title": "倒计时 1 天！Claude Fable 5 免费试用即将结束，精选了一些优质提示词，文档已开放编辑权限，欢迎补充你的独家Prompt！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T17:27:57.931905Z"
+        },
+        {
+          "id": "e3616985e87bf5323b495e0b5fde1d6c160e384c",
+          "title": "这期Augmented U的嘉宾是 Masha Sharma，Groupon的VP。她做过工程、产品、CTO和创始人，也曾在Avenue One帮公司做到超过10亿美元估值。现在，她的任务是把Groupon的商家体验改造成AI-first growth engine。整场访谈绕着一个问题展开：组织里的工作到底由谁来做。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T17:27:57.931905Z"
+        },
+        {
+          "id": "a75ec76121431530d46b241d5ff8ff03700b7d56",
+          "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T16:10:40.871094Z"
+        },
+        {
+          "id": "b35c47498086229d6d5bf67aae4ac1b7dcf28ab7",
+          "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T16:10:40.871094Z"
+        }
+      ],
+      "source_count": 7,
+      "source_names": [
+        "社区更新 · 2026-07-06",
+        "社区更新 · 2026-07-07"
+      ],
+      "items": [
+        {
+          "id": "a0e456ce531e01605b0ffe2ed789885ba725c12a",
+          "title": "排版问题怎么解决？每次发完文章之后都有很多朋友问公众号是怎么排版的，这次甲木和小李直接封装成Skill开源，兼容所有国内Agent和相关模型，希望每个人都能把自己的颜色、比例、审美偏好，生成一套专属公众号排版风格。欢迎fork、star和提issue。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-07T06:25:50.112354Z"
+        },
+        {
+          "id": "d2f960b34b21595be48e36fa0bb90b4318443551",
+          "title": "GPT-5.6 Sol 是 OpenAI 在6月26日公开预览的 GPT-5.6 系列旗舰模型，定位为该系列中能力最强的一档。整理了一些用户的实测案例，快来看看效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T18:19:08.497052Z"
+        },
+        {
+          "id": "9b41a51dbfb850048fddd52d03be2f20337fb56b",
+          "title": "不知道该学什么技能？AI、编程、营销、做自媒体……学什么都怕两年后过时。知名独立创作者 Dan Koe点明读懂人性是最保值的技能。学会之后，你再学任何别的技能，威力都会跟着涨。因为不管你做产品、找工作还是搞创作，掏钱的、给机会的、给资源的，都是人。小互这篇文章做了完整拆解，一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T17:27:57.931905Z"
+        },
+        {
+          "id": "ab06a64e8dae76d528389600232cc81aedca7e4d",
+          "title": "倒计时 1 天！Claude Fable 5 免费试用即将结束，精选了一些优质提示词，文档已开放编辑权限，欢迎补充你的独家Prompt！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T17:27:57.931905Z"
+        },
+        {
+          "id": "e3616985e87bf5323b495e0b5fde1d6c160e384c",
+          "title": "这期Augmented U的嘉宾是 Masha Sharma，Groupon的VP。她做过工程、产品、CTO和创始人，也曾在Avenue One帮公司做到超过10亿美元估值。现在，她的任务是把Groupon的商家体验改造成AI-first growth engine。整场访谈绕着一个问题展开：组织里的工作到底由谁来做。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T17:27:57.931905Z"
+        },
+        {
+          "id": "a75ec76121431530d46b241d5ff8ff03700b7d56",
+          "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T16:10:40.871094Z"
+        },
+        {
+          "id": "b35c47498086229d6d5bf67aae4ac1b7dcf28ab7",
+          "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-06T16:10:40.871094Z"
+        }
+      ],
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-06T16:10:40.871094Z",
+      "latest_at": "2026-07-07T06:25:50.112354Z",
+      "primary_item": {
+        "id": "a0e456ce531e01605b0ffe2ed789885ba725c12a",
+        "title": "排版问题怎么解决？每次发完文章之后都有很多朋友问公众号是怎么排版的，这次甲木和小李直接封装成Skill开源，兼容所有国内Agent和相关模型，希望每个人都能把自己的颜色、比例、审美偏好，生成一套专属公众号排版风格。欢迎fork、star和提issue。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-07",
+        "source_name": "WaytoAGI"
       }
     }
   ]
