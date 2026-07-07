@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T15:31:53.384710Z",
+  "generated_at": "2026-07-07T16:53:56.008635Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8595,
-      "importance": 0.8595,
-      "importance_score": 0.8595,
+      "score": 0.856,
+      "importance": 0.856,
+      "importance_score": 0.856,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9972,
+        "recency": 0.9777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9948,
+        "recency": 0.9754,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,6 +124,68 @@
         "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
         "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f7eb2a868aac",
+      "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
+          "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T08:54:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
+          "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T08:54:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8909,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T08:54:00Z",
+      "latest_at": "2026-07-07T08:54:00Z",
+      "primary_item": {
+        "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
+        "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8502,
-      "importance": 0.8502,
-      "importance_score": 0.8502,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9903,
+        "recency": 0.9709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7991,
+        "recency": 0.7835,
         "story_heat": 0.0
       },
       "category": "official",
@@ -323,15 +385,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.739,
+        "recency": 0.7245,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -347,106 +409,6 @@
         "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
         "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f99d93502f25",
-      "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
-          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:03:34.910000Z"
-        },
-        {
-          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
-          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T23:03:34.910000Z"
-        },
-        {
-          "id": "0de1aa20cdb8e63186fd47ebc2a480913d469bff",
-          "title": "OfficeCLI：为AI智能体设计的开源Office套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-06T16:47:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
-          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:03:34.910000Z"
-        },
-        {
-          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
-          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T23:03:34.910000Z"
-        },
-        {
-          "id": "0de1aa20cdb8e63186fd47ebc2a480913d469bff",
-          "title": "OfficeCLI：为AI智能体设计的开源Office套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-06T16:47:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7883,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T16:47:44Z",
-      "latest_at": "2026-07-06T23:03:34.910000Z",
-      "primary_item": {
-        "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
-        "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-        "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -485,15 +447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9958,
+        "recency": 0.9764,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -546,15 +508,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9817,
+        "recency": 0.9625,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -626,15 +588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8712,
+        "recency": 0.8542,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -651,6 +613,68 @@
         "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_32d22c096387",
+      "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+      "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+      "primary_url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
+          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:15:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
+          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:15:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8398,
+      "importance": 0.8398,
+      "importance_score": 0.8398,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9767,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:15:54Z",
+      "latest_at": "2026-07-07T15:15:54Z",
+      "primary_item": {
+        "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
+        "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+        "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -688,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9899,
+        "recency": 0.9706,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -767,15 +791,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9136,
+        "recency": 0.8957,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -792,6 +816,148 @@
         "url": "https://www.aibase.com/news/29436",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0004568882bf",
+      "title": "Claude Cowork 向移动端和网页端开放",
+      "url": "https://claude.com/blog/cowork-web-mobile",
+      "primary_url": "https://claude.com/blog/cowork-web-mobile",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c6f1224cb7c1c5f6a9298c79c7266565e637b44b",
+          "title": "Claude Cowork 向移动端和网页端开放",
+          "url": "https://claude.com/blog/cowork-web-mobile",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T16:24:13.051000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "c6f1224cb7c1c5f6a9298c79c7266565e637b44b",
+          "title": "Claude Cowork 向移动端和网页端开放",
+          "url": "https://claude.com/blog/cowork-web-mobile",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T16:24:13.051000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9929,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T16:24:13.051000Z",
+      "latest_at": "2026-07-07T16:24:13.051000Z",
+      "primary_item": {
+        "id": "c6f1224cb7c1c5f6a9298c79c7266565e637b44b",
+        "title": "Claude Cowork 向移动端和网页端开放",
+        "url": "https://claude.com/blog/cowork-web-mobile",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_224f5f92f80b",
+      "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "primary_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:45:06.341000Z"
+        },
+        {
+          "id": "ef4e10e303123113b0215f3bfcd53064d436bccd",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T23:59:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:45:06.341000Z"
+        },
+        {
+          "id": "ef4e10e303123113b0215f3bfcd53064d436bccd",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T23:59:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8637,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T23:59:54Z",
+      "latest_at": "2026-07-07T06:45:06.341000Z",
+      "primary_item": {
+        "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
+        "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -829,15 +995,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8763,
+        "recency": 0.8591,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,66 +1017,6 @@
         "title": "Grok Imagine 更新：支持 15 秒视频",
         "url": "https://x.com/elonmusk/status/2074378653501128833",
         "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6babc178e1a7",
-      "title": "在 Claude Code 中选择 Claude 模型与努力级别",
-      "url": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
-      "primary_url": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8198d561ef83922fa4b262e951b670af1d6ed47f",
-          "title": "在 Claude Code 中选择 Claude 模型与努力级别",
-          "url": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T14:21:59.722000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "8198d561ef83922fa4b262e951b670af1d6ed47f",
-          "title": "在 Claude Code 中选择 Claude 模型与努力级别",
-          "url": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T14:21:59.722000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9833,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T14:21:59.722000Z",
-      "latest_at": "2026-07-07T14:21:59.722000Z",
-      "primary_item": {
-        "id": "8198d561ef83922fa4b262e951b670af1d6ed47f",
-        "title": "在 Claude Code 中选择 Claude 模型与努力级别",
-        "url": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
-        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -968,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.91,
+        "recency": 0.8922,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1049,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.786,
+        "recency": 0.7706,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1110,15 +1216,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7991,
+        "recency": 0.7835,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1136,68 +1242,68 @@
       }
     },
     {
-      "story_id": "story_224f5f92f80b",
-      "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "primary_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "story_id": "story_f99d93502f25",
+      "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
+          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T06:45:06.341000Z"
+          "published_at": "2026-07-06T23:03:34.910000Z"
         },
         {
-          "id": "828c057884ba8f799263c06c670626174e279508",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T23:59:54Z"
+          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
+          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T23:03:34.910000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
+          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T06:45:06.341000Z"
+          "published_at": "2026-07-06T23:03:34.910000Z"
         },
         {
-          "id": "828c057884ba8f799263c06c670626174e279508",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T23:59:54Z"
+          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
+          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T23:03:34.910000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.7729,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1206,12 +1312,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T23:59:54Z",
-      "latest_at": "2026-07-07T06:45:06.341000Z",
+      "earliest_at": "2026-07-06T23:03:34.910000Z",
+      "latest_at": "2026-07-06T23:03:34.910000Z",
       "primary_item": {
-        "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
-        "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
+        "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+        "url": "https://github.com/iOfficeAI/OfficeCLI",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -1270,15 +1376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8375,
+        "recency": 0.8211,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1295,126 +1401,6 @@
         "url": "https://www.aibase.com/news/29432",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_10894b601ae7",
-      "title": "Gemini Spark 可智能追踪话题实时反应",
-      "url": "https://x.com/GeminiApp/status/2074280473581572600",
-      "primary_url": "https://x.com/GeminiApp/status/2074280473581572600",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
-          "title": "Gemini Spark 可智能追踪话题实时反应",
-          "url": "https://x.com/GeminiApp/status/2074280473581572600",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:52:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
-          "title": "Gemini Spark 可智能追踪话题实时反应",
-          "url": "https://x.com/GeminiApp/status/2074280473581572600",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:52:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7977,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T23:52:57Z",
-      "latest_at": "2026-07-06T23:52:57Z",
-      "primary_item": {
-        "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
-        "title": "Gemini Spark 可智能追踪话题实时反应",
-        "url": "https://x.com/GeminiApp/status/2074280473581572600",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9af14cc051d7",
-      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-      "url": "https://x.com/emollick/status/2074348274136346871",
-      "primary_url": "https://x.com/emollick/status/2074348274136346871",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
-          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-          "url": "https://x.com/emollick/status/2074348274136346871",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T04:22:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Ethan Mollick (@emollick)"
-      ],
-      "items": [
-        {
-          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
-          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-          "url": "https://x.com/emollick/status/2074348274136346871",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T04:22:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8512,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T04:22:22Z",
-      "latest_at": "2026-07-07T04:22:22Z",
-      "primary_item": {
-        "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
-        "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-        "url": "https://x.com/emollick/status/2074348274136346871",
-        "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
       }
     }
   ]
