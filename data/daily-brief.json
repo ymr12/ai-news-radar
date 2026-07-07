@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T07:49:06.626083Z",
+  "generated_at": "2026-07-07T09:16:24.545194Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8932,
+        "recency": 0.8747,
         "story_heat": 0.0
       },
       "category": "official",
@@ -138,15 +138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8812,
+        "recency": 0.8629,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -237,15 +237,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.826,
+        "recency": 0.8089,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -262,6 +262,167 @@
         "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_75ff08dc19d5",
+      "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+      "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+      "primary_url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
+          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T05:59:07Z"
+        },
+        {
+          "id": "393649f0eb9c21c89c0f0aca8ff7ba8c7f3c8383",
+          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文 / Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context",
+          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T05:59:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
+          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T05:59:07Z"
+        },
+        {
+          "id": "393649f0eb9c21c89c0f0aca8ff7ba8c7f3c8383",
+          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文 / Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context",
+          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T05:59:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9536,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T05:59:07Z",
+      "latest_at": "2026-07-07T05:59:07Z",
+      "primary_item": {
+        "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
+        "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+        "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf5265d5a9bf",
+      "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+      "url": "https://www.aibase.com/news/29436",
+      "primary_url": "https://www.aibase.com/news/29436",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "70de58f4488252d4956c9539101570b5b5f4537d",
+          "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T09:16:24.545194Z"
+        },
+        {
+          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
+          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T06:25:50.112354Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "70de58f4488252d4956c9539101570b5b5f4537d",
+          "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T09:16:24.545194Z"
+        },
+        {
+          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
+          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T06:25:50.112354Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T06:25:50.112354Z",
+      "latest_at": "2026-07-07T09:16:24.545194Z",
+      "primary_item": {
+        "id": "70de58f4488252d4956c9539101570b5b5f4537d",
+        "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+        "url": "https://www.aibase.com/news/29436",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -299,15 +460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7902,
+        "recency": 0.7738,
         "story_heat": 0.0
       },
       "category": "official",
@@ -324,148 +485,6 @@
         "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_32d306e067bc",
-      "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-      "url": "https://www.aibase.com/news/29432",
-      "primary_url": "https://www.aibase.com/news/29432",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.aibase.com/news/29432",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T03:14:51.837637Z"
-        },
-        {
-          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
-          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.qbitai.com/2026/07/445184.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.aibase.com/news/29432",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T03:14:51.837637Z"
-        },
-        {
-          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
-          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.qbitai.com/2026/07/445184.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9361,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T03:14:51.837637Z",
-      "latest_at": "2026-07-07T06:25:50.112354Z",
-      "primary_item": {
-        "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-        "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-        "url": "https://www.aibase.com/news/29432",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_75ff08dc19d5",
-      "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
-      "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-      "primary_url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
-          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
-          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T05:59:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
-          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
-          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T05:59:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9739,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T05:59:07Z",
-      "latest_at": "2026-07-07T05:59:07Z",
-      "primary_item": {
-        "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
-        "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
-        "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -503,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9515,
+        "recency": 0.9317,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -564,15 +583,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9795,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -644,15 +663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.8603,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -725,15 +744,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.9642,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -750,6 +769,87 @@
         "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_32d306e067bc",
+      "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+      "url": "https://www.aibase.com/news/29432",
+      "primary_url": "https://www.aibase.com/news/29432",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.aibase.com/news/29432",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T03:14:51.837637Z"
+        },
+        {
+          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
+          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.qbitai.com/2026/07/445184.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.aibase.com/news/29432",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T03:14:51.837637Z"
+        },
+        {
+          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
+          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.qbitai.com/2026/07/445184.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9167,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T03:14:51.837637Z",
+      "latest_at": "2026-07-07T06:25:50.112354Z",
+      "primary_item": {
+        "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+        "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+        "url": "https://www.aibase.com/news/29432",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -806,15 +906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.8739,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -868,15 +968,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8917,
+        "recency": 0.8732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -891,67 +991,6 @@
         "url": "https://x.com/GeminiApp/status/2074280473581572600",
         "source": "X：Gemini (@GeminiApp)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_131f99f8c6ac",
-      "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-      "url": "https://www.aibase.com/news/29437",
-      "primary_url": "https://www.aibase.com/news/29437",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
-          "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-          "url": "https://www.aibase.com/news/29437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T07:49:06.626083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
-          "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-          "url": "https://www.aibase.com/news/29437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T07:49:06.626083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T07:49:06.626083Z",
-      "latest_at": "2026-07-07T07:49:06.626083Z",
-      "primary_item": {
-        "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
-        "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-        "url": "https://www.aibase.com/news/29437",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -989,15 +1028,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7727,
+        "recency": 0.7567,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1049,15 +1088,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8328,
+        "recency": 0.8155,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1109,15 +1148,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8231,
+        "recency": 0.806,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,81 +1174,21 @@
       }
     },
     {
-      "story_id": "story_9074fbe55dba",
-      "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-      "url": "https://www.ithome.com/0/973/207.htm",
-      "primary_url": "https://www.ithome.com/0/973/207.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://www.ithome.com/0/973/207.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T09:23:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://www.ithome.com/0/973/207.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T09:23:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7233,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T09:23:28Z",
-      "latest_at": "2026-07-06T09:23:28Z",
-      "primary_item": {
-        "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-        "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-        "url": "https://www.ithome.com/0/973/207.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d09a7f859582",
-      "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-      "url": "https://www.aibase.com/news/29439",
-      "primary_url": "https://www.aibase.com/news/29439",
+      "story_id": "story_6e07258dc312",
+      "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+      "url": "https://www.aibase.com/news/29443",
+      "primary_url": "https://www.aibase.com/news/29443",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
-          "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-          "url": "https://www.aibase.com/news/29439",
+          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
+          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+          "url": "https://www.aibase.com/news/29443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T07:49:06.626083Z"
+          "published_at": "2026-07-07T09:16:24.545194Z"
         }
       ],
       "source_count": 1,
@@ -1218,13 +1197,13 @@
       ],
       "items": [
         {
-          "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
-          "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-          "url": "https://www.aibase.com/news/29439",
+          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
+          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+          "url": "https://www.aibase.com/news/29443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T07:49:06.626083Z"
+          "published_at": "2026-07-07T09:16:24.545194Z"
         }
       ],
       "item_count": 1,
@@ -1245,12 +1224,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T07:49:06.626083Z",
-      "latest_at": "2026-07-07T07:49:06.626083Z",
+      "earliest_at": "2026-07-07T09:16:24.545194Z",
+      "latest_at": "2026-07-07T09:16:24.545194Z",
       "primary_item": {
-        "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
-        "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-        "url": "https://www.aibase.com/news/29439",
+        "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
+        "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+        "url": "https://www.aibase.com/news/29443",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1309,15 +1288,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8083,
+        "recency": 0.7915,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1390,15 +1369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7496,
+        "recency": 0.734,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1415,6 +1394,67 @@
         "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a4218777eae6",
+      "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+      "url": "https://www.aibase.com/news/29441",
+      "primary_url": "https://www.aibase.com/news/29441",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
+          "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+          "url": "https://www.aibase.com/news/29441",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T09:16:24.545194Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
+          "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+          "url": "https://www.aibase.com/news/29441",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T09:16:24.545194Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T09:16:24.545194Z",
+      "latest_at": "2026-07-07T09:16:24.545194Z",
+      "primary_item": {
+        "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
+        "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+        "url": "https://www.aibase.com/news/29441",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
