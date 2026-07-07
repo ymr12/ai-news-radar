@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-07-07T16:53:56.008635Z",
+  "generated_at": "2026-07-07T17:43:26.901169Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f7eb2a868aac",
+      "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
+          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T08:54:00Z"
+        },
+        {
+          "id": "15e5c24883cb7c67bee1ee7f9237382a140f9eca",
+          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T08:54:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google AI Blog",
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
+          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T08:54:00Z"
+        },
+        {
+          "id": "15e5c24883cb7c67bee1ee7f9237382a140f9eca",
+          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T08:54:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8635,
+      "importance": 0.8635,
+      "importance_score": 0.8635,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8804,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T08:54:00Z",
+      "latest_at": "2026-07-07T08:54:00Z",
+      "primary_item": {
+        "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
+        "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_024a3808c07a",
       "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.856,
-      "importance": 0.856,
-      "importance_score": 0.856,
+      "score": 0.8539,
+      "importance": 0.8539,
+      "importance_score": 0.8539,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9777,
+        "recency": 0.9661,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8476,
-      "importance": 0.8476,
-      "importance_score": 0.8476,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9754,
+        "recency": 0.9638,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,68 +206,6 @@
         "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
         "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f7eb2a868aac",
-      "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-          "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T08:54:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-          "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T08:54:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T08:54:00Z",
-      "latest_at": "2026-07-07T08:54:00Z",
-      "primary_item": {
-        "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-        "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -224,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8468,
-      "importance": 0.8468,
-      "importance_score": 0.8468,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9709,
+        "recency": 0.9594,
         "story_heat": 0.0
       },
       "category": "official",
@@ -286,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7835,
+        "recency": 0.7742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -385,15 +405,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.786,
-      "importance": 0.786,
-      "importance_score": 0.786,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7245,
+        "recency": 0.7159,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -409,6 +429,87 @@
         "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
         "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1e081e0ac276",
+      "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
+      "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
+      "primary_url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c8a836fdbdfa4aebd1f53bdc9cc7f62f5a1d1707",
+          "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
+          "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T16:50:50Z"
+        },
+        {
+          "id": "76dba2d1d20b9c7ca7ff5f264f798c4e33d061e1",
+          "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法 / Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
+          "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T16:50:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c8a836fdbdfa4aebd1f53bdc9cc7f62f5a1d1707",
+          "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
+          "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T16:50:50Z"
+        },
+        {
+          "id": "76dba2d1d20b9c7ca7ff5f264f798c4e33d061e1",
+          "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法 / Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
+          "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T16:50:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9874,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T16:50:50Z",
+      "latest_at": "2026-07-07T16:50:50Z",
+      "primary_item": {
+        "id": "c8a836fdbdfa4aebd1f53bdc9cc7f62f5a1d1707",
+        "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
+        "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -447,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -471,6 +572,68 @@
         "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7d245f6dc1a1",
+      "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
+      "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+      "primary_url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
+          "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
+          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T16:43:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
+          "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
+          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T16:43:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T16:43:04Z",
+      "latest_at": "2026-07-07T16:43:04Z",
+      "primary_item": {
+        "id": "241042dea6a55d963f919ff9b2298da461c3f942",
+        "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
+        "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -508,15 +671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9625,
+        "recency": 0.9511,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -532,149 +695,6 @@
         "url": "https://x.com/emollick/status/2074497401578996154",
         "source": "X：Ethan Mollick (@emollick)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_75ff08dc19d5",
-      "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
-      "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-      "primary_url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
-          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
-          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T05:59:07Z"
-        },
-        {
-          "id": "393649f0eb9c21c89c0f0aca8ff7ba8c7f3c8383",
-          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文 / Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context",
-          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-07T05:59:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
-          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
-          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T05:59:07Z"
-        },
-        {
-          "id": "393649f0eb9c21c89c0f0aca8ff7ba8c7f3c8383",
-          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文 / Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context",
-          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-07T05:59:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8542,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T05:59:07Z",
-      "latest_at": "2026-07-07T05:59:07Z",
-      "primary_item": {
-        "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
-        "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
-        "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_32d22c096387",
-      "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-      "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-      "primary_url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:15:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:15:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9767,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T15:15:54Z",
-      "latest_at": "2026-07-07T15:15:54Z",
-      "primary_item": {
-        "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-        "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-        "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -712,15 +732,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -791,15 +811,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8957,
+        "recency": 0.8851,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -853,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9929,
+        "recency": 0.9811,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,15 +953,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8637,
+        "recency": 0.8535,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -957,6 +977,209 @@
         "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
         "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_75ff08dc19d5",
+      "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+      "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+      "primary_url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
+          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T05:59:07Z"
+        },
+        {
+          "id": "393649f0eb9c21c89c0f0aca8ff7ba8c7f3c8383",
+          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文 / Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context",
+          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T05:59:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
+          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T05:59:07Z"
+        },
+        {
+          "id": "393649f0eb9c21c89c0f0aca8ff7ba8c7f3c8383",
+          "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文 / Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context",
+          "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T05:59:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8441,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T05:59:07Z",
+      "latest_at": "2026-07-07T05:59:07Z",
+      "primary_item": {
+        "id": "ca274bac881587ae961a90bf26b13bb96ccd3964",
+        "title": "腾讯发布 Hy3：295B 参数稀疏 MoE 模型，21B 激活参数，支持 256K 上下文",
+        "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_32d22c096387",
+      "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+      "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+      "primary_url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
+          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:15:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
+          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:15:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9651,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:15:54Z",
+      "latest_at": "2026-07-07T15:15:54Z",
+      "primary_item": {
+        "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
+        "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+        "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_aaea887ddc70",
+      "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
+      "url": "https://www.tomtunguz.com/the-10b-fde-boom",
+      "primary_url": "https://www.tomtunguz.com/the-10b-fde-boom",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bea8bbe0fcd7b38e731a3ffcd8bb5cd96dc6e5dd",
+          "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
+          "url": "https://www.tomtunguz.com/the-10b-fde-boom",
+          "source": "Tomer Tunguz 博客（VC 分析）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Tomer Tunguz 博客（VC 分析）"
+      ],
+      "items": [
+        {
+          "id": "bea8bbe0fcd7b38e731a3ffcd8bb5cd96dc6e5dd",
+          "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
+          "url": "https://www.tomtunguz.com/the-10b-fde-boom",
+          "source": "Tomer Tunguz 博客（VC 分析）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7742,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-07T00:00:00Z",
+      "latest_at": "2026-07-07T00:00:00Z",
+      "primary_item": {
+        "id": "bea8bbe0fcd7b38e731a3ffcd8bb5cd96dc6e5dd",
+        "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
+        "url": "https://www.tomtunguz.com/the-10b-fde-boom",
+        "source": "Tomer Tunguz 博客（VC 分析）",
         "source_name": "AI HOT"
       }
     },
@@ -995,15 +1218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8591,
+        "recency": 0.849,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,15 +1297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8922,
+        "recency": 0.8816,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1155,15 +1378,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7706,
+        "recency": 0.7615,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1179,228 +1402,6 @@
         "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
         "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1fb59e790347",
-      "title": "苹果研究：单个神经元即可绕过大型语言模型的安全对齐",
-      "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-      "primary_url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-      "source": "Apple Machine Learning Research（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9d07a96f758ed61b491a968f773dd8e693fd2394",
-          "title": "苹果研究：单个神经元即可绕过大型语言模型的安全对齐",
-          "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-          "source": "Apple Machine Learning Research（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Apple Machine Learning Research（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9d07a96f758ed61b491a968f773dd8e693fd2394",
-          "title": "苹果研究：单个神经元即可绕过大型语言模型的安全对齐",
-          "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-          "source": "Apple Machine Learning Research（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T00:00:00Z",
-      "latest_at": "2026-07-07T00:00:00Z",
-      "primary_item": {
-        "id": "9d07a96f758ed61b491a968f773dd8e693fd2394",
-        "title": "苹果研究：单个神经元即可绕过大型语言模型的安全对齐",
-        "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-        "source": "Apple Machine Learning Research（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f99d93502f25",
-      "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
-          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:03:34.910000Z"
-        },
-        {
-          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
-          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T23:03:34.910000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
-          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:03:34.910000Z"
-        },
-        {
-          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
-          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T23:03:34.910000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7729,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T23:03:34.910000Z",
-      "latest_at": "2026-07-06T23:03:34.910000Z",
-      "primary_item": {
-        "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
-        "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-        "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_32d306e067bc",
-      "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-      "url": "https://www.aibase.com/news/29432",
-      "primary_url": "https://www.aibase.com/news/29432",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.aibase.com/news/29432",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T03:14:51.837637Z"
-        },
-        {
-          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
-          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.qbitai.com/2026/07/445184.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.aibase.com/news/29432",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T03:14:51.837637Z"
-        },
-        {
-          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
-          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.qbitai.com/2026/07/445184.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8211,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T03:14:51.837637Z",
-      "latest_at": "2026-07-07T06:25:50.112354Z",
-      "primary_item": {
-        "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-        "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-        "url": "https://www.aibase.com/news/29432",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
