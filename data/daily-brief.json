@@ -1,8 +1,109 @@
 {
-  "generated_at": "2026-07-08T18:03:13.977430Z",
+  "generated_at": "2026-07-08T18:58:09.107229Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f2a3364a10eb",
+      "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "primary_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
+          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
+          "title": "原生速度的 vLLM transformers 建模后端",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "aca921c6d55d05c43d1e4bc9f5a739046d120794",
+          "title": "原生速度 vLLM Transformer 建模后端",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T18:05:51.366000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）",
+        "huggingface.co"
+      ],
+      "items": [
+        {
+          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
+          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
+          "title": "原生速度的 vLLM transformers 建模后端",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "aca921c6d55d05c43d1e4bc9f5a739046d120794",
+          "title": "原生速度 vLLM Transformer 建模后端",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T18:05:51.366000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8769,
+      "importance": 0.8769,
+      "importance_score": 0.8769,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7604,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T00:00:00Z",
+      "latest_at": "2026-07-08T18:05:51.366000Z",
+      "primary_item": {
+        "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
+        "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_779e86c533da",
       "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
@@ -132,15 +233,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8714,
-      "importance": 0.8714,
-      "importance_score": 0.8714,
+      "score": 0.8693,
+      "importance": 0.8693,
+      "importance_score": 0.8693,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8711,
+        "recency": 0.8596,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -232,15 +333,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8687,
-      "importance": 0.8687,
-      "importance_score": 0.8687,
+      "score": 0.8669,
+      "importance": 0.8669,
+      "importance_score": 0.8669,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7705,
+        "recency": 0.7604,
         "story_heat": 0.5
       },
       "category": "official",
@@ -257,68 +358,6 @@
         "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live",
         "url": "https://openai.com/index/introducing-gpt-live",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5535aeb9eb9d",
-      "title": "代理商数据 / Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "primary_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
-          "title": "代理商数据 / Data for Agents",
-          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T17:16:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
-          "title": "代理商数据 / Data for Agents",
-          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T17:16:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.866,
-      "importance": 0.866,
-      "importance_score": 0.866,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.9887,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T17:16:05Z",
-      "latest_at": "2026-07-08T17:16:05Z",
-      "primary_item": {
-        "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
-        "title": "代理商数据 / Data for Agents",
-        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -357,15 +396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.8467,
-      "importance_score": 0.8467,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9708,
+        "recency": 0.958,
         "story_heat": 0.0
       },
       "category": "official",
@@ -385,21 +424,21 @@
       }
     },
     {
-      "story_id": "story_634d04b72ccb",
-      "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
+      "story_id": "story_9f01a69db3b0",
+      "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+      "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+      "primary_url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c7270fda48482cfd737d63200627b9103fa60835",
-          "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
+          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T09:45:22Z"
+          "published_at": "2026-07-08T17:05:06Z"
         }
       ],
       "source_count": 1,
@@ -408,26 +447,26 @@
       ],
       "items": [
         {
-          "id": "c7270fda48482cfd737d63200627b9103fa60835",
-          "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
+          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T09:45:22Z"
+          "published_at": "2026-07-08T17:05:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8871,
+        "ai_relevance": 0.87,
+        "recency": 0.9732,
         "story_heat": 0.0
       },
       "category": "official",
@@ -436,14 +475,157 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T09:45:22Z",
-      "latest_at": "2026-07-08T09:45:22Z",
+      "earliest_at": "2026-07-08T17:05:06Z",
+      "latest_at": "2026-07-08T17:05:06Z",
       "primary_item": {
-        "id": "c7270fda48482cfd737d63200627b9103fa60835",
-        "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
+        "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+        "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+        "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5535aeb9eb9d",
+      "title": "代理商数据 / Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "primary_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+          "title": "代理商数据 / Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:16:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+          "title": "代理商数据 / Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:16:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8636,
+      "importance": 0.8636,
+      "importance_score": 0.8636,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9757,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T17:16:05Z",
+      "latest_at": "2026-07-08T17:16:05Z",
+      "primary_item": {
+        "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+        "title": "代理商数据 / Data for Agents",
+        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6258cf13f3d5",
+      "title": "xAI 发布 Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "primary_url": "https://x.ai/news/grok-4-5",
+      "source": "xAI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "384b1b8ed2ab1b41da3a8209012f0a1e5b8422e0",
+          "title": "xAI 发布 Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T18:50:46.385000Z"
+        },
+        {
+          "id": "d85968449f4388618ef53d0b34dd5cf7c0ca6d5d",
+          "title": "Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T18:00:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "xAI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "384b1b8ed2ab1b41da3a8209012f0a1e5b8422e0",
+          "title": "xAI 发布 Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T18:50:46.385000Z"
+        },
+        {
+          "id": "d85968449f4388618ef53d0b34dd5cf7c0ca6d5d",
+          "title": "Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T18:00:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9982,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T18:00:32Z",
+      "latest_at": "2026-07-08T18:50:46.385000Z",
+      "primary_item": {
+        "id": "384b1b8ed2ab1b41da3a8209012f0a1e5b8422e0",
+        "title": "xAI 发布 Grok 4.5",
+        "url": "https://x.ai/news/grok-4-5",
+        "source": "xAI：News（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -538,15 +720,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9508,
+        "recency": 0.9383,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -600,15 +782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7705,
+        "recency": 0.7604,
         "story_heat": 0.0
       },
       "category": "official",
@@ -628,85 +810,84 @@
       }
     },
     {
-      "story_id": "story_f2a3364a10eb",
-      "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "primary_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_38d1b1934c4c",
+      "title": "OpenAI 推出 GPT-Live-1 全双工语音模型",
+      "url": "https://x.com/testingcatalog/status/2074911600008466474",
+      "primary_url": "https://x.com/testingcatalog/status/2074911600008466474",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
-          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
-          "title": "原生速度的 vLLM transformers 建模后端",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face：Blog（RSS）",
+          "id": "b9c1bf2c8899c4833211a1265a8284e7dd5b89f3",
+          "title": "OpenAI 推出 GPT-Live-1 全双工语音模型",
+          "url": "https://x.com/testingcatalog/status/2074911600008466474",
+          "source": "X：Testing Catalog (@testingcatalog)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T00:00:00Z"
+          "published_at": "2026-07-08T17:40:50Z"
+        },
+        {
+          "id": "300bd954e155cb1aabd2d58c65ee377a5e5e7cd0",
+          "title": "OpenAI 推出 GPT-Live 语音模型",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcqxn8297628.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
+        "Readhub · AI",
+        "X：Testing Catalog (@testingcatalog)"
       ],
       "items": [
         {
-          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
-          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
-          "title": "原生速度的 vLLM transformers 建模后端",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face：Blog（RSS）",
+          "id": "b9c1bf2c8899c4833211a1265a8284e7dd5b89f3",
+          "title": "OpenAI 推出 GPT-Live-1 全双工语音模型",
+          "url": "https://x.com/testingcatalog/status/2074911600008466474",
+          "source": "X：Testing Catalog (@testingcatalog)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T00:00:00Z"
+          "published_at": "2026-07-08T17:40:50Z"
+        },
+        {
+          "id": "300bd954e155cb1aabd2d58c65ee377a5e5e7cd0",
+          "title": "OpenAI 推出 GPT-Live 语音模型",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcqxn8297628.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8537,
-      "importance": 0.8537,
-      "importance_score": 0.8537,
-      "importance_label": "官方更新",
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
+        "editorial": 0.78,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7705,
+        "recency": 0.9816,
         "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T00:00:00Z",
-      "latest_at": "2026-07-08T00:00:00Z",
+      "earliest_at": "2026-07-08T17:40:50Z",
+      "latest_at": "2026-07-08T18:58:09.107229Z",
       "primary_item": {
-        "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
-        "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "b9c1bf2c8899c4833211a1265a8284e7dd5b89f3",
+        "title": "OpenAI 推出 GPT-Live-1 全双工语音模型",
+        "url": "https://x.com/testingcatalog/status/2074911600008466474",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -782,15 +963,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8526,
+        "recency": 0.8414,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -810,21 +991,21 @@
       }
     },
     {
-      "story_id": "story_dfe713495d65",
-      "title": "npm 安装时安全性和 GAT绕过2fa 弃用 / npm install-time security and GAT bypass2fa deprecation",
-      "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
-      "primary_url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
+      "story_id": "story_634d04b72ccb",
+      "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3b7c7ed42b52bc9ade924f40fbb594c3a618c853",
-          "title": "npm 安装时安全性和 GAT绕过2fa 弃用 / npm install-time security and GAT bypass2fa deprecation",
-          "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
+          "id": "c7270fda48482cfd737d63200627b9103fa60835",
+          "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T15:00:40Z"
+          "published_at": "2026-07-08T09:45:22Z"
         }
       ],
       "source_count": 1,
@@ -833,26 +1014,26 @@
       ],
       "items": [
         {
-          "id": "3b7c7ed42b52bc9ade924f40fbb594c3a618c853",
-          "title": "npm 安装时安全性和 GAT绕过2fa 弃用 / npm install-time security and GAT bypass2fa deprecation",
-          "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
+          "id": "c7270fda48482cfd737d63200627b9103fa60835",
+          "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T15:00:40Z"
+          "published_at": "2026-07-08T09:45:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.957,
+        "ai_relevance": 0.94,
+        "recency": 0.8754,
         "story_heat": 0.0
       },
       "category": "official",
@@ -861,12 +1042,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T15:00:40Z",
-      "latest_at": "2026-07-08T15:00:40Z",
+      "earliest_at": "2026-07-08T09:45:22Z",
+      "latest_at": "2026-07-08T09:45:22Z",
       "primary_item": {
-        "id": "3b7c7ed42b52bc9ade924f40fbb594c3a618c853",
-        "title": "npm 安装时安全性和 GAT绕过2fa 弃用 / npm install-time security and GAT bypass2fa deprecation",
-        "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
+        "id": "c7270fda48482cfd737d63200627b9103fa60835",
+        "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -925,15 +1106,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9849,
+        "recency": 0.972,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -987,15 +1168,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8902,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1012,67 +1193,6 @@
         "url": "https://openai.com/index/k-12-educators-practical-skills",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e57b456ec9fb",
-      "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
-      "url": "https://x.com/testingcatalog/status/2074909146156081417",
-      "primary_url": "https://x.com/testingcatalog/status/2074909146156081417",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f2565704df7f892739adb02e92988dfe47916a11",
-          "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
-          "url": "https://x.com/testingcatalog/status/2074909146156081417",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T17:31:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "items": [
-        {
-          "id": "f2565704df7f892739adb02e92988dfe47916a11",
-          "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
-          "url": "https://x.com/testingcatalog/status/2074909146156081417",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T17:31:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9923,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T17:31:05Z",
-      "latest_at": "2026-07-08T17:31:05Z",
-      "primary_item": {
-        "id": "f2565704df7f892739adb02e92988dfe47916a11",
-        "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
-        "url": "https://x.com/testingcatalog/status/2074909146156081417",
-        "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1129,15 +1249,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8106,
+        "recency": 0.8,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1191,15 +1311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9922,
+        "recency": 0.9792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1214,125 +1334,6 @@
         "title": "GPT-live 下一代语音今日在 ChatGPT 发布",
         "url": "https://x.com/sama/status/2074909079450050629",
         "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_269964bab90b",
-      "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-      "primary_url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
-          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T04:29:33.609000Z"
-        },
-        {
-          "id": "fc8b482280d5c66a94ef92e7c75a9f1eda0f8f9d",
-          "title": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "blog.zksecurity.xyz",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T04:29:33.609000Z"
-        },
-        {
-          "id": "1e88ca7d8fab2ae0b42ceae3c48141c0e3cd60ec",
-          "title": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-          "url": "https://news.ycombinator.com/item?id=48821749",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-07T19:31:36.164000Z"
-        },
-        {
-          "id": "c298885b7831994a22d9f82a3374bcb5fb55c031",
-          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-07T18:36:35Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "blog.zksecurity.xyz",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
-          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T04:29:33.609000Z"
-        },
-        {
-          "id": "fc8b482280d5c66a94ef92e7c75a9f1eda0f8f9d",
-          "title": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "blog.zksecurity.xyz",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T04:29:33.609000Z"
-        },
-        {
-          "id": "1e88ca7d8fab2ae0b42ceae3c48141c0e3cd60ec",
-          "title": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-          "url": "https://news.ycombinator.com/item?id=48821749",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-07T19:31:36.164000Z"
-        },
-        {
-          "id": "c298885b7831994a22d9f82a3374bcb5fb55c031",
-          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-07T18:36:35Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8222,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T18:36:35Z",
-      "latest_at": "2026-07-08T04:29:33.609000Z",
-      "primary_item": {
-        "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
-        "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
-        "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1371,15 +1372,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9886,
+        "recency": 0.9757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1398,21 +1399,21 @@
       }
     },
     {
-      "story_id": "story_0c8f668136ff",
-      "title": "GitHub Mobile：Copilot CLI 会话的实时通知 / GitHub Mobile: Live notifications for Copilot CLI sessions",
-      "url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions",
-      "primary_url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions",
+      "story_id": "story_dfe713495d65",
+      "title": "npm 安装时安全性和 GAT绕过2fa 弃用 / npm install-time security and GAT bypass2fa deprecation",
+      "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
+      "primary_url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a6d307ffa926be03ed5ab65a80f738c50789dab7",
-          "title": "GitHub Mobile：Copilot CLI 会话的实时通知 / GitHub Mobile: Live notifications for Copilot CLI sessions",
-          "url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions",
+          "id": "3b7c7ed42b52bc9ade924f40fbb594c3a618c853",
+          "title": "npm 安装时安全性和 GAT绕过2fa 弃用 / npm install-time security and GAT bypass2fa deprecation",
+          "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T09:45:09Z"
+          "published_at": "2026-07-08T15:00:40Z"
         }
       ],
       "source_count": 1,
@@ -1421,26 +1422,26 @@
       ],
       "items": [
         {
-          "id": "a6d307ffa926be03ed5ab65a80f738c50789dab7",
-          "title": "GitHub Mobile：Copilot CLI 会话的实时通知 / GitHub Mobile: Live notifications for Copilot CLI sessions",
-          "url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions",
+          "id": "3b7c7ed42b52bc9ade924f40fbb594c3a618c853",
+          "title": "npm 安装时安全性和 GAT绕过2fa 弃用 / npm install-time security and GAT bypass2fa deprecation",
+          "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T09:45:09Z"
+          "published_at": "2026-07-08T15:00:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.887,
+        "ai_relevance": 0.87,
+        "recency": 0.9444,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1449,12 +1450,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T09:45:09Z",
-      "latest_at": "2026-07-08T09:45:09Z",
+      "earliest_at": "2026-07-08T15:00:40Z",
+      "latest_at": "2026-07-08T15:00:40Z",
       "primary_item": {
-        "id": "a6d307ffa926be03ed5ab65a80f738c50789dab7",
-        "title": "GitHub Mobile：Copilot CLI 会话的实时通知 / GitHub Mobile: Live notifications for Copilot CLI sessions",
-        "url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions",
+        "id": "3b7c7ed42b52bc9ade924f40fbb594c3a618c853",
+        "title": "npm 安装时安全性和 GAT绕过2fa 弃用 / npm install-time security and GAT bypass2fa deprecation",
+        "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1512,15 +1513,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.882,
+        "recency": 0.8704,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1540,49 +1541,49 @@
       }
     },
     {
-      "story_id": "story_3615d9eeb3d0",
-      "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-      "url": "https://x.com/berryxia/status/2074827915779580055",
-      "primary_url": "https://x.com/berryxia/status/2074827915779580055",
-      "source": "X：Berry Xia (@berryxia)",
+      "story_id": "story_e57b456ec9fb",
+      "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
+      "url": "https://x.com/testingcatalog/status/2074909146156081417",
+      "primary_url": "https://x.com/testingcatalog/status/2074909146156081417",
+      "source": "X：Testing Catalog (@testingcatalog)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-          "url": "https://x.com/berryxia/status/2074827915779580055",
-          "source": "X：Berry Xia (@berryxia)",
+          "id": "f2565704df7f892739adb02e92988dfe47916a11",
+          "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
+          "url": "https://x.com/testingcatalog/status/2074909146156081417",
+          "source": "X：Testing Catalog (@testingcatalog)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T12:08:18Z"
+          "published_at": "2026-07-08T17:31:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Berry Xia (@berryxia)"
+        "X：Testing Catalog (@testingcatalog)"
       ],
       "items": [
         {
-          "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-          "url": "https://x.com/berryxia/status/2074827915779580055",
-          "source": "X：Berry Xia (@berryxia)",
+          "id": "f2565704df7f892739adb02e92988dfe47916a11",
+          "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
+          "url": "https://x.com/testingcatalog/status/2074909146156081417",
+          "source": "X：Testing Catalog (@testingcatalog)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T12:08:18Z"
+          "published_at": "2026-07-08T17:31:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9181,
+        "recency": 0.9793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1590,13 +1591,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T12:08:18Z",
-      "latest_at": "2026-07-08T12:08:18Z",
+      "earliest_at": "2026-07-08T17:31:05Z",
+      "latest_at": "2026-07-08T17:31:05Z",
       "primary_item": {
-        "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-        "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-        "url": "https://x.com/berryxia/status/2074827915779580055",
-        "source": "X：Berry Xia (@berryxia)",
+        "id": "f2565704df7f892739adb02e92988dfe47916a11",
+        "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
+        "url": "https://x.com/testingcatalog/status/2074909146156081417",
+        "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
       }
     }
