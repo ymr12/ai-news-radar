@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T14:19:22.647872Z",
+  "generated_at": "2026-07-08T15:20:06.968783Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -21,6 +21,24 @@
           "published_at": "2026-07-08T08:29:47.091000Z"
         },
         {
+          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
+          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T14:37:37.637000Z"
+        },
+        {
+          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T14:04:11Z"
+        },
+        {
           "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
           "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
           "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
@@ -48,10 +66,11 @@
           "published_at": "2026-07-08T05:25:35Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "source_names": [
         "Hacker News",
         "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
         "hackernews",
         "noma.security"
       ],
@@ -66,6 +85,24 @@
           "published_at": "2026-07-08T08:29:47.091000Z"
         },
         {
+          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
+          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T14:37:37.637000Z"
+        },
+        {
+          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T14:04:11Z"
+        },
+        {
           "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
           "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
           "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
@@ -93,18 +130,18 @@
           "published_at": "2026-07-08T05:25:35Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8551,
-      "importance": 0.8551,
-      "importance_score": 0.8551,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.8777,
+      "importance": 0.8777,
+      "importance_score": 0.8777,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9193,
-        "story_heat": 0.75
+        "recency": 0.906,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -113,7 +150,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-08T05:25:35Z",
-      "latest_at": "2026-07-08T08:29:47.091000Z",
+      "latest_at": "2026-07-08T14:37:37.637000Z",
       "primary_item": {
         "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
         "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
@@ -157,15 +194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8132,
+        "recency": 0.8014,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8726,
+        "recency": 0.8599,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7816,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,15 +418,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8998,
+        "recency": 0.8868,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -405,6 +442,106 @@
         "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
         "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9f661bf376d1",
+      "title": "Robostral Navigate：Mistral AI 首个具身导航模型",
+      "url": "https://mistral.ai/news/robostral-navigate",
+      "primary_url": "https://mistral.ai/news/robostral-navigate",
+      "source": "Mistral AI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9603ada35633ee3a2b044bddffe571e3776fc612",
+          "title": "Robostral Navigate：Mistral AI 首个具身导航模型",
+          "url": "https://mistral.ai/news/robostral-navigate",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T14:33:24.981000Z"
+        },
+        {
+          "id": "600bcfb19dba24bbcf97cee88e6c5cae0fb872bd",
+          "title": "Mistral 的 Robostral Navigate：最先进的机器人导航模型 / Mistral's Robostral Navigate: a state of the art robotics navigation model",
+          "url": "https://news.ycombinator.com/item?id=48832212",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-08T14:51:19.760000Z"
+        },
+        {
+          "id": "7c61d0dac8efb2a47a0ebc85fba9a9085487755d",
+          "title": "Robostral Navigate：Mistral AI 首个具身导航模型 / Mistral's Robostral Navigate: a state of the art robotics navigation model",
+          "url": "https://mistral.ai/news/robostral-navigate",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T14:09:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Mistral AI：News（网页）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9603ada35633ee3a2b044bddffe571e3776fc612",
+          "title": "Robostral Navigate：Mistral AI 首个具身导航模型",
+          "url": "https://mistral.ai/news/robostral-navigate",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T14:33:24.981000Z"
+        },
+        {
+          "id": "600bcfb19dba24bbcf97cee88e6c5cae0fb872bd",
+          "title": "Mistral 的 Robostral Navigate：最先进的机器人导航模型 / Mistral's Robostral Navigate: a state of the art robotics navigation model",
+          "url": "https://news.ycombinator.com/item?id=48832212",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-08T14:51:19.760000Z"
+        },
+        {
+          "id": "7c61d0dac8efb2a47a0ebc85fba9a9085487755d",
+          "title": "Robostral Navigate：Mistral AI 首个具身导航模型 / Mistral's Robostral Navigate: a state of the art robotics navigation model",
+          "url": "https://mistral.ai/news/robostral-navigate",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T14:09:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9888,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T14:09:17Z",
+      "latest_at": "2026-07-08T14:51:19.760000Z",
+      "primary_item": {
+        "id": "9603ada35633ee3a2b044bddffe571e3776fc612",
+        "title": "Robostral Navigate：Mistral AI 首个具身导航模型",
+        "url": "https://mistral.ai/news/robostral-navigate",
+        "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -462,15 +599,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8555,
+        "recency": 0.8431,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -524,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8142,
+        "recency": 0.8024,
         "story_heat": 0.0
       },
       "category": "official",
@@ -643,15 +780,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8677,
+        "recency": 0.8551,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -723,15 +860,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.9173,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -748,68 +885,6 @@
         "url": "https://www.aibase.com/news/29456",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_024a3808c07a",
-      "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "primary_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:20:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:20:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7175,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T15:20:06Z",
-      "latest_at": "2026-07-07T15:20:06Z",
-      "primary_item": {
-        "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-        "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -847,15 +922,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9689,
+        "recency": 0.9549,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -946,15 +1021,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7263,
+        "recency": 0.7158,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1008,15 +1083,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8879,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1088,15 +1163,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8498,
+        "recency": 0.8375,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1112,6 +1187,67 @@
         "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
         "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3141dc0b0f22",
+      "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+      "url": "https://x.com/shao__meng/status/2074661249804366310",
+      "primary_url": "https://x.com/shao__meng/status/2074661249804366310",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
+          "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+          "url": "https://x.com/shao__meng/status/2074661249804366310",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T01:06:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
+          "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+          "url": "https://x.com/shao__meng/status/2074661249804366310",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T01:06:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8142,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T01:06:01Z",
+      "latest_at": "2026-07-08T01:06:01Z",
+      "primary_item": {
+        "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
+        "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+        "url": "https://x.com/shao__meng/status/2074661249804366310",
+        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     },
@@ -1169,15 +1305,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.9248,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1193,67 +1329,6 @@
         "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
         "url": "https://www.ithome.com/0/974/169.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3141dc0b0f22",
-      "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
-      "url": "https://x.com/shao__meng/status/2074661249804366310",
-      "primary_url": "https://x.com/shao__meng/status/2074661249804366310",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
-          "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
-          "url": "https://x.com/shao__meng/status/2074661249804366310",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T01:06:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
-          "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
-          "url": "https://x.com/shao__meng/status/2074661249804366310",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T01:06:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8262,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T01:06:01Z",
-      "latest_at": "2026-07-08T01:06:01Z",
-      "primary_item": {
-        "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
-        "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
-        "url": "https://x.com/shao__meng/status/2074661249804366310",
-        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     },
@@ -1311,15 +1386,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.9173,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1392,15 +1467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7522,
+        "recency": 0.7412,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1453,15 +1528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8155,
+        "recency": 0.8037,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1513,15 +1588,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7585,
+        "recency": 0.7475,
         "story_heat": 0.0
       },
       "category": "industry",
