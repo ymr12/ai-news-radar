@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-08T00:49:26.204718Z",
+  "generated_at": "2026-07-08T03:11:52.815546Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.143.0 / Codex CLI 0.143.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b96bf72e90172017de5c8d627a99cb4b47baf860",
+          "title": "法典 CLI 0.143.0 / Codex CLI 0.143.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "b96bf72e90172017de5c8d627a99cb4b47baf860",
+          "title": "法典 CLI 0.143.0 / Codex CLI 0.143.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8579,
+      "importance": 0.8579,
+      "importance_score": 0.8579,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9549,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T00:00:00Z",
+      "latest_at": "2026-07-08T00:00:00Z",
+      "primary_item": {
+        "id": "b96bf72e90172017de5c8d627a99cb4b47baf860",
+        "title": "法典 CLI 0.143.0 / Codex CLI 0.143.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_ca9a2a21da07",
       "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9498,
+        "recency": 0.9178,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8501,
-      "importance": 0.8501,
-      "importance_score": 0.8501,
+      "score": 0.8441,
+      "importance": 0.8441,
+      "importance_score": 0.8441,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9895,
+        "recency": 0.9562,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7946,
+        "recency": 0.7678,
         "story_heat": 0.25
       },
       "category": "official",
@@ -244,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8719,
+        "recency": 0.8426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,15 +406,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.874,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -444,15 +506,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8826,
+        "recency": 0.8529,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -506,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8699,
+        "recency": 0.8406,
         "story_heat": 0.0
       },
       "category": "official",
@@ -531,6 +593,148 @@
         "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8a44728534d6",
+      "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
+      "url": "https://www.aibase.com/news/29454",
+      "primary_url": "https://www.aibase.com/news/29454",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
+          "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
+          "url": "https://www.aibase.com/news/29454",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T03:11:52.815546Z"
+        },
+        {
+          "id": "150337846117e99ee7aa26511f31856636d552fc",
+          "title": "Anthropic 纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
+          "url": "https://www.aibase.com/zh/news/29454",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
+          "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
+          "url": "https://www.aibase.com/news/29454",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T03:11:52.815546Z"
+        },
+        {
+          "id": "150337846117e99ee7aa26511f31856636d552fc",
+          "title": "Anthropic 纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
+          "url": "https://www.aibase.com/zh/news/29454",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T03:11:52.815546Z",
+      "latest_at": "2026-07-08T03:11:52.815546Z",
+      "primary_item": {
+        "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
+        "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
+        "url": "https://www.aibase.com/news/29454",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3141dc0b0f22",
+      "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+      "url": "https://x.com/shao__meng/status/2074661249804366310",
+      "primary_url": "https://x.com/shao__meng/status/2074661249804366310",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
+          "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+          "url": "https://x.com/shao__meng/status/2074661249804366310",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T01:06:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
+          "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+          "url": "https://x.com/shao__meng/status/2074661249804366310",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T01:06:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9702,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T01:06:01Z",
+      "latest_at": "2026-07-08T01:06:01Z",
+      "primary_item": {
+        "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
+        "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+        "url": "https://x.com/shao__meng/status/2074661249804366310",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -568,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9911,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -648,15 +852,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.914,
+        "recency": 0.8832,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -710,15 +914,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9218,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -771,15 +975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8659,
+        "recency": 0.8367,
         "story_heat": 0.0
       },
       "category": "official",
@@ -852,15 +1056,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8612,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -914,15 +1118,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8708,
+        "recency": 0.8414,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -937,67 +1141,6 @@
         "title": "中国拟限制外国访问最强AI模型",
         "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6c66b920b7bd",
-      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-      "url": "https://x.com/AIatMeta/status/2074577662840832382",
-      "primary_url": "https://x.com/AIatMeta/status/2074577662840832382",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
-          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-          "url": "https://x.com/AIatMeta/status/2074577662840832382",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T19:33:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
-          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-          "url": "https://x.com/AIatMeta/status/2074577662840832382",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T19:33:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9269,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T19:33:53Z",
-      "latest_at": "2026-07-07T19:33:53Z",
-      "primary_item": {
-        "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
-        "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-        "url": "https://x.com/AIatMeta/status/2074577662840832382",
-        "source": "X：AI at Meta (@AIatMeta)",
         "source_name": "AI HOT"
       }
     },
@@ -1036,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8584,
+        "recency": 0.8295,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1059,6 +1202,67 @@
         "title": "Ethan Mollick：开放权重模型供给难持续",
         "url": "https://x.com/emollick/status/2074497401578996154",
         "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6c66b920b7bd",
+      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+      "url": "https://x.com/AIatMeta/status/2074577662840832382",
+      "primary_url": "https://x.com/AIatMeta/status/2074577662840832382",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
+          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+          "url": "https://x.com/AIatMeta/status/2074577662840832382",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T19:33:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI at Meta (@AIatMeta)"
+      ],
+      "items": [
+        {
+          "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
+          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+          "url": "https://x.com/AIatMeta/status/2074577662840832382",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T19:33:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8956,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T19:33:53Z",
+      "latest_at": "2026-07-07T19:33:53Z",
+      "primary_item": {
+        "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
+        "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+        "url": "https://x.com/AIatMeta/status/2074577662840832382",
+        "source": "X：AI at Meta (@AIatMeta)",
         "source_name": "AI HOT"
       }
     },
@@ -1097,15 +1301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8364,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,86 +1325,6 @@
         "url": "https://x.com/omarsar0/status/2074506169352180108",
         "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf5265d5a9bf",
-      "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
-      "url": "https://www.aibase.com/news/29436",
-      "primary_url": "https://www.aibase.com/news/29436",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "70de58f4488252d4956c9539101570b5b5f4537d",
-          "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
-          "url": "https://www.aibase.com/news/29436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T09:16:24.545194Z"
-        },
-        {
-          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
-          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
-          "url": "https://www.aibase.com/news/29436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T06:25:50.112354Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "70de58f4488252d4956c9539101570b5b5f4537d",
-          "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
-          "url": "https://www.aibase.com/news/29436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T09:16:24.545194Z"
-        },
-        {
-          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
-          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
-          "url": "https://www.aibase.com/news/29436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T06:25:50.112354Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7989,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T06:25:50.112354Z",
-      "latest_at": "2026-07-07T09:16:24.545194Z",
-      "primary_item": {
-        "id": "70de58f4488252d4956c9539101570b5b5f4537d",
-        "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
-        "url": "https://www.aibase.com/news/29436",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1257,15 +1381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7957,
+        "recency": 0.7689,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1280,126 +1404,6 @@
         "title": "美国首批自主地面车辆在乌克兰参战",
         "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0004568882bf",
-      "title": "Claude Cowork 向移动端和网页端开放",
-      "url": "https://claude.com/blog/cowork-web-mobile",
-      "primary_url": "https://claude.com/blog/cowork-web-mobile",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c6f1224cb7c1c5f6a9298c79c7266565e637b44b",
-          "title": "Claude Cowork 向移动端和网页端开放",
-          "url": "https://claude.com/blog/cowork-web-mobile",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:24:13.051000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "c6f1224cb7c1c5f6a9298c79c7266565e637b44b",
-          "title": "Claude Cowork 向移动端和网页端开放",
-          "url": "https://claude.com/blog/cowork-web-mobile",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:24:13.051000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8855,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T16:24:13.051000Z",
-      "latest_at": "2026-07-07T16:24:13.051000Z",
-      "primary_item": {
-        "id": "c6f1224cb7c1c5f6a9298c79c7266565e637b44b",
-        "title": "Claude Cowork 向移动端和网页端开放",
-        "url": "https://claude.com/blog/cowork-web-mobile",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_817f6d9af0b1",
-      "title": "Krea 2 身份保留功能上线",
-      "url": "https://x.com/krea_ai/status/2074589965653303321",
-      "primary_url": "https://x.com/krea_ai/status/2074589965653303321",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e01d1f44e09b46cda5e00000f83e6105d4f2486b",
-          "title": "Krea 2 身份保留功能上线",
-          "url": "https://x.com/krea_ai/status/2074589965653303321",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T20:22:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "e01d1f44e09b46cda5e00000f83e6105d4f2486b",
-          "title": "Krea 2 身份保留功能上线",
-          "url": "https://x.com/krea_ai/status/2074589965653303321",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T20:22:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9378,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T20:22:46Z",
-      "latest_at": "2026-07-07T20:22:46Z",
-      "primary_item": {
-        "id": "e01d1f44e09b46cda5e00000f83e6105d4f2486b",
-        "title": "Krea 2 身份保留功能上线",
-        "url": "https://x.com/krea_ai/status/2074589965653303321",
-        "source": "X：Krea AI (@krea_ai)",
         "source_name": "AI HOT"
       }
     }
