@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T23:57:45.909030Z",
+  "generated_at": "2026-07-09T00:56:51.407139Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8876,
-      "importance": 0.8876,
-      "importance_score": 0.8876,
+      "score": 0.8855,
+      "importance": 0.8855,
+      "importance_score": 0.8855,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8536,
+        "recency": 0.8415,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,107 +101,6 @@
         "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
         "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f2a3364a10eb",
-      "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "primary_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
-          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
-          "title": "原生速度的 vLLM transformers 建模后端",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "aca921c6d55d05c43d1e4bc9f5a739046d120794",
-          "title": "原生速度 vLLM Transformer 建模后端",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T18:05:51.366000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
-          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
-          "title": "原生速度的 vLLM transformers 建模后端",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "aca921c6d55d05c43d1e4bc9f5a739046d120794",
-          "title": "原生速度 vLLM Transformer 建模后端",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T18:05:51.366000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8673,
-      "importance": 0.8673,
-      "importance_score": 0.8673,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7075,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T00:00:00Z",
-      "latest_at": "2026-07-08T18:05:51.366000Z",
-      "primary_item": {
-        "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
-        "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -334,15 +233,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8586,
-      "importance": 0.8586,
-      "importance_score": 0.8586,
+      "score": 0.8565,
+      "importance": 0.8565,
+      "importance_score": 0.8565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7998,
+        "recency": 0.7885,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -359,6 +258,68 @@
         "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5535aeb9eb9d",
+      "title": "代理商数据 / Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "primary_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+          "title": "代理商数据 / Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:16:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+          "title": "代理商数据 / Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:16:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.895,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T17:16:05Z",
+      "latest_at": "2026-07-08T17:16:05Z",
+      "primary_item": {
+        "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+        "title": "代理商数据 / Data for Agents",
+        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -396,15 +357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9533,
+        "recency": 0.9398,
         "story_heat": 0.0
       },
       "category": "official",
@@ -458,15 +419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9609,
+        "recency": 0.9473,
         "story_heat": 0.0
       },
       "category": "official",
@@ -482,169 +443,6 @@
         "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
         "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d7499a6963c6",
-      "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "primary_url": "https://openai.com/index/introducing-gpt-live",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1566758863d4711f264c204bdc76017a1cfaafca",
-          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live",
-          "url": "https://openai.com/index/introducing-gpt-live",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "bda0da780e29f43df71a04769d0a3557258dce37",
-          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型",
-          "url": "https://openai.com/index/introducing-gpt-live",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "025b31d1fa5a80ac4a10590c0d8d2e9bfcf0c392",
-          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / GPT‑Live",
-          "url": "https://openai.com/index/introducing-gpt-live",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T17:03:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "1566758863d4711f264c204bdc76017a1cfaafca",
-          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live",
-          "url": "https://openai.com/index/introducing-gpt-live",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "bda0da780e29f43df71a04769d0a3557258dce37",
-          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型",
-          "url": "https://openai.com/index/introducing-gpt-live",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "025b31d1fa5a80ac4a10590c0d8d2e9bfcf0c392",
-          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / GPT‑Live",
-          "url": "https://openai.com/index/introducing-gpt-live",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T17:03:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8573,
-      "importance": 0.8573,
-      "importance_score": 0.8573,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7075,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T00:00:00Z",
-      "latest_at": "2026-07-08T17:03:19Z",
-      "primary_item": {
-        "id": "1566758863d4711f264c204bdc76017a1cfaafca",
-        "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live",
-        "url": "https://openai.com/index/introducing-gpt-live",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5535aeb9eb9d",
-      "title": "代理商数据 / Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "primary_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
-          "title": "代理商数据 / Data for Agents",
-          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T17:16:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
-          "title": "代理商数据 / Data for Agents",
-          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T17:16:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8514,
-      "importance": 0.8514,
-      "importance_score": 0.8514,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.9079,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T17:16:05Z",
-      "latest_at": "2026-07-08T17:16:05Z",
-      "primary_item": {
-        "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
-        "title": "代理商数据 / Data for Agents",
-        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -702,15 +500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9288,
+        "recency": 0.9157,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -765,18 +563,18 @@
           "published_at": "2026-07-08T14:51:19.760000Z"
         },
         {
-          "id": "1b680dd8aeb9412d10ee43d1de25b5d790df8307",
+          "id": "37adbd3d50be01c2eaf5208bbbb013629c079ffa",
           "title": "Robostral Navigate：Mistral AI 首个具身导航模型 / Mistral's Robostral Navigate: a state of the art robotics navigation model",
           "url": "https://mistral.ai/news/robostral-navigate",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-08T14:09:17Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Mistral AI：News（网页）",
         "hackernews",
         "mistral.ai"
@@ -810,26 +608,26 @@
           "published_at": "2026-07-08T14:51:19.760000Z"
         },
         {
-          "id": "1b680dd8aeb9412d10ee43d1de25b5d790df8307",
+          "id": "37adbd3d50be01c2eaf5208bbbb013629c079ffa",
           "title": "Robostral Navigate：Mistral AI 首个具身导航模型 / Mistral's Robostral Navigate: a state of the art robotics navigation model",
           "url": "https://mistral.ai/news/robostral-navigate",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-08T14:09:17Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.873,
+        "recency": 0.8607,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -846,68 +644,6 @@
         "url": "https://mistral.ai/news/robostral-navigate",
         "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.143.0 / Codex CLI 0.143.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b96bf72e90172017de5c8d627a99cb4b47baf860",
-          "title": "法典 CLI 0.143.0 / Codex CLI 0.143.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "b96bf72e90172017de5c8d627a99cb4b47baf860",
-          "title": "法典 CLI 0.143.0 / Codex CLI 0.143.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7075,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T00:00:00Z",
-      "latest_at": "2026-07-08T00:00:00Z",
-      "primary_item": {
-        "id": "b96bf72e90172017de5c8d627a99cb4b47baf860",
-        "title": "法典 CLI 0.143.0 / Codex CLI 0.143.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -945,15 +681,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.923,
+        "recency": 0.91,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1007,15 +743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8914,
+        "recency": 0.8788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1031,6 +767,68 @@
         "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_41b85c9cdb7a",
+      "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "primary_url": "https://openai.com/index/government-national-security-partnerships",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+          "url": "https://openai.com/index/government-national-security-partnerships",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T13:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+          "url": "https://openai.com/index/government-national-security-partnerships",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T13:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8476,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T13:30:00Z",
+      "latest_at": "2026-07-08T13:30:00Z",
+      "primary_item": {
+        "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+        "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+        "url": "https://openai.com/index/government-national-security-partnerships",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -1107,15 +905,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7829,
+        "recency": 0.7718,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1188,15 +986,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9133,
+        "recency": 0.9004,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1269,15 +1067,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9043,
+        "recency": 0.8916,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1331,15 +1129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9652,
+        "recency": 0.9516,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1412,15 +1210,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7443,
+        "recency": 0.7338,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1440,65 +1238,64 @@
       }
     },
     {
-      "story_id": "story_41b85c9cdb7a",
-      "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "primary_url": "https://openai.com/index/government-national-security-partnerships",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_ace290e598a1",
+      "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
+      "url": "https://www.aibase.com/news/29474",
+      "primary_url": "https://www.aibase.com/news/29474",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-          "url": "https://openai.com/index/government-national-security-partnerships",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:30:00Z"
+          "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
+          "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
+          "url": "https://www.aibase.com/news/29474",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T00:56:51.407139Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-          "url": "https://openai.com/index/government-national-security-partnerships",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:30:00Z"
+          "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
+          "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
+          "url": "https://www.aibase.com/news/29474",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T00:56:51.407139Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8598,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T13:30:00Z",
-      "latest_at": "2026-07-08T13:30:00Z",
+      "earliest_at": "2026-07-09T00:56:51.407139Z",
+      "latest_at": "2026-07-09T00:56:51.407139Z",
       "primary_item": {
-        "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-        "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-        "url": "https://openai.com/index/government-national-security-partnerships",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
+        "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
+        "url": "https://www.aibase.com/news/29474",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1536,15 +1333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9111,
+        "recency": 0.8982,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1597,15 +1394,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.895,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1620,6 +1417,129 @@
         "title": "ChatGPT Voice：口述文章的新体验",
         "url": "https://x.com/jxnlco/status/2074905289237942512",
         "source": "X：Jason Liu (@jxnlco)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_de9286311527",
+      "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "primary_url": "https://openai.com/index/k-12-educators-practical-skills",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3f6683043bf73f7539527e0c801f2599a2d2c67d",
+          "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
+          "url": "https://openai.com/index/k-12-educators-practical-skills",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3f6683043bf73f7539527e0c801f2599a2d2c67d",
+          "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
+          "url": "https://openai.com/index/k-12-educators-practical-skills",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8059,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T10:00:00Z",
+      "latest_at": "2026-07-08T10:00:00Z",
+      "primary_item": {
+        "id": "3f6683043bf73f7539527e0c801f2599a2d2c67d",
+        "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
+        "url": "https://openai.com/index/k-12-educators-practical-skills",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e57b456ec9fb",
+      "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
+      "url": "https://x.com/testingcatalog/status/2074909146156081417",
+      "primary_url": "https://x.com/testingcatalog/status/2074909146156081417",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f2565704df7f892739adb02e92988dfe47916a11",
+          "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
+          "url": "https://x.com/testingcatalog/status/2074909146156081417",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T17:31:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "items": [
+        {
+          "id": "f2565704df7f892739adb02e92988dfe47916a11",
+          "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
+          "url": "https://x.com/testingcatalog/status/2074909146156081417",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T17:31:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8983,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T17:31:05Z",
+      "latest_at": "2026-07-08T17:31:05Z",
+      "primary_item": {
+        "id": "f2565704df7f892739adb02e92988dfe47916a11",
+        "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
+        "url": "https://x.com/testingcatalog/status/2074909146156081417",
+        "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
       }
     }
