@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-10T15:24:25.079346Z",
+  "generated_at": "2026-07-10T16:20:46.060790Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_6e4b204fac83",
+      "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9945,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T15:57:47Z",
+      "latest_at": "2026-07-10T15:57:47Z",
+      "primary_item": {
+        "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+        "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_fd60211f7949",
       "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9217,
+        "recency": 0.9093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8857,
+        "recency": 0.8737,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8005,
+        "recency": 0.7897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,125 +249,6 @@
         "url": "https://huggingface.co/blog/torch-attention-profile",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_85dcb3893dbd",
-      "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "primary_url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
-          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "www.pangram.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "a45e5f56df548b7bcc13bd7d47a4c40bda1712cd",
-          "title": "社交媒体上人工智能内容无处不在，尤其是 LinkedIn / AI content is everywhere on social media, especially LinkedIn",
-          "url": "https://news.ycombinator.com/item?id=48847940",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-09T16:24:26.704000Z"
-        },
-        {
-          "id": "be50040874e3147f6f0b58b2d60cf5a7a12d358b",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作 / AI Content Is Everywhere on Social Media, Especially LinkedIn",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-09T15:50:09Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.pangram.com"
-      ],
-      "items": [
-        {
-          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
-          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "www.pangram.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "a45e5f56df548b7bcc13bd7d47a4c40bda1712cd",
-          "title": "社交媒体上人工智能内容无处不在，尤其是 LinkedIn / AI content is everywhere on social media, especially LinkedIn",
-          "url": "https://news.ycombinator.com/item?id=48847940",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-09T16:24:26.704000Z"
-        },
-        {
-          "id": "be50040874e3147f6f0b58b2d60cf5a7a12d358b",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作 / AI Content Is Everywhere on Social Media, Especially LinkedIn",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-09T15:50:09Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7752,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T15:50:09Z",
-      "latest_at": "2026-07-09T21:46:29.789000Z",
-      "primary_item": {
-        "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-        "url": "https://www.pangram.com/blog/ai-in-your-feed",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -343,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7203,
+        "recency": 0.7106,
         "story_heat": 0.0
       },
       "category": "official",
@@ -424,15 +367,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8913,
+        "recency": 0.8793,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -448,430 +391,6 @@
         "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
         "url": "https://www.ithome.com/0/975/078.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c3a962988546",
-      "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
-      "url": "https://www.aibase.com/news/29525",
-      "primary_url": "https://www.aibase.com/news/29525",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f35225d26e262cf5e50826a6645ea6e57d3abc5c",
-          "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
-          "url": "https://www.aibase.com/news/29525",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T07:46:49.469273Z"
-        },
-        {
-          "id": "7ab6378b88efc3f0013702c0e71ebf70d4fb6295",
-          "title": "三星开发 4nm AI PC 专用芯片「GAIA」已向联想、惠普供样测试",
-          "url": "https://www.aibase.com/zh/news/29525",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f35225d26e262cf5e50826a6645ea6e57d3abc5c",
-          "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
-          "url": "https://www.aibase.com/news/29525",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T07:46:49.469273Z"
-        },
-        {
-          "id": "7ab6378b88efc3f0013702c0e71ebf70d4fb6295",
-          "title": "三星开发 4nm AI PC 专用芯片「GAIA」已向联想、惠普供样测试",
-          "url": "https://www.aibase.com/zh/news/29525",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8957,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T07:46:49.469273Z",
-      "latest_at": "2026-07-10T07:46:49.469273Z",
-      "primary_item": {
-        "id": "f35225d26e262cf5e50826a6645ea6e57d3abc5c",
-        "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
-        "url": "https://www.aibase.com/news/29525",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dc837ddc581e",
-      "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-      "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-      "primary_url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-      "source": "公众号：百度智能云（文心）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
-          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-          "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T13:58:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：百度智能云（文心）"
-      ],
-      "items": [
-        {
-          "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
-          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-          "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T13:58:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9794,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T13:58:07Z",
-      "latest_at": "2026-07-10T13:58:07Z",
-      "primary_item": {
-        "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
-        "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-        "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-        "source": "公众号：百度智能云（文心）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_499734c731df",
-      "title": "马斯克承认Anthropic是当前AI领导者",
-      "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
-          "title": "马斯克承认Anthropic是当前AI领导者",
-          "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T07:20:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
-          "title": "马斯克承认Anthropic是当前AI领导者",
-          "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T07:20:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8901,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T07:20:46Z",
-      "latest_at": "2026-07-10T07:20:46Z",
-      "primary_item": {
-        "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
-        "title": "马斯克承认Anthropic是当前AI领导者",
-        "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_55406eec470a",
-      "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
-      "primary_url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "695bd788ca11bc9c05fa87118c68872098de1f3b",
-          "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
-          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:57:42Z"
-        },
-        {
-          "id": "ac3a47d7484c95b8d0b827061d55f19d81ce177b",
-          "title": "Elon Musk称赞Anthropic并承诺不切断其算力 / Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-09T21:57:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "695bd788ca11bc9c05fa87118c68872098de1f3b",
-          "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
-          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:57:42Z"
-        },
-        {
-          "id": "ac3a47d7484c95b8d0b827061d55f19d81ce177b",
-          "title": "Elon Musk称赞Anthropic并承诺不切断其算力 / Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-09T21:57:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7773,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T21:57:42Z",
-      "latest_at": "2026-07-09T21:57:42Z",
-      "primary_item": {
-        "id": "695bd788ca11bc9c05fa87118c68872098de1f3b",
-        "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
-        "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_48a4aed9ac07",
-      "title": "小红书发布大模型新架构 PIPO",
-      "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
-      "primary_url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "84f8fe46c0182896d3bb94cb8b761db14b2e0a01",
-          "title": "小红书发布大模型新架构 PIPO",
-          "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T09:59:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "84f8fe46c0182896d3bb94cb8b761db14b2e0a01",
-          "title": "小红书发布大模型新架构 PIPO",
-          "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T09:59:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9247,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T09:59:00Z",
-      "latest_at": "2026-07-10T09:59:00Z",
-      "primary_item": {
-        "id": "84f8fe46c0182896d3bb94cb8b761db14b2e0a01",
-        "title": "小红书发布大模型新架构 PIPO",
-        "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e817c5d8b41d",
-      "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
-      "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
-      "primary_url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7c56acda8ce1a3d68c17dc654a10211e8e9daacb",
-          "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
-          "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T17:59:22Z"
-        },
-        {
-          "id": "67f08e311d0e65f2d26aca2df8b878e565432f0d",
-          "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体 / OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
-          "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-09T17:59:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7c56acda8ce1a3d68c17dc654a10211e8e9daacb",
-          "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
-          "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T17:59:22Z"
-        },
-        {
-          "id": "67f08e311d0e65f2d26aca2df8b878e565432f0d",
-          "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体 / OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
-          "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-09T17:59:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.734,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T17:59:22Z",
-      "latest_at": "2026-07-09T17:59:22Z",
-      "primary_item": {
-        "id": "7c56acda8ce1a3d68c17dc654a10211e8e9daacb",
-        "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
-        "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -946,15 +465,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7752,
+        "recency": 0.7647,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -970,6 +489,490 @@
         "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
         "url": "https://cognition.com/blog/swe-1-7",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c3a962988546",
+      "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
+      "url": "https://www.aibase.com/news/29525",
+      "primary_url": "https://www.aibase.com/news/29525",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f35225d26e262cf5e50826a6645ea6e57d3abc5c",
+          "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
+          "url": "https://www.aibase.com/news/29525",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T07:46:49.469273Z"
+        },
+        {
+          "id": "7ab6378b88efc3f0013702c0e71ebf70d4fb6295",
+          "title": "三星开发 4nm AI PC 专用芯片「GAIA」已向联想、惠普供样测试",
+          "url": "https://www.aibase.com/zh/news/29525",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f35225d26e262cf5e50826a6645ea6e57d3abc5c",
+          "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
+          "url": "https://www.aibase.com/news/29525",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T07:46:49.469273Z"
+        },
+        {
+          "id": "7ab6378b88efc3f0013702c0e71ebf70d4fb6295",
+          "title": "三星开发 4nm AI PC 专用芯片「GAIA」已向联想、惠普供样测试",
+          "url": "https://www.aibase.com/zh/news/29525",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8837,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T07:46:49.469273Z",
+      "latest_at": "2026-07-10T07:46:49.469273Z",
+      "primary_item": {
+        "id": "f35225d26e262cf5e50826a6645ea6e57d3abc5c",
+        "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
+        "url": "https://www.aibase.com/news/29525",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dc837ddc581e",
+      "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+      "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
+      "primary_url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
+      "source": "公众号：百度智能云（文心）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
+          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T13:58:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：百度智能云（文心）"
+      ],
+      "items": [
+        {
+          "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
+          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T13:58:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9662,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T13:58:07Z",
+      "latest_at": "2026-07-10T13:58:07Z",
+      "primary_item": {
+        "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
+        "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+        "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
+        "source": "公众号：百度智能云（文心）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_499734c731df",
+      "title": "马斯克承认Anthropic是当前AI领导者",
+      "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
+          "title": "马斯克承认Anthropic是当前AI领导者",
+          "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T07:20:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
+          "title": "马斯克承认Anthropic是当前AI领导者",
+          "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T07:20:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T07:20:46Z",
+      "latest_at": "2026-07-10T07:20:46Z",
+      "primary_item": {
+        "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
+        "title": "马斯克承认Anthropic是当前AI领导者",
+        "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_55406eec470a",
+      "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
+      "primary_url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "695bd788ca11bc9c05fa87118c68872098de1f3b",
+          "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:57:42Z"
+        },
+        {
+          "id": "ac3a47d7484c95b8d0b827061d55f19d81ce177b",
+          "title": "Elon Musk称赞Anthropic并承诺不切断其算力 / Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T21:57:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "695bd788ca11bc9c05fa87118c68872098de1f3b",
+          "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:57:42Z"
+        },
+        {
+          "id": "ac3a47d7484c95b8d0b827061d55f19d81ce177b",
+          "title": "Elon Musk称赞Anthropic并承诺不切断其算力 / Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T21:57:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7668,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T21:57:42Z",
+      "latest_at": "2026-07-09T21:57:42Z",
+      "primary_item": {
+        "id": "695bd788ca11bc9c05fa87118c68872098de1f3b",
+        "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+        "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_48a4aed9ac07",
+      "title": "小红书发布大模型新架构 PIPO",
+      "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
+      "primary_url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "84f8fe46c0182896d3bb94cb8b761db14b2e0a01",
+          "title": "小红书发布大模型新架构 PIPO",
+          "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T09:59:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "84f8fe46c0182896d3bb94cb8b761db14b2e0a01",
+          "title": "小红书发布大模型新架构 PIPO",
+          "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T09:59:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9122,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-10T09:59:00Z",
+      "latest_at": "2026-07-10T09:59:00Z",
+      "primary_item": {
+        "id": "84f8fe46c0182896d3bb94cb8b761db14b2e0a01",
+        "title": "小红书发布大模型新架构 PIPO",
+        "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
+        "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bd0e80076c59",
+      "title": "Perplexity 推出跨模型信用额度分析功能",
+      "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+      "primary_url": "https://x.com/perplexity_ai/status/2075599540640714863",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9875efa23f5875c362188fa81001858ac4b75317",
+          "title": "Perplexity 推出跨模型信用额度分析功能",
+          "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T15:14:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Perplexity (@perplexity_ai)"
+      ],
+      "items": [
+        {
+          "id": "9875efa23f5875c362188fa81001858ac4b75317",
+          "title": "Perplexity 推出跨模型信用额度分析功能",
+          "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T15:14:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9842,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-10T15:14:27Z",
+      "latest_at": "2026-07-10T15:14:27Z",
+      "primary_item": {
+        "id": "9875efa23f5875c362188fa81001858ac4b75317",
+        "title": "Perplexity 推出跨模型信用额度分析功能",
+        "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e817c5d8b41d",
+      "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+      "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
+      "primary_url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7c56acda8ce1a3d68c17dc654a10211e8e9daacb",
+          "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+          "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T17:59:22Z"
+        },
+        {
+          "id": "67f08e311d0e65f2d26aca2df8b878e565432f0d",
+          "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体 / OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+          "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T17:59:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7c56acda8ce1a3d68c17dc654a10211e8e9daacb",
+          "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+          "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T17:59:22Z"
+        },
+        {
+          "id": "67f08e311d0e65f2d26aca2df8b878e565432f0d",
+          "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体 / OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+          "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T17:59:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7241,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-09T17:59:22Z",
+      "latest_at": "2026-07-09T17:59:22Z",
+      "primary_item": {
+        "id": "7c56acda8ce1a3d68c17dc654a10211e8e9daacb",
+        "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+        "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1027,15 +1030,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8957,
+        "recency": 0.8837,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1089,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7645,
+        "recency": 0.7542,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1151,15 +1154,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7715,
+        "recency": 0.7612,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1211,15 +1214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8888,
+        "recency": 0.8768,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1290,15 +1293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8211,
+        "recency": 0.81,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1351,15 +1354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7245,
+      "importance": 0.7245,
+      "importance_score": 0.7245,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8045,
+        "recency": 0.7936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1373,87 +1376,6 @@
         "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
         "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
         "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8f2a4085c264",
-      "title": "AI 能否回答 3 万亿美元的问题？",
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-      "primary_url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
-          "title": "AI 能否回答 3 万亿美元的问题？",
-          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:47:50Z"
-        },
-        {
-          "id": "ad35490b7879f7d1a52b975ba0b3714ea868b874",
-          "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question?",
-          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-09T21:47:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
-          "title": "AI 能否回答 3 万亿美元的问题？",
-          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:47:50Z"
-        },
-        {
-          "id": "ad35490b7879f7d1a52b975ba0b3714ea868b874",
-          "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question?",
-          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-09T21:47:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7755,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T21:47:50Z",
-      "latest_at": "2026-07-09T21:47:50Z",
-      "primary_item": {
-        "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
-        "title": "AI 能否回答 3 万亿美元的问题？",
-        "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     }
