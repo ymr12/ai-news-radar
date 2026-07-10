@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T12:03:26.724359Z",
+  "generated_at": "2026-07-10T13:17:38.171092Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9673,
+        "recency": 0.9502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9296,
+        "recency": 0.9131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8402,
+        "recency": 0.8253,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,15 +281,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.8065,
+      "importance": 0.8065,
+      "importance_score": 0.8065,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8136,
+        "recency": 0.7992,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -343,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.756,
+        "recency": 0.7427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -424,15 +424,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9189,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -449,68 +449,6 @@
         "url": "https://www.ithome.com/0/975/078.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e799563c0958",
-      "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "primary_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-          "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-          "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7168,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T13:00:00Z",
-      "latest_at": "2026-07-09T13:00:00Z",
-      "primary_item": {
-        "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-        "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -567,15 +505,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9401,
+        "recency": 0.9235,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -629,15 +567,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9342,
+        "recency": 0.9177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -709,15 +647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8158,
+        "recency": 0.8014,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -771,15 +709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.9533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,15 +789,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9401,
+        "recency": 0.9235,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -932,22 +870,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7703,
+        "recency": 0.7567,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T17:59:22Z",
       "latest_at": "2026-07-09T17:59:22Z",
@@ -1030,15 +967,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8136,
+        "recency": 0.7992,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1111,15 +1048,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7238,
+        "recency": 0.711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1172,15 +1109,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8098,
+        "recency": 0.7955,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1232,15 +1169,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7317,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1294,15 +1231,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9329,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1373,15 +1310,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8618,
+        "recency": 0.8465,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1434,15 +1371,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7309,
+      "importance": 0.7309,
+      "importance_score": 0.7309,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8443,
+        "recency": 0.8294,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1456,6 +1393,87 @@
         "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
         "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
         "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8f2a4085c264",
+      "title": "AI 能否回答 3 万亿美元的问题？",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+      "primary_url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
+          "title": "AI 能否回答 3 万亿美元的问题？",
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:47:50Z"
+        },
+        {
+          "id": "ad35490b7879f7d1a52b975ba0b3714ea868b874",
+          "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question?",
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T21:47:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
+          "title": "AI 能否回答 3 万亿美元的问题？",
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:47:50Z"
+        },
+        {
+          "id": "ad35490b7879f7d1a52b975ba0b3714ea868b874",
+          "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question?",
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T21:47:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7995,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T21:47:50Z",
+      "latest_at": "2026-07-09T21:47:50Z",
+      "primary_item": {
+        "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
+        "title": "AI 能否回答 3 万亿美元的问题？",
+        "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     }

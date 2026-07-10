@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T12:03:26.724359Z",
+  "generated_at": "2026-07-10T13:17:38.171092Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
   "total_events": 72,
   "events": [
@@ -14,13 +14,6 @@
       "story_id": "story_744869b8ad84",
       "item_id": "f5d3a634c7700c9adb9872eb4e13840439acf6c3",
       "merged_into": "story_744869b8ad84",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "item_id": "bd3176c9da835af6c6c214cbe4a486d03d264665",
-      "merged_into": "story_774f7412d1a3",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -473,9 +466,9 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_f6f0b21aa3e6",
-      "item_id": "b55c476eac0bb7425c7b19a57311b16fa209fb2d",
-      "merged_into": "story_f6f0b21aa3e6",
+      "story_id": "story_88ce03b2b18d",
+      "item_id": "1e17f443a705c305eaf2972d1cd768468ea9a828",
+      "merged_into": "story_88ce03b2b18d",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -483,13 +476,6 @@
       "story_id": "story_eb69d2f199eb",
       "item_id": "630e4494021bd11b7fdd90ea8e389fbd6d4166fb",
       "merged_into": "story_eb69d2f199eb",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_b121c9d246e3",
-      "item_id": "ea17fe959360315d3f37335e091b31339fc843b4",
-      "merged_into": "story_b121c9d246e3",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -506,6 +492,20 @@
       "merged_into": "story_1aa3551e0d5a",
       "reason": "title_similarity",
       "similarity": 0.9018
+    },
+    {
+      "story_id": "story_c2a3f0d7ae30",
+      "item_id": "347408dd650d20f023f11eb5cb4a11fa872e6992",
+      "merged_into": "story_c2a3f0d7ae30",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_afe9521165d7",
+      "item_id": "f1b03f71658e04662002a0b3074d3ca0e80dad99",
+      "merged_into": "story_afe9521165d7",
+      "reason": "canonical_url",
+      "similarity": 1.0
     }
   ]
 }
