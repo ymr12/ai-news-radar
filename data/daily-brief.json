@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T19:28:41.124012Z",
+  "generated_at": "2026-07-11T20:22:06.895217Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9582,
+        "recency": 0.9459,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7195,
+        "recency": 0.7103,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9659,
+        "recency": 0.9535,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,15 +338,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.746,
+        "recency": 0.7365,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -419,15 +419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8465,
+        "recency": 0.8357,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -500,15 +500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.718,
+        "recency": 0.7088,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -525,68 +525,6 @@
         "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f46516359f1f",
-      "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-      "primary_url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:06:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:06:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7135,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T20:06:10Z",
-      "latest_at": "2026-07-10T20:06:10Z",
-      "primary_item": {
-        "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-        "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-        "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -643,15 +581,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8418,
+        "recency": 0.831,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -724,15 +662,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.753,
+        "recency": 0.7434,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,15 +724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7411,
+        "recency": 0.7317,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,15 +785,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9617,
+        "recency": 0.9494,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -907,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7764,
+        "recency": 0.7664,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -967,15 +905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7166,
+        "recency": 0.7074,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -989,87 +927,6 @@
         "title": "Meta Muse Spark 1.1 在 Artificial Analysis 智能指数中得分 51，兼具成本与 token 效率优势",
         "url": "https://x.com/ArtificialAnlys/status/2075677416295739660",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a02db43ccd2c",
-      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "primary_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "cdn.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cdn.openai.com"
-      ],
-      "items": [
-        {
-          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "cdn.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7123,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T19:59:11.362000Z",
-      "latest_at": "2026-07-10T19:59:11.362000Z",
-      "primary_item": {
-        "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-        "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1127,15 +984,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7346,
+        "recency": 0.7252,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1243,15 +1100,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6514,
-      "importance": 0.6514,
-      "importance_score": 0.6514,
+      "score": 0.6492,
+      "importance": 0.6492,
+      "importance_score": 0.6492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9707,
+        "recency": 0.9583,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1322,15 +1179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5792,
-      "importance": 0.5792,
-      "importance_score": 0.5792,
+      "score": 0.5775,
+      "importance": 0.5775,
+      "importance_score": 0.5775,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7293,
+        "recency": 0.7199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1348,197 +1205,178 @@
       }
     },
     {
-      "story_id": "story_2f6e5ceea008",
-      "title": "请不要停产 Gemini 2.5 Flash",
-      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-      "primary_url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-      "source": "discuss.ai.google.dev",
+      "story_id": "story_b5d19d55b601",
+      "title": "《AI 2040》与“智能崇拜”",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "source": "geohot.github.io",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e4394c927b3e184343e33ae5bec967249c694e85",
-          "title": "请不要停产 Gemini 2.5 Flash",
-          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-          "source": "discuss.ai.google.dev",
+          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+          "title": "《AI 2040》与“智能崇拜”",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "geohot.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-10T23:43:31.381000Z"
+          "published_at": "2026-07-11T19:27:11.440000Z"
         },
         {
-          "id": "024611519b6d16eb0b01635334dfcab40f2c12b8",
-          "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
-          "url": "https://news.ycombinator.com/item?id=48864507",
+          "id": "ea752aa4339116e78188023c4f921b0461860969",
+          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+          "url": "https://news.ycombinator.com/item?id=48874200",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-10T20:55:20.957000Z"
+          "published_at": "2026-07-11T18:40:39.474000Z"
         },
         {
-          "id": "9ab7593cd90bea20a6612496a0a5855bf0f16108",
-          "title": "请不要停产 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
-          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
+          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the Cult of Intelligence",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-10T20:00:28Z"
-        },
-        {
-          "id": "917392443b60c7a6e1d9b8e865687184f4d00dd6",
-          "title": "请不要停产 Gemini 2.5 Flash / Please don't discontinue Gemini 2.5 Flash",
-          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T20:00:28Z"
+          "published_at": "2026-07-11T18:04:01Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News · 24h最热",
-        "discuss.ai.google.dev",
+        "geohot.github.io",
         "hackernews"
       ],
       "items": [
         {
-          "id": "e4394c927b3e184343e33ae5bec967249c694e85",
-          "title": "请不要停产 Gemini 2.5 Flash",
-          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-          "source": "discuss.ai.google.dev",
+          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+          "title": "《AI 2040》与“智能崇拜”",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "geohot.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-10T23:43:31.381000Z"
+          "published_at": "2026-07-11T19:27:11.440000Z"
         },
         {
-          "id": "024611519b6d16eb0b01635334dfcab40f2c12b8",
-          "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
-          "url": "https://news.ycombinator.com/item?id=48864507",
+          "id": "ea752aa4339116e78188023c4f921b0461860969",
+          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+          "url": "https://news.ycombinator.com/item?id=48874200",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-10T20:55:20.957000Z"
+          "published_at": "2026-07-11T18:40:39.474000Z"
         },
         {
-          "id": "9ab7593cd90bea20a6612496a0a5855bf0f16108",
-          "title": "请不要停产 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
-          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
+          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the Cult of Intelligence",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-10T20:00:28Z"
-        },
-        {
-          "id": "917392443b60c7a6e1d9b8e865687184f4d00dd6",
-          "title": "请不要停产 Gemini 2.5 Flash / Please don't discontinue Gemini 2.5 Flash",
-          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T20:00:28Z"
+          "published_at": "2026-07-11T18:04:01Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5511,
-      "importance": 0.5511,
-      "importance_score": 0.5511,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5684,
+      "importance": 0.5684,
+      "importance_score": 0.5684,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7518,
-        "story_heat": 0.75
+        "recency": 0.9869,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-10T20:00:28Z",
-      "latest_at": "2026-07-10T23:43:31.381000Z",
+      "earliest_at": "2026-07-11T18:04:01Z",
+      "latest_at": "2026-07-11T19:27:11.440000Z",
       "primary_item": {
-        "id": "e4394c927b3e184343e33ae5bec967249c694e85",
-        "title": "请不要停产 Gemini 2.5 Flash",
-        "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-        "source": "discuss.ai.google.dev",
+        "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+        "title": "《AI 2040》与“智能崇拜”",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "source": "geohot.github.io",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_b5d19d55b601",
-      "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
-      "url": "https://news.ycombinator.com/item?id=48874200",
-      "primary_url": "https://news.ycombinator.com/item?id=48874200",
+      "story_id": "story_3ff1f70f056f",
+      "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+      "url": "https://news.ycombinator.com/item?id=48873855",
+      "primary_url": "https://news.ycombinator.com/item?id=48873855",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "ea752aa4339116e78188023c4f921b0461860969",
-          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
-          "url": "https://news.ycombinator.com/item?id=48874200",
+          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://news.ycombinator.com/item?id=48873855",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-11T18:40:39.474000Z"
+          "published_at": "2026-07-11T18:10:37.047000Z"
         },
         {
-          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
-          "title": "AI 2040 和智能崇拜 / AI 2040 and the Cult of Intelligence",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T18:04:01Z"
+          "id": "dff3493572235e2d7a5e5274e492cd7663f523a0",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T17:23:52Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "ea752aa4339116e78188023c4f921b0461860969",
-          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
-          "url": "https://news.ycombinator.com/item?id=48874200",
+          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://news.ycombinator.com/item?id=48873855",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-11T18:40:39.474000Z"
+          "published_at": "2026-07-11T18:10:37.047000Z"
         },
         {
-          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
-          "title": "AI 2040 和智能崇拜 / AI 2040 and the Cult of Intelligence",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T18:04:01Z"
+          "id": "dff3493572235e2d7a5e5274e492cd7663f523a0",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T17:23:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9885,
+        "recency": 0.9688,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T18:04:01Z",
-      "latest_at": "2026-07-11T18:40:39.474000Z",
+      "earliest_at": "2026-07-11T17:23:52Z",
+      "latest_at": "2026-07-11T18:10:37.047000Z",
       "primary_item": {
-        "id": "ea752aa4339116e78188023c4f921b0461860969",
-        "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
-        "url": "https://news.ycombinator.com/item?id=48874200",
+        "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
+        "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+        "url": "https://news.ycombinator.com/item?id=48873855",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1597,15 +1435,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9533,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1619,6 +1457,181 @@
         "title": "Instagram的最新AI工具没能撑过这一周",
         "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_11aee9868a58",
+      "title": "恐怖组织如何利用人工智能在战场上获得优势",
+      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+      "primary_url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+          "title": "恐怖组织如何利用人工智能在战场上获得优势",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:15:25.572000Z"
+        },
+        {
+          "id": "a2040695558392388b00a287a81225749694df3f",
+          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.067000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+          "title": "恐怖组织如何利用人工智能在战场上获得优势",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:15:25.572000Z"
+        },
+        {
+          "id": "a2040695558392388b00a287a81225749694df3f",
+          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.067000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9424,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T01:03:10.067000Z",
+      "latest_at": "2026-07-11T16:15:25.572000Z",
+      "primary_item": {
+        "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+        "title": "恐怖组织如何利用人工智能在战场上获得优势",
+        "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_df21c02ebeab",
+      "title": "Meta在推出AI图像功能数日后，因引发隐私争议而将其下架",
+      "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
+      "primary_url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9ea477690a242c1d7bd2a8927f951530773e2fb9",
+          "title": "Meta在推出AI图像功能数日后，因引发隐私争议而将其下架",
+          "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:35:02.943000Z"
+        },
+        {
+          "id": "f3df2b264784f409d596d270254550e49c4f3e88",
+          "title": "Meta 在推出 AI 图片功能数日后便将其下线",
+          "url": "https://reut.rs/4yffVil",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.113000Z"
+        },
+        {
+          "id": "1dde102e0585ef45d7ebcc116856f330fa857b7d",
+          "title": "Meta在推出AI图像功能数日后便将其下线",
+          "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T23:43:31.828000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "reut.rs",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "9ea477690a242c1d7bd2a8927f951530773e2fb9",
+          "title": "Meta在推出AI图像功能数日后，因引发隐私争议而将其下架",
+          "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:35:02.943000Z"
+        },
+        {
+          "id": "f3df2b264784f409d596d270254550e49c4f3e88",
+          "title": "Meta 在推出 AI 图片功能数日后便将其下线",
+          "url": "https://reut.rs/4yffVil",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.113000Z"
+        },
+        {
+          "id": "1dde102e0585ef45d7ebcc116856f330fa857b7d",
+          "title": "Meta在推出AI图像功能数日后便将其下线",
+          "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T23:43:31.828000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7624,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T23:43:31.828000Z",
+      "latest_at": "2026-07-11T01:35:02.943000Z",
+      "primary_item": {
+        "id": "9ea477690a242c1d7bd2a8927f951530773e2fb9",
+        "title": "Meta在推出AI图像功能数日后，因引发隐私争议而将其下架",
+        "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
+        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     }
