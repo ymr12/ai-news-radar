@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T20:22:06.895217Z",
+  "generated_at": "2026-07-11T20:49:04.314061Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "score": 0.8408,
+      "importance": 0.8408,
+      "importance_score": 0.8408,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9459,
+        "recency": 0.9398,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -120,68 +120,6 @@
         "url": "https://www.mixfont.com/ghost-font",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4071a63c6a0f",
-      "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-      "primary_url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:40:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:40:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7103,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T20:40:56Z",
-      "latest_at": "2026-07-10T20:40:56Z",
-      "primary_item": {
-        "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-        "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-        "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -238,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7861,
+      "importance": 0.7861,
+      "importance_score": 0.7861,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9535,
+        "recency": 0.9474,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -262,106 +200,6 @@
         "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
         "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_be1720d248f4",
-      "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-      "primary_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d3ab52e08e37688e82c60738f365952d57d85c73",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T23:11:12.310000Z"
-        },
-        {
-          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://news.ycombinator.com/item?id=48865019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T22:53:28.813000Z"
-        },
-        {
-          "id": "979c5e9d9ab850a38b038db72d3e175448da1bf7",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T20:47:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d3ab52e08e37688e82c60738f365952d57d85c73",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T23:11:12.310000Z"
-        },
-        {
-          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://news.ycombinator.com/item?id=48865019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T22:53:28.813000Z"
-        },
-        {
-          "id": "979c5e9d9ab850a38b038db72d3e175448da1bf7",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T20:47:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7365,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T20:47:09Z",
-      "latest_at": "2026-07-10T23:11:12.310000Z",
-      "primary_item": {
-        "id": "d3ab52e08e37688e82c60738f365952d57d85c73",
-        "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -419,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8357,
+        "recency": 0.8303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,87 +281,6 @@
         "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
         "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
         "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a4ad473125ca",
-      "title": "Apple 起诉 OpenAI 窃取商业机密",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-      "primary_url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "25765d7448a51410f074e3d4261999deba0d2074",
-          "title": "Apple 起诉 OpenAI 窃取商业机密",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T20:32:00Z"
-        },
-        {
-          "id": "f2a45e6e6d07acc4ee424e5131b4d1ca40c8e42b",
-          "title": "Apple 起诉 OpenAI 窃取商业机密 / Apple sues OpenAI over alleged trade secret theft",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T20:32:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "25765d7448a51410f074e3d4261999deba0d2074",
-          "title": "Apple 起诉 OpenAI 窃取商业机密",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T20:32:00Z"
-        },
-        {
-          "id": "f2a45e6e6d07acc4ee424e5131b4d1ca40c8e42b",
-          "title": "Apple 起诉 OpenAI 窃取商业机密 / Apple sues OpenAI over alleged trade secret theft",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T20:32:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7088,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T20:32:00Z",
-      "latest_at": "2026-07-10T20:32:00Z",
-      "primary_item": {
-        "id": "25765d7448a51410f074e3d4261999deba0d2074",
-        "title": "Apple 起诉 OpenAI 窃取商业机密",
-        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -581,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.831,
+        "recency": 0.8257,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -662,15 +419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7434,
+        "recency": 0.7385,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -724,15 +481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7317,
+        "recency": 0.7269,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -785,15 +542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9494,
+        "recency": 0.9433,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -845,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7664,
+        "recency": 0.7615,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -867,66 +624,6 @@
         "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
         "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3158a7d1e9fb",
-      "title": "Meta Muse Spark 1.1 在 Artificial Analysis 智能指数中得分 51，兼具成本与 token 效率优势",
-      "url": "https://x.com/ArtificialAnlys/status/2075677416295739660",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2075677416295739660",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9b7d8116955e5e3ffe57a9ae029f5fdb847dba68",
-          "title": "Meta Muse Spark 1.1 在 Artificial Analysis 智能指数中得分 51，兼具成本与 token 效率优势",
-          "url": "https://x.com/ArtificialAnlys/status/2075677416295739660",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T20:23:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "9b7d8116955e5e3ffe57a9ae029f5fdb847dba68",
-          "title": "Meta Muse Spark 1.1 在 Artificial Analysis 智能指数中得分 51，兼具成本与 token 效率优势",
-          "url": "https://x.com/ArtificialAnlys/status/2075677416295739660",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T20:23:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7074,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T20:23:54Z",
-      "latest_at": "2026-07-10T20:23:54Z",
-      "primary_item": {
-        "id": "9b7d8116955e5e3ffe57a9ae029f5fdb847dba68",
-        "title": "Meta Muse Spark 1.1 在 Artificial Analysis 智能指数中得分 51，兼具成本与 token 效率优势",
-        "url": "https://x.com/ArtificialAnlys/status/2075677416295739660",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       }
     },
@@ -984,15 +681,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7252,
+        "recency": 0.7205,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1007,6 +704,66 @@
         "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
         "title": "博科圣地如何利用前沿AI技术",
         "url": "https://casp.ac/reports/ai-enabled-terrorism",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_be1720d248f4",
+      "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+      "primary_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d3ab52e08e37688e82c60738f365952d57d85c73",
+          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T23:11:12.310000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "d3ab52e08e37688e82c60738f365952d57d85c73",
+          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T23:11:12.310000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7317,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-10T23:11:12.310000Z",
+      "latest_at": "2026-07-10T23:11:12.310000Z",
+      "primary_item": {
+        "id": "d3ab52e08e37688e82c60738f365952d57d85c73",
+        "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
+        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -1100,15 +857,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6492,
-      "importance": 0.6492,
-      "importance_score": 0.6492,
+      "score": 0.6481,
+      "importance": 0.6481,
+      "importance_score": 0.6481,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9583,
+        "recency": 0.9521,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1123,85 +880,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-11",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_32f732df87b9",
-      "title": "苹果起诉 OpenAI 涉嫌窃取硬件机密 / Apple sues OpenAI for allegedly stealing hardware secrets",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "primary_url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "7966f28ac46775f8174c511e7dcdf11230494c56",
-          "title": "苹果起诉 OpenAI 涉嫌窃取硬件机密 / Apple sues OpenAI for allegedly stealing hardware secrets",
-          "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T21:36:51Z"
-        },
-        {
-          "id": "7a13ccceec4188418b8e2277d51646880309a83e",
-          "title": "苹果起诉 OpenAI 涉嫌窃取硬件机密 / Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-          "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware",
-          "source": "Wired AI",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-10T20:44:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "Wired AI"
-      ],
-      "items": [
-        {
-          "id": "7966f28ac46775f8174c511e7dcdf11230494c56",
-          "title": "苹果起诉 OpenAI 涉嫌窃取硬件机密 / Apple sues OpenAI for allegedly stealing hardware secrets",
-          "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T21:36:51Z"
-        },
-        {
-          "id": "7a13ccceec4188418b8e2277d51646880309a83e",
-          "title": "苹果起诉 OpenAI 涉嫌窃取硬件机密 / Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-          "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware",
-          "source": "Wired AI",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-10T20:44:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5775,
-      "importance": 0.5775,
-      "importance_score": 0.5775,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7199,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T20:44:05Z",
-      "latest_at": "2026-07-10T21:36:51Z",
-      "primary_item": {
-        "id": "7966f28ac46775f8174c511e7dcdf11230494c56",
-        "title": "苹果起诉 OpenAI 涉嫌窃取硬件机密 / Apple sues OpenAI for allegedly stealing hardware secrets",
-        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "source": "The Verge",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -1277,15 +955,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.5673,
+      "importance": 0.5673,
+      "importance_score": 0.5673,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9869,
+        "recency": 0.9805,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1356,15 +1034,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9688,
+        "recency": 0.9626,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1435,15 +1113,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9533,
+        "recency": 0.9471,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1513,15 +1191,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9424,
+        "recency": 0.9363,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1610,15 +1288,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7624,
+        "recency": 0.7575,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1633,6 +1311,340 @@
         "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5a71c356e918",
+      "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+      "url": "https://www.v2ex.com/t/1226598",
+      "primary_url": "https://www.v2ex.com/t/1226598",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        },
+        {
+          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
+          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        },
+        {
+          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
+          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.887,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:30:42Z",
+      "latest_at": "2026-07-11T12:30:42Z",
+      "primary_item": {
+        "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+        "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+        "url": "https://www.v2ex.com/t/1226598",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_73fcd4d646ac",
+      "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "primary_url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
+          "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
+          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T00:40:36Z"
+        },
+        {
+          "id": "c7316a1195f303b2080c2007d353fd2b3844d683",
+          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T00:31:06.190000Z"
+        },
+        {
+          "id": "121099e3c465d42c3f269815b4512f168f7dd3de",
+          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T00:17:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
+          "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
+          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T00:40:36Z"
+        },
+        {
+          "id": "c7316a1195f303b2080c2007d353fd2b3844d683",
+          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T00:31:06.190000Z"
+        },
+        {
+          "id": "121099e3c465d42c3f269815b4512f168f7dd3de",
+          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T00:17:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7476,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T00:17:54Z",
+      "latest_at": "2026-07-11T00:40:36Z",
+      "primary_item": {
+        "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
+        "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
+        "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_b3a404e8e56a",
+      "title": "DayuanJiang /      next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "primary_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+          "title": "DayuanJiang /      next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:27:12.613000Z"
+        },
+        {
+          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
+          "title": "DayuanJiang / next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+          "title": "DayuanJiang /      next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:27:12.613000Z"
+        },
+        {
+          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
+          "title": "DayuanJiang / next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8735,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T11:26:18.717429Z",
+      "latest_at": "2026-07-11T11:27:12.613000Z",
+      "primary_item": {
+        "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+        "title": "DayuanJiang /      next-ai-draw-io",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1b89591e8184",
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447902.html",
+      "primary_url": "https://www.qbitai.com/2026/07/447902.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "b41c66bc4be1aa47f1747df59d02763cc23d6347",
+          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "url": "https://www.qbitai.com/2026/07/447902.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "69fcefe45f77192fd3f487e9ca42990a3f7b22f7",
+          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
+          "url": "https://www.qbitai.com/2026/07/447902.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "b41c66bc4be1aa47f1747df59d02763cc23d6347",
+          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "url": "https://www.qbitai.com/2026/07/447902.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "69fcefe45f77192fd3f487e9ca42990a3f7b22f7",
+          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
+          "url": "https://www.qbitai.com/2026/07/447902.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8733,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T11:26:18.717429Z",
+      "latest_at": "2026-07-11T11:26:18.717429Z",
+      "primary_item": {
+        "id": "b41c66bc4be1aa47f1747df59d02763cc23d6347",
+        "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+        "url": "https://www.qbitai.com/2026/07/447902.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
       }
     }
   ]
