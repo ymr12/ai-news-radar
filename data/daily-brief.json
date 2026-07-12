@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:41:14.823347Z",
+  "generated_at": "2026-07-12T06:04:34.656302Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9673,
+        "recency": 0.9481,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -195,15 +195,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8389,
+        "recency": 0.8222,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -276,15 +276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9447,
+        "recency": 0.9259,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,15 +338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9573,
+        "recency": 0.9383,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -418,15 +418,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8456,
+        "recency": 0.8288,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -480,15 +480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9782,
+        "recency": 0.9588,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -504,87 +504,6 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_57583f5b9bca",
-      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-      "url": "https://x.com/sama/status/2075985056846451123",
-      "primary_url": "https://x.com/sama/status/2075985056846451123",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        },
-        {
-          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Sam Altman",
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        },
-        {
-          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8419,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T16:46:22Z",
-      "latest_at": "2026-07-11T16:46:22Z",
-      "primary_item": {
-        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-        "url": "https://x.com/sama/status/2075985056846451123",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -641,22 +560,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7411,
+        "recency": 0.7264,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T07:56:11Z",
       "latest_at": "2026-07-11T07:56:11Z",
@@ -665,6 +583,86 @@
         "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
         "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_57583f5b9bca",
+      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+      "url": "https://x.com/sama/status/2075985056846451123",
+      "primary_url": "https://x.com/sama/status/2075985056846451123",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        },
+        {
+          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Sam Altman",
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        },
+        {
+          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8252,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T16:46:22Z",
+      "latest_at": "2026-07-11T16:46:22Z",
+      "primary_item": {
+        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+        "url": "https://x.com/sama/status/2075985056846451123",
+        "source": "X：Sam Altman (@sama)",
         "source_name": "AI HOT"
       }
     },
@@ -722,15 +720,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9514,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -803,15 +801,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9899,
+        "recency": 0.9703,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -884,15 +882,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.926,
+        "recency": 0.9076,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -965,15 +963,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.737,
+        "recency": 0.7223,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1080,15 +1078,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6297,
-      "importance": 0.6297,
-      "importance_score": 0.6297,
+      "score": 0.6266,
+      "importance": 0.6266,
+      "importance_score": 0.6266,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.8498,
+        "recency": 0.833,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1103,6 +1101,123 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-11",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_3ff1f70f056f",
+      "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+      "primary_url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+      "source": "pluralistic.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "pluralistic.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T05:03:04.325000Z"
+        },
+        {
+          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://news.ycombinator.com/item?id=48873855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T18:10:37.047000Z"
+        },
+        {
+          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T17:23:52Z"
+        },
+        {
+          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T17:23:52Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "pluralistic.net"
+      ],
+      "items": [
+        {
+          "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "pluralistic.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T05:03:04.325000Z"
+        },
+        {
+          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://news.ycombinator.com/item?id=48873855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T18:10:37.047000Z"
+        },
+        {
+          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T17:23:52Z"
+        },
+        {
+          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T17:23:52Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5932,
+      "importance": 0.5932,
+      "importance_score": 0.5932,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9853,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T17:23:52Z",
+      "latest_at": "2026-07-12T05:03:04.325000Z",
+      "primary_item": {
+        "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
+        "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+        "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+        "source": "pluralistic.net",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1178,15 +1293,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5607,
-      "importance": 0.5607,
-      "importance_score": 0.5607,
+      "score": 0.5573,
+      "importance": 0.5573,
+      "importance_score": 0.5573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.944,
+        "recency": 0.9252,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1230,18 +1345,18 @@
           "published_at": "2026-07-11T23:11:32.847000Z"
         },
         {
-          "id": "f7d74b1b9d5f71c14c4e25c689bf4eefece9df05",
+          "id": "7ad6a87cd024d1f73c270622a277ed46ea3f5091",
           "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
           "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T22:28:48Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "blog.yaelwrites.com",
         "hackernews"
       ],
@@ -1265,26 +1380,26 @@
           "published_at": "2026-07-11T23:11:32.847000Z"
         },
         {
-          "id": "f7d74b1b9d5f71c14c4e25c689bf4eefece9df05",
+          "id": "7ad6a87cd024d1f73c270622a277ed46ea3f5091",
           "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
           "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T22:28:48Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.559,
-      "importance": 0.559,
-      "importance_score": 0.559,
+      "score": 0.5556,
+      "importance": 0.5556,
+      "importance_score": 0.5556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9344,
+        "recency": 0.9158,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1299,6 +1414,85 @@
         "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
         "source": "blog.yaelwrites.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5ab2fbb881fc",
+      "title": "对话杨国安：AI 时代，一号位的信仰决定企业下一个五年",
+      "url": "https://www.huxiu.com/article/4874607.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874607.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "404f7ae5c8c85912fa1b2fc1176c445c67903f3d",
+          "title": "对话杨国安：AI 时代，一号位的信仰决定企业下一个五年",
+          "url": "https://www.huxiu.com/article/4874607.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "76c1c4ec39f518f183e8412e4992f0de52d16f83",
+          "title": "对话杨国安：AI时代，一号位的信仰决定企业下一个五年",
+          "url": "https://www.huxiu.com/article/4874607.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T04:42:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "404f7ae5c8c85912fa1b2fc1176c445c67903f3d",
+          "title": "对话杨国安：AI 时代，一号位的信仰决定企业下一个五年",
+          "url": "https://www.huxiu.com/article/4874607.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "76c1c4ec39f518f183e8412e4992f0de52d16f83",
+          "title": "对话杨国安：AI时代，一号位的信仰决定企业下一个五年",
+          "url": "https://www.huxiu.com/article/4874607.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T04:42:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T04:42:10Z",
+      "latest_at": "2026-07-12T06:04:34.656302Z",
+      "primary_item": {
+        "id": "404f7ae5c8c85912fa1b2fc1176c445c67903f3d",
+        "title": "对话杨国安：AI 时代，一号位的信仰决定企业下一个五年",
+        "url": "https://www.huxiu.com/article/4874607.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1374,15 +1568,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8752,
+        "recency": 0.8578,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1397,85 +1591,6 @@
         "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
         "source": "geohot.github.io",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5cd495760722",
-      "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
-      "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
-          "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
-          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2f5787bbeb9419d15d427248c39f635e7ab67a82",
-          "title": "百度AI将携智能体全家桶亮相WAIC 2026",
-          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T03:19:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
-          "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
-          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2f5787bbeb9419d15d427248c39f635e7ab67a82",
-          "title": "百度AI将携智能体全家桶亮相WAIC 2026",
-          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T03:19:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T03:19:28Z",
-      "latest_at": "2026-07-12T04:41:14.823347Z",
-      "primary_item": {
-        "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
-        "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
-        "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1532,15 +1647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9861,
+        "recency": 0.9665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1611,15 +1726,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9481,
+        "recency": 0.9293,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1634,85 +1749,6 @@
         "url": "https://36kr.com/newsflashes/3891934990744327?f=rss",
         "source": "36氪 (36Kr)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_70acfff4fef0",
-      "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "primary_url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
-        },
-        {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
-        },
-        {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8922,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:23:05Z",
-      "latest_at": "2026-07-11T20:47:17.342000Z",
-      "primary_item": {
-        "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-        "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
