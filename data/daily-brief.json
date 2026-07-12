@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T21:49:20.935595Z",
+  "generated_at": "2026-07-12T22:21:44.952350Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7553,
+        "recency": 0.7494,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -138,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9524,
+        "recency": 0.945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -161,6 +161,67 @@
         "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
         "url": "https://x.com/dotey/status/2076372677577576864",
         "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7de58394b679",
+      "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+      "url": "https://x.com/thsottiaux/status/2076365965915467978",
+      "primary_url": "https://x.com/thsottiaux/status/2076365965915467978",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9389,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T17:59:57Z",
+      "latest_at": "2026-07-12T17:59:57Z",
+      "primary_item": {
+        "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+        "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+        "url": "https://x.com/thsottiaux/status/2076365965915467978",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -199,15 +260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9248,
+        "recency": 0.9176,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,15 +321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9083,
+        "recency": 0.9013,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -340,15 +401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8341,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -364,87 +425,6 @@
         "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
         "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed5bc085d889",
-      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-      "url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        },
-        {
-          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        },
-        {
-          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7475,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T01:40:04Z",
-      "latest_at": "2026-07-12T01:40:04Z",
-      "primary_item": {
-        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-        "url": "https://x.com/thsottiaux/status/2076119366647894371",
-        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -502,15 +482,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7376,
+        "recency": 0.7319,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -601,15 +581,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7729,
+        "recency": 0.7669,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -625,6 +605,87 @@
         "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
         "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed5bc085d889",
+      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+      "url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7417,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:40:04Z",
+      "latest_at": "2026-07-12T01:40:04Z",
+      "primary_item": {
+        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+        "url": "https://x.com/thsottiaux/status/2076119366647894371",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -663,15 +724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7638,
+        "recency": 0.7579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -742,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8913,
+        "recency": 0.8843,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -823,15 +884,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7579,
+        "recency": 0.752,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -903,15 +964,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.723,
+        "recency": 0.7174,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1054,15 +1115,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6748,
-      "importance": 0.6748,
-      "importance_score": 0.6748,
+      "score": 0.6735,
+      "importance": 0.6735,
+      "importance_score": 0.6735,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 0.9386,
+        "recency": 0.9313,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1189,15 +1250,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6148,
-      "importance": 0.6148,
-      "importance_score": 0.6148,
+      "score": 0.6135,
+      "importance": 0.6135,
+      "importance_score": 0.6135,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9668,
+        "recency": 0.9593,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1287,15 +1348,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5667,
-      "importance": 0.5667,
-      "importance_score": 0.5667,
+      "score": 0.5654,
+      "importance": 0.5654,
+      "importance_score": 0.5654,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9774,
+        "recency": 0.9698,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1309,85 +1370,6 @@
         "title": "我喜欢大型语言模型，讨厌炒作",
         "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
         "source": "geohot.github.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_be381b18cc59",
-      "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
-      "url": "https://www.adaptiverecall.com",
-      "primary_url": "https://www.adaptiverecall.com",
-      "source": "www.adaptiverecall.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
-          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
-          "url": "https://www.adaptiverecall.com",
-          "source": "www.adaptiverecall.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T21:17:10.568000Z"
-        },
-        {
-          "id": "c444a45271c333e252b7a7a863be697238b393c2",
-          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
-          "url": "https://www.adaptiverecall.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T21:08:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.adaptiverecall.com"
-      ],
-      "items": [
-        {
-          "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
-          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
-          "url": "https://www.adaptiverecall.com",
-          "source": "www.adaptiverecall.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T21:17:10.568000Z"
-        },
-        {
-          "id": "c444a45271c333e252b7a7a863be697238b393c2",
-          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
-          "url": "https://www.adaptiverecall.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T21:08:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9923,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T21:08:20Z",
-      "latest_at": "2026-07-12T21:17:10.568000Z",
-      "primary_item": {
-        "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
-        "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
-        "url": "https://www.adaptiverecall.com",
-        "source": "www.adaptiverecall.com",
         "source_name": "Buzzing"
       }
     },
@@ -1445,15 +1427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.985,
+        "recency": 0.9773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1468,6 +1450,85 @@
         "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+      "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+      "primary_url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
+          "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+          "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T20:39:01Z"
+        },
+        {
+          "id": "d48a89f200c870b6e0372b5470f9bc7f28e946dc",
+          "title": "在浏览器中运行 Claude 和 Codex [视频] / Run Claude and Codex in the Browser [video]",
+          "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-12T03:39:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
+          "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+          "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T20:39:01Z"
+        },
+        {
+          "id": "d48a89f200c870b6e0372b5470f9bc7f28e946dc",
+          "title": "在浏览器中运行 Claude 和 Codex [视频] / Run Claude and Codex in the Browser [video]",
+          "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-12T03:39:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9756,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T03:39:10Z",
+      "latest_at": "2026-07-12T20:39:01Z",
+      "primary_item": {
+        "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
+        "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+        "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1524,15 +1585,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9774,
+        "recency": 0.9698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1550,179 +1611,101 @@
       }
     },
     {
-      "story_id": "story_065047e21dc3",
-      "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://news.ycombinator.com/item?id=48883275",
-      "primary_url": "https://news.ycombinator.com/item?id=48883275",
+      "story_id": "story_be381b18cc59",
+      "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+      "url": "https://news.ycombinator.com/item?id=48884815",
+      "primary_url": "https://news.ycombinator.com/item?id=48884815",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
-          "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://news.ycombinator.com/item?id=48883275",
+          "id": "f56f112a127bc298cf337411b53d1b9a6d5fb0d0",
+          "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://news.ycombinator.com/item?id=48884815",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-12T19:29:00.938000Z"
+          "published_at": "2026-07-12T21:54:37.165000Z"
         },
         {
-          "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
-          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "systima.ai",
+          "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+          "url": "https://www.adaptiverecall.com",
+          "source": "www.adaptiverecall.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T19:27:07.004000Z"
+          "published_at": "2026-07-12T21:17:10.568000Z"
         },
         {
-          "id": "5789ff39e34331991ecd13c5c4bf5ce1d419069e",
-          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个 / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T18:25:51Z"
+          "id": "c444a45271c333e252b7a7a863be697238b393c2",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://www.adaptiverecall.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T21:08:20Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews",
-        "systima.ai"
+        "www.adaptiverecall.com"
       ],
       "items": [
         {
-          "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
-          "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://news.ycombinator.com/item?id=48883275",
+          "id": "f56f112a127bc298cf337411b53d1b9a6d5fb0d0",
+          "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://news.ycombinator.com/item?id=48884815",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-12T19:29:00.938000Z"
+          "published_at": "2026-07-12T21:54:37.165000Z"
         },
         {
-          "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
-          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "systima.ai",
+          "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+          "url": "https://www.adaptiverecall.com",
+          "source": "www.adaptiverecall.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T19:27:07.004000Z"
+          "published_at": "2026-07-12T21:17:10.568000Z"
         },
         {
-          "id": "5789ff39e34331991ecd13c5c4bf5ce1d419069e",
-          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个 / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T18:25:51Z"
+          "id": "c444a45271c333e252b7a7a863be697238b393c2",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://www.adaptiverecall.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T21:08:20Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5648,
-      "importance": 0.5648,
-      "importance_score": 0.5648,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9668,
+        "recency": 0.9935,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T18:25:51Z",
-      "latest_at": "2026-07-12T19:29:00.938000Z",
+      "earliest_at": "2026-07-12T21:08:20Z",
+      "latest_at": "2026-07-12T21:54:37.165000Z",
       "primary_item": {
-        "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
-        "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-        "url": "https://news.ycombinator.com/item?id=48883275",
+        "id": "f56f112a127bc298cf337411b53d1b9a6d5fb0d0",
+        "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+        "url": "https://news.ycombinator.com/item?id=48884815",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_fed0a53b1177",
-      "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Show HN: Website is served from a 200KB binary",
-      "url": "https://200kb.freelang.dev",
-      "primary_url": "https://200kb.freelang.dev",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "045aab22adea1e61b604d72e57fa43f1411bd2a2",
-          "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Show HN: Website is served from a 200KB binary",
-          "url": "https://200kb.freelang.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T16:59:37Z"
-        },
-        {
-          "id": "9f747ae6be31ad93503cd62b2ce8f94c12213385",
-          "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Website is served from a 200KB binary",
-          "url": "https://200kb.freelang.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T16:59:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "045aab22adea1e61b604d72e57fa43f1411bd2a2",
-          "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Show HN: Website is served from a 200KB binary",
-          "url": "https://200kb.freelang.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T16:59:37Z"
-        },
-        {
-          "id": "9f747ae6be31ad93503cd62b2ce8f94c12213385",
-          "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Website is served from a 200KB binary",
-          "url": "https://200kb.freelang.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T16:59:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9326,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T16:59:37Z",
-      "latest_at": "2026-07-12T16:59:37Z",
-      "primary_item": {
-        "id": "045aab22adea1e61b604d72e57fa43f1411bd2a2",
-        "title": "Show HN: 该网站由一个 200KB 的二进制文件提供服务 / Show HN: Website is served from a 200KB binary",
-        "url": "https://200kb.freelang.dev",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
