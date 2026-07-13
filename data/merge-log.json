@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-13T16:52:58.212917Z",
+  "generated_at": "2026-07-13T17:42:08.150262Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 65,
+  "total_events": 59,
   "events": [
-    {
-      "story_id": "story_fed0a53b1177",
-      "item_id": "9f747ae6be31ad93503cd62b2ce8f94c12213385",
-      "merged_into": "story_fed0a53b1177",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "item_id": "dbea5909c66324dccd6557c809604789cab3e158",
-      "merged_into": "story_2df82173bb28",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "item_id": "9e195b60c4529fab4b75186aba85e70421e15d69",
-      "merged_into": "story_2df82173bb28",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_1061a57c7386",
       "item_id": "24e331563ea31ee624fd83b170b6e70652df88ab",
@@ -56,13 +35,6 @@
       "story_id": "story_dd2c6d143ed1",
       "item_id": "2ee91c796f92d5801172d6838d9d616e13364c1b",
       "merged_into": "story_dd2c6d143ed1",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_4f4c2bd39a3c",
-      "item_id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
-      "merged_into": "story_4f4c2bd39a3c",
       "reason": "title_similarity",
       "similarity": 1.0
     },
@@ -133,13 +105,6 @@
       "story_id": "story_b94bb6a41fa0",
       "item_id": "400dd5fb50feb93d9d9ac77b4d2127a3bfddfc1b",
       "merged_into": "story_b94bb6a41fa0",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_4f4c2bd39a3c",
-      "item_id": "3c200a132a10b4828f49e225187c37c558d2cff9",
-      "merged_into": "story_4f4c2bd39a3c",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -247,13 +212,6 @@
       "merged_into": "story_181aad88bf9c",
       "reason": "title_similarity",
       "similarity": 0.9733
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "item_id": "e1608d294393a4b1847e3e845eee9dec1c1bba62",
-      "merged_into": "story_2df82173bb28",
-      "reason": "canonical_url",
-      "similarity": 1.0
     },
     {
       "story_id": "story_da3215067540",
