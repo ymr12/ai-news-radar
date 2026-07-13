@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T00:51:27.889475Z",
+  "generated_at": "2026-07-13T01:41:34.306550Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9832,
+        "recency": 0.9714,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9889,
+        "recency": 0.977,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -181,6 +181,87 @@
         "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_290d28970a0b",
+      "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
+      "url": "https://www.aibase.com/news/29531",
+      "primary_url": "https://www.aibase.com/news/29531",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
+          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
+          "url": "https://www.aibase.com/news/29531",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:41:34.306550Z"
+        },
+        {
+          "id": "96e4107a2e6c5f17e7ac256bbb55ac971228b32e",
+          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
+          "url": "https://www.aibase.com/zh/news/29531",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
+          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
+          "url": "https://www.aibase.com/news/29531",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:41:34.306550Z"
+        },
+        {
+          "id": "96e4107a2e6c5f17e7ac256bbb55ac971228b32e",
+          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
+          "url": "https://www.aibase.com/zh/news/29531",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T01:41:34.306550Z",
+      "latest_at": "2026-07-13T01:41:34.306550Z",
+      "primary_item": {
+        "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
+        "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
+        "url": "https://www.aibase.com/news/29531",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -218,15 +299,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.9006,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -279,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.8948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -340,15 +421,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8851,
+        "recency": 0.8745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -420,15 +501,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7984,
+        "recency": 0.7888,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -482,15 +563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8694,
+        "recency": 0.859,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -505,266 +586,6 @@
         "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
         "url": "https://x.com/satyanadella/status/2076323181154230284",
         "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b21c70de14cb",
-      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
-        },
-        {
-          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
-          "title": "xAI 的 Grok Build CLI 实际上向 xAI 发送了什么 / What xAI's Grok Build CLI Actually Sends to xAI",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
-        },
-        {
-          "id": "c3fedd292d29d837fe3fc126af4c35eec6d55edc",
-          "title": "xAI 的 Grok Build CLI 实际上向 xAI 发送了什么 / What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
-        },
-        {
-          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
-          "title": "xAI 的 Grok Build CLI 实际上向 xAI 发送了什么 / What xAI's Grok Build CLI Actually Sends to xAI",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
-        },
-        {
-          "id": "c3fedd292d29d837fe3fc126af4c35eec6d55edc",
-          "title": "xAI 的 Grok Build CLI 实际上向 xAI 发送了什么 / What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7398,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T01:09:50Z",
-      "latest_at": "2026-07-12T03:59:09.632000Z",
-      "primary_item": {
-        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0645b0249ea0",
-      "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
-      "url": "https://www.ithome.com/0/975/666.htm",
-      "primary_url": "https://www.ithome.com/0/975/666.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1be77e6169d26ad99cfb40f8f65ee037d2656452",
-          "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
-          "url": "https://www.ithome.com/0/975/666.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T02:37:22Z"
-        },
-        {
-          "id": "43e20cd2d30981054fcb8c10330c7ba6c653d0b9",
-          "title": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
-          "url": "https://www.ithome.com/0/975/666.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T02:37:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1be77e6169d26ad99cfb40f8f65ee037d2656452",
-          "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
-          "url": "https://www.ithome.com/0/975/666.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T02:37:22Z"
-        },
-        {
-          "id": "43e20cd2d30981054fcb8c10330c7ba6c653d0b9",
-          "title": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
-          "url": "https://www.ithome.com/0/975/666.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T02:37:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7254,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T02:37:22Z",
-      "latest_at": "2026-07-12T02:37:22Z",
-      "primary_item": {
-        "id": "1be77e6169d26ad99cfb40f8f65ee037d2656452",
-        "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
-        "url": "https://www.ithome.com/0/975/666.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed5bc085d889",
-      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-      "url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        },
-        {
-          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        },
-        {
-          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7154,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T01:40:04Z",
-      "latest_at": "2026-07-12T01:40:04Z",
-      "primary_item": {
-        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-        "url": "https://x.com/thsottiaux/status/2076119366647894371",
-        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -822,15 +643,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.853,
+        "recency": 0.8428,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -845,6 +666,329 @@
         "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
         "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
         "url": "https://github.com/cosmtrek/mindwalk",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_03ae6cbbca5c",
+      "title": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
+      "url": "https://www.aibase.com/news/29533",
+      "primary_url": "https://www.aibase.com/news/29533",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7d25a823e31276aeffd1d99ad1ccb6565a9868b6",
+          "title": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
+          "url": "https://www.aibase.com/news/29533",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:41:34.306550Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7d25a823e31276aeffd1d99ad1ccb6565a9868b6",
+          "title": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
+          "url": "https://www.aibase.com/news/29533",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:41:34.306550Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T01:41:34.306550Z",
+      "latest_at": "2026-07-13T01:41:34.306550Z",
+      "primary_item": {
+        "id": "7d25a823e31276aeffd1d99ad1ccb6565a9868b6",
+        "title": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
+        "url": "https://www.aibase.com/news/29533",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0645b0249ea0",
+      "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+      "url": "https://www.ithome.com/0/975/666.htm",
+      "primary_url": "https://www.ithome.com/0/975/666.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1be77e6169d26ad99cfb40f8f65ee037d2656452",
+          "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+          "url": "https://www.ithome.com/0/975/666.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:37:22Z"
+        },
+        {
+          "id": "43e20cd2d30981054fcb8c10330c7ba6c653d0b9",
+          "title": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
+          "url": "https://www.ithome.com/0/975/666.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T02:37:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1be77e6169d26ad99cfb40f8f65ee037d2656452",
+          "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+          "url": "https://www.ithome.com/0/975/666.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:37:22Z"
+        },
+        {
+          "id": "43e20cd2d30981054fcb8c10330c7ba6c653d0b9",
+          "title": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
+          "url": "https://www.ithome.com/0/975/666.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T02:37:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7167,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T02:37:22Z",
+      "latest_at": "2026-07-12T02:37:22Z",
+      "primary_item": {
+        "id": "1be77e6169d26ad99cfb40f8f65ee037d2656452",
+        "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+        "url": "https://www.ithome.com/0/975/666.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4ad14a7fc96c",
+      "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+      "url": "https://www.aibase.com/news/29532",
+      "primary_url": "https://www.aibase.com/news/29532",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "791a073bc08326031af93445f6195dea82193834",
+          "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+          "url": "https://www.aibase.com/news/29532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:41:34.306550Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "791a073bc08326031af93445f6195dea82193834",
+          "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+          "url": "https://www.aibase.com/news/29532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:41:34.306550Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T01:41:34.306550Z",
+      "latest_at": "2026-07-13T01:41:34.306550Z",
+      "primary_item": {
+        "id": "791a073bc08326031af93445f6195dea82193834",
+        "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+        "url": "https://www.aibase.com/news/29532",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b1b1e8395876",
+      "title": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
+      "url": "https://www.aibase.com/news/29534",
+      "primary_url": "https://www.aibase.com/news/29534",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e2951ffb3ec69f6cc85c26fdc4d1e852669a45dc",
+          "title": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
+          "url": "https://www.aibase.com/news/29534",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:41:34.306550Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e2951ffb3ec69f6cc85c26fdc4d1e852669a45dc",
+          "title": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
+          "url": "https://www.aibase.com/news/29534",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T01:41:34.306550Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T01:41:34.306550Z",
+      "latest_at": "2026-07-13T01:41:34.306550Z",
+      "primary_item": {
+        "id": "e2951ffb3ec69f6cc85c26fdc4d1e852669a45dc",
+        "title": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
+        "url": "https://www.aibase.com/news/29534",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3822e0e0e383",
+      "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "primary_url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:23:05.249000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:23:05.249000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7142,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T02:23:05.249000Z",
+      "latest_at": "2026-07-12T02:23:05.249000Z",
+      "primary_item": {
+        "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
+        "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -974,15 +1118,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6675,
-      "importance": 0.6675,
-      "importance_score": 0.6675,
+      "score": 0.6656,
+      "importance": 0.6656,
+      "importance_score": 0.6656,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 0.8983,
+        "recency": 0.8875,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1000,21 +1144,21 @@
       }
     },
     {
-      "story_id": "story_3822e0e0e383",
-      "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "primary_url": "https://www.iroh.computer/blog/mesh-llm",
+      "story_id": "story_b21c70de14cb",
+      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T02:23:05.249000Z"
+          "published_at": "2026-07-12T03:59:09.632000Z"
         }
       ],
       "source_count": 1,
@@ -1023,38 +1167,38 @@
       ],
       "items": [
         {
-          "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T02:23:05.249000Z"
+          "published_at": "2026-07-12T03:59:09.632000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7229,
+        "recency": 0.7309,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-12T02:23:05.249000Z",
-      "latest_at": "2026-07-12T02:23:05.249000Z",
+      "earliest_at": "2026-07-12T03:59:09.632000Z",
+      "latest_at": "2026-07-12T03:59:09.632000Z",
       "primary_item": {
-        "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
-        "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -1169,15 +1313,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6074,
-      "importance": 0.6074,
-      "importance_score": 0.6074,
+      "score": 0.6054,
+      "importance": 0.6054,
+      "importance_score": 0.6054,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9253,
+        "recency": 0.9142,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1267,15 +1411,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5592,
-      "importance": 0.5592,
-      "importance_score": 0.5592,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9355,
+        "recency": 0.9243,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1293,55 +1437,55 @@
       }
     },
     {
-      "story_id": "story_4c10f08ce6ed",
-      "title": "科技记者古尔曼：苹果将跳过 M6 Pro/Max 芯片 全力押注 AI 导向的 M7 系列",
-      "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+      "story_id": "story_f5195ca556ef",
+      "title": "公司裁员 90%，大部分是 AI 用得很好的人",
+      "url": "https://www.huxiu.com/article/4874705.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874705.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "56093dc3b7e3bb7c32d8f8584d9f9ddcfb8bc21b",
-          "title": "科技记者古尔曼：苹果将跳过 M6 Pro/Max 芯片 全力押注 AI 导向的 M7 系列",
-          "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+          "id": "26cc895c25be5cea39b26ca8cee52754971f06aa",
+          "title": "公司裁员 90%，大部分是 AI 用得很好的人",
+          "url": "https://www.huxiu.com/article/4874705.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "70feb0552ad27b6c4e65503218ed471cc0fa4737",
-          "title": "科技记者古尔曼：苹果将跳过M6 Pro/Max芯片 全力押注AI导向的M7系列",
-          "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
-          "source": "36氪 (36Kr)",
+          "id": "ddd70b200137d542179018a6882da02bc61e9bc4",
+          "title": "公司裁员90%，大部分是AI用得很好的人",
+          "url": "https://www.huxiu.com/article/4874705.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-13T00:21:58Z"
+          "published_at": "2026-07-13T00:47:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "56093dc3b7e3bb7c32d8f8584d9f9ddcfb8bc21b",
-          "title": "科技记者古尔曼：苹果将跳过 M6 Pro/Max 芯片 全力押注 AI 导向的 M7 系列",
-          "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+          "id": "26cc895c25be5cea39b26ca8cee52754971f06aa",
+          "title": "公司裁员 90%，大部分是 AI 用得很好的人",
+          "url": "https://www.huxiu.com/article/4874705.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "70feb0552ad27b6c4e65503218ed471cc0fa4737",
-          "title": "科技记者古尔曼：苹果将跳过M6 Pro/Max芯片 全力押注AI导向的M7系列",
-          "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
-          "source": "36氪 (36Kr)",
+          "id": "ddd70b200137d542179018a6882da02bc61e9bc4",
+          "title": "公司裁员90%，大部分是AI用得很好的人",
+          "url": "https://www.huxiu.com/article/4874705.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-13T00:21:58Z"
+          "published_at": "2026-07-13T00:47:50Z"
         }
       ],
       "item_count": 2,
@@ -1361,12 +1505,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T00:21:58Z",
-      "latest_at": "2026-07-13T00:51:27.889475Z",
+      "earliest_at": "2026-07-13T00:47:50Z",
+      "latest_at": "2026-07-13T01:41:34.306550Z",
       "primary_item": {
-        "id": "56093dc3b7e3bb7c32d8f8584d9f9ddcfb8bc21b",
-        "title": "科技记者古尔曼：苹果将跳过 M6 Pro/Max 芯片 全力押注 AI 导向的 M7 系列",
-        "url": "https://36kr.com/newsflashes/3893331854490120?f=rss",
+        "id": "26cc895c25be5cea39b26ca8cee52754971f06aa",
+        "title": "公司裁员 90%，大部分是 AI 用得很好的人",
+        "url": "https://www.huxiu.com/article/4874705.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1425,15 +1569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9645,
+        "recency": 0.9529,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1447,243 +1591,6 @@
         "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
         "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
         "source": "medium.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b94bb6a41fa0",
-      "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
-      "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
-      "primary_url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "400dd5fb50feb93d9d9ac77b4d2127a3bfddfc1b",
-          "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
-          "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T22:21:04.917000Z"
-        },
-        {
-          "id": "96c340d04be5d482cd8910b57171cd3546550c88",
-          "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法 / Sam Atman shares the 'most reliable' way to tell that ChatGPT 5.6 is now the best model in the world",
-          "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T22:00:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "400dd5fb50feb93d9d9ac77b4d2127a3bfddfc1b",
-          "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
-          "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T22:21:04.917000Z"
-        },
-        {
-          "id": "96c340d04be5d482cd8910b57171cd3546550c88",
-          "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法 / Sam Atman shares the 'most reliable' way to tell that ChatGPT 5.6 is now the best model in the world",
-          "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T22:00:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9645,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T22:00:58Z",
-      "latest_at": "2026-07-12T22:21:04.917000Z",
-      "primary_item": {
-        "id": "400dd5fb50feb93d9d9ac77b4d2127a3bfddfc1b",
-        "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
-        "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
-      "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
-      "primary_url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
-          "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
-          "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T20:39:01Z"
-        },
-        {
-          "id": "d48a89f200c870b6e0372b5470f9bc7f28e946dc",
-          "title": "在浏览器中运行 Claude 和 Codex [视频] / Run Claude and Codex in the Browser [video]",
-          "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-12T03:39:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
-          "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
-          "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T20:39:01Z"
-        },
-        {
-          "id": "d48a89f200c870b6e0372b5470f9bc7f28e946dc",
-          "title": "在浏览器中运行 Claude 和 Codex [视频] / Run Claude and Codex in the Browser [video]",
-          "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-12T03:39:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9411,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T03:39:10Z",
-      "latest_at": "2026-07-12T20:39:01Z",
-      "primary_item": {
-        "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
-        "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
-        "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_0f42f1a43c3e",
-      "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-      "url": "https://xandergos.github.io/terrain-diffusion",
-      "primary_url": "https://xandergos.github.io/terrain-diffusion",
-      "source": "xandergos.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "xandergos.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T20:14:25.984000Z"
-        },
-        {
-          "id": "27f9226e8a6f4ce4e081bf0b322bee26f0ccdba3",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合 / InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T19:56:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "xandergos.github.io"
-      ],
-      "items": [
-        {
-          "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "xandergos.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T20:14:25.984000Z"
-        },
-        {
-          "id": "27f9226e8a6f4ce4e081bf0b322bee26f0ccdba3",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合 / InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T19:56:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9355,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T19:56:07Z",
-      "latest_at": "2026-07-12T20:14:25.984000Z",
-      "primary_item": {
-        "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
-        "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-        "url": "https://xandergos.github.io/terrain-diffusion",
-        "source": "xandergos.github.io",
         "source_name": "Buzzing"
       }
     }
