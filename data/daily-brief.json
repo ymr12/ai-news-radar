@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T20:32:09.646526Z",
+  "generated_at": "2026-07-13T21:24:36.934545Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7434,
+        "recency": 0.7341,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9361,
+        "recency": 0.9244,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9692,
+        "recency": 0.957,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -224,6 +224,106 @@
         "title": "苹果诉OpenAI窃取商业机密：指控涉及400多名前员工及\"LOL\"消息",
         "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b4553fdd4116",
+      "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ba9477519e0bfc39758f5e78d36c4fac5b08f1e3",
+          "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T19:17:51Z"
+        },
+        {
+          "id": "5b6c33f40b478bab296239daecb72b85255e0ec1",
+          "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T21:04:25.963000Z"
+        },
+        {
+          "id": "3e2a74ff0e7291c8b9691da54b3ef0e5f41835f1",
+          "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密 / Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T19:17:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "ba9477519e0bfc39758f5e78d36c4fac5b08f1e3",
+          "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T19:17:51Z"
+        },
+        {
+          "id": "5b6c33f40b478bab296239daecb72b85255e0ec1",
+          "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T21:04:25.963000Z"
+        },
+        {
+          "id": "3e2a74ff0e7291c8b9691da54b3ef0e5f41835f1",
+          "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密 / Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T19:17:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.97,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T19:17:51Z",
+      "latest_at": "2026-07-13T21:04:25.963000Z",
+      "primary_item": {
+        "id": "ba9477519e0bfc39758f5e78d36c4fac5b08f1e3",
+        "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密",
+        "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -281,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9612,
+        "recency": 0.9491,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -305,87 +405,6 @@
         "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
         "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b4553fdd4116",
-      "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ba9477519e0bfc39758f5e78d36c4fac5b08f1e3",
-          "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密",
-          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T19:17:51Z"
-        },
-        {
-          "id": "3e2a74ff0e7291c8b9691da54b3ef0e5f41835f1",
-          "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密 / Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T19:17:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ba9477519e0bfc39758f5e78d36c4fac5b08f1e3",
-          "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密",
-          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T19:17:51Z"
-        },
-        {
-          "id": "3e2a74ff0e7291c8b9691da54b3ef0e5f41835f1",
-          "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密 / Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T19:17:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9823,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T19:17:51Z",
-      "latest_at": "2026-07-13T19:17:51Z",
-      "primary_item": {
-        "id": "ba9477519e0bfc39758f5e78d36c4fac5b08f1e3",
-        "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密",
-        "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
-        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -443,15 +462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8558,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -505,15 +524,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7443,
+        "recency": 0.7349,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,15 +585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8586,
+        "recency": 0.8479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -627,15 +646,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -688,21 +707,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8566,
+        "recency": 0.8458,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T09:48:59Z",
       "latest_at": "2026-07-13T09:48:59Z",
@@ -768,15 +786,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.74,
+        "recency": 0.7307,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -848,15 +866,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8497,
+        "recency": 0.839,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -929,15 +947,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.88,
+        "recency": 0.869,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -991,15 +1009,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7534,
+        "recency": 0.7439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1070,15 +1088,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7959,
+        "recency": 0.7859,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1151,15 +1169,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7789,
+        "recency": 0.7691,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1285,15 +1303,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.66,
-      "importance": 0.66,
-      "importance_score": 0.66,
+      "score": 0.6578,
+      "importance": 0.6578,
+      "importance_score": 0.6578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9486,
+        "recency": 0.9367,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1364,15 +1382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7618,
+        "recency": 0.7522,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1443,15 +1461,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.619,
-      "importance": 0.619,
-      "importance_score": 0.619,
+      "score": 0.6169,
+      "importance": 0.6169,
+      "importance_score": 0.6169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9502,
+        "recency": 0.9383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1503,15 +1521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8497,
+        "recency": 0.839,
         "story_heat": 0.0
       },
       "category": "industry",
