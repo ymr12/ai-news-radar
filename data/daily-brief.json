@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T12:04:46.507418Z",
+  "generated_at": "2026-07-13T13:20:09.846482Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8622,
-      "importance": 0.8622,
-      "importance_score": 0.8622,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8399,
+        "recency": 0.8248,
         "story_heat": 0.25
       },
       "category": "official",
@@ -176,15 +176,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.8211,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.9616,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -282,6 +282,87 @@
         "url": "https://www.aibase.com/news/29553",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9d6f1edd7517",
+      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+      "primary_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:41:01Z"
+        },
+        {
+          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-13T11:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:41:01Z"
+        },
+        {
+          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-13T11:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7824,
+      "importance": 0.7824,
+      "importance_score": 0.7824,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9764,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T11:41:01Z",
+      "latest_at": "2026-07-13T11:41:01Z",
+      "primary_item": {
+        "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
+        "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -319,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8258,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -380,15 +461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9876,
+        "recency": 0.9699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -441,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9702,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -502,15 +583,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9678,
+        "recency": 0.9504,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,15 +663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.96,
+        "recency": 0.9428,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -644,15 +725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7752,
+        "recency": 0.7612,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -704,15 +785,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7702,
+        "recency": 0.7564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -764,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7527,
+        "recency": 0.7392,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -824,15 +905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7393,
+        "recency": 0.726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -884,15 +965,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8512,
+        "recency": 0.8359,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -964,15 +1045,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8993,
+        "recency": 0.8831,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1026,15 +1107,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7254,
+        "recency": 0.7124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1105,15 +1186,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.88,
+        "recency": 0.8642,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1294,15 +1375,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.6543,
-      "importance": 0.6543,
-      "importance_score": 0.6543,
+      "score": 0.6514,
+      "importance": 0.6514,
+      "importance_score": 0.6514,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9174,
+        "recency": 0.9009,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1373,15 +1454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8607,
+        "recency": 0.8452,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1435,15 +1516,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.96,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1459,141 +1540,6 @@
         "url": "https://www.aibase.com/news/29552",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e7c3ab251152",
-      "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
-      "url": "https://news.ycombinator.com/item?id=48881043",
-      "primary_url": "https://news.ycombinator.com/item?id=48881043",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "452ee035aa56d1430de840abe43917375b47a204",
-          "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T19:29:00.938000Z"
-        },
-        {
-          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T18:07:01.116000Z"
-        },
-        {
-          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T14:23:37.484000Z"
-        },
-        {
-          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T13:26:13Z"
-        },
-        {
-          "id": "2f30556c9e94175d1efbbe9c82cd512628207f16",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T13:26:13Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "452ee035aa56d1430de840abe43917375b47a204",
-          "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T19:29:00.938000Z"
-        },
-        {
-          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T18:07:01.116000Z"
-        },
-        {
-          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T14:23:37.484000Z"
-        },
-        {
-          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T13:26:13Z"
-        },
-        {
-          "id": "2f30556c9e94175d1efbbe9c82cd512628207f16",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T13:26:13Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5824,
-      "importance": 0.5824,
-      "importance_score": 0.5824,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7869,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T13:26:13Z",
-      "latest_at": "2026-07-12T19:29:00.938000Z",
-      "primary_item": {
-        "id": "452ee035aa56d1430de840abe43917375b47a204",
-        "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
-        "url": "https://news.ycombinator.com/item?id=48881043",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
