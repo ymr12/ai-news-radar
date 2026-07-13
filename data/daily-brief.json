@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:20:09.846482Z",
+  "generated_at": "2026-07-13T14:20:44.409377Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8595,
-      "importance": 0.8595,
-      "importance_score": 0.8595,
+      "score": 0.8573,
+      "importance": 0.8573,
+      "importance_score": 0.8573,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8248,
+        "recency": 0.8129,
         "story_heat": 0.25
       },
       "category": "official",
@@ -176,15 +176,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8211,
+        "recency": 0.8092,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9616,
+        "recency": 0.9477,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9623,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8258,
+        "recency": 0.8139,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -423,67 +423,6 @@
         "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
         "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
         "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c88804a1a15e",
-      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-      "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-      "primary_url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:12:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:12:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9699,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T11:12:59Z",
-      "latest_at": "2026-07-13T11:12:59Z",
-      "primary_item": {
-        "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-        "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-        "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-        "source": "公众号：腾讯混元",
         "source_name": "AI HOT"
       }
     },
@@ -522,15 +461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9527,
+        "recency": 0.9389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -545,6 +484,67 @@
         "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
         "url": "https://www.ithome.com/0/976/149.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c88804a1a15e",
+      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+      "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+      "primary_url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+      "source": "公众号：腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
+          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:12:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
+          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:12:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9558,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T11:12:59Z",
+      "latest_at": "2026-07-13T11:12:59Z",
+      "primary_item": {
+        "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
+        "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+        "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+        "source": "公众号：腾讯混元",
         "source_name": "AI HOT"
       }
     },
@@ -583,15 +583,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9504,
+        "recency": 0.9367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,15 +663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9428,
+        "recency": 0.9291,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -725,15 +725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7612,
+        "recency": 0.7502,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -785,15 +785,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7564,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -845,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7392,
+        "recency": 0.7285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -905,15 +905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.726,
+        "recency": 0.7155,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -965,15 +965,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8359,
+        "recency": 0.8238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1045,15 +1045,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8831,
+        "recency": 0.8703,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1070,66 +1070,6 @@
         "url": "https://www.aibase.com/news/29541",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4da51d31a85f",
-      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "primary_url": "https://github.com/cosmtrek/mindwalk",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05.035000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05.035000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T13:51:05.035000Z",
-      "latest_at": "2026-07-12T13:51:05.035000Z",
-      "primary_item": {
-        "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-        "url": "https://github.com/cosmtrek/mindwalk",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1186,15 +1126,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8642,
+        "recency": 0.8517,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1215,13 +1155,31 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+      "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-07-13",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "7bb84f5c51a83164a5c42a140174656686ab7644",
+          "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T14:20:44.409377Z"
+        },
+        {
+          "id": "a66c1084a5fbfbe101630fe32f2545df7c6b3887",
+          "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T14:20:44.409377Z"
+        },
+        {
           "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
           "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1294,13 +1252,31 @@
           "published_at": "2026-07-12T15:52:22.823124Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 10,
       "source_names": [
         "社区更新 · 2026-07-12",
         "社区更新 · 2026-07-13"
       ],
       "items": [
         {
+          "id": "7bb84f5c51a83164a5c42a140174656686ab7644",
+          "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T14:20:44.409377Z"
+        },
+        {
+          "id": "a66c1084a5fbfbe101630fe32f2545df7c6b3887",
+          "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T14:20:44.409377Z"
+        },
+        {
           "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
           "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1373,17 +1349,17 @@
           "published_at": "2026-07-12T15:52:22.823124Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6514,
-      "importance": 0.6514,
-      "importance_score": 0.6514,
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9009,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1391,10 +1367,10 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-12T15:52:22.823124Z",
-      "latest_at": "2026-07-13T06:06:26.519219Z",
+      "latest_at": "2026-07-13T14:20:44.409377Z",
       "primary_item": {
-        "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
-        "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+        "id": "7bb84f5c51a83164a5c42a140174656686ab7644",
+        "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-13",
         "source_name": "WaytoAGI"
@@ -1454,15 +1430,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8452,
+        "recency": 0.833,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1516,15 +1492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9428,
+        "recency": 0.9291,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,6 +1514,67 @@
         "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
         "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
         "url": "https://www.aibase.com/news/29552",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b3c3f980dac1",
+      "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+      "url": "https://www.aibase.com/news/29550",
+      "primary_url": "https://www.aibase.com/news/29550",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "url": "https://www.aibase.com/news/29550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:15:21.904847Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "url": "https://www.aibase.com/news/29550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:15:21.904847Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9291,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T09:15:21.904847Z",
+      "latest_at": "2026-07-13T09:15:21.904847Z",
+      "primary_item": {
+        "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+        "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+        "url": "https://www.aibase.com/news/29550",
         "source": "AIbase",
         "source_name": "AIbase"
       }
