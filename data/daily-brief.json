@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T10:37:44.027894Z",
+  "generated_at": "2026-07-14T11:34:55.965826Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8577,
+        "recency": 0.846,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cca00ce68781",
+      "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "primary_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.846,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+        "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8535,
+        "recency": 0.8418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,15 +262,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9864,
+        "recency": 0.9729,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -225,6 +287,68 @@
         "url": "https://www.aibase.com/news/29585",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_248b5ff06999",
+      "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "primary_url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
+          "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
+          "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.846,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
+        "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -300,15 +424,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 0.9377,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -362,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7278,
+        "recency": 0.7178,
         "story_heat": 0.0
       },
       "category": "official",
@@ -462,15 +586,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9613,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -543,15 +667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7907,
+        "recency": 0.7799,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -643,15 +767,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8014,
+        "recency": 0.7904,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -667,67 +791,6 @@
         "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密",
         "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
         "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_52ba1656d62a",
-      "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-      "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-      "primary_url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
-          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T09:04:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
-          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T09:04:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9777,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T09:04:00Z",
-      "latest_at": "2026-07-14T09:04:00Z",
-      "primary_item": {
-        "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
-        "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-        "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -803,15 +866,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8314,
+        "recency": 0.82,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -827,6 +890,67 @@
         "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
         "url": "https://playcode.io/blog/real-price-of-frontier-models",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_52ba1656d62a",
+      "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+      "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+      "primary_url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:04:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:04:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9643,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T09:04:00Z",
+      "latest_at": "2026-07-14T09:04:00Z",
+      "primary_item": {
+        "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+        "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+        "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -884,15 +1008,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7842,
+        "recency": 0.7735,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -946,15 +1070,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7638,
+        "recency": 0.7533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1008,15 +1132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9758,
+        "recency": 0.9625,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1069,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9316,
+        "recency": 0.9189,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1130,21 +1254,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.9658,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T09:10:16Z",
       "latest_at": "2026-07-14T09:10:16Z",
@@ -1191,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.8539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,15 +1393,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8577,
+        "recency": 0.846,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1332,15 +1455,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9597,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1355,167 +1478,6 @@
         "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
         "url": "https://www.ithome.com/0/976/538.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f6b0ee53ac0d",
-      "title": "高德发布通用世界模型工坊ABot-World Studio 支持实时交互的AI数字世界",
-      "url": "https://www.aibase.com/news/29586",
-      "primary_url": "https://www.aibase.com/news/29586",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "448aeb34cb3d803fa49881622a9c8c8cc8e3db76",
-          "title": "高德发布通用世界模型工坊ABot-World Studio 支持实时交互的AI数字世界",
-          "url": "https://www.aibase.com/news/29586",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:40:57.500789Z"
-        },
-        {
-          "id": "280224046ca0f2ab2d31578364b12a300b045606",
-          "title": "高德发布通用世界模型工坊 ABot-World Studio 支持实时交互的 AI 数字世界",
-          "url": "https://www.aibase.com/zh/news/29586",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "448aeb34cb3d803fa49881622a9c8c8cc8e3db76",
-          "title": "高德发布通用世界模型工坊ABot-World Studio 支持实时交互的AI数字世界",
-          "url": "https://www.aibase.com/news/29586",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:40:57.500789Z"
-        },
-        {
-          "id": "280224046ca0f2ab2d31578364b12a300b045606",
-          "title": "高德发布通用世界模型工坊 ABot-World Studio 支持实时交互的 AI 数字世界",
-          "url": "https://www.aibase.com/zh/news/29586",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9864,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T09:40:57.500789Z",
-      "latest_at": "2026-07-14T09:40:57.500789Z",
-      "primary_item": {
-        "id": "448aeb34cb3d803fa49881622a9c8c8cc8e3db76",
-        "title": "高德发布通用世界模型工坊ABot-World Studio 支持实时交互的AI数字世界",
-        "url": "https://www.aibase.com/news/29586",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9d6f1edd7517",
-      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-      "primary_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:41:01Z"
-        },
-        {
-          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T11:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:41:01Z"
-        },
-        {
-          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T11:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.718,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T11:41:01Z",
-      "latest_at": "2026-07-13T11:41:01Z",
-      "primary_item": {
-        "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-        "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     }
