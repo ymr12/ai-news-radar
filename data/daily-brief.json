@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T03:10:23.902598Z",
+  "generated_at": "2026-07-14T04:32:29.579770Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9505,
+        "recency": 0.9319,
         "story_heat": 0.0
       },
       "category": "official",
@@ -137,15 +137,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9259,
+        "recency": 0.9078,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -218,15 +218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8806,
+        "recency": 0.8634,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -243,6 +243,87 @@
         "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f0fb835f03f6",
+      "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
+      "url": "https://www.aibase.com/news/29572",
+      "primary_url": "https://www.aibase.com/news/29572",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
+          "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
+          "url": "https://www.aibase.com/news/29572",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T04:32:29.579770Z"
+        },
+        {
+          "id": "7147a9bbdf06564a0aae61fce61e4ab575f7e125",
+          "title": "QuestMobile 六月 AI 原生 App 月活榜：豆包 3. 8 亿断层第一，千问增速暴涨近 58 倍",
+          "url": "https://www.aibase.com/zh/news/29572",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
+          "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
+          "url": "https://www.aibase.com/news/29572",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T04:32:29.579770Z"
+        },
+        {
+          "id": "7147a9bbdf06564a0aae61fce61e4ab575f7e125",
+          "title": "QuestMobile 六月 AI 原生 App 月活榜：豆包 3. 8 亿断层第一，千问增速暴涨近 58 倍",
+          "url": "https://www.aibase.com/zh/news/29572",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T04:32:29.579770Z",
+      "latest_at": "2026-07-14T04:32:29.579770Z",
+      "primary_item": {
+        "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
+        "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
+        "url": "https://www.aibase.com/news/29572",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -318,15 +399,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.875,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -342,6 +423,210 @@
         "title": "Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密",
         "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f8d858f9e2c8",
+      "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+      "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
+      "primary_url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
+          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T17:47:39Z"
+        },
+        {
+          "id": "ace07ab04e2c3e8f818dd314267b0cb4de248f3f",
+          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤 / OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-13T17:47:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
+          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T17:47:39Z"
+        },
+        {
+          "id": "ace07ab04e2c3e8f818dd314267b0cb4de248f3f",
+          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤 / OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-13T17:47:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8562,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T17:47:39Z",
+      "latest_at": "2026-07-13T17:47:39Z",
+      "primary_item": {
+        "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
+        "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+        "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_416032e0a850",
+      "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
+      "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+      "primary_url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
+          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
+          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T15:57:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
+          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
+          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T15:57:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8339,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T15:57:56Z",
+      "latest_at": "2026-07-13T15:57:56Z",
+      "primary_item": {
+        "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
+        "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
+        "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a0366cc85c2f",
+      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "primary_url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5851a195823881985167c1306ffc765d134db35",
+          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T00:38:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：商汤 SenseTime (@SenseTime_AI)"
+      ],
+      "items": [
+        {
+          "id": "b5851a195823881985167c1306ffc765d134db35",
+          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T00:38:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9452,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:38:32Z",
+      "latest_at": "2026-07-14T00:38:32Z",
+      "primary_item": {
+        "id": "b5851a195823881985167c1306ffc765d134db35",
+        "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+        "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
         "source_name": "AI HOT"
       }
     },
@@ -399,15 +684,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9804,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -422,291 +707,6 @@
         "id": "2380412450cc6817c4a1592f7a1a2b05b2b1bba8",
         "title": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
         "url": "https://www.aibase.com/news/29570",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f8d858f9e2c8",
-      "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-      "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-      "primary_url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
-          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T17:47:39Z"
-        },
-        {
-          "id": "ace07ab04e2c3e8f818dd314267b0cb4de248f3f",
-          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤 / OpenAI's new prompting guide tells users to stop overthinking and start with the result",
-          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T17:47:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
-          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T17:47:39Z"
-        },
-        {
-          "id": "ace07ab04e2c3e8f818dd314267b0cb4de248f3f",
-          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤 / OpenAI's new prompting guide tells users to stop overthinking and start with the result",
-          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T17:47:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8733,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T17:47:39Z",
-      "latest_at": "2026-07-13T17:47:39Z",
-      "primary_item": {
-        "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
-        "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-        "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_416032e0a850",
-      "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-      "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-      "primary_url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T15:57:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T15:57:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8506,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T15:57:56Z",
-      "latest_at": "2026-07-13T15:57:56Z",
-      "primary_item": {
-        "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-        "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-        "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a0366cc85c2f",
-      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-      "primary_url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b5851a195823881985167c1306ffc765d134db35",
-          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T00:38:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：商汤 SenseTime (@SenseTime_AI)"
-      ],
-      "items": [
-        {
-          "id": "b5851a195823881985167c1306ffc765d134db35",
-          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T00:38:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9641,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T00:38:32Z",
-      "latest_at": "2026-07-14T00:38:32Z",
-      "primary_item": {
-        "id": "b5851a195823881985167c1306ffc765d134db35",
-        "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-        "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-        "source": "X：商汤 SenseTime (@SenseTime_AI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c09037e36347",
-      "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
-      "url": "https://www.aibase.com/news/29555",
-      "primary_url": "https://www.aibase.com/news/29555",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d55338b63416856fa44870e4012afff610ec441e",
-          "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
-          "url": "https://www.aibase.com/news/29555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T01:40:01.358204Z"
-        },
-        {
-          "id": "243c96be47a6bcfe96030c4aa6156be193a368a4",
-          "title": "OpenAI 员工集体声援 CEO 奥尔特曼：他乐于听取不同意见，内部批评文化被赞「有人情味」",
-          "url": "https://www.aibase.com/zh/news/29555",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d55338b63416856fa44870e4012afff610ec441e",
-          "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
-          "url": "https://www.aibase.com/news/29555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T01:40:01.358204Z"
-        },
-        {
-          "id": "243c96be47a6bcfe96030c4aa6156be193a368a4",
-          "title": "OpenAI 员工集体声援 CEO 奥尔特曼：他乐于听取不同意见，内部批评文化被赞「有人情味」",
-          "url": "https://www.aibase.com/zh/news/29555",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9785,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T01:40:01.358204Z",
-      "latest_at": "2026-07-14T01:40:01.358204Z",
-      "primary_item": {
-        "id": "d55338b63416856fa44870e4012afff610ec441e",
-        "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
-        "url": "https://www.aibase.com/news/29555",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -765,15 +765,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9552,
+        "recency": 0.9365,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -827,15 +827,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7802,
+        "recency": 0.7649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -887,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7942,
+        "recency": 0.7787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -947,15 +947,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7783,
+        "recency": 0.7631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1007,15 +1007,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7328,
-      "importance": 0.7328,
-      "importance_score": 0.7328,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.9707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1030,6 +1030,87 @@
         "url": "https://mp.weixin.qq.com/s/s75qDGt5iNqLXyMbjpwxeQ",
         "source": "公众号：面壁智能（MiniCPM）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c09037e36347",
+      "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
+      "url": "https://www.aibase.com/news/29555",
+      "primary_url": "https://www.aibase.com/news/29555",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d55338b63416856fa44870e4012afff610ec441e",
+          "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
+          "url": "https://www.aibase.com/news/29555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T01:40:01.358204Z"
+        },
+        {
+          "id": "243c96be47a6bcfe96030c4aa6156be193a368a4",
+          "title": "OpenAI 员工集体声援 CEO 奥尔特曼：他乐于听取不同意见，内部批评文化被赞「有人情味」",
+          "url": "https://www.aibase.com/zh/news/29555",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d55338b63416856fa44870e4012afff610ec441e",
+          "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
+          "url": "https://www.aibase.com/news/29555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T01:40:01.358204Z"
+        },
+        {
+          "id": "243c96be47a6bcfe96030c4aa6156be193a368a4",
+          "title": "OpenAI 员工集体声援 CEO 奥尔特曼：他乐于听取不同意见，内部批评文化被赞「有人情味」",
+          "url": "https://www.aibase.com/zh/news/29555",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9593,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T01:40:01.358204Z",
+      "latest_at": "2026-07-14T01:40:01.358204Z",
+      "primary_item": {
+        "id": "d55338b63416856fa44870e4012afff610ec441e",
+        "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
+        "url": "https://www.aibase.com/news/29555",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1086,22 +1167,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7996,
+        "recency": 0.7839,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:41:01Z",
       "latest_at": "2026-07-13T11:41:01Z",
@@ -1111,6 +1191,67 @@
         "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_07ac207c908f",
+      "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+      "url": "https://www.aibase.com/news/29571",
+      "primary_url": "https://www.aibase.com/news/29571",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
+          "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+          "url": "https://www.aibase.com/news/29571",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T04:32:29.579770Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
+          "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+          "url": "https://www.aibase.com/news/29571",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T04:32:29.579770Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T04:32:29.579770Z",
+      "latest_at": "2026-07-14T04:32:29.579770Z",
+      "primary_item": {
+        "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
+        "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+        "url": "https://www.aibase.com/news/29571",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1148,15 +1289,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1170,128 +1311,6 @@
         "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
         "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
         "url": "https://www.aibase.com/news/29569",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_391b4b26f79e",
-      "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-      "url": "https://www.aibase.com/news/29563",
-      "primary_url": "https://www.aibase.com/news/29563",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-          "url": "https://www.aibase.com/news/29563",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:10:23.902598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-          "url": "https://www.aibase.com/news/29563",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:10:23.902598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T03:10:23.902598Z",
-      "latest_at": "2026-07-14T03:10:23.902598Z",
-      "primary_item": {
-        "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-        "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-        "url": "https://www.aibase.com/news/29563",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_282f3f896467",
-      "title": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-      "url": "https://www.aibase.com/news/29566",
-      "primary_url": "https://www.aibase.com/news/29566",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f7a6a03b96a5119f6a98d00374a8fc11228bb1b5",
-          "title": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-          "url": "https://www.aibase.com/news/29566",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:10:23.902598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f7a6a03b96a5119f6a98d00374a8fc11228bb1b5",
-          "title": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-          "url": "https://www.aibase.com/news/29566",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:10:23.902598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T03:10:23.902598Z",
-      "latest_at": "2026-07-14T03:10:23.902598Z",
-      "primary_item": {
-        "id": "f7a6a03b96a5119f6a98d00374a8fc11228bb1b5",
-        "title": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-        "url": "https://www.aibase.com/news/29566",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1403,15 +1422,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6443,
-      "importance": 0.6443,
-      "importance_score": 0.6443,
+      "score": 0.6413,
+      "importance": 0.6413,
+      "importance_score": 0.6413,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8619,
+        "recency": 0.8451,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1429,17 +1448,17 @@
       }
     },
     {
-      "story_id": "story_c4995cdde0fd",
-      "title": "OpenAI发布用户提示词指南:面向常规界面与Codex构建统一框架",
-      "url": "https://www.aibase.com/news/29565",
-      "primary_url": "https://www.aibase.com/news/29565",
+      "story_id": "story_391b4b26f79e",
+      "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+      "url": "https://www.aibase.com/news/29563",
+      "primary_url": "https://www.aibase.com/news/29563",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a3685dbdd2712fcff0bd13481221fa0f78f0cf97",
-          "title": "OpenAI发布用户提示词指南:面向常规界面与Codex构建统一框架",
-          "url": "https://www.aibase.com/news/29565",
+          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
+          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+          "url": "https://www.aibase.com/news/29563",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1452,9 +1471,9 @@
       ],
       "items": [
         {
-          "id": "a3685dbdd2712fcff0bd13481221fa0f78f0cf97",
-          "title": "OpenAI发布用户提示词指南:面向常规界面与Codex构建统一框架",
-          "url": "https://www.aibase.com/news/29565",
+          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
+          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+          "url": "https://www.aibase.com/news/29563",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1463,15 +1482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1482,9 +1501,9 @@
       "earliest_at": "2026-07-14T03:10:23.902598Z",
       "latest_at": "2026-07-14T03:10:23.902598Z",
       "primary_item": {
-        "id": "a3685dbdd2712fcff0bd13481221fa0f78f0cf97",
-        "title": "OpenAI发布用户提示词指南:面向常规界面与Codex构建统一框架",
-        "url": "https://www.aibase.com/news/29565",
+        "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
+        "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+        "url": "https://www.aibase.com/news/29563",
         "source": "AIbase",
         "source_name": "AIbase"
       }
