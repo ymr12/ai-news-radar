@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-14T04:32:29.579770Z",
+  "generated_at": "2026-07-14T05:50:28.447400Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
+          "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
+          "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8514,
+      "importance": 0.8514,
+      "importance_score": 0.8514,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9191,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
+        "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_d9b4cfc04bcb",
       "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9319,
+        "recency": 0.9146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -137,15 +199,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.8909,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -218,15 +280,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8634,
+        "recency": 0.8473,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -299,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9814,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -399,15 +461,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.875,
+        "recency": 0.8588,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -480,15 +542,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8562,
+        "recency": 0.8403,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -542,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8339,
+        "recency": 0.8184,
         "story_heat": 0.0
       },
       "category": "official",
@@ -604,15 +666,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -684,15 +746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 0.9622,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -765,15 +827,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9365,
+        "recency": 0.9191,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -827,15 +889,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7649,
+        "recency": 0.7507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -887,15 +949,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7787,
+        "recency": 0.7642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -947,15 +1009,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7631,
+        "recency": 0.7489,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1007,15 +1069,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9707,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1086,15 +1148,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9593,
+        "recency": 0.9415,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1167,15 +1229,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7839,
+        "recency": 0.7694,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1191,6 +1253,67 @@
         "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_58a7c5d076cd",
+      "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+      "url": "https://www.aibase.com/news/29573",
+      "primary_url": "https://www.aibase.com/news/29573",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
+          "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "url": "https://www.aibase.com/news/29573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T05:50:28.447400Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
+          "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "url": "https://www.aibase.com/news/29573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T05:50:28.447400Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T05:50:28.447400Z",
+      "latest_at": "2026-07-14T05:50:28.447400Z",
+      "primary_item": {
+        "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
+        "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+        "url": "https://www.aibase.com/news/29573",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1228,15 +1351,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1250,67 +1373,6 @@
         "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
         "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
         "url": "https://www.aibase.com/news/29571",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dd3ee811834c",
-      "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-      "url": "https://www.aibase.com/news/29569",
-      "primary_url": "https://www.aibase.com/news/29569",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
-          "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-          "url": "https://www.aibase.com/news/29569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:10:23.902598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
-          "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-          "url": "https://www.aibase.com/news/29569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:10:23.902598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9804,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T03:10:23.902598Z",
-      "latest_at": "2026-07-14T03:10:23.902598Z",
-      "primary_item": {
-        "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
-        "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-        "url": "https://www.aibase.com/news/29569",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1358,18 +1420,9 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-13T06:06:26.519219Z"
-        },
-        {
-          "id": "e1608d294393a4b1847e3e845eee9dec1c1bba62",
-          "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T04:43:34.395847Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
         "社区更新 · 2026-07-13"
       ],
@@ -1409,35 +1462,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-13T06:06:26.519219Z"
-        },
-        {
-          "id": "e1608d294393a4b1847e3e845eee9dec1c1bba62",
-          "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T04:43:34.395847Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6413,
-      "importance": 0.6413,
-      "importance_score": 0.6413,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6135,
+      "importance": 0.6135,
+      "importance_score": 0.6135,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8451,
-        "story_heat": 1.0
+        "recency": 0.8293,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T04:43:34.395847Z",
+      "earliest_at": "2026-07-13T06:06:26.519219Z",
       "latest_at": "2026-07-13T16:52:58.212917Z",
       "primary_item": {
         "id": "c8cde8501abb3b92ec5fa74993fd134a5eac1d53",
@@ -1445,67 +1489,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-13",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_391b4b26f79e",
-      "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-      "url": "https://www.aibase.com/news/29563",
-      "primary_url": "https://www.aibase.com/news/29563",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-          "url": "https://www.aibase.com/news/29563",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:10:23.902598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-          "url": "https://www.aibase.com/news/29563",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:10:23.902598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9804,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T03:10:23.902598Z",
-      "latest_at": "2026-07-14T03:10:23.902598Z",
-      "primary_item": {
-        "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-        "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-        "url": "https://www.aibase.com/news/29563",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
