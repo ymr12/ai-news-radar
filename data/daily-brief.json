@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T00:44:58.680995Z",
+  "generated_at": "2026-07-14T01:40:01.358204Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9843,
+        "recency": 0.9714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -137,15 +137,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9589,
+        "recency": 0.9463,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -218,15 +218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.912,
+        "recency": 0.9,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -318,15 +318,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9243,
+        "recency": 0.9121,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -343,6 +343,87 @@
         "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c09037e36347",
+      "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
+      "url": "https://www.aibase.com/news/29555",
+      "primary_url": "https://www.aibase.com/news/29555",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d55338b63416856fa44870e4012afff610ec441e",
+          "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
+          "url": "https://www.aibase.com/news/29555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T01:40:01.358204Z"
+        },
+        {
+          "id": "243c96be47a6bcfe96030c4aa6156be193a368a4",
+          "title": "OpenAI 员工集体声援 CEO 奥尔特曼：他乐于听取不同意见，内部批评文化被赞「有人情味」",
+          "url": "https://www.aibase.com/zh/news/29555",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d55338b63416856fa44870e4012afff610ec441e",
+          "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
+          "url": "https://www.aibase.com/news/29555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T01:40:01.358204Z"
+        },
+        {
+          "id": "243c96be47a6bcfe96030c4aa6156be193a368a4",
+          "title": "OpenAI 员工集体声援 CEO 奥尔特曼：他乐于听取不同意见，内部批评文化被赞「有人情味」",
+          "url": "https://www.aibase.com/zh/news/29555",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T01:40:01.358204Z",
+      "latest_at": "2026-07-14T01:40:01.358204Z",
+      "primary_item": {
+        "id": "d55338b63416856fa44870e4012afff610ec441e",
+        "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
+        "url": "https://www.aibase.com/news/29555",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -399,15 +480,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9044,
+        "recency": 0.8925,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -461,15 +542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8809,
+        "recency": 0.8693,
         "story_heat": 0.0
       },
       "category": "official",
@@ -489,84 +570,64 @@
       }
     },
     {
-      "story_id": "story_0bd34d8ebc49",
-      "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-      "url": "https://www.aibase.com/news/29553",
-      "primary_url": "https://www.aibase.com/news/29553",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a0366cc85c2f",
+      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "primary_url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4e33eb43aa48079fde1096428514561723a95a0c",
-          "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-          "url": "https://www.aibase.com/news/29553",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T10:37:24.623985Z"
-        },
-        {
-          "id": "e7cdece03008890869ccc38e1df3a23a8adddf7b",
-          "title": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
-          "url": "https://www.aibase.com/zh/news/29553",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b5851a195823881985167c1306ffc765d134db35",
+          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T00:38:32Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "X：商汤 SenseTime (@SenseTime_AI)"
       ],
       "items": [
         {
-          "id": "4e33eb43aa48079fde1096428514561723a95a0c",
-          "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-          "url": "https://www.aibase.com/news/29553",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T10:37:24.623985Z"
-        },
-        {
-          "id": "e7cdece03008890869ccc38e1df3a23a8adddf7b",
-          "title": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
-          "url": "https://www.aibase.com/zh/news/29553",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b5851a195823881985167c1306ffc765d134db35",
+          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T00:38:32Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8155,
-        "story_heat": 0.25
+        "recency": 0.9853,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T10:37:24.623985Z",
-      "latest_at": "2026-07-13T10:37:24.623985Z",
+      "earliest_at": "2026-07-14T00:38:32Z",
+      "latest_at": "2026-07-14T00:38:32Z",
       "primary_item": {
-        "id": "4e33eb43aa48079fde1096428514561723a95a0c",
-        "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-        "url": "https://www.aibase.com/news/29553",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "b5851a195823881985167c1306ffc765d134db35",
+        "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+        "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -623,15 +684,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9892,
+        "recency": 0.9762,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -685,15 +746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.808,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,15 +806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8225,
+        "recency": 0.8117,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -805,15 +866,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.7954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -831,82 +892,62 @@
       }
     },
     {
-      "story_id": "story_dc1c34a70469",
-      "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-      "url": "https://www.aibase.com/news/29549",
-      "primary_url": "https://www.aibase.com/news/29549",
+      "story_id": "story_4813c9a92758",
+      "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
+      "url": "https://www.aibase.com/news/29556",
+      "primary_url": "https://www.aibase.com/news/29556",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "351f409b8c43c884be9dede43e04e787aec8793a",
-          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-          "url": "https://www.aibase.com/news/29549",
+          "id": "007c8866cb75d415c79beeb1c7dd3d4eede76792",
+          "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
+          "url": "https://www.aibase.com/news/29556",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T09:15:21.904847Z"
-        },
-        {
-          "id": "5ae22696c15178764cb6beb37d6d6180508ca049",
-          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
-          "url": "https://www.ithome.com/0/976/012.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T07:14:40Z"
+          "published_at": "2026-07-14T01:40:01.358204Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "351f409b8c43c884be9dede43e04e787aec8793a",
-          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-          "url": "https://www.aibase.com/news/29549",
+          "id": "007c8866cb75d415c79beeb1c7dd3d4eede76792",
+          "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
+          "url": "https://www.aibase.com/news/29556",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T09:15:21.904847Z"
-        },
-        {
-          "id": "5ae22696c15178764cb6beb37d6d6180508ca049",
-          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
-          "url": "https://www.ithome.com/0/976/012.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T07:14:40Z"
+          "published_at": "2026-07-14T01:40:01.358204Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7995,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T07:14:40Z",
-      "latest_at": "2026-07-13T09:15:21.904847Z",
+      "earliest_at": "2026-07-14T01:40:01.358204Z",
+      "latest_at": "2026-07-14T01:40:01.358204Z",
       "primary_item": {
-        "id": "351f409b8c43c884be9dede43e04e787aec8793a",
-        "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-        "url": "https://www.aibase.com/news/29549",
+        "id": "007c8866cb75d415c79beeb1c7dd3d4eede76792",
+        "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
+        "url": "https://www.aibase.com/news/29556",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -965,15 +1006,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8281,
+        "recency": 0.8172,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -993,221 +1034,123 @@
       }
     },
     {
-      "story_id": "story_b3e627b2977f",
-      "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-      "url": "https://www.ithome.com/0/975/865.htm",
-      "primary_url": "https://www.ithome.com/0/975/865.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "url": "https://www.ithome.com/0/975/865.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:55:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "url": "https://www.ithome.com/0/975/865.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:55:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7089,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T00:55:29Z",
-      "latest_at": "2026-07-13T00:55:29Z",
-      "primary_item": {
-        "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-        "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-        "url": "https://www.ithome.com/0/975/865.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_181aad88bf9c",
-      "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-      "url": "https://www.aibase.com/news/29541",
-      "primary_url": "https://www.aibase.com/news/29541",
+      "story_id": "story_92b9eb82a95a",
+      "title": "PixVerse 完成 4.39 亿美元 C 轮扩展融资 估值飙升至 20 亿美元",
+      "url": "https://www.aibase.com/news/29561",
+      "primary_url": "https://www.aibase.com/news/29561",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
-          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "url": "https://www.aibase.com/news/29541",
+          "id": "667a5080ec1d917bfc12de809a97bb9d704e9ab3",
+          "title": "PixVerse 完成 4.39 亿美元 C 轮扩展融资 估值飙升至 20 亿美元",
+          "url": "https://www.aibase.com/news/29561",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T04:43:34.395847Z"
-        },
-        {
-          "id": "525c3271839491bd18897603baa12db3362be93b",
-          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "url": "https://www.ithome.com/0/975/885.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T02:32:13Z"
+          "published_at": "2026-07-14T01:40:01.358204Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
-          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "url": "https://www.aibase.com/news/29541",
+          "id": "667a5080ec1d917bfc12de809a97bb9d704e9ab3",
+          "title": "PixVerse 完成 4.39 亿美元 C 轮扩展融资 估值飙升至 20 亿美元",
+          "url": "https://www.aibase.com/news/29561",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T04:43:34.395847Z"
-        },
-        {
-          "id": "525c3271839491bd18897603baa12db3362be93b",
-          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "url": "https://www.ithome.com/0/975/885.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T02:32:13Z"
+          "published_at": "2026-07-14T01:40:01.358204Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-13T02:32:13Z",
-      "latest_at": "2026-07-13T04:43:34.395847Z",
+      "earliest_at": "2026-07-14T01:40:01.358204Z",
+      "latest_at": "2026-07-14T01:40:01.358204Z",
       "primary_item": {
-        "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
-        "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-        "url": "https://www.aibase.com/news/29541",
+        "id": "667a5080ec1d917bfc12de809a97bb9d704e9ab3",
+        "title": "PixVerse 完成 4.39 亿美元 C 轮扩展融资 估值飙升至 20 亿美元",
+        "url": "https://www.aibase.com/news/29561",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2849b2dfcc73",
-      "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-      "url": "https://www.aibase.com/news/29537",
-      "primary_url": "https://www.aibase.com/news/29537",
+      "story_id": "story_02a06a222558",
+      "title": "Siri 迎来全面 AI 进化!苹果正式发布 iOS27首个公开测试版",
+      "url": "https://www.aibase.com/news/29554",
+      "primary_url": "https://www.aibase.com/news/29554",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "18022608f3c5c8bcf224ae54797a20ec3a6e8c7e",
-          "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-          "url": "https://www.aibase.com/news/29537",
+          "id": "505571f79490fe18955ef5ae607db74059e390b6",
+          "title": "Siri 迎来全面 AI 进化!苹果正式发布 iOS27首个公开测试版",
+          "url": "https://www.aibase.com/news/29554",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:13:45.972713Z"
-        },
-        {
-          "id": "5f1a120dbc3df1a9be67bf31024281820bf7ea24",
-          "title": "别人敲钟，我们归零：智谱披露「摸高」计划，押注全自动化智能体生态",
-          "url": "https://www.aibase.com/zh/news/29537",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-14T01:40:01.358204Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "18022608f3c5c8bcf224ae54797a20ec3a6e8c7e",
-          "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-          "url": "https://www.aibase.com/news/29537",
+          "id": "505571f79490fe18955ef5ae607db74059e390b6",
+          "title": "Siri 迎来全面 AI 进化!苹果正式发布 iOS27首个公开测试版",
+          "url": "https://www.aibase.com/news/29554",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:13:45.972713Z"
-        },
-        {
-          "id": "5f1a120dbc3df1a9be67bf31024281820bf7ea24",
-          "title": "别人敲钟，我们归零：智谱披露「摸高」计划，押注全自动化智能体生态",
-          "url": "https://www.aibase.com/zh/news/29537",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-14T01:40:01.358204Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7329,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-13T03:13:45.972713Z",
-      "latest_at": "2026-07-13T03:13:45.972713Z",
+      "earliest_at": "2026-07-14T01:40:01.358204Z",
+      "latest_at": "2026-07-14T01:40:01.358204Z",
       "primary_item": {
-        "id": "18022608f3c5c8bcf224ae54797a20ec3a6e8c7e",
-        "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-        "url": "https://www.aibase.com/news/29537",
+        "id": "505571f79490fe18955ef5ae607db74059e390b6",
+        "title": "Siri 迎来全面 AI 进化!苹果正式发布 iOS27首个公开测试版",
+        "url": "https://www.aibase.com/news/29554",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1319,15 +1262,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6499,
-      "importance": 0.6499,
-      "importance_score": 0.6499,
+      "score": 0.6478,
+      "importance": 0.6478,
+      "importance_score": 0.6478,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8926,
+        "recency": 0.8809,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1345,81 +1288,123 @@
       }
     },
     {
-      "story_id": "story_290d28970a0b",
-      "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-      "url": "https://www.aibase.com/news/29531",
-      "primary_url": "https://www.aibase.com/news/29531",
+      "story_id": "story_653967fb964c",
+      "title": "手机新物种诞生：阶跃星辰发布原生智能体系统与首款手机STEPX Neo",
+      "url": "https://www.aibase.com/news/29558",
+      "primary_url": "https://www.aibase.com/news/29558",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
-          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-          "url": "https://www.aibase.com/news/29531",
+          "id": "b518ccffe40d4973d8a492df8a6516d760927565",
+          "title": "手机新物种诞生：阶跃星辰发布原生智能体系统与首款手机STEPX Neo",
+          "url": "https://www.aibase.com/news/29558",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T01:41:34.306550Z"
-        },
-        {
-          "id": "96e4107a2e6c5f17e7ac256bbb55ac971228b32e",
-          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-          "url": "https://www.aibase.com/zh/news/29531",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-14T01:40:01.358204Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
-          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-          "url": "https://www.aibase.com/news/29531",
+          "id": "b518ccffe40d4973d8a492df8a6516d760927565",
+          "title": "手机新物种诞生：阶跃星辰发布原生智能体系统与首款手机STEPX Neo",
+          "url": "https://www.aibase.com/news/29558",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T01:41:34.306550Z"
-        },
-        {
-          "id": "96e4107a2e6c5f17e7ac256bbb55ac971228b32e",
-          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-          "url": "https://www.aibase.com/zh/news/29531",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-14T01:40:01.358204Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7168,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-13T01:41:34.306550Z",
-      "latest_at": "2026-07-13T01:41:34.306550Z",
+      "earliest_at": "2026-07-14T01:40:01.358204Z",
+      "latest_at": "2026-07-14T01:40:01.358204Z",
       "primary_item": {
-        "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
-        "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-        "url": "https://www.aibase.com/news/29531",
+        "id": "b518ccffe40d4973d8a492df8a6516d760927565",
+        "title": "手机新物种诞生：阶跃星辰发布原生智能体系统与首款手机STEPX Neo",
+        "url": "https://www.aibase.com/news/29558",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0259cd892187",
+      "title": "苹果起诉OpenAI：昔日员工被指利用“零日漏洞”窃取核心机密",
+      "url": "https://www.aibase.com/news/29557",
+      "primary_url": "https://www.aibase.com/news/29557",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a1a7cd430470752b071ccfbed881c06a443d5530",
+          "title": "苹果起诉OpenAI：昔日员工被指利用“零日漏洞”窃取核心机密",
+          "url": "https://www.aibase.com/news/29557",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T01:40:01.358204Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a1a7cd430470752b071ccfbed881c06a443d5530",
+          "title": "苹果起诉OpenAI：昔日员工被指利用“零日漏洞”窃取核心机密",
+          "url": "https://www.aibase.com/news/29557",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T01:40:01.358204Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T01:40:01.358204Z",
+      "latest_at": "2026-07-14T01:40:01.358204Z",
+      "primary_item": {
+        "id": "a1a7cd430470752b071ccfbed881c06a443d5530",
+        "title": "苹果起诉OpenAI：昔日员工被指利用“零日漏洞”窃取核心机密",
+        "url": "https://www.aibase.com/news/29557",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1477,15 +1462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6089,
-      "importance": 0.6089,
-      "importance_score": 0.6089,
+      "score": 0.6068,
+      "importance": 0.6068,
+      "importance_score": 0.6068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8941,
+        "recency": 0.8824,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1500,66 +1485,6 @@
         "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
         "source": "The Verge",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_05bb3eadde15",
-      "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-      "url": "https://www.aibase.com/news/29552",
-      "primary_url": "https://www.aibase.com/news/29552",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
-          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-          "url": "https://www.aibase.com/news/29552",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T09:15:21.904847Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
-          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-          "url": "https://www.aibase.com/news/29552",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T09:15:21.904847Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7995,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T09:15:21.904847Z",
-      "latest_at": "2026-07-13T09:15:21.904847Z",
-      "primary_item": {
-        "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
-        "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-        "url": "https://www.aibase.com/news/29552",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
