@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T04:32:35.480049Z",
+  "generated_at": "2026-07-15T05:50:37.090137Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -21,6 +21,24 @@
           "published_at": "2026-07-14T21:27:11.693000Z"
         },
         {
+          "id": "3866feccb17eb0d861be30029f299f0a295e8d84",
+          "title": "完全披露：Cursor 中存在任意代码执行漏洞",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "mindgard.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T04:55:21.542000Z"
+        },
+        {
+          "id": "39de46bc3c39610026b5943df3ef0a3a20f15444",
+          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Full disclosure: Arbitrary code execution in Cursor",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T02:02:02Z"
+        },
+        {
           "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
           "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
@@ -48,10 +66,11 @@
           "published_at": "2026-07-14T17:58:35Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "source_names": [
         "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
         "hackernews",
         "mindgard.ai"
       ],
@@ -66,6 +85,24 @@
           "published_at": "2026-07-14T21:27:11.693000Z"
         },
         {
+          "id": "3866feccb17eb0d861be30029f299f0a295e8d84",
+          "title": "完全披露：Cursor 中存在任意代码执行漏洞",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "mindgard.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T04:55:21.542000Z"
+        },
+        {
+          "id": "39de46bc3c39610026b5943df3ef0a3a20f15444",
+          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Full disclosure: Arbitrary code execution in Cursor",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T02:02:02Z"
+        },
+        {
           "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
           "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
@@ -93,18 +130,18 @@
           "published_at": "2026-07-14T17:58:35Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8581,
-      "importance": 0.8581,
-      "importance_score": 0.8581,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.8801,
+      "importance": 0.8801,
+      "importance_score": 0.8801,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9027,
-        "story_heat": 0.75
+        "recency": 0.8859,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -113,7 +150,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-14T17:58:35Z",
-      "latest_at": "2026-07-14T21:27:11.693000Z",
+      "latest_at": "2026-07-15T04:55:21.542000Z",
       "primary_item": {
         "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
         "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
@@ -157,15 +194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9368,
+        "recency": 0.9194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8343,
+        "recency": 0.8188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,68 +280,6 @@
         "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
         "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ad1e2a9c5407",
-      "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T23:37:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T23:37:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9314,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T23:37:29Z",
-      "latest_at": "2026-07-14T23:37:29Z",
-      "primary_item": {
-        "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-        "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -343,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7651,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -367,6 +342,68 @@
         "title": "代理时代如何管理人工智能投资 / How to manage AI investments in the agentic era",
         "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ad1e2a9c5407",
+      "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
+      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T23:37:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T23:37:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9141,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T23:37:29Z",
+      "latest_at": "2026-07-14T23:37:29Z",
+      "primary_item": {
+        "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+        "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -462,15 +499,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8821,
+        "recency": 0.8657,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -490,55 +527,54 @@
       }
     },
     {
-      "story_id": "story_3cb375934083",
-      "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-      "url": "https://www.aibase.com/news/29609",
-      "primary_url": "https://www.aibase.com/news/29609",
+      "story_id": "story_467fe263bae9",
+      "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+      "url": "https://www.aibase.com/news/29610",
+      "primary_url": "https://www.aibase.com/news/29610",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-          "url": "https://www.aibase.com/news/29609",
+          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T05:50:37.090137Z"
+        },
+        {
+          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
+          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
+          "url": "https://www.aibase.com/news/29610",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-15T04:32:35.480049Z"
-        },
-        {
-          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
-          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
-          "url": "https://www.ithome.com/0/976/812.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T01:37:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-          "url": "https://www.aibase.com/news/29609",
+          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T05:50:37.090137Z"
+        },
+        {
+          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
+          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
+          "url": "https://www.aibase.com/news/29610",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-15T04:32:35.480049Z"
-        },
-        {
-          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
-          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
-          "url": "https://www.ithome.com/0/976/812.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T01:37:49Z"
         }
       ],
       "item_count": 2,
@@ -560,12 +596,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T01:37:49Z",
-      "latest_at": "2026-07-15T04:32:35.480049Z",
+      "earliest_at": "2026-07-15T04:32:35.480049Z",
+      "latest_at": "2026-07-15T05:50:37.090137Z",
       "primary_item": {
-        "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-        "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-        "url": "https://www.aibase.com/news/29609",
+        "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+        "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+        "url": "https://www.aibase.com/news/29610",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -624,15 +660,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9077,
+        "recency": 0.8908,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -686,15 +722,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9693,
+        "recency": 0.9512,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,15 +783,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.971,
+        "recency": 0.953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -771,6 +807,87 @@
         "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
         "source": "公众号：通义实验室（千问）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3cb375934083",
+      "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+      "url": "https://www.aibase.com/news/29609",
+      "primary_url": "https://www.aibase.com/news/29609",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
+          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "url": "https://www.aibase.com/news/29609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T04:32:35.480049Z"
+        },
+        {
+          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
+          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
+          "url": "https://www.ithome.com/0/976/812.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T01:37:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
+          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "url": "https://www.aibase.com/news/29609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T04:32:35.480049Z"
+        },
+        {
+          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
+          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
+          "url": "https://www.ithome.com/0/976/812.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T01:37:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9814,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T01:37:49Z",
+      "latest_at": "2026-07-15T04:32:35.480049Z",
+      "primary_item": {
+        "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
+        "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+        "url": "https://www.aibase.com/news/29609",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -808,15 +925,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.874,
+        "recency": 0.8577,
         "story_heat": 0.0
       },
       "category": "official",
@@ -870,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9233,
+        "recency": 0.9061,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,15 +1048,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9442,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -955,87 +1072,6 @@
         "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
         "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_de8a73b24f25",
-      "title": "OpenAI发布GPT-5.6Sol引发安全警告，新旗舰模型被曝自主删除用户数据库",
-      "url": "https://www.aibase.com/news/29589",
-      "primary_url": "https://www.aibase.com/news/29589",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7a382823658ddd946e1e4a7bcf26d59235b75261",
-          "title": "OpenAI发布GPT-5.6Sol引发安全警告，新旗舰模型被曝自主删除用户数据库",
-          "url": "https://www.aibase.com/news/29589",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T01:39:42.882828Z"
-        },
-        {
-          "id": "f9d4decb73f8d840a68a637d8477251c10022189",
-          "title": "OpenAI 发布 GPT-5.6Sol 引发安全警告，新旗舰模型被曝自主删除用户数据库",
-          "url": "https://www.aibase.com/zh/news/29589",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7a382823658ddd946e1e4a7bcf26d59235b75261",
-          "title": "OpenAI发布GPT-5.6Sol引发安全警告，新旗舰模型被曝自主删除用户数据库",
-          "url": "https://www.aibase.com/news/29589",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T01:39:42.882828Z"
-        },
-        {
-          "id": "f9d4decb73f8d840a68a637d8477251c10022189",
-          "title": "OpenAI 发布 GPT-5.6Sol 引发安全警告，新旗舰模型被曝自主删除用户数据库",
-          "url": "https://www.aibase.com/zh/news/29589",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9592,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T01:39:42.882828Z",
-      "latest_at": "2026-07-15T01:39:42.882828Z",
-      "primary_item": {
-        "id": "7a382823658ddd946e1e4a7bcf26d59235b75261",
-        "title": "OpenAI发布GPT-5.6Sol引发安全警告，新旗舰模型被曝自主删除用户数据库",
-        "url": "https://www.aibase.com/news/29589",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1073,15 +1109,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8108,
+        "recency": 0.7957,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1152,15 +1188,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.8496,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1214,15 +1250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.937,
+        "recency": 0.9195,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,15 +1329,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7908,
-      "importance": 0.7908,
-      "importance_score": 0.7908,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.9717,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1355,15 +1391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8259,
+        "recency": 0.8105,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1415,15 +1451,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8157,
+        "recency": 0.8006,
         "story_heat": 0.0
       },
       "category": "industry",
