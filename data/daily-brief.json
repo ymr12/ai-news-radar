@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T23:50:05.555889Z",
+  "generated_at": "2026-07-15T00:42:53.433306Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8695,
-      "importance": 0.8695,
-      "importance_score": 0.8695,
+      "score": 0.8673,
+      "importance": 0.8673,
+      "importance_score": 0.8673,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9662,
+        "recency": 0.954,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -123,21 +123,21 @@
       }
     },
     {
-      "story_id": "story_77d490ebaf47",
-      "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "story_id": "story_18f99e3f3fbc",
+      "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
+      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
+      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+          "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
+          "published_at": "2026-07-15T00:01:24Z"
         }
       ],
       "source_count": 1,
@@ -146,26 +146,26 @@
       ],
       "items": [
         {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+          "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
+          "published_at": "2026-07-15T00:01:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9354,
+        "ai_relevance": 0.91,
+        "recency": 0.9901,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,12 +174,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T19:12:48Z",
-      "latest_at": "2026-07-14T19:12:48Z",
+      "earliest_at": "2026-07-15T00:01:24Z",
+      "latest_at": "2026-07-15T00:01:24Z",
       "primary_item": {
-        "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-        "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-        "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+        "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+        "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.893,
+        "recency": 0.8817,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8189,
+        "recency": 0.8086,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,15 +400,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8445,
-      "importance": 0.8445,
-      "importance_score": 0.8445,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9442,
+        "recency": 0.9322,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -428,49 +428,49 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_77d490ebaf47",
+      "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
-          "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
+          "published_at": "2026-07-14T19:12:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
-          "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
+          "published_at": "2026-07-14T19:12:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7088,
+        "ai_relevance": 0.87,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "official",
@@ -479,13 +479,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
+      "earliest_at": "2026-07-14T19:12:48Z",
+      "latest_at": "2026-07-14T19:12:48Z",
       "primary_item": {
-        "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
-        "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+        "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+        "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -543,15 +543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 0.9593,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -568,68 +568,6 @@
         "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9048b47cd9ef",
-      "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9023,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T16:42:59Z",
-      "latest_at": "2026-07-14T16:42:59Z",
-      "primary_item": {
-        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-        "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -705,15 +643,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8152,
+        "recency": 0.8049,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -730,68 +668,6 @@
         "url": "https://www.aibase.com/news/29585",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cca00ce68781",
-      "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "primary_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
-          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
-          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7088,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
-      "primary_item": {
-        "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
-        "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -829,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9883,
+        "recency": 0.9758,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,21 +732,21 @@
       }
     },
     {
-      "story_id": "story_ed3a2198d15e",
-      "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "story_id": "story_9048b47cd9ef",
+      "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
+          "published_at": "2026-07-14T16:42:59Z"
         }
       ],
       "source_count": 1,
@@ -879,26 +755,26 @@
       ],
       "items": [
         {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
+          "published_at": "2026-07-14T16:42:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.854,
+        "ai_relevance": 0.87,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -907,12 +783,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T12:54:12Z",
-      "latest_at": "2026-07-14T12:54:12Z",
+      "earliest_at": "2026-07-14T16:42:59Z",
+      "latest_at": "2026-07-14T16:42:59Z",
       "primary_item": {
-        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-        "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+        "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -952,15 +828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8678,
+        "recency": 0.8569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1051,15 +927,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8054,
+        "recency": 0.7953,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1079,65 +955,63 @@
       }
     },
     {
-      "story_id": "story_248b5ff06999",
-      "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "primary_url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1ed1eeeaf055",
+      "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+      "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+      "primary_url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
-          "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
-          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
+          "id": "376f888bb5c8649c59e3a4d49411834b249a9d40",
+          "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+          "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T00:02:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
-          "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
-          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
+          "id": "376f888bb5c8649c59e3a4d49411834b249a9d40",
+          "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+          "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T00:02:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
-      "importance_label": "官方更新",
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7088,
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9902,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
+      "earliest_at": "2026-07-15T00:02:00Z",
+      "latest_at": "2026-07-15T00:02:00Z",
       "primary_item": {
-        "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
-        "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "376f888bb5c8649c59e3a4d49411834b249a9d40",
+        "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+        "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1194,15 +1068,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9149,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1256,15 +1130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8079,
+        "recency": 0.7977,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1316,15 +1190,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.884,
+        "recency": 0.8728,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1376,15 +1250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8731,
+        "recency": 0.8621,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1436,15 +1310,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8064,
+        "recency": 0.7962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1458,6 +1332,128 @@
         "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
         "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
         "source": "公众号：腾讯混元",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed3a2198d15e",
+      "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8432,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T12:54:12Z",
+      "latest_at": "2026-07-14T12:54:12Z",
+      "primary_item": {
+        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+        "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5d3ffb4c6f4d",
+      "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+      "url": "https://www.ithome.com/0/976/453.htm",
+      "primary_url": "https://www.ithome.com/0/976/453.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "url": "https://www.ithome.com/0/976/453.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T05:43:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "url": "https://www.ithome.com/0/976/453.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T05:43:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7601,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T05:43:25Z",
+      "latest_at": "2026-07-14T05:43:25Z",
+      "primary_item": {
+        "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+        "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+        "url": "https://www.ithome.com/0/976/453.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     }
