@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T13:36:58.552067Z",
+  "generated_at": "2026-07-17T14:38:01.313032Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_3ebda52fc80e",
-      "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+      "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值 / A scorecard for the AI age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "primary_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "source": "OpenAI News",
@@ -13,45 +13,65 @@
       "sources": [
         {
           "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
-          "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+          "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值 / A scorecard for the AI age",
           "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-17T10:00:00Z"
+        },
+        {
+          "id": "a4b520d2af08a54fcce1566c0de494dc610935c4",
+          "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T10:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
           "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
-          "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+          "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值 / A scorecard for the AI age",
           "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-17T10:00:00Z"
+        },
+        {
+          "id": "a4b520d2af08a54fcce1566c0de494dc610935c4",
+          "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T10:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8653,
+      "importance": 0.8653,
+      "importance_score": 0.8653,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9491,
-        "story_heat": 0.0
+        "recency": 0.9353,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -59,7 +79,7 @@
       "latest_at": "2026-07-17T10:00:00Z",
       "primary_item": {
         "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
-        "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+        "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值 / A scorecard for the AI age",
         "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
@@ -119,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7319,
+        "recency": 0.7212,
         "story_heat": 0.25
       },
       "category": "official",
@@ -182,15 +202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7321,
+        "recency": 0.7214,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7656,
+        "recency": 0.7544,
         "story_heat": 0.0
       },
       "category": "official",
@@ -325,15 +345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9314,
+        "recency": 0.9179,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -406,15 +426,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9447,
+        "recency": 0.9309,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -487,15 +507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8068,
+        "recency": 0.7951,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -511,6 +531,67 @@
         "title": "Kimi 最强模型 K3 发布，Frontend Code Arena 跑分登顶",
         "url": "https://www.ithome.com/0/977/829.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_abb261c0d5d6",
+      "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+      "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+      "primary_url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
+          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+          "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T14:08:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：美团 LongCat (@Meituan_LongCat)"
+      ],
+      "items": [
+        {
+          "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
+          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+          "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T14:08:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9929,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T14:08:29Z",
+      "latest_at": "2026-07-17T14:08:29Z",
+      "primary_item": {
+        "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
+        "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+        "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+        "source": "X：美团 LongCat (@Meituan_LongCat)",
         "source_name": "AI HOT"
       }
     },
@@ -549,15 +630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7319,
+        "recency": 0.7212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -611,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7803,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -672,15 +753,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7645,
+        "recency": 0.7533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -734,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7942,
+        "recency": 0.7826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7319,
+        "recency": 0.7212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -857,15 +938,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9449,
+        "recency": 0.9311,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,15 +999,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,15 +1079,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9084,
+        "recency": 0.8952,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1079,15 +1160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7391,
+        "recency": 0.7283,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1140,15 +1221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7996,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1200,15 +1281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7546,
+        "recency": 0.7436,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1262,15 +1343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9652,
+        "recency": 0.9512,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1285,86 +1366,6 @@
         "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
         "url": "https://www.ithome.com/0/978/277.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_562cceb9c8d0",
-      "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
-      "url": "https://claude.com/blog/ai-code-migration",
-      "primary_url": "https://claude.com/blog/ai-code-migration",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af172b47957cdfc75888284c10fe7d2cdffe9c4a",
-          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
-          "url": "https://claude.com/blog/ai-code-migration",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T17:32:26.540000Z"
-        },
-        {
-          "id": "34892d03c526b8383edfd2ea67b8a0a653f06ad0",
-          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成 / How Anthropic runs large-scale code migrations with Claude Code",
-          "url": "https://claude.com/blog/ai-code-migration",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude：Blog（网页）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "af172b47957cdfc75888284c10fe7d2cdffe9c4a",
-          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
-          "url": "https://claude.com/blog/ai-code-migration",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T17:32:26.540000Z"
-        },
-        {
-          "id": "34892d03c526b8383edfd2ea67b8a0a653f06ad0",
-          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成 / How Anthropic runs large-scale code migrations with Claude Code",
-          "url": "https://claude.com/blog/ai-code-migration",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7483,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T17:32:26.540000Z",
-      "latest_at": "2026-07-16T17:34:14.126687Z",
-      "primary_item": {
-        "id": "af172b47957cdfc75888284c10fe7d2cdffe9c4a",
-        "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
-        "url": "https://claude.com/blog/ai-code-migration",
-        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     }
