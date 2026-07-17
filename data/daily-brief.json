@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T16:32:43.120752Z",
+  "generated_at": "2026-07-17T17:28:55.831635Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8835,
-      "importance": 0.8835,
-      "importance_score": 0.8835,
+      "score": 0.8811,
+      "importance": 0.8811,
+      "importance_score": 0.8811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9917,
+        "recency": 0.9783,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8608,
-      "importance": 0.8608,
-      "importance_score": 0.8608,
+      "score": 0.8586,
+      "importance": 0.8586,
+      "importance_score": 0.8586,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9098,
+        "recency": 0.8976,
         "story_heat": 0.25
       },
       "category": "official",
@@ -202,15 +202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7339,
+        "recency": 0.724,
         "story_heat": 0.0
       },
       "category": "official",
@@ -227,6 +227,128 @@
         "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_504ca7ec38cd",
+      "title": "Sora 2 视频克隆效果惊人，真假难辨",
+      "url": "https://x.com/gabriel1/status/2078156277247881438",
+      "primary_url": "https://x.com/gabriel1/status/2078156277247881438",
+      "source": "X：Gabriel (@gabriel1)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
+          "title": "Sora 2 视频克隆效果惊人，真假难辨",
+          "url": "https://x.com/gabriel1/status/2078156277247881438",
+          "source": "X：Gabriel (@gabriel1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:34:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gabriel (@gabriel1)"
+      ],
+      "items": [
+        {
+          "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
+          "title": "Sora 2 视频克隆效果惊人，真假难辨",
+          "url": "https://x.com/gabriel1/status/2078156277247881438",
+          "source": "X：Gabriel (@gabriel1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:34:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9869,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T16:34:01Z",
+      "latest_at": "2026-07-17T16:34:01Z",
+      "primary_item": {
+        "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
+        "title": "Sora 2 视频克隆效果惊人，真假难辨",
+        "url": "https://x.com/gabriel1/status/2078156277247881438",
+        "source": "X：Gabriel (@gabriel1)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9dbb841ada9a",
+      "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+      "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
+          "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+          "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:11:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
+          "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+          "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:11:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9958,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T17:11:19Z",
+      "latest_at": "2026-07-17T17:11:19Z",
+      "primary_item": {
+        "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
+        "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+        "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -283,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9055,
+        "recency": 0.8934,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -364,15 +486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7734,
+        "recency": 0.763,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -426,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9659,
+        "recency": 0.9529,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -487,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.748,
+        "recency": 0.738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -548,15 +670,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7328,
+        "recency": 0.723,
         "story_heat": 0.0
       },
       "category": "official",
@@ -671,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7613,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -732,15 +854,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9058,
+        "recency": 0.8936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -793,21 +915,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T04:57:38Z",
       "latest_at": "2026-07-17T04:57:38Z",
@@ -820,82 +941,62 @@
       }
     },
     {
-      "story_id": "story_9a3bfba7061e",
-      "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "primary_url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "source": "VentureBeat：AI（RSS）",
+      "story_id": "story_919e7d2d6c26",
+      "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+      "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+      "primary_url": "https://claude.com/blog/working-at-the-frontier-cursor",
+      "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-          "source": "VentureBeat：AI（RSS）",
+          "id": "a91c79f3f2ebba579910d9888da5c1abbf319b66",
+          "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+          "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T16:40:48Z"
-        },
-        {
-          "id": "93287a8d384a16f108101f4fddf8738f7f6daf67",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-          "source": "VentureBeat AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-16T16:40:48Z"
+          "published_at": "2026-07-17T16:32:51.023000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "VentureBeat AI",
-        "VentureBeat：AI（RSS）"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-          "source": "VentureBeat：AI（RSS）",
+          "id": "a91c79f3f2ebba579910d9888da5c1abbf319b66",
+          "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+          "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T16:40:48Z"
-        },
-        {
-          "id": "93287a8d384a16f108101f4fddf8738f7f6daf67",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-          "source": "VentureBeat AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-16T16:40:48Z"
+          "published_at": "2026-07-17T16:32:51.023000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7085,
-        "story_heat": 0.25
+        "recency": 0.9866,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T16:40:48Z",
-      "latest_at": "2026-07-16T16:40:48Z",
+      "earliest_at": "2026-07-17T16:32:51.023000Z",
+      "latest_at": "2026-07-17T16:32:51.023000Z",
       "primary_item": {
-        "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
-        "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-        "source": "VentureBeat：AI（RSS）",
+        "id": "a91c79f3f2ebba579910d9888da5c1abbf319b66",
+        "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+        "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -953,15 +1054,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8708,
+        "recency": 0.8591,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -978,269 +1079,6 @@
         "url": "https://www.aibase.com/news/29687",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ad05afe1bef8",
-      "title": "Kimi 正式发布 2.8 万亿参数大模型 K3，将于 7 月 27 日全面开源",
-      "url": "https://mp.weixin.qq.com/s/BTv7bGz03jkfdoQ213pUlg",
-      "primary_url": "https://mp.weixin.qq.com/s/BTv7bGz03jkfdoQ213pUlg",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "24744c1e87d246e76c79b9c7eab4ccecfa312059",
-          "title": "Kimi 正式发布 2.8 万亿参数大模型 K3，将于 7 月 27 日全面开源",
-          "url": "https://mp.weixin.qq.com/s/BTv7bGz03jkfdoQ213pUlg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T22:07:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "24744c1e87d246e76c79b9c7eab4ccecfa312059",
-          "title": "Kimi 正式发布 2.8 万亿参数大模型 K3，将于 7 月 27 日全面开源",
-          "url": "https://mp.weixin.qq.com/s/BTv7bGz03jkfdoQ213pUlg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T22:07:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7665,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T22:07:36Z",
-      "latest_at": "2026-07-16T22:07:36Z",
-      "primary_item": {
-        "id": "24744c1e87d246e76c79b9c7eab4ccecfa312059",
-        "title": "Kimi 正式发布 2.8 万亿参数大模型 K3，将于 7 月 27 日全面开源",
-        "url": "https://mp.weixin.qq.com/s/BTv7bGz03jkfdoQ213pUlg",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b3f1c35889da",
-      "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "primary_url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "225611c19971e2c7202b85385fe274bebde738e4",
-          "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:06:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "225611c19971e2c7202b85385fe274bebde738e4",
-          "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:06:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7233,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T18:06:52Z",
-      "latest_at": "2026-07-16T18:06:52Z",
-      "primary_item": {
-        "id": "225611c19971e2c7202b85385fe274bebde738e4",
-        "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_599b6a56e0fb",
-      "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-      "url": "https://www.ithome.com/0/978/277.htm",
-      "primary_url": "https://www.ithome.com/0/978/277.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "url": "https://www.ithome.com/0/978/277.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T11:10:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "url": "https://www.ithome.com/0/978/277.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T11:10:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9253,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T11:10:01Z",
-      "latest_at": "2026-07-17T11:10:01Z",
-      "primary_item": {
-        "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
-        "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-        "url": "https://www.ithome.com/0/978/277.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_562cceb9c8d0",
-      "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
-      "url": "https://claude.com/blog/ai-code-migration",
-      "primary_url": "https://claude.com/blog/ai-code-migration",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af172b47957cdfc75888284c10fe7d2cdffe9c4a",
-          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
-          "url": "https://claude.com/blog/ai-code-migration",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T17:32:26.540000Z"
-        },
-        {
-          "id": "34892d03c526b8383edfd2ea67b8a0a653f06ad0",
-          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成 / How Anthropic runs large-scale code migrations with Claude Code",
-          "url": "https://claude.com/blog/ai-code-migration",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude：Blog（网页）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "af172b47957cdfc75888284c10fe7d2cdffe9c4a",
-          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
-          "url": "https://claude.com/blog/ai-code-migration",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T17:32:26.540000Z"
-        },
-        {
-          "id": "34892d03c526b8383edfd2ea67b8a0a653f06ad0",
-          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成 / How Anthropic runs large-scale code migrations with Claude Code",
-          "url": "https://claude.com/blog/ai-code-migration",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7173,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T17:32:26.540000Z",
-      "latest_at": "2026-07-16T17:34:14.126687Z",
-      "primary_item": {
-        "id": "af172b47957cdfc75888284c10fe7d2cdffe9c4a",
-        "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
-        "url": "https://claude.com/blog/ai-code-migration",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1297,15 +1135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7331,
+        "recency": 0.7232,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1324,62 +1162,185 @@
       }
     },
     {
-      "story_id": "story_6448093f615b",
-      "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-      "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-      "primary_url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-      "source": "公众号：通义实验室（千问）",
+      "story_id": "story_ad05afe1bef8",
+      "title": "Kimi 正式发布 2.8 万亿参数大模型 K3，将于 7 月 27 日全面开源",
+      "url": "https://mp.weixin.qq.com/s/BTv7bGz03jkfdoQ213pUlg",
+      "primary_url": "https://mp.weixin.qq.com/s/BTv7bGz03jkfdoQ213pUlg",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c01f6f8afae4dee902984233154ff627c06daced",
-          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-          "source": "公众号：通义实验室（千问）",
+          "id": "24744c1e87d246e76c79b9c7eab4ccecfa312059",
+          "title": "Kimi 正式发布 2.8 万亿参数大模型 K3，将于 7 月 27 日全面开源",
+          "url": "https://mp.weixin.qq.com/s/BTv7bGz03jkfdoQ213pUlg",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-17T07:14:00Z"
+          "published_at": "2026-07-16T22:07:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：通义实验室（千问）"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "c01f6f8afae4dee902984233154ff627c06daced",
-          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-          "source": "公众号：通义实验室（千问）",
+          "id": "24744c1e87d246e76c79b9c7eab4ccecfa312059",
+          "title": "Kimi 正式发布 2.8 万亿参数大模型 K3，将于 7 月 27 日全面开源",
+          "url": "https://mp.weixin.qq.com/s/BTv7bGz03jkfdoQ213pUlg",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-17T07:14:00Z"
+          "published_at": "2026-07-16T22:07:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8742,
+        "recency": 0.7562,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T07:14:00Z",
-      "latest_at": "2026-07-17T07:14:00Z",
+      "earliest_at": "2026-07-16T22:07:36Z",
+      "latest_at": "2026-07-16T22:07:36Z",
       "primary_item": {
-        "id": "c01f6f8afae4dee902984233154ff627c06daced",
-        "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-        "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-        "source": "公众号：通义实验室（千问）",
+        "id": "24744c1e87d246e76c79b9c7eab4ccecfa312059",
+        "title": "Kimi 正式发布 2.8 万亿参数大模型 K3，将于 7 月 27 日全面开源",
+        "url": "https://mp.weixin.qq.com/s/BTv7bGz03jkfdoQ213pUlg",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b3f1c35889da",
+      "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+      "primary_url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "225611c19971e2c7202b85385fe274bebde738e4",
+          "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:06:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "225611c19971e2c7202b85385fe274bebde738e4",
+          "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:06:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7136,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T18:06:52Z",
+      "latest_at": "2026-07-16T18:06:52Z",
+      "primary_item": {
+        "id": "225611c19971e2c7202b85385fe274bebde738e4",
+        "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_599b6a56e0fb",
+      "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+      "url": "https://www.ithome.com/0/978/277.htm",
+      "primary_url": "https://www.ithome.com/0/978/277.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
+          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+          "url": "https://www.ithome.com/0/978/277.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T11:10:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
+          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+          "url": "https://www.ithome.com/0/978/277.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T11:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9128,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T11:10:01Z",
+      "latest_at": "2026-07-17T11:10:01Z",
+      "primary_item": {
+        "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
+        "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+        "url": "https://www.ithome.com/0/978/277.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     }
