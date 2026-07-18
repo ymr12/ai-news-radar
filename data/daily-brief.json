@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:37:10.326517Z",
+  "generated_at": "2026-07-18T08:40:41.625285Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7977,
+        "recency": 0.7856,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.843,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7318,
+        "recency": 0.7207,
         "story_heat": 0.25
       },
       "category": "official",
@@ -264,15 +264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8714,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "official",
@@ -345,15 +345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.96,
+        "recency": 0.9454,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -370,68 +370,6 @@
         "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d7c9b0f9da4b",
-      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8714,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T22:05:18Z",
-      "latest_at": "2026-07-17T22:05:18Z",
-      "primary_item": {
-        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -488,15 +426,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8178,
+        "recency": 0.8054,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -513,6 +451,68 @@
         "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d7c9b0f9da4b",
+      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8582,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T22:05:18Z",
+      "latest_at": "2026-07-17T22:05:18Z",
+      "primary_item": {
+        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -550,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8172,
+        "recency": 0.8048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -611,21 +611,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8046,
+        "recency": 0.7924,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T16:34:01Z",
       "latest_at": "2026-07-17T16:34:01Z",
@@ -691,15 +690,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7553,
+        "recency": 0.7439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -752,15 +751,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8119,
+        "recency": 0.7996,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,86 +774,6 @@
         "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_21c3be5ec4c5",
-      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-      "url": "https://www.aibase.com/news/29695",
-      "primary_url": "https://www.aibase.com/news/29695",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "url": "https://www.aibase.com/news/29695",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T09:40:26.130138Z"
-        },
-        {
-          "id": "7e4ebc0f3034864230145d4ce5f71e5343e5f836",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一",
-          "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T07:53:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "url": "https://www.aibase.com/news/29695",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T09:40:26.130138Z"
-        },
-        {
-          "id": "7e4ebc0f3034864230145d4ce5f71e5343e5f836",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一",
-          "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T07:53:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7284,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T07:53:02Z",
-      "latest_at": "2026-07-17T09:40:26.130138Z",
-      "primary_item": {
-        "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-        "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-        "url": "https://www.aibase.com/news/29695",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -892,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8596,
+        "recency": 0.8465,
         "story_heat": 0.0
       },
       "category": "official",
@@ -954,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7769,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7182,
+        "recency": 0.7073,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,15 +993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
+      "score": 0.7228,
+      "importance": 0.7228,
+      "importance_score": 0.7228,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7286,
+        "recency": 0.7175,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1134,15 +1053,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7443,
+        "recency": 0.733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1157,86 +1076,6 @@
         "url": "https://www.ithome.com/0/978/277.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2ca7afc6bf47",
-      "title": "文远知行推出物理 AI 大模型 WITT",
-      "url": "https://www.aibase.com/news/29688",
-      "primary_url": "https://www.aibase.com/news/29688",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0325cceea44beff0fd75c5b049d868daec0c5ff0",
-          "title": "文远知行推出物理 AI 大模型 WITT",
-          "url": "https://www.aibase.com/news/29688",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T07:45:45.995284Z"
-        },
-        {
-          "id": "c1d986cc98f6afcade6fa03ca618bc5da4787ee6",
-          "title": "文远知行发布物理 AI 大模型 WITT",
-          "url": "https://36kr.com/newsflashes/3899365808735874?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0325cceea44beff0fd75c5b049d868daec0c5ff0",
-          "title": "文远知行推出物理 AI 大模型 WITT",
-          "url": "https://www.aibase.com/news/29688",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T07:45:45.995284Z"
-        },
-        {
-          "id": "c1d986cc98f6afcade6fa03ca618bc5da4787ee6",
-          "title": "文远知行发布物理 AI 大模型 WITT",
-          "url": "https://36kr.com/newsflashes/3899365808735874?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7086,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T07:45:45.995284Z",
-      "latest_at": "2026-07-17T08:51:13.705691Z",
-      "primary_item": {
-        "id": "0325cceea44beff0fd75c5b049d868daec0c5ff0",
-        "title": "文远知行推出物理 AI 大模型 WITT",
-        "url": "https://www.aibase.com/news/29688",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1346,15 +1185,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6609,
-      "importance": 0.6609,
-      "importance_score": 0.6609,
+      "score": 0.6587,
+      "importance": 0.6587,
+      "importance_score": 0.6587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.8153,
+        "recency": 0.803,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1481,15 +1320,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
+      "score": 0.5907,
+      "importance": 0.5907,
+      "importance_score": 0.5907,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8453,
+        "recency": 0.8325,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1504,6 +1343,240 @@
         "url": "https://news.ycombinator.com/item?id=48947825",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0fb4407ddf01",
+      "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
+      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
+      "primary_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
+          "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.204000Z"
+        },
+        {
+          "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
+          "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-17T17:33:00Z"
+        },
+        {
+          "id": "49976faca8943d55cd7337aa020050c79f59b960",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T16:33:48Z"
+        },
+        {
+          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T16:17:06Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "New York Times",
+        "Slashdot (科技资讯)",
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
+          "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.204000Z"
+        },
+        {
+          "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
+          "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-17T17:33:00Z"
+        },
+        {
+          "id": "49976faca8943d55cd7337aa020050c79f59b960",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T16:33:48Z"
+        },
+        {
+          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T16:17:06Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5738,
+      "importance": 0.5738,
+      "importance_score": 0.5738,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8776,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T16:17:06Z",
+      "latest_at": "2026-07-17T23:38:00.204000Z",
+      "primary_item": {
+        "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
+        "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
+        "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2a39ad50840d",
+      "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+      "primary_url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+      "source": "www.kaggle.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0185b486c96c92620aea8fac7d1ee1ffd5209cb0",
+          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖",
+          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+          "source": "www.kaggle.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T12:25:51.514000Z"
+        },
+        {
+          "id": "aeb88e4179e1924e51f2e823c032829b66cd7d09",
+          "title": "Blatant AI slop 刚刚赢得了 2.5 万美元的 DeepMind Kaggle 大奖 / Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+          "url": "https://news.ycombinator.com/item?id=48946010",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T12:12:47.068000Z"
+        },
+        {
+          "id": "2326d028ae468c4727b16b5754e59c60cfb08022",
+          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖 / Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T11:30:00Z"
+        },
+        {
+          "id": "580124ebb1136d3d20b4f077a2be25f5a60627bf",
+          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖 / Evidence of inconsistencies in evaluation process and selection of winners",
+          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T11:30:00Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.kaggle.com"
+      ],
+      "items": [
+        {
+          "id": "0185b486c96c92620aea8fac7d1ee1ffd5209cb0",
+          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖",
+          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+          "source": "www.kaggle.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T12:25:51.514000Z"
+        },
+        {
+          "id": "aeb88e4179e1924e51f2e823c032829b66cd7d09",
+          "title": "Blatant AI slop 刚刚赢得了 2.5 万美元的 DeepMind Kaggle 大奖 / Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+          "url": "https://news.ycombinator.com/item?id=48946010",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T12:12:47.068000Z"
+        },
+        {
+          "id": "2326d028ae468c4727b16b5754e59c60cfb08022",
+          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖 / Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T11:30:00Z"
+        },
+        {
+          "id": "580124ebb1136d3d20b4f077a2be25f5a60627bf",
+          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖 / Evidence of inconsistencies in evaluation process and selection of winners",
+          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T11:30:00Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5502,
+      "importance": 0.5502,
+      "importance_score": 0.5502,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7465,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T11:30:00Z",
+      "latest_at": "2026-07-17T12:25:51.514000Z",
+      "primary_item": {
+        "id": "0185b486c96c92620aea8fac7d1ee1ffd5209cb0",
+        "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖",
+        "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
+        "source": "www.kaggle.com",
+        "source_name": "Buzzing"
       }
     }
   ]
