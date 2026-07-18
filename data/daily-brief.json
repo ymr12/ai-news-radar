@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T21:49:52.073471Z",
+  "generated_at": "2026-07-18T22:21:14.695959Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7296,
+        "recency": 0.7241,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,130 +62,6 @@
         "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d7c9b0f9da4b",
-      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7097,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T22:05:18Z",
-      "latest_at": "2026-07-17T22:05:18Z",
-      "primary_item": {
-        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ed66fc264272",
-      "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-      "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7097,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T22:05:11Z",
-      "latest_at": "2026-07-17T22:05:11Z",
-      "primary_item": {
-        "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-        "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-        "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -243,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7819,
+        "recency": 0.776,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -358,15 +234,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6341,
-      "importance": 0.6341,
-      "importance_score": 0.6341,
+      "score": 0.6328,
+      "importance": 0.6328,
+      "importance_score": 0.6328,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.944,
+        "recency": 0.9369,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -475,15 +351,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5718,
+      "importance": 0.5718,
+      "importance_score": 0.5718,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8732,
+        "recency": 0.8667,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -573,15 +449,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5652,
-      "importance": 0.5652,
-      "importance_score": 0.5652,
+      "score": 0.5638,
+      "importance": 0.5638,
+      "importance_score": 0.5638,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9686,
+        "recency": 0.9613,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -671,15 +547,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5541,
-      "importance": 0.5541,
-      "importance_score": 0.5541,
+      "score": 0.5529,
+      "importance": 0.5529,
+      "importance_score": 0.5529,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9072,
+        "recency": 0.9004,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -769,15 +645,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5522,
-      "importance": 0.5522,
-      "importance_score": 0.5522,
+      "score": 0.551,
+      "importance": 0.551,
+      "importance_score": 0.551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8969,
+        "recency": 0.8902,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -867,15 +743,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8865,
+        "recency": 0.8798,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -889,6 +765,85 @@
         "title": "图表展示：AI对Stack Overflow的影响",
         "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
         "source": "data.stackexchange.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_31435a601668",
+      "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+      "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "primary_url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T20:41:23.690000Z"
+        },
+        {
+          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T20:31:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T20:41:23.690000Z"
+        },
+        {
+          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T20:31:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9763,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T20:31:37Z",
+      "latest_at": "2026-07-18T20:41:23.690000Z",
+      "primary_item": {
+        "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+        "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+        "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -946,15 +901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9285,
+        "recency": 0.9215,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1024,15 +979,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9263,
+        "recency": 0.9193,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1103,15 +1058,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8831,
+        "recency": 0.8765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1182,15 +1137,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8797,
+        "recency": 0.8731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1261,15 +1216,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8663,
+        "recency": 0.8598,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1359,15 +1314,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7258,
+        "recency": 0.7203,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1438,15 +1393,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5207,
-      "importance": 0.5207,
-      "importance_score": 0.5207,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8604,
+        "recency": 0.854,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1460,164 +1415,6 @@
         "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
         "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e02649f4fa30",
-      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5188,
-      "importance": 0.5188,
-      "importance_score": 0.5188,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8498,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T10:21:01Z",
-      "latest_at": "2026-07-18T10:33:45.979000Z",
-      "primary_item": {
-        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_334727c4b329",
-      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:30:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:30:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5188,
-      "importance": 0.5188,
-      "importance_score": 0.5188,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8497,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T09:30:23Z",
-      "latest_at": "2026-07-18T10:33:16.542631Z",
-      "primary_item": {
-        "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-        "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-        "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -1674,15 +1471,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8495,
+        "recency": 0.8431,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1697,6 +1494,243 @@
         "url": "https://www.v2ex.com/t/1228233",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_334727c4b329",
+      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T09:30:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T09:30:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8433,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T09:30:23Z",
+      "latest_at": "2026-07-18T10:33:16.542631Z",
+      "primary_item": {
+        "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+        "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+        "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_69266a9129ad",
+      "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
+      "url": "https://www.ithome.com/0/978/476.htm",
+      "primary_url": "https://www.ithome.com/0/978/476.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
+          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
+          "url": "https://www.ithome.com/0/978/476.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T07:02:32Z"
+        },
+        {
+          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
+          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
+          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
+          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
+          "url": "https://www.ithome.com/0/978/476.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T07:02:32Z"
+        },
+        {
+          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
+          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
+          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8016,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T06:47:38.857749Z",
+      "latest_at": "2026-07-18T07:02:32Z",
+      "primary_item": {
+        "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
+        "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
+        "url": "https://www.ithome.com/0/978/476.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_2087c81ffa1f",
+      "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://news.ycombinator.com/item?id=48961157",
+      "primary_url": "https://news.ycombinator.com/item?id=48961157",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "url": "https://news.ycombinator.com/item?id=48961157",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T19:29:31.904000Z"
+        },
+        {
+          "id": "884bed0f263ec562e5d998deb08fd4883aee24bf",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "url": "https://minimaxir.com/2026/07/agent-quota-reset",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T19:06:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "url": "https://news.ycombinator.com/item?id=48961157",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T19:29:31.904000Z"
+        },
+        {
+          "id": "884bed0f263ec562e5d998deb08fd4883aee24bf",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "url": "https://minimaxir.com/2026/07/agent-quota-reset",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T19:06:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9595,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T19:06:23Z",
+      "latest_at": "2026-07-18T19:29:31.904000Z",
+      "primary_item": {
+        "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+        "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+        "url": "https://news.ycombinator.com/item?id=48961157",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
