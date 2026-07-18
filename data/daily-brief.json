@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:34:02.775067Z",
+  "generated_at": "2026-07-18T14:30:17.032810Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.732,
+        "recency": 0.7222,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +82,68 @@
         "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
         "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.811,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-18T00:00:00Z",
+      "latest_at": "2026-07-18T00:00:00Z",
+      "primary_item": {
+        "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+        "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7737,
+        "recency": 0.7633,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7997,
+        "recency": 0.7889,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.881,
+        "recency": 0.8691,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -344,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7505,
+        "recency": 0.7404,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -406,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7997,
+        "recency": 0.7889,
         "story_heat": 0.0
       },
       "category": "official",
@@ -468,15 +530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.75,
+        "recency": 0.7399,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -528,15 +590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7384,
+        "recency": 0.7285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -588,15 +650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7319,
+      "importance": 0.7319,
+      "importance_score": 0.7319,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7451,
+        "recency": 0.735,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,66 +672,6 @@
         "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
         "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_abb261c0d5d6",
-      "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-      "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-      "primary_url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-      "source": "X：美团 LongCat (@Meituan_LongCat)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
-          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-          "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-          "source": "X：美团 LongCat (@Meituan_LongCat)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T14:08:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：美团 LongCat (@Meituan_LongCat)"
-      ],
-      "items": [
-        {
-          "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
-          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-          "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-          "source": "X：美团 LongCat (@Meituan_LongCat)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T14:08:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.713,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T14:08:29Z",
-      "latest_at": "2026-07-17T14:08:29Z",
-      "primary_item": {
-        "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
-        "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-        "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-        "source": "X：美团 LongCat (@Meituan_LongCat)",
         "source_name": "AI HOT"
       }
     },
@@ -708,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7888,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -842,15 +844,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6488,
-      "importance": 0.6488,
-      "importance_score": 0.6488,
+      "score": 0.647,
+      "importance": 0.647,
+      "importance_score": 0.647,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.7482,
+        "recency": 0.7382,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -959,15 +961,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5929,
-      "importance": 0.5929,
-      "importance_score": 0.5929,
+      "score": 0.5905,
+      "importance": 0.5905,
+      "importance_score": 0.5905,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9839,
+        "recency": 0.9707,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -982,6 +984,202 @@
         "url": "https://news.ycombinator.com/item?id=48956924",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1c98b9c89e38",
+      "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "source": "old.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:34:47.532000Z"
+        },
+        {
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "old.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:34:47.532000Z"
+        },
+        {
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.997,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T13:00:52Z",
+      "latest_at": "2026-07-18T14:17:48.882000Z",
+      "primary_item": {
+        "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+        "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+        "source": "old.reddit.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b9b544c1b5eb",
+      "title": "图表展示：AI对Stack Overflow的影响",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "source": "data.stackexchange.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:26:41.800000Z"
+        },
+        {
+          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "data.stackexchange.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:26:41.800000Z"
+        },
+        {
+          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5682,
+      "importance": 0.5682,
+      "importance_score": 0.5682,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9854,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:12:46Z",
+      "latest_at": "2026-07-18T13:29:15.879000Z",
+      "primary_item": {
+        "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+        "title": "图表展示：AI对Stack Overflow的影响",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+        "source": "data.stackexchange.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1076,15 +1274,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
+      "score": 0.561,
+      "importance": 0.561,
+      "importance_score": 0.561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8177,
+        "recency": 0.8067,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1211,15 +1409,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5804,
-      "importance": 0.5804,
-      "importance_score": 0.5804,
+      "score": 0.5786,
+      "importance": 0.5786,
+      "importance_score": 0.5786,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7758,
+        "recency": 0.7653,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1290,15 +1488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.995,
+        "recency": 0.9817,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1312,6 +1510,85 @@
         "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
         "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
         "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_84198372e5db",
+      "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "primary_url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "source": "www.axios.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:57:22.221000Z"
+        },
+        {
+          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
+          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:49:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:57:22.221000Z"
+        },
+        {
+          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
+          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:49:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9779,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T12:49:11Z",
+      "latest_at": "2026-07-18T12:57:22.221000Z",
+      "primary_item": {
+        "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+        "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+        "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+        "source": "www.axios.com",
         "source_name": "Buzzing"
       }
     },
@@ -1369,15 +1646,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9761,
+        "recency": 0.963,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1392,243 +1669,6 @@
         "url": "https://news.ycombinator.com/item?id=48957109",
         "source": "news.ycombinator.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1261f03c93da",
-      "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "primary_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "92c287bceaa2847e205f847ad850224aac18b026",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:07:48.056000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "92c287bceaa2847e205f847ad850224aac18b026",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:07:48.056000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9695,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:07:48.056000Z",
-      "latest_at": "2026-07-18T11:25:16.799250Z",
-      "primary_item": {
-        "id": "92c287bceaa2847e205f847ad850224aac18b026",
-        "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e02649f4fa30",
-      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9575,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T10:21:01Z",
-      "latest_at": "2026-07-18T10:33:45.979000Z",
-      "primary_item": {
-        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_334727c4b329",
-      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:30:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:30:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9574,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T09:30:23Z",
-      "latest_at": "2026-07-18T10:33:16.542631Z",
-      "primary_item": {
-        "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-        "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-        "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
