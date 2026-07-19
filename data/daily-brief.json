@@ -1,70 +1,8 @@
 {
-  "generated_at": "2026-07-18T23:50:00.156483Z",
+  "generated_at": "2026-07-19T00:51:35.373529Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
-          "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-18T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
-          "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-18T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7088,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-18T00:00:00Z",
-      "latest_at": "2026-07-18T00:00:00Z",
-      "primary_item": {
-        "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
-        "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_3a54b06e9c82",
       "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
@@ -119,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7596,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -234,15 +172,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6293,
-      "importance": 0.6293,
-      "importance_score": 0.6293,
+      "score": 0.6269,
+      "importance": 0.6269,
+      "importance_score": 0.6269,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9171,
+        "recency": 0.9036,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,6 +195,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-18",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_6d307adecd0d",
+      "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+      "primary_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+      "source": "petapixel.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
+          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T23:23:34.024000Z"
+        },
+        {
+          "id": "37724182fcf76defd0c903036a934c04128cf2a1",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "petapixel.com"
+      ],
+      "items": [
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
+          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T23:23:34.024000Z"
+        },
+        {
+          "id": "37724182fcf76defd0c903036a934c04128cf2a1",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5697,
+      "importance": 0.5697,
+      "importance_score": 0.5697,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9937,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:13:39Z",
+      "latest_at": "2026-07-19T00:25:26.091000Z",
+      "primary_item": {
+        "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+        "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+        "source": "petapixel.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -351,15 +387,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5685,
-      "importance": 0.5685,
-      "importance_score": 0.5685,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8484,
+        "recency": 0.8359,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -449,15 +485,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5602,
-      "importance": 0.5602,
-      "importance_score": 0.5602,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.941,
+        "recency": 0.9272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -547,15 +583,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5494,
-      "importance": 0.5494,
-      "importance_score": 0.5494,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8814,
+        "recency": 0.8684,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -570,6 +606,85 @@
         "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
         "source": "charlesazam.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_51d49c809e60",
+      "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
+      "url": "https://www.ithome.com/0/978/613.htm",
+      "primary_url": "https://www.ithome.com/0/978/613.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
+          "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
+          "url": "https://www.ithome.com/0/978/613.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f9eaf06c0b33a3d64a3045580fecc029e260ba19",
+          "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
+          "url": "https://www.ithome.com/0/978/613.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T23:42:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
+          "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
+          "url": "https://www.ithome.com/0/978/613.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f9eaf06c0b33a3d64a3045580fecc029e260ba19",
+          "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
+          "url": "https://www.ithome.com/0/978/613.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T23:42:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T23:42:36Z",
+      "latest_at": "2026-07-19T00:51:35.373529Z",
+      "primary_item": {
+        "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
+        "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
+        "url": "https://www.ithome.com/0/978/613.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -645,15 +760,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5476,
-      "importance": 0.5476,
-      "importance_score": 0.5476,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8713,
+        "recency": 0.8585,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -668,85 +783,6 @@
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
         "source": "old.reddit.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c3bcd186db5a",
-      "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-      "url": "https://www.ithome.com/0/978/607.htm",
-      "primary_url": "https://www.ithome.com/0/978/607.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e3313a10b89c440e574530a6c756515914574019",
-          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T23:12:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e3313a10b89c440e574530a6c756515914574019",
-          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T23:12:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T23:12:58Z",
-      "latest_at": "2026-07-18T23:50:00.156483Z",
-      "primary_item": {
-        "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-        "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-        "url": "https://www.ithome.com/0/978/607.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -822,15 +858,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8612,
+        "recency": 0.8486,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -901,15 +937,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9556,
+        "recency": 0.9416,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -980,15 +1016,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.902,
+        "recency": 0.8887,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1058,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8999,
+        "recency": 0.8866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1137,15 +1173,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8579,
+        "recency": 0.8453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1216,15 +1252,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5196,
-      "importance": 0.5196,
-      "importance_score": 0.5196,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8546,
+        "recency": 0.8421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1239,6 +1275,85 @@
         "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
         "source": "www.axios.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c7c25f5dcb54",
+      "title": "飞机遇到颠簸时安全带指示灯总是「亮得太晚」？AI 正改变这一切",
+      "url": "https://www.ithome.com/0/978/611.htm",
+      "primary_url": "https://www.ithome.com/0/978/611.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6d836b5678c8e824695b6b1bfe46628e2992f733",
+          "title": "飞机遇到颠簸时安全带指示灯总是「亮得太晚」？AI 正改变这一切",
+          "url": "https://www.ithome.com/0/978/611.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "16c873fb0544345b81f30c8ca1cddd6b0ebf8f3a",
+          "title": "飞机遇到颠簸时安全带指示灯总是“亮得太晚”？AI 正改变这一切",
+          "url": "https://www.ithome.com/0/978/611.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T23:29:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6d836b5678c8e824695b6b1bfe46628e2992f733",
+          "title": "飞机遇到颠簸时安全带指示灯总是「亮得太晚」？AI 正改变这一切",
+          "url": "https://www.ithome.com/0/978/611.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "16c873fb0544345b81f30c8ca1cddd6b0ebf8f3a",
+          "title": "飞机遇到颠簸时安全带指示灯总是“亮得太晚”？AI 正改变这一切",
+          "url": "https://www.ithome.com/0/978/611.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T23:29:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T23:29:28Z",
+      "latest_at": "2026-07-19T00:51:35.373529Z",
+      "primary_item": {
+        "id": "6d836b5678c8e824695b6b1bfe46628e2992f733",
+        "title": "飞机遇到颠簸时安全带指示灯总是「亮得太晚」？AI 正改变这一切",
+        "url": "https://www.ithome.com/0/978/611.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1295,15 +1410,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8416,
+        "recency": 0.8293,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1374,15 +1489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
+      "score": 0.514,
+      "importance": 0.514,
+      "importance_score": 0.514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8359,
+        "recency": 0.8236,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1397,85 +1512,6 @@
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6d307adecd0d",
-      "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://news.ycombinator.com/item?id=48962983",
-      "primary_url": "https://news.ycombinator.com/item?id=48962983",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://news.ycombinator.com/item?id=48962983",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T23:23:34.024000Z"
-        },
-        {
-          "id": "37724182fcf76defd0c903036a934c04128cf2a1",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T22:13:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://news.ycombinator.com/item?id=48962983",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T23:23:34.024000Z"
-        },
-        {
-          "id": "37724182fcf76defd0c903036a934c04128cf2a1",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T22:13:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9937,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T22:13:39Z",
-      "latest_at": "2026-07-18T23:23:34.024000Z",
-      "primary_item": {
-        "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-        "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-        "url": "https://news.ycombinator.com/item?id=48962983",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1531,15 +1567,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
+      "score": 0.5122,
+      "importance": 0.5122,
+      "importance_score": 0.5122,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8253,
+        "recency": 0.8131,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1554,6 +1590,85 @@
         "url": "https://www.v2ex.com/t/1228233",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_6f4e7b4dbb1c",
+      "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+      "url": "https://news.ycombinator.com/item?id=48962405",
+      "primary_url": "https://news.ycombinator.com/item?id=48962405",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://news.ycombinator.com/item?id=48962405",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T22:22:14.771000Z"
+        },
+        {
+          "id": "6a6df9b6cbdd71a8c906ede1264831ef46056556",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://github.com/saineshnakra/automated-data-analyst",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T21:06:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://news.ycombinator.com/item?id=48962405",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T22:22:14.771000Z"
+        },
+        {
+          "id": "6a6df9b6cbdd71a8c906ede1264831ef46056556",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://github.com/saineshnakra/automated-data-analyst",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T21:06:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9647,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T21:06:49Z",
+      "latest_at": "2026-07-18T22:22:14.771000Z",
+      "primary_item": {
+        "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
+        "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+        "url": "https://news.ycombinator.com/item?id=48962405",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1610,15 +1725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7847,
+        "recency": 0.7731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1633,85 +1748,6 @@
         "url": "https://www.ithome.com/0/978/476.htm",
         "source": "IT之家 (ITHome)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_26149269af1e",
-      "title": "利奥加文/airllm / lyogavin / airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "primary_url": "https://github.com/lyogavin/airllm",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:07:48.056000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:07:48.056000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8359,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:07:48.056000Z",
-      "latest_at": "2026-07-18T11:25:16.799250Z",
-      "primary_item": {
-        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-        "title": "利奥加文/airllm / lyogavin / airllm",
-        "url": "https://github.com/lyogavin/airllm",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
       }
     }
   ]
