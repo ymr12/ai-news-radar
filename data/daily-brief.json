@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-07-19T01:39:57.748949Z",
+  "generated_at": "2026-07-19T03:11:59.686753Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_45da52ae09b4",
+      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "primary_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        },
+        {
+          "id": "a117b7230802eba247de3db469d97a734333ef3d",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-19T00:38:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        },
+        {
+          "id": "a117b7230802eba247de3db469d97a734333ef3d",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-19T00:38:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9945,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T00:38:26Z",
+      "latest_at": "2026-07-19T02:49:15.657000Z",
+      "primary_item": {
+        "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_3a54b06e9c82",
       "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
@@ -57,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7397,
+        "recency": 0.7235,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -172,15 +253,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.625,
-      "importance": 0.625,
-      "importance_score": 0.625,
+      "score": 0.6215,
+      "importance": 0.6215,
+      "importance_score": 0.6215,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8932,
+        "recency": 0.8736,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -270,15 +351,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5676,
-      "importance": 0.5676,
-      "importance_score": 0.5676,
+      "score": 0.5637,
+      "importance": 0.5637,
+      "importance_score": 0.5637,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9822,
+        "recency": 0.9607,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -387,15 +468,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5645,
-      "importance": 0.5645,
-      "importance_score": 0.5645,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8262,
+        "recency": 0.8081,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -485,15 +566,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5558,
-      "importance": 0.5558,
-      "importance_score": 0.5558,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9164,
+        "recency": 0.8964,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -511,55 +592,55 @@
       }
     },
     {
-      "story_id": "story_c7efad5fc563",
-      "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-      "url": "https://www.ithome.com/0/978/621.htm",
-      "primary_url": "https://www.ithome.com/0/978/621.htm",
+      "story_id": "story_2a60197f59a8",
+      "title": "高校花钱查AI，学生花钱降AI",
+      "url": "https://www.huxiu.com/article/4876427.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4876427.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
-          "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
+          "id": "0a69ee0b27f5d6cc02c177506268a92913d796ab",
+          "title": "高校花钱查AI，学生花钱降AI",
+          "url": "https://www.huxiu.com/article/4876427.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c6cbb240d05ebd2f033ae9cf6f93a9b09a2f848b",
-          "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "e602fdda0c064d59051ffa1f9102358e8fdf0e93",
+          "title": "高校花钱查 AI，学生花钱降 AI",
+          "url": "https://www.huxiu.com/article/4876427.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-19T00:30:21Z"
+          "published_at": "2026-07-19T02:39:33Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
-          "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
+          "id": "0a69ee0b27f5d6cc02c177506268a92913d796ab",
+          "title": "高校花钱查AI，学生花钱降AI",
+          "url": "https://www.huxiu.com/article/4876427.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c6cbb240d05ebd2f033ae9cf6f93a9b09a2f848b",
-          "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "e602fdda0c064d59051ffa1f9102358e8fdf0e93",
+          "title": "高校花钱查 AI，学生花钱降 AI",
+          "url": "https://www.huxiu.com/article/4876427.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-19T00:30:21Z"
+          "published_at": "2026-07-19T02:39:33Z"
         }
       ],
       "item_count": 2,
@@ -579,14 +660,171 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-19T00:30:21Z",
-      "latest_at": "2026-07-19T01:39:57.748949Z",
+      "earliest_at": "2026-07-19T02:39:33Z",
+      "latest_at": "2026-07-19T03:11:59.686753Z",
       "primary_item": {
-        "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
-        "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-        "url": "https://www.ithome.com/0/978/621.htm",
+        "id": "0a69ee0b27f5d6cc02c177506268a92913d796ab",
+        "title": "高校花钱查AI，学生花钱降AI",
+        "url": "https://www.huxiu.com/article/4876427.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_21e2edf6e749",
+      "title": "软件与人工智能——“预先规划”与“即兴创作”",
+      "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+      "primary_url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+      "source": "pyjarrett.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
+          "title": "软件与人工智能——“预先规划”与“即兴创作”",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "pyjarrett.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:17:42.006000Z"
+        },
+        {
+          "id": "5e8c7726c458ff15acfd16827c629cd0840e8fff",
+          "title": "软件与人工智能——“预先规划”与“即兴创作” / Software and AI - Plotting vs. Pantsing",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T02:14:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "pyjarrett.github.io"
+      ],
+      "items": [
+        {
+          "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
+          "title": "软件与人工智能——“预先规划”与“即兴创作”",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "pyjarrett.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:17:42.006000Z"
+        },
+        {
+          "id": "5e8c7726c458ff15acfd16827c629cd0840e8fff",
+          "title": "软件与人工智能——“预先规划”与“即兴创作” / Software and AI - Plotting vs. Pantsing",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T02:14:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.987,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T02:14:13Z",
+      "latest_at": "2026-07-19T02:17:42.006000Z",
+      "primary_item": {
+        "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
+        "title": "软件与人工智能——“预先规划”与“即兴创作”",
+        "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+        "source": "pyjarrett.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d51ff48bcdd3",
+      "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+      "url": "https://www.v2ex.com/t/1228308",
+      "primary_url": "https://www.v2ex.com/t/1228308",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
+          "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+          "url": "https://www.v2ex.com/t/1228308",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T01:59:45Z"
+        },
+        {
+          "id": "cc981b55fd27067b1040e622a14705e8899ef75e",
+          "title": "[程序员] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark！",
+          "url": "https://www.v2ex.com/t/1228293",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:23:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
+          "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+          "url": "https://www.v2ex.com/t/1228308",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T01:59:45Z"
+        },
+        {
+          "id": "cc981b55fd27067b1040e622a14705e8899ef75e",
+          "title": "[程序员] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark！",
+          "url": "https://www.v2ex.com/t/1228293",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:23:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9828,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:23:33Z",
+      "latest_at": "2026-07-19T01:59:45Z",
+      "primary_item": {
+        "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
+        "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+        "url": "https://www.v2ex.com/t/1228308",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -662,15 +900,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8584,
+        "recency": 0.8396,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -760,15 +998,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8486,
+        "recency": 0.83,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -858,15 +1096,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8387,
+        "recency": 0.8204,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -937,15 +1175,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9307,
+        "recency": 0.9103,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1016,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8785,
+        "recency": 0.8592,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1094,15 +1332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8764,
+        "recency": 0.8572,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1117,6 +1355,85 @@
         "url": "https://paulgraham.com/heresy.html",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_6cc9999f1d8a",
+      "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://news.ycombinator.com/item?id=48964185",
+      "primary_url": "https://news.ycombinator.com/item?id=48964185",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T02:52:46.429000Z"
+        },
+        {
+          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:10:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T02:52:46.429000Z"
+        },
+        {
+          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:10:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9954,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:10:54Z",
+      "latest_at": "2026-07-19T02:52:46.429000Z",
+      "primary_item": {
+        "id": "50309255056c40114111478e6000e7427e2e1f2f",
+        "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+        "url": "https://news.ycombinator.com/item?id=48964185",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1173,15 +1490,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8355,
+        "recency": 0.8172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1252,15 +1569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8323,
+        "recency": 0.8141,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,30 +1595,30 @@
       }
     },
     {
-      "story_id": "story_51d49c809e60",
-      "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-      "url": "https://www.ithome.com/0/978/613.htm",
-      "primary_url": "https://www.ithome.com/0/978/613.htm",
+      "story_id": "story_c7efad5fc563",
+      "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
+      "url": "https://www.ithome.com/0/978/621.htm",
+      "primary_url": "https://www.ithome.com/0/978/621.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
-          "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
+          "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
+          "url": "https://www.ithome.com/0/978/621.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f9eaf06c0b33a3d64a3045580fecc029e260ba19",
-          "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "c6cbb240d05ebd2f033ae9cf6f93a9b09a2f848b",
+          "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
+          "url": "https://www.ithome.com/0/978/621.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T23:42:36Z"
+          "published_at": "2026-07-19T00:30:21Z"
         }
       ],
       "source_count": 2,
@@ -1311,47 +1628,47 @@
       ],
       "items": [
         {
-          "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
-          "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
+          "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
+          "url": "https://www.ithome.com/0/978/621.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f9eaf06c0b33a3d64a3045580fecc029e260ba19",
-          "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
-          "url": "https://www.ithome.com/0/978/613.htm",
+          "id": "c6cbb240d05ebd2f033ae9cf6f93a9b09a2f848b",
+          "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
+          "url": "https://www.ithome.com/0/978/621.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T23:42:36Z"
+          "published_at": "2026-07-19T00:30:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9884,
+        "recency": 0.9781,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T23:42:36Z",
-      "latest_at": "2026-07-19T00:51:35.373529Z",
+      "earliest_at": "2026-07-19T00:30:21Z",
+      "latest_at": "2026-07-19T01:39:57.748949Z",
       "primary_item": {
-        "id": "c207b067e91e28a4263397610a4fe49b43f8bc83",
-        "title": "分析师：苹果 AI 策略「保守」反而是优势，可降低资本压力并驱动硬件升级",
-        "url": "https://www.ithome.com/0/978/613.htm",
+        "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
+        "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
+        "url": "https://www.ithome.com/0/978/621.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1410,15 +1727,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5133,
-      "importance": 0.5133,
-      "importance_score": 0.5133,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8197,
+        "recency": 0.8017,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1433,321 +1750,6 @@
         "url": "https://news.ycombinator.com/item?id=48957109",
         "source": "news.ycombinator.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1261f03c93da",
-      "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "primary_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "92c287bceaa2847e205f847ad850224aac18b026",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:07:48.056000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "92c287bceaa2847e205f847ad850224aac18b026",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:07:48.056000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5123,
-      "importance": 0.5123,
-      "importance_score": 0.5123,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8141,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:07:48.056000Z",
-      "latest_at": "2026-07-18T11:25:16.799250Z",
-      "primary_item": {
-        "id": "92c287bceaa2847e205f847ad850224aac18b026",
-        "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e775946229ad",
-      "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-      "url": "https://www.v2ex.com/t/1228233",
-      "primary_url": "https://www.v2ex.com/t/1228233",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
-          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        },
-        {
-          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
-          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
-          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        },
-        {
-          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
-          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8037,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T10:32:04Z",
-      "latest_at": "2026-07-18T10:32:04Z",
-      "primary_item": {
-        "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
-        "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-        "url": "https://www.v2ex.com/t/1228233",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_6f4e7b4dbb1c",
-      "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-      "url": "https://news.ycombinator.com/item?id=48962405",
-      "primary_url": "https://news.ycombinator.com/item?id=48962405",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
-          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-          "url": "https://news.ycombinator.com/item?id=48962405",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T22:22:14.771000Z"
-        },
-        {
-          "id": "6a6df9b6cbdd71a8c906ede1264831ef46056556",
-          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-          "url": "https://github.com/saineshnakra/automated-data-analyst",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T21:06:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
-          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-          "url": "https://news.ycombinator.com/item?id=48962405",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T22:22:14.771000Z"
-        },
-        {
-          "id": "6a6df9b6cbdd71a8c906ede1264831ef46056556",
-          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-          "url": "https://github.com/saineshnakra/automated-data-analyst",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T21:06:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9535,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T21:06:49Z",
-      "latest_at": "2026-07-18T22:22:14.771000Z",
-      "primary_item": {
-        "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
-        "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-        "url": "https://news.ycombinator.com/item?id=48962405",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_69266a9129ad",
-      "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
-      "url": "https://www.ithome.com/0/978/476.htm",
-      "primary_url": "https://www.ithome.com/0/978/476.htm",
-      "source": "IT之家 (ITHome)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
-          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
-          "url": "https://www.ithome.com/0/978/476.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:02:32Z"
-        },
-        {
-          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
-          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
-          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
-          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
-          "url": "https://www.ithome.com/0/978/476.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:02:32Z"
-        },
-        {
-          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
-          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
-          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5034,
-      "importance": 0.5034,
-      "importance_score": 0.5034,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7642,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T06:47:38.857749Z",
-      "latest_at": "2026-07-18T07:02:32Z",
-      "primary_item": {
-        "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
-        "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
-        "url": "https://www.ithome.com/0/978/476.htm",
-        "source": "IT之家 (ITHome)",
-        "source_name": "Info Flow"
       }
     }
   ]
