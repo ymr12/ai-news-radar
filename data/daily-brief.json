@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T08:19:12.259418Z",
+  "generated_at": "2026-07-19T09:14:27.283323Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7969,
-      "importance": 0.7969,
-      "importance_score": 0.7969,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.9115,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.9327,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -162,6 +162,67 @@
         "title": "ChatGPT Work 功能：建站、邮件、文档处理",
         "url": "https://x.com/thsottiaux/status/2078697631019303273",
         "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bf374b408221",
+      "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+      "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d5ec218da0cf14fffc1c7a1b846c3c943af503fc",
+          "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+          "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T08:10:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "d5ec218da0cf14fffc1c7a1b846c3c943af503fc",
+          "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+          "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T08:10:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9848,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T08:10:39Z",
+      "latest_at": "2026-07-19T08:10:39Z",
+      "primary_item": {
+        "id": "d5ec218da0cf14fffc1c7a1b846c3c943af503fc",
+        "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+        "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       }
     },
@@ -200,15 +261,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9356,
+        "recency": 0.9233,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -280,15 +341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7817,
-      "importance": 0.7817,
-      "importance_score": 0.7817,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9563,
+        "recency": 0.9436,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -305,6 +366,141 @@
         "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d307adecd0d",
+      "title": "纽约市可能要求房东和房地产经纪人披露人工智能在房源中的使用情况 / NYC may require landlords and realtors to disclose the use of AI in listings",
+      "url": "https://news.ycombinator.com/item?id=48962983",
+      "primary_url": "https://news.ycombinator.com/item?id=48962983",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "74119b61675202f81605c75f19e49287ea04cb51",
+          "title": "纽约市可能要求房东和房地产经纪人披露人工智能在房源中的使用情况 / NYC may require landlords and realtors to disclose the use of AI in listings",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T08:48:17.607000Z"
+        },
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
+          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T23:23:34.024000Z"
+        },
+        {
+          "id": "ad0494ff3eada34eae23761bf65a50d2302773ef",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:13:39Z"
+        },
+        {
+          "id": "32e65e68ee238c2a392d6a103c6d896d9b3ec0a9",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / NYC may require landlords and realtors to disclose the use of AI in listings",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "petapixel.com"
+      ],
+      "items": [
+        {
+          "id": "74119b61675202f81605c75f19e49287ea04cb51",
+          "title": "纽约市可能要求房东和房地产经纪人披露人工智能在房源中的使用情况 / NYC may require landlords and realtors to disclose the use of AI in listings",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T08:48:17.607000Z"
+        },
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
+          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T23:23:34.024000Z"
+        },
+        {
+          "id": "ad0494ff3eada34eae23761bf65a50d2302773ef",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:13:39Z"
+        },
+        {
+          "id": "32e65e68ee238c2a392d6a103c6d896d9b3ec0a9",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / NYC may require landlords and realtors to disclose the use of AI in listings",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6197,
+      "importance": 0.6197,
+      "importance_score": 0.6197,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9937,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:13:39Z",
+      "latest_at": "2026-07-19T08:48:17.607000Z",
+      "primary_item": {
+        "id": "74119b61675202f81605c75f19e49287ea04cb51",
+        "title": "纽约市可能要求房东和房地产经纪人披露人工智能在房源中的使用情况 / NYC may require landlords and realtors to disclose the use of AI in listings",
+        "url": "https://news.ycombinator.com/item?id=48962983",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -396,15 +592,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6102,
-      "importance": 0.6102,
-      "importance_score": 0.6102,
+      "score": 0.6083,
+      "importance": 0.6083,
+      "importance_score": 0.6083,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8114,
+        "recency": 0.8006,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -422,118 +618,865 @@
       }
     },
     {
-      "story_id": "story_6d307adecd0d",
-      "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-      "primary_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-      "source": "petapixel.com",
-      "source_name": "Buzzing",
+      "story_id": "story_fe602fc4cf57",
+      "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+      "url": "https://www.gelonghui.com/p/5633132",
+      "primary_url": "https://www.gelonghui.com/p/5633132",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
-          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "petapixel.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T00:25:26.091000Z"
+          "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
+          "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+          "url": "https://www.gelonghui.com/p/5633132",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://news.ycombinator.com/item?id=48962983",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T23:23:34.024000Z"
-        },
-        {
-          "id": "37724182fcf76defd0c903036a934c04128cf2a1",
-          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News (黑客新闻)",
+          "id": "7774f732698d6c592380c98551e517fdb35dbb97",
+          "title": "预言“互联网泡沫”的峰会，开始讨论“AI泡沫”了",
+          "url": "https://www.huxiu.com/article/4876456.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T22:13:39Z"
-        },
-        {
-          "id": "32e65e68ee238c2a392d6a103c6d896d9b3ec0a9",
-          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / NYC may require landlords and realtors to disclose the use of AI in listings",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T22:13:39Z"
+          "published_at": "2026-07-19T07:09:08Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "petapixel.com"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
-          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "petapixel.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T00:25:26.091000Z"
+          "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
+          "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+          "url": "https://www.gelonghui.com/p/5633132",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://news.ycombinator.com/item?id=48962983",
+          "id": "7774f732698d6c592380c98551e517fdb35dbb97",
+          "title": "预言“互联网泡沫”的峰会，开始讨论“AI泡沫”了",
+          "url": "https://www.huxiu.com/article/4876456.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T07:09:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T07:09:08Z",
+      "latest_at": "2026-07-19T09:14:27.283323Z",
+      "primary_item": {
+        "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
+        "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+        "url": "https://www.gelonghui.com/p/5633132",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_74e3e3f8305c",
+      "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T06:49:20.905000Z"
+        },
+        {
+          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:33:12.706000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T06:49:20.905000Z"
+        },
+        {
+          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:33:12.706000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9657,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T02:33:12.706000Z",
+      "latest_at": "2026-07-19T06:49:20.905000Z",
+      "primary_item": {
+        "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
+        "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cbcd45422a3a",
+      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+      "url": "https://ykdojo.github.io/claude-controls-mac",
+      "primary_url": "https://ykdojo.github.io/claude-controls-mac",
+      "source": "ykdojo.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T19:37:23.960000Z"
+        },
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T23:23:34.024000Z"
+          "published_at": "2026-07-18T16:24:17.999000Z"
         },
         {
-          "id": "37724182fcf76defd0c903036a934c04128cf2a1",
-          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T22:13:39Z"
-        },
-        {
-          "id": "32e65e68ee238c2a392d6a103c6d896d9b3ec0a9",
-          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / NYC may require landlords and realtors to disclose the use of AI in listings",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T22:13:39Z"
+          "published_at": "2026-07-18T16:12:08Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5764,
-      "importance": 0.5764,
-      "importance_score": 0.5764,
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "ykdojo.github.io"
+      ],
+      "items": [
+        {
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T19:37:23.960000Z"
+        },
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:24:17.999000Z"
+        },
+        {
+          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8922,
-        "story_heat": 0.75
+        "recency": 0.8215,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T22:13:39Z",
-      "latest_at": "2026-07-19T00:25:26.091000Z",
+      "earliest_at": "2026-07-18T16:12:08Z",
+      "latest_at": "2026-07-18T19:37:23.960000Z",
       "primary_item": {
-        "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
-        "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
-        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-        "source": "petapixel.com",
+        "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+        "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+        "url": "https://ykdojo.github.io/claude-controls-mac",
+        "source": "ykdojo.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7aae3635051b",
+      "title": "AI手机不是在卷模型，是在抢入口",
+      "url": "https://www.huxiu.com/article/4876443.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4876443.html?f=rss",
+      "source": "虎嗅 (Huxiu)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e4599adf5db73844bf56bee9acbcdf7561a733ad",
+          "title": "AI手机不是在卷模型，是在抢入口",
+          "url": "https://www.huxiu.com/article/4876443.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T05:48:31Z"
+        },
+        {
+          "id": "cfb78e0c527673fc515383c5a1a8d5de262df9ab",
+          "title": "AI手机大战里，模型能力并不是最重要的",
+          "url": "https://www.huxiu.com/article/4876443.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T05:48:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "e4599adf5db73844bf56bee9acbcdf7561a733ad",
+          "title": "AI手机不是在卷模型，是在抢入口",
+          "url": "https://www.huxiu.com/article/4876443.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T05:48:31Z"
+        },
+        {
+          "id": "cfb78e0c527673fc515383c5a1a8d5de262df9ab",
+          "title": "AI手机大战里，模型能力并不是最重要的",
+          "url": "https://www.huxiu.com/article/4876443.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T05:48:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9516,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T05:48:00Z",
+      "latest_at": "2026-07-19T05:48:31Z",
+      "primary_item": {
+        "id": "e4599adf5db73844bf56bee9acbcdf7561a733ad",
+        "title": "AI手机不是在卷模型，是在抢入口",
+        "url": "https://www.huxiu.com/article/4876443.html?f=rss",
+        "source": "虎嗅 (Huxiu)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_5d856025fe14",
+      "title": "《法典》重置",
+      "url": "https://codex-resets.com",
+      "primary_url": "https://codex-resets.com",
+      "source": "codex-resets.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+          "title": "《法典》重置",
+          "url": "https://codex-resets.com",
+          "source": "codex-resets.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.442000Z"
+        },
+        {
+          "id": "2383c8441a5382743d239c02fc6ad0b72c359ae9",
+          "title": "《法典》重置 / Codex Resets",
+          "url": "https://codex-resets.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T23:24:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "codex-resets.com"
+      ],
+      "items": [
+        {
+          "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+          "title": "《法典》重置",
+          "url": "https://codex-resets.com",
+          "source": "codex-resets.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.442000Z"
+        },
+        {
+          "id": "2383c8441a5382743d239c02fc6ad0b72c359ae9",
+          "title": "《法典》重置 / Codex Resets",
+          "url": "https://codex-resets.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T23:24:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9256,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T23:24:26Z",
+      "latest_at": "2026-07-19T03:53:18.442000Z",
+      "primary_item": {
+        "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+        "title": "《法典》重置",
+        "url": "https://codex-resets.com",
+        "source": "codex-resets.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_737581f31a19",
+      "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "primary_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "source": "charlesazam.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:26:41.800000Z"
+        },
+        {
+          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "charlesazam.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:26:41.800000Z"
+        },
+        {
+          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7694,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T15:05:23.818000Z",
+      "primary_item": {
+        "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+        "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+        "source": "charlesazam.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_21e2edf6e749",
+      "title": "软件与人工智能——“预先规划”与“即兴创作”",
+      "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+      "primary_url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+      "source": "pyjarrett.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
+          "title": "软件与人工智能——“预先规划”与“即兴创作”",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "pyjarrett.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:17:42.006000Z"
+        },
+        {
+          "id": "5e8c7726c458ff15acfd16827c629cd0840e8fff",
+          "title": "软件与人工智能——“预先规划”与“即兴创作” / Software and AI - Plotting vs. Pantsing",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T02:14:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "pyjarrett.github.io"
+      ],
+      "items": [
+        {
+          "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
+          "title": "软件与人工智能——“预先规划”与“即兴创作”",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "pyjarrett.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:17:42.006000Z"
+        },
+        {
+          "id": "5e8c7726c458ff15acfd16827c629cd0840e8fff",
+          "title": "软件与人工智能——“预先规划”与“即兴创作” / Software and AI - Plotting vs. Pantsing",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T02:14:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9046,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T02:14:13Z",
+      "latest_at": "2026-07-19T02:17:42.006000Z",
+      "primary_item": {
+        "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
+        "title": "软件与人工智能——“预先规划”与“即兴创作”",
+        "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+        "source": "pyjarrett.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d51ff48bcdd3",
+      "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+      "url": "https://www.v2ex.com/t/1228308",
+      "primary_url": "https://www.v2ex.com/t/1228308",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
+          "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+          "url": "https://www.v2ex.com/t/1228308",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T01:59:45Z"
+        },
+        {
+          "id": "cc981b55fd27067b1040e622a14705e8899ef75e",
+          "title": "[程序员] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark！",
+          "url": "https://www.v2ex.com/t/1228293",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:23:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
+          "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+          "url": "https://www.v2ex.com/t/1228308",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T01:59:45Z"
+        },
+        {
+          "id": "cc981b55fd27067b1040e622a14705e8899ef75e",
+          "title": "[程序员] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark！",
+          "url": "https://www.v2ex.com/t/1228293",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:23:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9007,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:23:33Z",
+      "latest_at": "2026-07-19T01:59:45Z",
+      "primary_item": {
+        "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
+        "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+        "url": "https://www.v2ex.com/t/1228308",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_1c98b9c89e38",
+      "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "source": "old.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:34:47.532000Z"
+        },
+        {
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "old.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:34:47.532000Z"
+        },
+        {
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7607,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T13:00:52Z",
+      "latest_at": "2026-07-18T14:17:48.882000Z",
+      "primary_item": {
+        "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+        "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+        "source": "old.reddit.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b9b544c1b5eb",
+      "title": "图表展示：AI对Stack Overflow的影响",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "source": "data.stackexchange.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:26:41.800000Z"
+        },
+        {
+          "id": "62497c7bd1b7afc94ea16bb5aba86459e2008ebb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "data.stackexchange.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:26:41.800000Z"
+        },
+        {
+          "id": "62497c7bd1b7afc94ea16bb5aba86459e2008ebb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7518,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:12:46Z",
+      "latest_at": "2026-07-18T13:29:15.879000Z",
+      "primary_item": {
+        "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+        "title": "图表展示：AI对Stack Overflow的影响",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+        "source": "data.stackexchange.com",
         "source_name": "Buzzing"
       }
     },
@@ -629,15 +1572,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5509,
-      "importance": 0.5509,
-      "importance_score": 0.5509,
+      "score": 0.5491,
+      "importance": 0.5491,
+      "importance_score": 0.5491,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7505,
+        "recency": 0.7406,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -652,869 +1595,6 @@
         "url": "https://news.ycombinator.com/item?id=48956924",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_b59793ea19f9",
-      "title": "中国地震局发布「人工智能+防震减灾」三年行动方案，剑指2028年",
-      "url": "https://www.ithome.com/0/978/698.htm",
-      "primary_url": "https://www.ithome.com/0/978/698.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1002ca15b5ce11a4b2ff38e2e809209c875cc10c",
-          "title": "中国地震局发布「人工智能+防震减灾」三年行动方案，剑指2028年",
-          "url": "https://www.ithome.com/0/978/698.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "145810cc2055a406bff0e3db154c43839bd23bc3",
-          "title": "中国地震局发布“人工智能 + 防震减灾”三年行动方案，剑指 2028 年",
-          "url": "https://www.ithome.com/0/978/698.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T06:41:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1002ca15b5ce11a4b2ff38e2e809209c875cc10c",
-          "title": "中国地震局发布「人工智能+防震减灾」三年行动方案，剑指2028年",
-          "url": "https://www.ithome.com/0/978/698.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "145810cc2055a406bff0e3db154c43839bd23bc3",
-          "title": "中国地震局发布“人工智能 + 防震减灾”三年行动方案，剑指 2028 年",
-          "url": "https://www.ithome.com/0/978/698.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T06:41:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9862,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T06:41:16Z",
-      "latest_at": "2026-07-19T07:21:21.183751Z",
-      "primary_item": {
-        "id": "1002ca15b5ce11a4b2ff38e2e809209c875cc10c",
-        "title": "中国地震局发布「人工智能+防震减灾」三年行动方案，剑指2028年",
-        "url": "https://www.ithome.com/0/978/698.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_74e3e3f8305c",
-      "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T06:49:20.905000Z"
-        },
-        {
-          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T02:33:12.706000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T06:49:20.905000Z"
-        },
-        {
-          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T02:33:12.706000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9786,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T02:33:12.706000Z",
-      "latest_at": "2026-07-19T06:49:20.905000Z",
-      "primary_item": {
-        "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
-        "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cbcd45422a3a",
-      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-      "url": "https://ykdojo.github.io/claude-controls-mac",
-      "primary_url": "https://ykdojo.github.io/claude-controls-mac",
-      "source": "ykdojo.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "ykdojo.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T19:37:23.960000Z"
-        },
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:24:17.999000Z"
-        },
-        {
-          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "ykdojo.github.io"
-      ],
-      "items": [
-        {
-          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "ykdojo.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T19:37:23.960000Z"
-        },
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:24:17.999000Z"
-        },
-        {
-          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8325,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T16:12:08Z",
-      "latest_at": "2026-07-18T19:37:23.960000Z",
-      "primary_item": {
-        "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-        "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-        "url": "https://ykdojo.github.io/claude-controls-mac",
-        "source": "ykdojo.github.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7aae3635051b",
-      "title": "AI手机不是在卷模型，是在抢入口",
-      "url": "https://www.huxiu.com/article/4876443.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876443.html?f=rss",
-      "source": "虎嗅 (Huxiu)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e4599adf5db73844bf56bee9acbcdf7561a733ad",
-          "title": "AI手机不是在卷模型，是在抢入口",
-          "url": "https://www.huxiu.com/article/4876443.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T05:48:31Z"
-        },
-        {
-          "id": "cfb78e0c527673fc515383c5a1a8d5de262df9ab",
-          "title": "AI手机大战里，模型能力并不是最重要的",
-          "url": "https://www.huxiu.com/article/4876443.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T05:48:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "e4599adf5db73844bf56bee9acbcdf7561a733ad",
-          "title": "AI手机不是在卷模型，是在抢入口",
-          "url": "https://www.huxiu.com/article/4876443.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T05:48:31Z"
-        },
-        {
-          "id": "cfb78e0c527673fc515383c5a1a8d5de262df9ab",
-          "title": "AI手机大战里，模型能力并不是最重要的",
-          "url": "https://www.huxiu.com/article/4876443.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T05:48:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9644,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T05:48:00Z",
-      "latest_at": "2026-07-19T05:48:31Z",
-      "primary_item": {
-        "id": "e4599adf5db73844bf56bee9acbcdf7561a733ad",
-        "title": "AI手机不是在卷模型，是在抢入口",
-        "url": "https://www.huxiu.com/article/4876443.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_5d856025fe14",
-      "title": "《法典》重置",
-      "url": "https://codex-resets.com",
-      "primary_url": "https://codex-resets.com",
-      "source": "codex-resets.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
-          "title": "《法典》重置",
-          "url": "https://codex-resets.com",
-          "source": "codex-resets.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T03:53:18.442000Z"
-        },
-        {
-          "id": "2383c8441a5382743d239c02fc6ad0b72c359ae9",
-          "title": "《法典》重置 / Codex Resets",
-          "url": "https://codex-resets.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T23:24:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "codex-resets.com"
-      ],
-      "items": [
-        {
-          "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
-          "title": "《法典》重置",
-          "url": "https://codex-resets.com",
-          "source": "codex-resets.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T03:53:18.442000Z"
-        },
-        {
-          "id": "2383c8441a5382743d239c02fc6ad0b72c359ae9",
-          "title": "《法典》重置 / Codex Resets",
-          "url": "https://codex-resets.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T23:24:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.938,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T23:24:26Z",
-      "latest_at": "2026-07-19T03:53:18.442000Z",
-      "primary_item": {
-        "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
-        "title": "《法典》重置",
-        "url": "https://codex-resets.com",
-        "source": "codex-resets.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_737581f31a19",
-      "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-      "primary_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-      "source": "charlesazam.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "charlesazam.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T15:05:23.818000Z"
-        },
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:26:41.800000Z"
-        },
-        {
-          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "charlesazam.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "charlesazam.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T15:05:23.818000Z"
-        },
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:26:41.800000Z"
-        },
-        {
-          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7797,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:00:29Z",
-      "latest_at": "2026-07-18T15:05:23.818000Z",
-      "primary_item": {
-        "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-        "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-        "source": "charlesazam.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_21e2edf6e749",
-      "title": "软件与人工智能——“预先规划”与“即兴创作”",
-      "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-      "primary_url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-      "source": "pyjarrett.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
-          "title": "软件与人工智能——“预先规划”与“即兴创作”",
-          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-          "source": "pyjarrett.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T02:17:42.006000Z"
-        },
-        {
-          "id": "5e8c7726c458ff15acfd16827c629cd0840e8fff",
-          "title": "软件与人工智能——“预先规划”与“即兴创作” / Software and AI - Plotting vs. Pantsing",
-          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T02:14:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "pyjarrett.github.io"
-      ],
-      "items": [
-        {
-          "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
-          "title": "软件与人工智能——“预先规划”与“即兴创作”",
-          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-          "source": "pyjarrett.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T02:17:42.006000Z"
-        },
-        {
-          "id": "5e8c7726c458ff15acfd16827c629cd0840e8fff",
-          "title": "软件与人工智能——“预先规划”与“即兴创作” / Software and AI - Plotting vs. Pantsing",
-          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T02:14:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9167,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T02:14:13Z",
-      "latest_at": "2026-07-19T02:17:42.006000Z",
-      "primary_item": {
-        "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
-        "title": "软件与人工智能——“预先规划”与“即兴创作”",
-        "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-        "source": "pyjarrett.github.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d51ff48bcdd3",
-      "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
-      "url": "https://www.v2ex.com/t/1228308",
-      "primary_url": "https://www.v2ex.com/t/1228308",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
-          "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
-          "url": "https://www.v2ex.com/t/1228308",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T01:59:45Z"
-        },
-        {
-          "id": "cc981b55fd27067b1040e622a14705e8899ef75e",
-          "title": "[程序员] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark！",
-          "url": "https://www.v2ex.com/t/1228293",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T22:23:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
-          "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
-          "url": "https://www.v2ex.com/t/1228308",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T01:59:45Z"
-        },
-        {
-          "id": "cc981b55fd27067b1040e622a14705e8899ef75e",
-          "title": "[程序员] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark！",
-          "url": "https://www.v2ex.com/t/1228293",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T22:23:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9127,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T22:23:33Z",
-      "latest_at": "2026-07-19T01:59:45Z",
-      "primary_item": {
-        "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
-        "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
-        "url": "https://www.v2ex.com/t/1228308",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_1c98b9c89e38",
-      "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-      "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-      "source": "old.reddit.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:34:47.532000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "old.reddit.com"
-      ],
-      "items": [
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:34:47.532000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7708,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T13:00:52Z",
-      "latest_at": "2026-07-18T14:17:48.882000Z",
-      "primary_item": {
-        "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-        "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-        "source": "old.reddit.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b9b544c1b5eb",
-      "title": "图表展示：AI对Stack Overflow的影响",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-      "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-      "source": "data.stackexchange.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-          "title": "图表展示：AI对Stack Overflow的影响",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "data.stackexchange.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:29:15.879000Z"
-        },
-        {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://news.ycombinator.com/item?id=48956949",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:26:41.800000Z"
-        },
-        {
-          "id": "62497c7bd1b7afc94ea16bb5aba86459e2008ebb",
-          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T11:12:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "data.stackexchange.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-          "title": "图表展示：AI对Stack Overflow的影响",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "data.stackexchange.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:29:15.879000Z"
-        },
-        {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://news.ycombinator.com/item?id=48956949",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:26:41.800000Z"
-        },
-        {
-          "id": "62497c7bd1b7afc94ea16bb5aba86459e2008ebb",
-          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T11:12:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7619,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:12:46Z",
-      "latest_at": "2026-07-18T13:29:15.879000Z",
-      "primary_item": {
-        "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-        "title": "图表展示：AI对Stack Overflow的影响",
-        "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-        "source": "data.stackexchange.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1571,15 +1651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.518,
-      "importance": 0.518,
-      "importance_score": 0.518,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8454,
+        "recency": 0.8342,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1597,161 +1677,82 @@
       }
     },
     {
-      "story_id": "story_f4e4bccb1254",
-      "title": "下周，AI 交易迎关键考验",
-      "url": "https://www.huxiu.com/article/4876435.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876435.html?f=rss",
+      "story_id": "story_b59793ea19f9",
+      "title": "中国地震局发布「人工智能+防震减灾」三年行动方案，剑指2028年",
+      "url": "https://www.ithome.com/0/978/698.htm",
+      "primary_url": "https://www.ithome.com/0/978/698.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "45a0d741597f44f208874e417dfe03860303c9ba",
-          "title": "下周，AI 交易迎关键考验",
-          "url": "https://www.huxiu.com/article/4876435.html?f=rss",
+          "id": "1002ca15b5ce11a4b2ff38e2e809209c875cc10c",
+          "title": "中国地震局发布「人工智能+防震减灾」三年行动方案，剑指2028年",
+          "url": "https://www.ithome.com/0/978/698.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "625bd8faf76c2a7bc843d2f7b094247e8b340eab",
-          "title": "下周，AI交易迎关键考验",
-          "url": "https://www.huxiu.com/article/4876435.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "145810cc2055a406bff0e3db154c43839bd23bc3",
+          "title": "中国地震局发布“人工智能 + 防震减灾”三年行动方案，剑指 2028 年",
+          "url": "https://www.ithome.com/0/978/698.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-19T04:18:37Z"
+          "published_at": "2026-07-19T06:41:16Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "45a0d741597f44f208874e417dfe03860303c9ba",
-          "title": "下周，AI 交易迎关键考验",
-          "url": "https://www.huxiu.com/article/4876435.html?f=rss",
+          "id": "1002ca15b5ce11a4b2ff38e2e809209c875cc10c",
+          "title": "中国地震局发布「人工智能+防震减灾」三年行动方案，剑指2028年",
+          "url": "https://www.ithome.com/0/978/698.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "625bd8faf76c2a7bc843d2f7b094247e8b340eab",
-          "title": "下周，AI交易迎关键考验",
-          "url": "https://www.huxiu.com/article/4876435.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "145810cc2055a406bff0e3db154c43839bd23bc3",
+          "title": "中国地震局发布“人工智能 + 防震减灾”三年行动方案，剑指 2028 年",
+          "url": "https://www.ithome.com/0/978/698.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-19T04:18:37Z"
+          "published_at": "2026-07-19T06:41:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9679,
+        "recency": 0.9731,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-19T04:18:37Z",
-      "latest_at": "2026-07-19T06:03:30.554957Z",
+      "earliest_at": "2026-07-19T06:41:16Z",
+      "latest_at": "2026-07-19T07:21:21.183751Z",
       "primary_item": {
-        "id": "45a0d741597f44f208874e417dfe03860303c9ba",
-        "title": "下周，AI 交易迎关键考验",
-        "url": "https://www.huxiu.com/article/4876435.html?f=rss",
+        "id": "1002ca15b5ce11a4b2ff38e2e809209c875cc10c",
+        "title": "中国地震局发布「人工智能+防震减灾」三年行动方案，剑指2028年",
+        "url": "https://www.ithome.com/0/978/698.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_cdc22d7d874c",
-      "title": "“审查人工智能代码”并非一个站得住脚的论点",
-      "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-      "primary_url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-      "source": "softwaremaxims.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "softwaremaxims.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T16:41:31.812000Z"
-        },
-        {
-          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:25:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "softwaremaxims.com"
-      ],
-      "items": [
-        {
-          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "softwaremaxims.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T16:41:31.812000Z"
-        },
-        {
-          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:25:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.798,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T16:25:19Z",
-      "latest_at": "2026-07-18T16:41:31.812000Z",
-      "primary_item": {
-        "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
-        "title": "“审查人工智能代码”并非一个站得住脚的论点",
-        "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-        "source": "softwaremaxims.com",
-        "source_name": "Buzzing"
       }
     }
   ]
