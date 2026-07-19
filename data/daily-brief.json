@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T03:11:59.686753Z",
+  "generated_at": "2026-07-19T04:39:35.099340Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9945,
+        "recency": 0.9738,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -82,6 +82,128 @@
         "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_96a5eaa45938",
+      "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+      "url": "https://x.com/thsottiaux/status/2078697631019303273",
+      "primary_url": "https://x.com/thsottiaux/status/2078697631019303273",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2177b882d65895e102f50c1d60bdb546e28a36f6",
+          "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+          "url": "https://x.com/thsottiaux/status/2078697631019303273",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T04:25:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "2177b882d65895e102f50c1d60bdb546e28a36f6",
+          "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+          "url": "https://x.com/thsottiaux/status/2078697631019303273",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T04:25:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9965,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T04:25:10Z",
+      "latest_at": "2026-07-19T04:25:10Z",
+      "primary_item": {
+        "id": "2177b882d65895e102f50c1d60bdb546e28a36f6",
+        "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+        "url": "https://x.com/thsottiaux/status/2078697631019303273",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d5da13e42be7",
+      "title": "何夕2077 AI 深度信号周报 (2026 W29) | 全球治理撕裂、Claude 信任危机与端侧算力觉醒",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "f17abd744093b555e49bfbbd1b2d46e0598fb270",
+          "title": "何夕2077 AI 深度信号周报 (2026 W29) | 全球治理撕裂、Claude 信任危机与端侧算力觉醒",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-07-19T03:42:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "f17abd744093b555e49bfbbd1b2d46e0598fb270",
+          "title": "何夕2077 AI 深度信号周报 (2026 W29) | 全球治理撕裂、Claude 信任危机与端侧算力觉醒",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-07-19T03:42:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9864,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T03:42:47Z",
+      "latest_at": "2026-07-19T03:42:47Z",
+      "primary_item": {
+        "id": "f17abd744093b555e49bfbbd1b2d46e0598fb270",
+        "title": "何夕2077 AI 深度信号周报 (2026 W29) | 全球治理撕裂、Claude 信任危机与端侧算力觉醒",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -138,15 +260,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7235,
+        "recency": 0.7084,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -253,15 +375,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6215,
-      "importance": 0.6215,
-      "importance_score": 0.6215,
+      "score": 0.6182,
+      "importance": 0.6182,
+      "importance_score": 0.6182,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8736,
+        "recency": 0.8554,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -351,15 +473,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5601,
+      "importance": 0.5601,
+      "importance_score": 0.5601,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9607,
+        "recency": 0.9407,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -468,15 +590,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5613,
-      "importance": 0.5613,
-      "importance_score": 0.5613,
+      "score": 0.5582,
+      "importance": 0.5582,
+      "importance_score": 0.5582,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8081,
+        "recency": 0.7912,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -566,15 +688,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5521,
-      "importance": 0.5521,
-      "importance_score": 0.5521,
+      "score": 0.5488,
+      "importance": 0.5488,
+      "importance_score": 0.5488,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8964,
+        "recency": 0.8777,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -588,6 +710,163 @@
         "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
         "url": "https://ykdojo.github.io/claude-controls-mac",
         "source": "ykdojo.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6c5556b77912",
+      "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "46f6df3995187ca8eb7aa7d9c408fb9b01158083",
+          "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.933000Z"
+        },
+        {
+          "id": "2bede32462e859f8445451032c258b29efa6ea8f",
+          "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNUHJpdWdDWWVvYkM4SEZjY0F5OUJoSFBqUi04VlRBVlJrTDFFaXNWY01fNEFzTkNKaFFwR2R6Um1QLVQ5QXR2UmViSzZRS0xBMVRvcDVwbUJIekRhRkJKUVc5dE1CNzlLenhCSTlsQWp2aTdCaVVVa2dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.126000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "46f6df3995187ca8eb7aa7d9c408fb9b01158083",
+          "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.933000Z"
+        },
+        {
+          "id": "2bede32462e859f8445451032c258b29efa6ea8f",
+          "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNUHJpdWdDWWVvYkM4SEZjY0F5OUJoSFBqUi04VlRBVlJrTDFFaXNWY01fNEFzTkNKaFFwR2R6Um1QLVQ5QXR2UmViSzZRS0xBMVRvcDVwbUJIekRhRkJKUVc5dE1CNzlLenhCSTlsQWp2aTdCaVVVa2dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.126000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9889,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T00:25:26.126000Z",
+      "latest_at": "2026-07-19T03:53:18.933000Z",
+      "primary_item": {
+        "id": "46f6df3995187ca8eb7aa7d9c408fb9b01158083",
+        "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5d856025fe14",
+      "title": "《法典》重置",
+      "url": "https://codex-resets.com",
+      "primary_url": "https://codex-resets.com",
+      "source": "codex-resets.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+          "title": "《法典》重置",
+          "url": "https://codex-resets.com",
+          "source": "codex-resets.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.442000Z"
+        },
+        {
+          "id": "2383c8441a5382743d239c02fc6ad0b72c359ae9",
+          "title": "《法典》重置 / Codex Resets",
+          "url": "https://codex-resets.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T23:24:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "codex-resets.com"
+      ],
+      "items": [
+        {
+          "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+          "title": "《法典》重置",
+          "url": "https://codex-resets.com",
+          "source": "codex-resets.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.442000Z"
+        },
+        {
+          "id": "2383c8441a5382743d239c02fc6ad0b72c359ae9",
+          "title": "《法典》重置 / Codex Resets",
+          "url": "https://codex-resets.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T23:24:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9889,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T23:24:26Z",
+      "latest_at": "2026-07-19T03:53:18.442000Z",
+      "primary_item": {
+        "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+        "title": "《法典》重置",
+        "url": "https://codex-resets.com",
+        "source": "codex-resets.com",
         "source_name": "Buzzing"
       }
     },
@@ -645,15 +924,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -724,15 +1003,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.987,
+        "recency": 0.9664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,15 +1081,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9828,
+        "recency": 0.9623,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -900,15 +1179,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8396,
+        "recency": 0.822,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -998,15 +1277,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.83,
+        "recency": 0.8127,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1096,15 +1375,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8204,
+        "recency": 0.8032,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1175,15 +1454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9103,
+        "recency": 0.8913,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1254,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5205,
-      "importance": 0.5205,
-      "importance_score": 0.5205,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8592,
+        "recency": 0.8413,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1332,15 +1611,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8572,
+        "recency": 0.8393,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1358,30 +1637,30 @@
       }
     },
     {
-      "story_id": "story_6cc9999f1d8a",
-      "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://news.ycombinator.com/item?id=48964185",
-      "primary_url": "https://news.ycombinator.com/item?id=48964185",
+      "story_id": "story_bc67acbfa669",
+      "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+      "url": "https://news.ycombinator.com/item?id=48964585",
+      "primary_url": "https://news.ycombinator.com/item?id=48964585",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "50309255056c40114111478e6000e7427e2e1f2f",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://news.ycombinator.com/item?id=48964185",
+          "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
+          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "url": "https://news.ycombinator.com/item?id=48964585",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-19T02:52:46.429000Z"
+          "published_at": "2026-07-19T04:23:05.352000Z"
         },
         {
-          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "id": "f06310a21675b9b4be340149cc0d93b3c38a8bd4",
+          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "url": "https://calculus.academa.ai",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T22:10:54Z"
+          "published_at": "2026-07-19T02:55:43Z"
         }
       ],
       "source_count": 2,
@@ -1391,365 +1670,49 @@
       ],
       "items": [
         {
-          "id": "50309255056c40114111478e6000e7427e2e1f2f",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://news.ycombinator.com/item?id=48964185",
+          "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
+          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "url": "https://news.ycombinator.com/item?id=48964585",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-19T02:52:46.429000Z"
+          "published_at": "2026-07-19T04:23:05.352000Z"
         },
         {
-          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "id": "f06310a21675b9b4be340149cc0d93b3c38a8bd4",
+          "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "url": "https://calculus.academa.ai",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T22:10:54Z"
+          "published_at": "2026-07-19T02:55:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9954,
+        "recency": 0.996,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T22:10:54Z",
-      "latest_at": "2026-07-19T02:52:46.429000Z",
+      "earliest_at": "2026-07-19T02:55:43Z",
+      "latest_at": "2026-07-19T04:23:05.352000Z",
       "primary_item": {
-        "id": "50309255056c40114111478e6000e7427e2e1f2f",
-        "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-        "url": "https://news.ycombinator.com/item?id=48964185",
+        "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
+        "title": "LLM-综合多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+        "url": "https://news.ycombinator.com/item?id=48964585",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_01582b84f950",
-      "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-      "primary_url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
-          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:13:21.473000Z"
-        },
-        {
-          "id": "f6fb36b412f366c03d17df45ecc785f645b56023",
-          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？ / Will AI fix prior authorization—or make it worse?",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:18:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
-          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:13:21.473000Z"
-        },
-        {
-          "id": "f6fb36b412f366c03d17df45ecc785f645b56023",
-          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？ / Will AI fix prior authorization—or make it worse?",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:18:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5129,
-      "importance": 0.5129,
-      "importance_score": 0.5129,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8172,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:18:25Z",
-      "latest_at": "2026-07-18T13:13:21.473000Z",
-      "primary_item": {
-        "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
-        "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
-        "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_84198372e5db",
-      "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
-      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-      "primary_url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-      "source": "www.axios.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
-          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
-          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:57:22.221000Z"
-        },
-        {
-          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
-          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
-          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:49:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.axios.com"
-      ],
-      "items": [
-        {
-          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
-          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
-          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:57:22.221000Z"
-        },
-        {
-          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
-          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
-          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:49:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5123,
-      "importance": 0.5123,
-      "importance_score": 0.5123,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8141,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T12:49:11Z",
-      "latest_at": "2026-07-18T12:57:22.221000Z",
-      "primary_item": {
-        "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
-        "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
-        "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-        "source": "www.axios.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c7efad5fc563",
-      "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-      "url": "https://www.ithome.com/0/978/621.htm",
-      "primary_url": "https://www.ithome.com/0/978/621.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
-          "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c6cbb240d05ebd2f033ae9cf6f93a9b09a2f848b",
-          "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T00:30:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
-          "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c6cbb240d05ebd2f033ae9cf6f93a9b09a2f848b",
-          "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T00:30:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9781,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T00:30:21Z",
-      "latest_at": "2026-07-19T01:39:57.748949Z",
-      "primary_item": {
-        "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
-        "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-        "url": "https://www.ithome.com/0/978/621.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c57dd1510d75",
-      "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
-      "url": "https://news.ycombinator.com/item?id=48957109",
-      "primary_url": "https://news.ycombinator.com/item?id=48957109",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5c6bd052dfc40ac02d5c32eab0d69d1538d8cdaa",
-          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
-          "url": "https://news.ycombinator.com/item?id=48957109",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T11:53:41.501000Z"
-        },
-        {
-          "id": "071f6db00d17f60cff71a970366b4d15458b6b29",
-          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量 / Claude Code team should try macro so users can complete 3x as many tasks",
-          "url": "https://news.ycombinator.com/item?id=48957109",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-18T11:37:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "5c6bd052dfc40ac02d5c32eab0d69d1538d8cdaa",
-          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
-          "url": "https://news.ycombinator.com/item?id=48957109",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T11:53:41.501000Z"
-        },
-        {
-          "id": "071f6db00d17f60cff71a970366b4d15458b6b29",
-          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量 / Claude Code team should try macro so users can complete 3x as many tasks",
-          "url": "https://news.ycombinator.com/item?id=48957109",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-18T11:37:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8017,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:37:31Z",
-      "latest_at": "2026-07-18T11:53:41.501000Z",
-      "primary_item": {
-        "id": "5c6bd052dfc40ac02d5c32eab0d69d1538d8cdaa",
-        "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
-        "url": "https://news.ycombinator.com/item?id=48957109",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
       }
     }
   ]
