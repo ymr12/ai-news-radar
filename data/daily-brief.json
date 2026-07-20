@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-07-20T06:06:24.822863Z",
+  "generated_at": "2026-07-20T07:38:17.995122Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_edfc7d9a444c",
+      "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+      "url": "https://www.aibase.com/news/29720",
+      "primary_url": "https://www.aibase.com/news/29720",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
+          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "url": "https://www.aibase.com/news/29720",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T07:38:17.995122Z"
+        },
+        {
+          "id": "be756b637a39b8a3b31bc47d62c1722fdb656e3a",
+          "title": "智象未来发布全球首个无限时长创作智能体 vivago R1，商业可用率拉到 85%",
+          "url": "https://www.aibase.com/zh/news/29720",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
+          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "url": "https://www.aibase.com/news/29720",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T07:38:17.995122Z"
+        },
+        {
+          "id": "be756b637a39b8a3b31bc47d62c1722fdb656e3a",
+          "title": "智象未来发布全球首个无限时长创作智能体 vivago R1，商业可用率拉到 85%",
+          "url": "https://www.aibase.com/zh/news/29720",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T07:38:17.995122Z",
+      "latest_at": "2026-07-20T07:38:17.995122Z",
+      "primary_item": {
+        "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
+        "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+        "url": "https://www.aibase.com/news/29720",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_5051d31999f6",
       "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
@@ -57,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9391,
+        "recency": 0.9185,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8802,
+        "recency": 0.8609,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9687,
+        "recency": 0.9475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -224,67 +305,6 @@
         "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
         "source": "公众号：面壁智能（MiniCPM）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_859168d2d8f2",
-      "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-      "url": "https://www.aibase.com/news/29718",
-      "primary_url": "https://www.aibase.com/news/29718",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-          "url": "https://www.aibase.com/news/29718",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T06:06:24.822863Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-          "url": "https://www.aibase.com/news/29718",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T06:06:24.822863Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T06:06:24.822863Z",
-      "latest_at": "2026-07-20T06:06:24.822863Z",
-      "primary_item": {
-        "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-        "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-        "url": "https://www.aibase.com/news/29718",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -322,15 +342,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9174,
+        "recency": 0.8973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -346,6 +366,87 @@
         "url": "https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7fe35170d27a",
+      "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
+      "url": "https://www.aibase.com/news/29716",
+      "primary_url": "https://www.aibase.com/news/29716",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6a2a4efff57c55b85339a80813549686a3d87126",
+          "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
+          "url": "https://www.aibase.com/news/29716",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T06:06:24.822863Z"
+        },
+        {
+          "id": "d1a05510149e53ae0717ecb0690519e9acffaa7b",
+          "title": "字节跳动发布 Seed Audio 1.0：音频生成从「会说」迈向「会创作」",
+          "url": "https://www.aibase.com/zh/news/29716",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6a2a4efff57c55b85339a80813549686a3d87126",
+          "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
+          "url": "https://www.aibase.com/news/29716",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T06:06:24.822863Z"
+        },
+        {
+          "id": "d1a05510149e53ae0717ecb0690519e9acffaa7b",
+          "title": "字节跳动发布 Seed Audio 1.0：音频生成从「会说」迈向「会创作」",
+          "url": "https://www.aibase.com/zh/news/29716",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9781,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T06:06:24.822863Z",
+      "latest_at": "2026-07-20T07:38:17.995122Z",
+      "primary_item": {
+        "id": "6a2a4efff57c55b85339a80813549686a3d87126",
+        "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
+        "url": "https://www.aibase.com/news/29716",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -383,15 +484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8157,
+        "recency": 0.7979,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -407,67 +508,6 @@
         "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
         "source": "字节 Seed：Research Feed（网页内嵌数据）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ac4e7deb4536",
-      "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-      "url": "https://www.aibase.com/news/29717",
-      "primary_url": "https://www.aibase.com/news/29717",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
-          "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-          "url": "https://www.aibase.com/news/29717",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T06:06:24.822863Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
-          "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-          "url": "https://www.aibase.com/news/29717",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T06:06:24.822863Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T06:06:24.822863Z",
-      "latest_at": "2026-07-20T06:06:24.822863Z",
-      "primary_item": {
-        "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
-        "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-        "url": "https://www.aibase.com/news/29717",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -505,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7286,
+        "recency": 0.7126,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -565,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7766,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -625,15 +665,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7904,
+        "recency": 0.7731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -651,21 +691,21 @@
       }
     },
     {
-      "story_id": "story_7fe35170d27a",
-      "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-      "url": "https://www.aibase.com/news/29716",
-      "primary_url": "https://www.aibase.com/news/29716",
+      "story_id": "story_ca83112e2431",
+      "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
+      "url": "https://www.aibase.com/news/29719",
+      "primary_url": "https://www.aibase.com/news/29719",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-          "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "url": "https://www.aibase.com/news/29716",
+          "id": "51594d86f3b6390206895dd62809ffa74f137623",
+          "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
+          "url": "https://www.aibase.com/news/29719",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T06:06:24.822863Z"
+          "published_at": "2026-07-20T07:38:17.995122Z"
         }
       ],
       "source_count": 1,
@@ -674,13 +714,13 @@
       ],
       "items": [
         {
-          "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-          "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "url": "https://www.aibase.com/news/29716",
+          "id": "51594d86f3b6390206895dd62809ffa74f137623",
+          "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
+          "url": "https://www.aibase.com/news/29719",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T06:06:24.822863Z"
+          "published_at": "2026-07-20T07:38:17.995122Z"
         }
       ],
       "item_count": 1,
@@ -701,134 +741,134 @@
         "high_ai_relevance",
         "high_importance"
       ],
+      "earliest_at": "2026-07-20T07:38:17.995122Z",
+      "latest_at": "2026-07-20T07:38:17.995122Z",
+      "primary_item": {
+        "id": "51594d86f3b6390206895dd62809ffa74f137623",
+        "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
+        "url": "https://www.aibase.com/news/29719",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7a5c5e713e3b",
+      "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
+      "url": "https://www.aibase.com/news/29721",
+      "primary_url": "https://www.aibase.com/news/29721",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cd79f7cfd68526d23238a913802864ec791b712e",
+          "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
+          "url": "https://www.aibase.com/news/29721",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T07:38:17.995122Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cd79f7cfd68526d23238a913802864ec791b712e",
+          "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
+          "url": "https://www.aibase.com/news/29721",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T07:38:17.995122Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T07:38:17.995122Z",
+      "latest_at": "2026-07-20T07:38:17.995122Z",
+      "primary_item": {
+        "id": "cd79f7cfd68526d23238a913802864ec791b712e",
+        "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
+        "url": "https://www.aibase.com/news/29721",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_859168d2d8f2",
+      "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+      "url": "https://www.aibase.com/news/29718",
+      "primary_url": "https://www.aibase.com/news/29718",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
+          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+          "url": "https://www.aibase.com/news/29718",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T06:06:24.822863Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
+          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+          "url": "https://www.aibase.com/news/29718",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T06:06:24.822863Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
       "earliest_at": "2026-07-20T06:06:24.822863Z",
       "latest_at": "2026-07-20T06:06:24.822863Z",
       "primary_item": {
-        "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-        "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-        "url": "https://www.aibase.com/news/29716",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2332aab04119",
-      "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-      "url": "https://www.aibase.com/news/29715",
-      "primary_url": "https://www.aibase.com/news/29715",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b0a0d1ec3ee18f5e9da8873cdbf4fb75a461a652",
-          "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-          "url": "https://www.aibase.com/news/29715",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T04:46:13.055932Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b0a0d1ec3ee18f5e9da8873cdbf4fb75a461a652",
-          "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-          "url": "https://www.aibase.com/news/29715",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T04:46:13.055932Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9809,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T04:46:13.055932Z",
-      "latest_at": "2026-07-20T04:46:13.055932Z",
-      "primary_item": {
-        "id": "b0a0d1ec3ee18f5e9da8873cdbf4fb75a461a652",
-        "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-        "url": "https://www.aibase.com/news/29715",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7d2913a9ae90",
-      "title": "马斯克称2万亿参数大模型即将完成训练，或挑战Kimi K3性能",
-      "url": "https://www.aibase.com/news/29714",
-      "primary_url": "https://www.aibase.com/news/29714",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b27f25e32946a98b60c7234757df485c1c9c23df",
-          "title": "马斯克称2万亿参数大模型即将完成训练，或挑战Kimi K3性能",
-          "url": "https://www.aibase.com/news/29714",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T04:46:13.055932Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b27f25e32946a98b60c7234757df485c1c9c23df",
-          "title": "马斯克称2万亿参数大模型即将完成训练，或挑战Kimi K3性能",
-          "url": "https://www.aibase.com/news/29714",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T04:46:13.055932Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9809,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T04:46:13.055932Z",
-      "latest_at": "2026-07-20T04:46:13.055932Z",
-      "primary_item": {
-        "id": "b27f25e32946a98b60c7234757df485c1c9c23df",
-        "title": "马斯克称2万亿参数大模型即将完成训练，或挑战Kimi K3性能",
-        "url": "https://www.aibase.com/news/29714",
+        "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
+        "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+        "url": "https://www.aibase.com/news/29718",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -940,15 +980,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.6409,
+      "importance": 0.6409,
+      "importance_score": 0.6409,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.838,
+        "recency": 0.8196,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -966,21 +1006,21 @@
       }
     },
     {
-      "story_id": "story_3abe6e75af5d",
-      "title": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-      "url": "https://www.aibase.com/news/29708",
-      "primary_url": "https://www.aibase.com/news/29708",
+      "story_id": "story_ac4e7deb4536",
+      "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
+      "url": "https://www.aibase.com/news/29717",
+      "primary_url": "https://www.aibase.com/news/29717",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b80780ac7fe3739d3295812566d273d548891dd",
-          "title": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-          "url": "https://www.aibase.com/news/29708",
+          "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
+          "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
+          "url": "https://www.aibase.com/news/29717",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T03:13:59.508500Z"
+          "published_at": "2026-07-20T06:06:24.822863Z"
         }
       ],
       "source_count": 1,
@@ -989,26 +1029,26 @@
       ],
       "items": [
         {
-          "id": "4b80780ac7fe3739d3295812566d273d548891dd",
-          "title": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-          "url": "https://www.aibase.com/news/29708",
+          "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
+          "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
+          "url": "https://www.aibase.com/news/29717",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T03:13:59.508500Z"
+          "published_at": "2026-07-20T06:06:24.822863Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9594,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1016,32 +1056,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T03:13:59.508500Z",
-      "latest_at": "2026-07-20T03:13:59.508500Z",
+      "earliest_at": "2026-07-20T06:06:24.822863Z",
+      "latest_at": "2026-07-20T06:06:24.822863Z",
       "primary_item": {
-        "id": "4b80780ac7fe3739d3295812566d273d548891dd",
-        "title": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-        "url": "https://www.aibase.com/news/29708",
+        "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
+        "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
+        "url": "https://www.aibase.com/news/29717",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_5f345909fe7f",
-      "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
-      "url": "https://www.aibase.com/news/29701",
-      "primary_url": "https://www.aibase.com/news/29701",
+      "story_id": "story_2332aab04119",
+      "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
+      "url": "https://www.aibase.com/news/29715",
+      "primary_url": "https://www.aibase.com/news/29715",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "54ac89dcdc83f47ab0ecd1c76f7387ae99f10899",
-          "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
-          "url": "https://www.aibase.com/news/29701",
+          "id": "b0a0d1ec3ee18f5e9da8873cdbf4fb75a461a652",
+          "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
+          "url": "https://www.aibase.com/news/29715",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T03:13:59.508500Z"
+          "published_at": "2026-07-20T04:46:13.055932Z"
         }
       ],
       "source_count": 1,
@@ -1050,13 +1090,13 @@
       ],
       "items": [
         {
-          "id": "54ac89dcdc83f47ab0ecd1c76f7387ae99f10899",
-          "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
-          "url": "https://www.aibase.com/news/29701",
+          "id": "b0a0d1ec3ee18f5e9da8873cdbf4fb75a461a652",
+          "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
+          "url": "https://www.aibase.com/news/29715",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T03:13:59.508500Z"
+          "published_at": "2026-07-20T04:46:13.055932Z"
         }
       ],
       "item_count": 1,
@@ -1077,12 +1117,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T03:13:59.508500Z",
-      "latest_at": "2026-07-20T03:13:59.508500Z",
+      "earliest_at": "2026-07-20T04:46:13.055932Z",
+      "latest_at": "2026-07-20T04:46:13.055932Z",
       "primary_item": {
-        "id": "54ac89dcdc83f47ab0ecd1c76f7387ae99f10899",
-        "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
-        "url": "https://www.aibase.com/news/29701",
+        "id": "b0a0d1ec3ee18f5e9da8873cdbf4fb75a461a652",
+        "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
+        "url": "https://www.aibase.com/news/29715",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1179,15 +1219,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5784,
-      "importance": 0.5784,
-      "importance_score": 0.5784,
+      "score": 0.5749,
+      "importance": 0.5749,
+      "importance_score": 0.5749,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9036,
+        "recency": 0.8838,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1205,21 +1245,119 @@
       }
     },
     {
-      "story_id": "story_f5bfa2ac4b25",
-      "title": "Epoch AI测试三大AI文本检测器:模仿人类文风后最高近三成内容漏检",
-      "url": "https://www.aibase.com/news/29704",
-      "primary_url": "https://www.aibase.com/news/29704",
+      "story_id": "story_f3a7c0081493",
+      "title": "克劳德发现了雅可比猜想的反例 / Claude found a counterexample to the Jacobian Conjecture",
+      "url": "https://news.ycombinator.com/item?id=48973869",
+      "primary_url": "https://news.ycombinator.com/item?id=48973869",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "fb0696dd041bee5692545372563a191cfc07bbcd",
+          "title": "克劳德发现了雅可比猜想的反例 / Claude found a counterexample to the Jacobian Conjecture",
+          "url": "https://news.ycombinator.com/item?id=48973869",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T07:23:27Z"
+        },
+        {
+          "id": "01ef593fb86c7e6b6f13861aea7dff1c9dce381b",
+          "title": "克劳德·寓言提出了雅可比猜想的反例 / Claude Fable produced a counterexample to the Jacobian Conjecture",
+          "url": "https://news.ycombinator.com/item?id=48973869",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T04:30:00.286000Z"
+        },
+        {
+          "id": "3b828850ef717d1e4aa08247010387f60ad8f8c3",
+          "title": "克劳德·法布尔给出了雅可比猜想的一个反例 / Claude Fable produced a counterexample to the Jacobian Conjecture",
+          "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-20T02:51:16Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Lobsters (技术社区)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fb0696dd041bee5692545372563a191cfc07bbcd",
+          "title": "克劳德发现了雅可比猜想的反例 / Claude found a counterexample to the Jacobian Conjecture",
+          "url": "https://news.ycombinator.com/item?id=48973869",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T07:23:27Z"
+        },
+        {
+          "id": "01ef593fb86c7e6b6f13861aea7dff1c9dce381b",
+          "title": "克劳德·寓言提出了雅可比猜想的反例 / Claude Fable produced a counterexample to the Jacobian Conjecture",
+          "url": "https://news.ycombinator.com/item?id=48973869",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T04:30:00.286000Z"
+        },
+        {
+          "id": "3b828850ef717d1e4aa08247010387f60ad8f8c3",
+          "title": "克劳德·法布尔给出了雅可比猜想的一个反例 / Claude Fable produced a counterexample to the Jacobian Conjecture",
+          "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-20T02:51:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9964,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-20T02:51:16Z",
+      "latest_at": "2026-07-20T07:23:27Z",
+      "primary_item": {
+        "id": "fb0696dd041bee5692545372563a191cfc07bbcd",
+        "title": "克劳德发现了雅可比猜想的反例 / Claude found a counterexample to the Jacobian Conjecture",
+        "url": "https://news.ycombinator.com/item?id=48973869",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_7d2913a9ae90",
+      "title": "马斯克称2万亿参数大模型即将完成训练，或挑战Kimi K3性能",
+      "url": "https://www.aibase.com/news/29714",
+      "primary_url": "https://www.aibase.com/news/29714",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "30b42d6950ef04c918d9949cf8dd08531025d7e9",
-          "title": "Epoch AI测试三大AI文本检测器:模仿人类文风后最高近三成内容漏检",
-          "url": "https://www.aibase.com/news/29704",
+          "id": "b27f25e32946a98b60c7234757df485c1c9c23df",
+          "title": "马斯克称2万亿参数大模型即将完成训练，或挑战Kimi K3性能",
+          "url": "https://www.aibase.com/news/29714",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T03:13:59.508500Z"
+          "published_at": "2026-07-20T04:46:13.055932Z"
         }
       ],
       "source_count": 1,
@@ -1228,13 +1366,13 @@
       ],
       "items": [
         {
-          "id": "30b42d6950ef04c918d9949cf8dd08531025d7e9",
-          "title": "Epoch AI测试三大AI文本检测器:模仿人类文风后最高近三成内容漏检",
-          "url": "https://www.aibase.com/news/29704",
+          "id": "b27f25e32946a98b60c7234757df485c1c9c23df",
+          "title": "马斯克称2万亿参数大模型即将完成训练，或挑战Kimi K3性能",
+          "url": "https://www.aibase.com/news/29714",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T03:13:59.508500Z"
+          "published_at": "2026-07-20T04:46:13.055932Z"
         }
       ],
       "item_count": 1,
@@ -1255,191 +1393,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T03:13:59.508500Z",
-      "latest_at": "2026-07-20T03:13:59.508500Z",
+      "earliest_at": "2026-07-20T04:46:13.055932Z",
+      "latest_at": "2026-07-20T04:46:13.055932Z",
       "primary_item": {
-        "id": "30b42d6950ef04c918d9949cf8dd08531025d7e9",
-        "title": "Epoch AI测试三大AI文本检测器:模仿人类文风后最高近三成内容漏检",
-        "url": "https://www.aibase.com/news/29704",
+        "id": "b27f25e32946a98b60c7234757df485c1c9c23df",
+        "title": "马斯克称2万亿参数大模型即将完成训练，或挑战Kimi K3性能",
+        "url": "https://www.aibase.com/news/29714",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3aec985379c8",
-      "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "primary_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "source": "twitter.com",
-      "source_name": "Buzzing",
+      "story_id": "story_fb402ffa39bd",
+      "title": "与协鑫、汇川、追觅十余位「智造人」，看清 AI 落地的真瓶颈",
+      "url": "https://www.huxiu.com/article/4876042.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4876042.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T20:09:31.820000Z"
+          "id": "3e313c013318c362872eb681736a92cd0ba67fa3",
+          "title": "与协鑫、汇川、追觅十余位「智造人」，看清 AI 落地的真瓶颈",
+          "url": "https://www.huxiu.com/article/4876042.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
-          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "url": "https://news.ycombinator.com/item?id=48969291",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T17:52:29.911000Z"
-        },
-        {
-          "id": "3b06df677d4b9b42844cac815b61219435cdb723",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T16:02:25Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "twitter.com"
-      ],
-      "items": [
-        {
-          "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T20:09:31.820000Z"
-        },
-        {
-          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
-          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "url": "https://news.ycombinator.com/item?id=48969291",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T17:52:29.911000Z"
-        },
-        {
-          "id": "3b06df677d4b9b42844cac815b61219435cdb723",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T16:02:25Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5467,
-      "importance": 0.5467,
-      "importance_score": 0.5467,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8662,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T16:02:25Z",
-      "latest_at": "2026-07-19T20:09:31.820000Z",
-      "primary_item": {
-        "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
-        "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7de3c933c4ab",
-      "title": "硅谷因中国的开源人工智能战略而陷入恐慌",
-      "url": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
-      "primary_url": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fe2a30d46ef79a6e3bf54ccf16f20088e3bbd6e3",
-          "title": "硅谷因中国的开源人工智能战略而陷入恐慌",
-          "url": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T04:57:05.016000Z"
-        },
-        {
-          "id": "658077334ab972df855b3c42848dc0558d9d9ed5",
-          "title": "硅谷因中国的开源人工智能战略而陷入恐慌 / Silicon Valley is freaking out over China's open-source AI strategy",
-          "url": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T04:40:02Z"
+          "id": "9aff69cbb02ba1151c72ee95da92b26e5471d86a",
+          "title": "与协鑫、汇川、追觅十余位“智造人”，看清AI落地的真瓶颈",
+          "url": "https://www.huxiu.com/article/4876042.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T06:44:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "fe2a30d46ef79a6e3bf54ccf16f20088e3bbd6e3",
-          "title": "硅谷因中国的开源人工智能战略而陷入恐慌",
-          "url": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T04:57:05.016000Z"
+          "id": "3e313c013318c362872eb681736a92cd0ba67fa3",
+          "title": "与协鑫、汇川、追觅十余位「智造人」，看清 AI 落地的真瓶颈",
+          "url": "https://www.huxiu.com/article/4876042.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "658077334ab972df855b3c42848dc0558d9d9ed5",
-          "title": "硅谷因中国的开源人工智能战略而陷入恐慌 / Silicon Valley is freaking out over China's open-source AI strategy",
-          "url": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T04:40:02Z"
+          "id": "9aff69cbb02ba1151c72ee95da92b26e5471d86a",
+          "title": "与协鑫、汇川、追觅十余位“智造人”，看清AI落地的真瓶颈",
+          "url": "https://www.huxiu.com/article/4876042.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T06:44:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9835,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-20T04:40:02Z",
-      "latest_at": "2026-07-20T04:57:05.016000Z",
+      "earliest_at": "2026-07-20T06:44:00Z",
+      "latest_at": "2026-07-20T07:38:17.995122Z",
       "primary_item": {
-        "id": "fe2a30d46ef79a6e3bf54ccf16f20088e3bbd6e3",
-        "title": "硅谷因中国的开源人工智能战略而陷入恐慌",
-        "url": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "3e313c013318c362872eb681736a92cd0ba67fa3",
+        "title": "与协鑫、汇川、追觅十余位「智造人」，看清 AI 落地的真瓶颈",
+        "url": "https://www.huxiu.com/article/4876042.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
