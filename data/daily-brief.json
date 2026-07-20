@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-20T15:17:57.504875Z",
+  "generated_at": "2026-07-20T16:06:44.676084Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_8030c8e0dc09",
+      "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "primary_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
+          "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T15:58:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
+          "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T15:58:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9981,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T15:58:51Z",
+      "latest_at": "2026-07-20T15:58:51Z",
+      "primary_item": {
+        "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
+        "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+        "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_c3556096c82e",
       "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9677,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -138,15 +200,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "recency": 0.9472,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -219,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9564,
+        "recency": 0.9452,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8848,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8871,
+        "recency": 0.8768,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7708,
+        "recency": 0.7618,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -524,15 +586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8482,
+        "recency": 0.8383,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -585,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9116,
+        "recency": 0.9009,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -645,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8033,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -724,15 +786,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8757,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,15 +848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9001,
+        "recency": 0.8896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -812,66 +874,6 @@
       }
     },
     {
-      "story_id": "story_62426abbf6d5",
-      "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-      "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-      "primary_url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-          "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "字节 Seed：Research Feed（网页内嵌数据）"
-      ],
-      "items": [
-        {
-          "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-          "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7143,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T16:00:00Z",
-      "latest_at": "2026-07-19T16:00:00Z",
-      "primary_item": {
-        "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-        "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-        "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-        "source": "字节 Seed：Research Feed（网页内嵌数据）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
       "story_id": "story_2df82173bb28",
       "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -880,6 +882,24 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
+          "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T16:06:44.676084Z"
+        },
+        {
+          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
+          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T16:06:44.676084Z"
+        },
+        {
           "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
           "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -943,13 +963,31 @@
           "published_at": "2026-07-19T16:24:06.948626Z"
         }
       ],
-      "source_count": 7,
+      "source_count": 9,
       "source_names": [
         "社区更新 · 2026-07-19",
         "社区更新 · 2026-07-20"
       ],
       "items": [
         {
+          "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
+          "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T16:06:44.676084Z"
+        },
+        {
+          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
+          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T16:06:44.676084Z"
+        },
+        {
           "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
           "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1013,17 +1051,17 @@
           "published_at": "2026-07-19T16:24:06.948626Z"
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.715,
-      "importance": 0.715,
-      "importance_score": 0.715,
+      "item_count": 9,
+      "duplicate_count": 9,
+      "score": 0.7129,
+      "importance": 0.7129,
+      "importance_score": 0.7129,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.54,
         "ai_relevance": 0.76,
-        "recency": 1.0,
+        "recency": 0.9883,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1031,7 +1069,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-19T16:24:06.948626Z",
-      "latest_at": "2026-07-20T15:17:57.504875Z",
+      "latest_at": "2026-07-20T16:06:44.676084Z",
       "primary_item": {
         "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
         "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
@@ -1075,15 +1113,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8223,
+        "recency": 0.8127,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,15 +1173,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.9051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,15 +1234,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.9051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1257,15 +1295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.9051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1318,15 +1356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1341,6 +1379,141 @@
         "url": "https://www.aibase.com/news/29719",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fd0a7ef35a9d",
+      "title": "人工智能建议让人们不太准确，但更自信——研究 / AI advice made people less accurate but more confident – sudy",
+      "url": "https://news.ycombinator.com/item?id=48971738",
+      "primary_url": "https://news.ycombinator.com/item?id=48971738",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "4f4d33539412136a3ae48ba7dfcb2ed18b0d213e",
+          "title": "人工智能建议让人们不太准确，但更自信——研究 / AI advice made people less accurate but more confident – sudy",
+          "url": "https://news.ycombinator.com/item?id=48971738",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T02:59:54.049000Z"
+        },
+        {
+          "id": "0eea1d87eacc15a486631f4f55c4b2997bd9dc43",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "thenextweb.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T23:05:08.884000Z"
+        },
+        {
+          "id": "8a56ea9bd60176aaa58ad3b25c07c5bfa3775c68",
+          "title": "研究人员发现，人工智能建议的准确性降低了 3 倍，但信心却提高了 2 倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
+          "url": "https://news.ycombinator.com/item?id=48971738",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T22:22:55.043000Z"
+        },
+        {
+          "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T21:18:10Z"
+        },
+        {
+          "id": "3abe293cd2a3db5921f0d11ee4bf5757ee5a263c",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people less accurate but more confident – sudy",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-19T21:18:10Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "thenextweb.com"
+      ],
+      "items": [
+        {
+          "id": "4f4d33539412136a3ae48ba7dfcb2ed18b0d213e",
+          "title": "人工智能建议让人们不太准确，但更自信——研究 / AI advice made people less accurate but more confident – sudy",
+          "url": "https://news.ycombinator.com/item?id=48971738",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T02:59:54.049000Z"
+        },
+        {
+          "id": "0eea1d87eacc15a486631f4f55c4b2997bd9dc43",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "thenextweb.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T23:05:08.884000Z"
+        },
+        {
+          "id": "8a56ea9bd60176aaa58ad3b25c07c5bfa3775c68",
+          "title": "研究人员发现，人工智能建议的准确性降低了 3 倍，但信心却提高了 2 倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
+          "url": "https://news.ycombinator.com/item?id=48971738",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T22:22:55.043000Z"
+        },
+        {
+          "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T21:18:10Z"
+        },
+        {
+          "id": "3abe293cd2a3db5921f0d11ee4bf5757ee5a263c",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people less accurate but more confident – sudy",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-19T21:18:10Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5897,
+      "importance": 0.5897,
+      "importance_score": 0.5897,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8275,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T21:18:10Z",
+      "latest_at": "2026-07-20T02:59:54.049000Z",
+      "primary_item": {
+        "id": "4f4d33539412136a3ae48ba7dfcb2ed18b0d213e",
+        "title": "人工智能建议让人们不太准确，但更自信——研究 / AI advice made people less accurate but more confident – sudy",
+        "url": "https://news.ycombinator.com/item?id=48971738",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1378,15 +1551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1401,104 +1574,6 @@
         "url": "https://www.aibase.com/news/29721",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2b709f3ee251",
-      "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-      "primary_url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-      "source": "slcyber.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "afd9a43d8bf0fd72514ec6325cacfe5096287221",
-          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
-          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-          "source": "slcyber.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T10:47:09.626000Z"
-        },
-        {
-          "id": "3ab3689a1aa2714fb90ef62d309e0ad9bb3de6ff",
-          "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "url": "https://news.ycombinator.com/item?id=48975665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T10:14:10.648000Z"
-        },
-        {
-          "id": "18b67079333c64ae73e0b9d1cc727c01b745549c",
-          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T08:13:36Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "slcyber.io"
-      ],
-      "items": [
-        {
-          "id": "afd9a43d8bf0fd72514ec6325cacfe5096287221",
-          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
-          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-          "source": "slcyber.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T10:47:09.626000Z"
-        },
-        {
-          "id": "3ab3689a1aa2714fb90ef62d309e0ad9bb3de6ff",
-          "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "url": "https://news.ycombinator.com/item?id=48975665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T10:14:10.648000Z"
-        },
-        {
-          "id": "18b67079333c64ae73e0b9d1cc727c01b745549c",
-          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T08:13:36Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5594,
-      "importance": 0.5594,
-      "importance_score": 0.5594,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9369,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T08:13:36Z",
-      "latest_at": "2026-07-20T10:47:09.626000Z",
-      "primary_item": {
-        "id": "afd9a43d8bf0fd72514ec6325cacfe5096287221",
-        "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
-        "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-        "source": "slcyber.io",
-        "source_name": "Buzzing"
       }
     }
   ]
