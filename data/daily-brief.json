@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T19:10:00.009396Z",
+  "generated_at": "2026-07-20T20:05:27.375459Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8769,
-      "importance": 0.8769,
-      "importance_score": 0.8769,
+      "score": 0.8746,
+      "importance": 0.8746,
+      "importance_score": 0.8746,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.955,
+        "recency": 0.9424,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8547,
-      "importance": 0.8547,
-      "importance_score": 0.8547,
+      "score": 0.8526,
+      "importance": 0.8526,
+      "importance_score": 0.8526,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.876,
+        "recency": 0.8644,
         "story_heat": 0.25
       },
       "category": "official",
@@ -194,13 +194,13 @@
           "published_at": "2026-07-20T18:28:23.600000Z"
         },
         {
-          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
-          "title": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的 / Over 30% of new ArXiv submissions now read as AI-written",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T17:03:14.765000Z"
+          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
         },
         {
           "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
@@ -216,7 +216,6 @@
       "source_names": [
         "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
         "unslop.run"
       ],
       "items": [
@@ -239,13 +238,13 @@
           "published_at": "2026-07-20T18:28:23.600000Z"
         },
         {
-          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
-          "title": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的 / Over 30% of new ArXiv submissions now read as AI-written",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T17:03:14.765000Z"
+          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
         },
         {
           "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
@@ -259,15 +258,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8468,
-      "importance": 0.8468,
-      "importance_score": 0.8468,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.99,
+        "recency": 0.9769,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -321,15 +320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.844,
-      "importance": 0.844,
-      "importance_score": 0.844,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9554,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -383,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.989,
+        "recency": 0.9759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -464,15 +463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9769,
+        "recency": 0.9639,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -526,15 +525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9151,
+        "recency": 0.903,
         "story_heat": 0.0
       },
       "category": "official",
@@ -607,15 +606,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8466,
+        "recency": 0.8354,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -707,15 +706,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9063,
+        "recency": 0.8943,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -788,15 +787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8389,
+        "recency": 0.8278,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -869,15 +868,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.8925,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -950,15 +949,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7289,
+        "recency": 0.7192,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1012,21 +1011,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9599,
+        "recency": 0.9472,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T16:19:52.655000Z",
       "latest_at": "2026-07-20T16:19:52.655000Z",
@@ -1035,6 +1033,86 @@
         "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
         "url": "https://x.ai/news/introducing-excel-addin",
         "source": "xAI：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_32d427eb72d1",
+      "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "primary_url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:00:00Z"
+        },
+        {
+          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T18:06:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Cursor Blog",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:00:00Z"
+        },
+        {
+          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T18:06:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8897,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T12:00:00Z",
+      "latest_at": "2026-07-20T18:06:13Z",
+      "primary_item": {
+        "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+        "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+        "url": "https://cursor.com/blog/agent-swarm-model-economics",
+        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -1073,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8022,
+        "recency": 0.7915,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1133,15 +1211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9556,
+        "recency": 0.9429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,15 +1271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.862,
+        "recency": 0.8506,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1253,15 +1331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7597,
+        "recency": 0.7496,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1332,15 +1410,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8281,
+        "recency": 0.8171,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1394,15 +1472,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9757,
+        "recency": 0.9628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1416,66 +1494,6 @@
         "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
         "url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
         "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b552e21cca2f",
-      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-      "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-      "primary_url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
-          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:00:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
-          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:00:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8512,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T08:00:45Z",
-      "latest_at": "2026-07-20T08:00:45Z",
-      "primary_item": {
-        "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
-        "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-        "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-        "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
       }
     }
