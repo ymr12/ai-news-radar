@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T20:32:36.882538Z",
+  "generated_at": "2026-07-21T21:30:51.105730Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9388,
-      "importance": 0.9388,
-      "importance_score": 0.9388,
+      "score": 0.9365,
+      "importance": 0.9365,
+      "importance_score": 0.9365,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9267,
+        "recency": 0.9138,
         "story_heat": 1.0
       },
       "category": "official",
@@ -169,6 +169,24 @@
           "published_at": "2026-07-21T07:00:00Z"
         },
         {
+          "id": "fba18341e51c956c08af218056c9ebec7d33e0fd",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T20:43:27.075000Z"
+        },
+        {
+          "id": "db9d67dc5cd5c793b75ca2ce586be1942a5ff124",
+          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T20:09:52Z"
+        },
+        {
           "id": "fecd8ca47044972009950030a7e954d6d615448d",
           "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident",
           "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
@@ -178,11 +196,12 @@
           "published_at": "2026-07-21T20:09:52Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "source_names": [
         "Hacker News (黑客新闻)",
         "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com"
       ],
       "items": [
         {
@@ -204,6 +223,24 @@
           "published_at": "2026-07-21T07:00:00Z"
         },
         {
+          "id": "fba18341e51c956c08af218056c9ebec7d33e0fd",
+          "title": "OpenAI 与 Hugging Face 合作应对安全事件",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T20:43:27.075000Z"
+        },
+        {
+          "id": "db9d67dc5cd5c793b75ca2ce586be1942a5ff124",
+          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T20:09:52Z"
+        },
+        {
           "id": "fecd8ca47044972009950030a7e954d6d615448d",
           "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident",
           "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
@@ -213,18 +250,18 @@
           "published_at": "2026-07-21T20:09:52Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.888,
-      "importance": 0.888,
-      "importance_score": 0.888,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.936,
+      "importance": 0.936,
+      "importance_score": 0.936,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8224,
-        "story_heat": 0.5
+        "recency": 0.8109,
+        "story_heat": 1.0
       },
       "category": "official",
       "reasons": [
@@ -234,7 +271,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-21T07:00:00Z",
-      "latest_at": "2026-07-21T20:09:52Z",
+      "latest_at": "2026-07-21T20:43:27.075000Z",
       "primary_item": {
         "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
         "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -278,15 +315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8586,
-      "importance": 0.8586,
-      "importance_score": 0.8586,
+      "score": 0.8561,
+      "importance": 0.8561,
+      "importance_score": 0.8561,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9923,
+        "recency": 0.9785,
         "story_heat": 0.0
       },
       "category": "official",
@@ -359,15 +396,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.8552,
+      "importance": 0.8552,
+      "importance_score": 0.8552,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9365,
+        "recency": 0.9235,
         "story_heat": 0.25
       },
       "category": "official",
@@ -422,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9241,
+        "recency": 0.9112,
         "story_heat": 0.0
       },
       "category": "official",
@@ -541,15 +578,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8094,
+        "recency": 0.7982,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -603,15 +640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9501,
+        "recency": 0.9369,
         "story_heat": 0.0
       },
       "category": "official",
@@ -665,15 +702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7433,
+        "recency": 0.733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -727,15 +764,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9934,
+        "recency": 0.9796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,15 +863,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9873,
+        "recency": 0.9736,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -926,15 +963,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8106,
+        "recency": 0.7993,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -950,6 +987,87 @@
         "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
         "url": "https://qwen.ai/blog?id=qwen-image-3.0",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d6ee30edc95b",
+      "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
+      "url": "https://alignment.openai.com/measuring-reward-seeking",
+      "primary_url": "https://alignment.openai.com/measuring-reward-seeking",
+      "source": "OpenAI：Alignment 研究博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
+          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
+          "url": "https://alignment.openai.com/measuring-reward-seeking",
+          "source": "OpenAI：Alignment 研究博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T15:10:00Z"
+        },
+        {
+          "id": "ea4165e84d56adfd3e1fc7f3123dad0ac5b3d23d",
+          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为 / Measuring reward-seeking by instilling contrastive beliefs",
+          "url": "https://alignment.openai.com/measuring-reward-seeking",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T18:17:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI：Alignment 研究博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
+          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
+          "url": "https://alignment.openai.com/measuring-reward-seeking",
+          "source": "OpenAI：Alignment 研究博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T15:10:00Z"
+        },
+        {
+          "id": "ea4165e84d56adfd3e1fc7f3123dad0ac5b3d23d",
+          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为 / Measuring reward-seeking by instilling contrastive beliefs",
+          "url": "https://alignment.openai.com/measuring-reward-seeking",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T18:17:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9124,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T15:10:00Z",
+      "latest_at": "2026-07-21T18:17:50Z",
+      "primary_item": {
+        "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
+        "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
+        "url": "https://alignment.openai.com/measuring-reward-seeking",
+        "source": "OpenAI：Alignment 研究博客（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -988,15 +1106,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7433,
+        "recency": 0.733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1069,15 +1187,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9528,
+        "recency": 0.9396,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1150,15 +1268,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8955,
+        "recency": 0.883,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1212,15 +1330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9487,
+        "recency": 0.9355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1235,67 +1353,6 @@
         "title": "Karpathy：用语音与LLM长谈可提升理解效率",
         "url": "https://x.com/karpathy/status/2079610838143623371",
         "source": "X：Andrej Karpathy (@karpathy)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d6ee30edc95b",
-      "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-      "url": "https://alignment.openai.com/measuring-reward-seeking",
-      "primary_url": "https://alignment.openai.com/measuring-reward-seeking",
-      "source": "OpenAI：Alignment 研究博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
-          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-          "url": "https://alignment.openai.com/measuring-reward-seeking",
-          "source": "OpenAI：Alignment 研究博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:10:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：Alignment 研究博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
-          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-          "url": "https://alignment.openai.com/measuring-reward-seeking",
-          "source": "OpenAI：Alignment 研究博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:10:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9253,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T15:10:00Z",
-      "latest_at": "2026-07-21T15:10:00Z",
-      "primary_item": {
-        "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
-        "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-        "url": "https://alignment.openai.com/measuring-reward-seeking",
-        "source": "OpenAI：Alignment 研究博客（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1334,15 +1391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8727,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1357,67 +1414,6 @@
         "title": "小红书 dots 模型获 IMO 2026 满分金牌",
         "url": "https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw",
         "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3528a819a04b",
-      "title": "OpenAI 披露模型评估安全事件详情",
-      "url": "https://x.com/sama/status/2079661132302995790",
-      "primary_url": "https://x.com/sama/status/2079661132302995790",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "992305007667eef61af021539326336819602215",
-          "title": "OpenAI 披露模型评估安全事件详情",
-          "url": "https://x.com/sama/status/2079661132302995790",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:13:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "992305007667eef61af021539326336819602215",
-          "title": "OpenAI 披露模型评估安全事件详情",
-          "url": "https://x.com/sama/status/2079661132302995790",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:13:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9955,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T20:13:46Z",
-      "latest_at": "2026-07-21T20:13:46Z",
-      "primary_item": {
-        "id": "992305007667eef61af021539326336819602215",
-        "title": "OpenAI 披露模型评估安全事件详情",
-        "url": "https://x.com/sama/status/2079661132302995790",
-        "source": "X：Sam Altman (@sama)",
         "source_name": "AI HOT"
       }
     },
@@ -1475,15 +1471,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8384,
+        "recency": 0.8268,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1500,6 +1496,67 @@
         "url": "https://www.aibase.com/news/29756",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3528a819a04b",
+      "title": "OpenAI 披露模型评估安全事件详情",
+      "url": "https://x.com/sama/status/2079661132302995790",
+      "primary_url": "https://x.com/sama/status/2079661132302995790",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "992305007667eef61af021539326336819602215",
+          "title": "OpenAI 披露模型评估安全事件详情",
+          "url": "https://x.com/sama/status/2079661132302995790",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T20:13:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "992305007667eef61af021539326336819602215",
+          "title": "OpenAI 披露模型评估安全事件详情",
+          "url": "https://x.com/sama/status/2079661132302995790",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T20:13:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9816,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T20:13:46Z",
+      "latest_at": "2026-07-21T20:13:46Z",
+      "primary_item": {
+        "id": "992305007667eef61af021539326336819602215",
+        "title": "OpenAI 披露模型评估安全事件详情",
+        "url": "https://x.com/sama/status/2079661132302995790",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1556,15 +1613,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7862,
-      "importance": 0.7862,
-      "importance_score": 0.7862,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9313,
+        "recency": 0.9184,
         "story_heat": 0.25
       },
       "category": "industry",
