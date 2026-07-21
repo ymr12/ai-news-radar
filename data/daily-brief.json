@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:20:27.788517Z",
+  "generated_at": "2026-07-21T09:21:36.280073Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8634,
-      "importance": 0.8634,
-      "importance_score": 0.8634,
+      "score": 0.8608,
+      "importance": 0.8608,
+      "importance_score": 0.8608,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9654,
+        "recency": 0.9513,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8471,
-      "importance": 0.8471,
-      "importance_score": 0.8471,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7896,
+        "recency": 0.778,
         "story_heat": 0.25
       },
       "category": "official",
@@ -258,15 +258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7243,
+        "recency": 0.7137,
         "story_heat": 0.25
       },
       "category": "official",
@@ -321,15 +321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7898,
+        "recency": 0.7783,
         "story_heat": 0.0
       },
       "category": "official",
@@ -346,6 +346,87 @@
         "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8a76849761ae",
+      "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "primary_url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T06:00:00Z"
+        },
+        {
+          "id": "4e4246dba5c5ba1be1f42db1539cc1aac9819851",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T08:44:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Qwen：Blog Retrieval（API）"
+      ],
+      "items": [
+        {
+          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T06:00:00Z"
+        },
+        {
+          "id": "4e4246dba5c5ba1be1f42db1539cc1aac9819851",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T08:44:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9526,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T06:00:00Z",
+      "latest_at": "2026-07-21T08:44:23Z",
+      "primary_item": {
+        "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
+        "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+        "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -402,15 +483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9854,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -521,15 +602,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8941,
+        "recency": 0.8811,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -583,15 +664,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8177,
+        "recency": 0.8058,
         "story_heat": 0.0
       },
       "category": "official",
@@ -664,15 +745,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.912,
+        "recency": 0.8987,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -688,67 +769,6 @@
         "title": "Anthropic 与作家群体15亿美元版权和解获批",
         "url": "https://www.ithome.com/0/979/324.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8a76849761ae",
-      "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "primary_url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Qwen：Blog Retrieval（API）"
-      ],
-      "items": [
-        {
-          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9668,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T06:00:00Z",
-      "latest_at": "2026-07-21T06:00:00Z",
-      "primary_item": {
-        "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-        "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-        "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-        "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
       }
     },
@@ -806,15 +826,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8076,
+        "recency": 0.7958,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -887,15 +907,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9866,
+        "recency": 0.9721,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1005,15 +1025,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8185,
+        "recency": 0.8066,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1067,15 +1087,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7566,
+        "recency": 0.7455,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1129,15 +1149,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.9196,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1208,15 +1228,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7478,
+        "recency": 0.7368,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1270,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9018,
+        "recency": 0.8886,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1292,66 +1312,6 @@
         "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
         "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
         "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_750b59cf8263",
-      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-      "url": "https://x.ai/news/introducing-excel-addin",
-      "primary_url": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "xAI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7936,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T16:19:52.655000Z",
-      "latest_at": "2026-07-20T16:19:52.655000Z",
-      "primary_item": {
-        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-        "url": "https://x.ai/news/introducing-excel-addin",
-        "source": "xAI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1409,15 +1369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.9147,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1437,21 +1397,21 @@
       }
     },
     {
-      "story_id": "story_db4933908fbc",
-      "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
-      "url": "https://www.aibase.com/news/29755",
-      "primary_url": "https://www.aibase.com/news/29755",
+      "story_id": "story_d127e2322390",
+      "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
+      "url": "https://www.aibase.com/news/29760",
+      "primary_url": "https://www.aibase.com/news/29760",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
-          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
-          "url": "https://www.aibase.com/news/29755",
+          "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
+          "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
+          "url": "https://www.aibase.com/news/29760",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T08:20:27.788517Z"
+          "published_at": "2026-07-21T09:21:36.280073Z"
         }
       ],
       "source_count": 1,
@@ -1460,13 +1420,13 @@
       ],
       "items": [
         {
-          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
-          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
-          "url": "https://www.aibase.com/news/29755",
+          "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
+          "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
+          "url": "https://www.aibase.com/news/29760",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T08:20:27.788517Z"
+          "published_at": "2026-07-21T09:21:36.280073Z"
         }
       ],
       "item_count": 1,
@@ -1487,12 +1447,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T08:20:27.788517Z",
-      "latest_at": "2026-07-21T08:20:27.788517Z",
+      "earliest_at": "2026-07-21T09:21:36.280073Z",
+      "latest_at": "2026-07-21T09:21:36.280073Z",
       "primary_item": {
-        "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
-        "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
-        "url": "https://www.aibase.com/news/29755",
+        "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
+        "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
+        "url": "https://www.aibase.com/news/29760",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1506,6 +1466,15 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "56cf72857457153b54bb635c5eb48a9984d14604",
+          "title": "很多人做AI 工作流，一上来就想选工具、搭知识库、跑Agent，结果越做越散。作者这篇文章把一个公众号内容运营的案例完整拆开，展示了它怎样从一个小 Skill 起步，经过小样 MVP 验证，再扩展到历史资料批处理、未来资料增量处理，最后形成一组能重复使用的Agent工作流。很适合开发者、运营、内容创作者一起看，尤其是想把真实业务交给AI，但还不知道怎么起步的人。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-21T09:21:36.280073Z"
+        },
+        {
           "id": "01572bfb494d31281605e7584de9dfd86e70bc54",
           "title": "AI 辅助做科研最吓人的一刻，可能就是导师一查：你引用的论文根本不存在。卡尔这篇文章把GitHub上一批科研向Codex / Claude Skills实测了一遍，从防假引用、批量读文献、跑实验数据、社科实证、英文润色，到无人值守改稿，给出一份能抄作业的工具清单。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1569,13 +1538,22 @@
           "published_at": "2026-07-20T15:17:57.504875Z"
         }
       ],
-      "source_count": 7,
+      "source_count": 8,
       "source_names": [
         "社区更新 · 2026-07-20",
         "社区更新 · 2026-07-21"
       ],
       "items": [
         {
+          "id": "56cf72857457153b54bb635c5eb48a9984d14604",
+          "title": "很多人做AI 工作流，一上来就想选工具、搭知识库、跑Agent，结果越做越散。作者这篇文章把一个公众号内容运营的案例完整拆开，展示了它怎样从一个小 Skill 起步，经过小样 MVP 验证，再扩展到历史资料批处理、未来资料增量处理，最后形成一组能重复使用的Agent工作流。很适合开发者、运营、内容创作者一起看，尤其是想把真实业务交给AI，但还不知道怎么起步的人。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-21T09:21:36.280073Z"
+        },
+        {
           "id": "01572bfb494d31281605e7584de9dfd86e70bc54",
           "title": "AI 辅助做科研最吓人的一刻，可能就是导师一查：你引用的论文根本不存在。卡尔这篇文章把GitHub上一批科研向Codex / Claude Skills实测了一遍，从防假引用、批量读文献、跑实验数据、社科实证、英文润色，到无人值守改稿，给出一份能抄作业的工具清单。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1639,17 +1617,17 @@
           "published_at": "2026-07-20T15:17:57.504875Z"
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.6757,
-      "importance": 0.6757,
-      "importance_score": 0.6757,
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6736,
+      "importance": 0.6736,
+      "importance_score": 0.6736,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.54,
         "ai_relevance": 0.76,
-        "recency": 0.7818,
+        "recency": 0.7704,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1657,13 +1635,93 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-20T15:17:57.504875Z",
-      "latest_at": "2026-07-21T06:03:14.917752Z",
+      "latest_at": "2026-07-21T09:21:36.280073Z",
       "primary_item": {
         "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
         "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-20",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_157f79bd67e3",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "primary_url": "https://github.com/Saivineeth147/lora-speedrun",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7383,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T12:21:09.021000Z",
+      "latest_at": "2026-07-20T12:21:09.021000Z",
+      "primary_item": {
+        "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "url": "https://github.com/Saivineeth147/lora-speedrun",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     }
   ]
