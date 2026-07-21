@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:24:14.319737Z",
+  "generated_at": "2026-07-21T08:20:27.788517Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8657,
-      "importance": 0.8657,
-      "importance_score": 0.8657,
+      "score": 0.8634,
+      "importance": 0.8634,
+      "importance_score": 0.8634,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9654,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8491,
-      "importance": 0.8491,
-      "importance_score": 0.8491,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8003,
+        "recency": 0.7896,
         "story_heat": 0.25
       },
       "category": "official",
@@ -258,15 +258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7341,
+        "recency": 0.7243,
         "story_heat": 0.25
       },
       "category": "official",
@@ -321,15 +321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8006,
+        "recency": 0.7898,
         "story_heat": 0.0
       },
       "category": "official",
@@ -346,6 +346,87 @@
         "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_db9ce47767b8",
+      "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+      "url": "https://www.aibase.com/news/29756",
+      "primary_url": "https://www.aibase.com/news/29756",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a5375f665c2d768abb77f4cf770527082f840e5a",
+          "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+          "url": "https://www.aibase.com/news/29756",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T08:20:27.788517Z"
+        },
+        {
+          "id": "13440fcad2e43e829a0c40ff9979e36b420ac7ce",
+          "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+          "url": "https://www.aibase.com/zh/news/29756",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a5375f665c2d768abb77f4cf770527082f840e5a",
+          "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+          "url": "https://www.aibase.com/news/29756",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T08:20:27.788517Z"
+        },
+        {
+          "id": "13440fcad2e43e829a0c40ff9979e36b420ac7ce",
+          "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+          "url": "https://www.aibase.com/zh/news/29756",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T08:20:27.788517Z",
+      "latest_at": "2026-07-21T08:20:27.788517Z",
+      "primary_item": {
+        "id": "a5375f665c2d768abb77f4cf770527082f840e5a",
+        "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
+        "url": "https://www.aibase.com/news/29756",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -440,15 +521,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9063,
+        "recency": 0.8941,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -502,15 +583,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8288,
+        "recency": 0.8177,
         "story_heat": 0.0
       },
       "category": "official",
@@ -583,15 +664,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9245,
+        "recency": 0.912,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -608,87 +689,6 @@
         "url": "https://www.ithome.com/0/979/324.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_689c07d673cc",
-      "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
-      "url": "https://www.aibase.com/news/29739",
-      "primary_url": "https://www.aibase.com/news/29739",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
-          "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
-          "url": "https://www.aibase.com/news/29739",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T03:11:16.452669Z"
-        },
-        {
-          "id": "808e8ee8e2667e5d27b5584472d35c201dd84d6d",
-          "title": "千问发布语音合成大模型 Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
-          "url": "https://www.aibase.com/zh/news/29739",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
-          "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
-          "url": "https://www.aibase.com/news/29739",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T03:11:16.452669Z"
-        },
-        {
-          "id": "808e8ee8e2667e5d27b5584472d35c201dd84d6d",
-          "title": "千问发布语音合成大模型 Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
-          "url": "https://www.aibase.com/zh/news/29739",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9409,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T03:11:16.452669Z",
-      "latest_at": "2026-07-21T04:37:59.509558Z",
-      "primary_item": {
-        "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
-        "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
-        "url": "https://www.aibase.com/news/29739",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -726,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9799,
+        "recency": 0.9668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -806,15 +806,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8186,
+        "recency": 0.8076,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -831,6 +831,87 @@
         "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ca1df72ad541",
+      "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+      "url": "https://www.aibase.com/news/29753",
+      "primary_url": "https://www.aibase.com/news/29753",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
+          "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+          "url": "https://www.aibase.com/news/29753",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T07:24:14.319737Z"
+        },
+        {
+          "id": "aca907820c54710161a06255d301084df2f1cda3",
+          "title": "阿里发布 Qwen-Image-3.0，支持 4.5K Token 超长输入与复杂图文生成",
+          "url": "https://www.aibase.com/zh/news/29753",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
+          "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+          "url": "https://www.aibase.com/news/29753",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T07:24:14.319737Z"
+        },
+        {
+          "id": "aca907820c54710161a06255d301084df2f1cda3",
+          "title": "阿里发布 Qwen-Image-3.0，支持 4.5K Token 超长输入与复杂图文生成",
+          "url": "https://www.aibase.com/zh/news/29753",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9866,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T07:24:14.319737Z",
+      "latest_at": "2026-07-21T08:20:27.788517Z",
+      "primary_item": {
+        "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
+        "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+        "url": "https://www.aibase.com/news/29753",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -924,15 +1005,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8297,
+        "recency": 0.8185,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -986,15 +1067,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7669,
+        "recency": 0.7566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1011,67 +1092,6 @@
         "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c1d8b6c925be",
-      "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
-      "url": "https://www.aibase.com/news/29750",
-      "primary_url": "https://www.aibase.com/news/29750",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
-          "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
-          "url": "https://www.aibase.com/news/29750",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T07:24:14.319737Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
-          "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
-          "url": "https://www.aibase.com/news/29750",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T07:24:14.319737Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T07:24:14.319737Z",
-      "latest_at": "2026-07-21T07:24:14.319737Z",
-      "primary_item": {
-        "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
-        "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
-        "url": "https://www.aibase.com/news/29750",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1109,15 +1129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9459,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1131,66 +1151,6 @@
         "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
         "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
         "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61ab212c97bc",
-      "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
-      "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
-      "primary_url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0afc9cd3fb43225d820e86b29b10663a9980ddd0",
-          "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
-          "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T01:10:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "0afc9cd3fb43225d820e86b29b10663a9980ddd0",
-          "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
-          "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T01:10:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.914,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T01:10:49Z",
-      "latest_at": "2026-07-21T01:10:49Z",
-      "primary_item": {
-        "id": "0afc9cd3fb43225d820e86b29b10663a9980ddd0",
-        "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
-        "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -1248,15 +1208,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.758,
+        "recency": 0.7478,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1272,6 +1232,66 @@
         "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
         "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61ab212c97bc",
+      "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+      "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+      "primary_url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0afc9cd3fb43225d820e86b29b10663a9980ddd0",
+          "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+          "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:10:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "0afc9cd3fb43225d820e86b29b10663a9980ddd0",
+          "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+          "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:10:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9018,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-21T01:10:49Z",
+      "latest_at": "2026-07-21T01:10:49Z",
+      "primary_item": {
+        "id": "0afc9cd3fb43225d820e86b29b10663a9980ddd0",
+        "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+        "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -1310,15 +1330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
+      "score": 0.7214,
+      "importance": 0.7214,
+      "importance_score": 0.7214,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8044,
+        "recency": 0.7936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1336,82 +1356,102 @@
       }
     },
     {
-      "story_id": "story_8539691cf9a1",
-      "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
-      "url": "https://www.aibase.com/news/29752",
-      "primary_url": "https://www.aibase.com/news/29752",
+      "story_id": "story_689c07d673cc",
+      "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+      "url": "https://www.aibase.com/news/29739",
+      "primary_url": "https://www.aibase.com/news/29739",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a69606c5e3d027e8c5d328472a1ff5062132d7ed",
-          "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
-          "url": "https://www.aibase.com/news/29752",
+          "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
+          "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/news/29739",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T07:24:14.319737Z"
+          "published_at": "2026-07-21T03:11:16.452669Z"
+        },
+        {
+          "id": "808e8ee8e2667e5d27b5584472d35c201dd84d6d",
+          "title": "千问发布语音合成大模型 Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/zh/news/29739",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "a69606c5e3d027e8c5d328472a1ff5062132d7ed",
-          "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
-          "url": "https://www.aibase.com/news/29752",
+          "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
+          "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/news/29739",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T07:24:14.319737Z"
+          "published_at": "2026-07-21T03:11:16.452669Z"
+        },
+        {
+          "id": "808e8ee8e2667e5d27b5584472d35c201dd84d6d",
+          "title": "千问发布语音合成大模型 Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/zh/news/29739",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9283,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T07:24:14.319737Z",
-      "latest_at": "2026-07-21T07:24:14.319737Z",
+      "earliest_at": "2026-07-21T03:11:16.452669Z",
+      "latest_at": "2026-07-21T04:37:59.509558Z",
       "primary_item": {
-        "id": "a69606c5e3d027e8c5d328472a1ff5062132d7ed",
-        "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
-        "url": "https://www.aibase.com/news/29752",
+        "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
+        "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+        "url": "https://www.aibase.com/news/29739",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_28b09c72d54f",
-      "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
-      "url": "https://www.aibase.com/news/29751",
-      "primary_url": "https://www.aibase.com/news/29751",
+      "story_id": "story_db4933908fbc",
+      "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+      "url": "https://www.aibase.com/news/29755",
+      "primary_url": "https://www.aibase.com/news/29755",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a98f62849d129eed98b242a739433499223673c1",
-          "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
-          "url": "https://www.aibase.com/news/29751",
+          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+          "url": "https://www.aibase.com/news/29755",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T07:24:14.319737Z"
+          "published_at": "2026-07-21T08:20:27.788517Z"
         }
       ],
       "source_count": 1,
@@ -1420,13 +1460,13 @@
       ],
       "items": [
         {
-          "id": "a98f62849d129eed98b242a739433499223673c1",
-          "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
-          "url": "https://www.aibase.com/news/29751",
+          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+          "url": "https://www.aibase.com/news/29755",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T07:24:14.319737Z"
+          "published_at": "2026-07-21T08:20:27.788517Z"
         }
       ],
       "item_count": 1,
@@ -1447,12 +1487,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T07:24:14.319737Z",
-      "latest_at": "2026-07-21T07:24:14.319737Z",
+      "earliest_at": "2026-07-21T08:20:27.788517Z",
+      "latest_at": "2026-07-21T08:20:27.788517Z",
       "primary_item": {
-        "id": "a98f62849d129eed98b242a739433499223673c1",
-        "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
-        "url": "https://www.aibase.com/news/29751",
+        "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+        "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+        "url": "https://www.aibase.com/news/29755",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1601,15 +1641,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.6776,
-      "importance": 0.6776,
-      "importance_score": 0.6776,
+      "score": 0.6757,
+      "importance": 0.6757,
+      "importance_score": 0.6757,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.54,
         "ai_relevance": 0.76,
-        "recency": 0.7925,
+        "recency": 0.7818,
         "story_heat": 1.0
       },
       "category": "multi_source",
