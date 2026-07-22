@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T14:17:09.711303Z",
+  "generated_at": "2026-07-22T15:14:21.458187Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9011,
-      "importance": 0.9011,
-      "importance_score": 0.9011,
+      "score": 0.8993,
+      "importance": 0.8993,
+      "importance_score": 0.8993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7173,
+        "recency": 0.7075,
         "story_heat": 1.0
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8463,
+      "importance": 0.8463,
+      "importance_score": 0.8463,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9816,
+        "recency": 0.9682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,68 +201,6 @@
         "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
         "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_844ec17c6121",
-      "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-      "primary_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
-          "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
-          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
-          "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
-          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9816,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T13:00:00Z",
-      "latest_at": "2026-07-22T13:00:00Z",
-      "primary_item": {
-        "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
-        "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
-        "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -358,15 +296,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8729,
+        "recency": 0.8609,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -383,6 +321,68 @@
         "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_844ec17c6121",
+      "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+      "primary_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+          "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+          "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9682,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T13:00:00Z",
+      "latest_at": "2026-07-22T13:00:00Z",
+      "primary_item": {
+        "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+        "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
+        "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -439,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8674,
-      "importance": 0.8674,
-      "importance_score": 0.8674,
+      "score": 0.8649,
+      "importance": 0.8649,
+      "importance_score": 0.8649,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9908,
+        "recency": 0.9773,
         "story_heat": 0.25
       },
       "category": "official",
@@ -521,15 +521,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7248,
+        "recency": 0.7149,
         "story_heat": 0.25
       },
       "category": "official",
@@ -584,15 +584,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.768,
+        "recency": 0.7575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,68 +608,6 @@
         "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
         "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6e1bc4c47003",
-      "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
-          "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T15:04:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
-          "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T15:04:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7152,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T15:04:31Z",
-      "latest_at": "2026-07-21T15:04:31Z",
-      "primary_item": {
-        "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
-        "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -745,15 +683,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8009,
+        "recency": 0.7899,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -807,15 +745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8808,
+        "recency": 0.8688,
         "story_heat": 0.0
       },
       "category": "official",
@@ -888,15 +826,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9446,
+        "recency": 0.9317,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -913,6 +851,67 @@
         "url": "https://www.aibase.com/news/29807",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f27dbe775a23",
+      "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+      "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
+      "primary_url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
+          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+          "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：SemiAnalysis (@SemiAnalysis_)"
+      ],
+      "items": [
+        {
+          "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
+          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+          "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9824,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T14:00:35Z",
+      "latest_at": "2026-07-22T14:00:35Z",
+      "primary_item": {
+        "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
+        "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+        "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
+        "source": "X：SemiAnalysis (@SemiAnalysis_)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -950,15 +949,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7689,
+        "recency": 0.7584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -973,6 +972,87 @@
         "title": "OpenAI 与 HuggingFace 调查安全事件",
         "url": "https://x.com/OpenAI/status/2079658951264920020",
         "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_108e4a92a72a",
+      "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+      "url": "https://www.ithome.com/0/980/322.htm",
+      "primary_url": "https://www.ithome.com/0/980/322.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c24da6b2af737a31f905fc86a05150a27d67805b",
+          "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://www.ithome.com/0/980/322.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:12:49Z"
+        },
+        {
+          "id": "c0e9c6d55f0e10cb78d59b4e3cd92bbf9f28ef50",
+          "title": "OpenAI 拟投资 200 亿美元在美国新建数据中心，到 2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://www.ithome.com/0/980/322.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T14:12:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c24da6b2af737a31f905fc86a05150a27d67805b",
+          "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://www.ithome.com/0/980/322.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:12:49Z"
+        },
+        {
+          "id": "c0e9c6d55f0e10cb78d59b4e3cd92bbf9f28ef50",
+          "title": "OpenAI 拟投资 200 亿美元在美国新建数据中心，到 2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://www.ithome.com/0/980/322.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T14:12:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9853,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T14:12:49Z",
+      "latest_at": "2026-07-22T14:12:49Z",
+      "primary_item": {
+        "id": "c24da6b2af737a31f905fc86a05150a27d67805b",
+        "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+        "url": "https://www.ithome.com/0/980/322.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1011,15 +1091,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8138,
+        "recency": 0.8027,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9608,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1152,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7343,
+        "recency": 0.7243,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1176,6 +1256,106 @@
         "title": "Karpathy：用语音与LLM长谈可提升理解效率",
         "url": "https://x.com/karpathy/status/2079610838143623371",
         "source": "X：Andrej Karpathy (@karpathy)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3b721dae502e",
+      "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
+      "url": "https://ads.openai.com",
+      "primary_url": "https://ads.openai.com",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
+          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
+          "url": "https://ads.openai.com",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T19:39:29.689000Z"
+        },
+        {
+          "id": "accf280639a56738b35caeae00d936182a99c7d9",
+          "title": "在ChatGPT上投放广告",
+          "url": "https://ads.openai.com",
+          "source": "ads.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T19:39:29.689000Z"
+        },
+        {
+          "id": "84c8e38502b6dd5c55eff6bb59b0b9dbaebdc71a",
+          "title": "在ChatGPT上投放广告 / Advertise in ChatGPT",
+          "url": "https://ads.openai.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-21T18:58:44Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "ads.openai.com"
+      ],
+      "items": [
+        {
+          "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
+          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
+          "url": "https://ads.openai.com",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T19:39:29.689000Z"
+        },
+        {
+          "id": "accf280639a56738b35caeae00d936182a99c7d9",
+          "title": "在ChatGPT上投放广告",
+          "url": "https://ads.openai.com",
+          "source": "ads.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T19:39:29.689000Z"
+        },
+        {
+          "id": "84c8e38502b6dd5c55eff6bb59b0b9dbaebdc71a",
+          "title": "在ChatGPT上投放广告 / Advertise in ChatGPT",
+          "url": "https://ads.openai.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-21T18:58:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7537,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T18:58:44Z",
+      "latest_at": "2026-07-21T19:39:29.689000Z",
+      "primary_item": {
+        "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
+        "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
+        "url": "https://ads.openai.com",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1214,15 +1394,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9756,
+        "recency": 0.9622,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,187 +1417,6 @@
         "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
         "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
         "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3b721dae502e",
-      "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-      "url": "https://ads.openai.com",
-      "primary_url": "https://ads.openai.com",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "accf280639a56738b35caeae00d936182a99c7d9",
-          "title": "在ChatGPT上投放广告",
-          "url": "https://ads.openai.com",
-          "source": "ads.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "84c8e38502b6dd5c55eff6bb59b0b9dbaebdc71a",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务 / Advertise in ChatGPT",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T18:58:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "ads.openai.com"
-      ],
-      "items": [
-        {
-          "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "accf280639a56738b35caeae00d936182a99c7d9",
-          "title": "在ChatGPT上投放广告",
-          "url": "https://ads.openai.com",
-          "source": "ads.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "84c8e38502b6dd5c55eff6bb59b0b9dbaebdc71a",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务 / Advertise in ChatGPT",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T18:58:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7641,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T18:58:44Z",
-      "latest_at": "2026-07-21T19:39:29.689000Z",
-      "primary_item": {
-        "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-        "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-        "url": "https://ads.openai.com",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d6ee30edc95b",
-      "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-      "url": "https://alignment.openai.com/measuring-reward-seeking",
-      "primary_url": "https://alignment.openai.com/measuring-reward-seeking",
-      "source": "OpenAI：Alignment 研究博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
-          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-          "url": "https://alignment.openai.com/measuring-reward-seeking",
-          "source": "OpenAI：Alignment 研究博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:10:00Z"
-        },
-        {
-          "id": "ea4165e84d56adfd3e1fc7f3123dad0ac5b3d23d",
-          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为 / Measuring reward-seeking by instilling contrastive beliefs",
-          "url": "https://alignment.openai.com/measuring-reward-seeking",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T18:17:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI：Alignment 研究博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
-          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-          "url": "https://alignment.openai.com/measuring-reward-seeking",
-          "source": "OpenAI：Alignment 研究博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:10:00Z"
-        },
-        {
-          "id": "ea4165e84d56adfd3e1fc7f3123dad0ac5b3d23d",
-          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为 / Measuring reward-seeking by instilling contrastive beliefs",
-          "url": "https://alignment.openai.com/measuring-reward-seeking",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T18:17:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7162,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T15:10:00Z",
-      "latest_at": "2026-07-21T18:17:50Z",
-      "primary_item": {
-        "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
-        "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-        "url": "https://alignment.openai.com/measuring-reward-seeking",
-        "source": "OpenAI：Alignment 研究博客（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1456,15 +1455,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8663,
+        "recency": 0.8545,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1517,15 +1516,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7354,
+        "recency": 0.7253,
         "story_heat": 0.0
       },
       "category": "official",
