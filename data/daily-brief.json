@@ -1,8 +1,189 @@
 {
-  "generated_at": "2026-07-23T19:34:05.343255Z",
+  "generated_at": "2026-07-23T20:29:31.540137Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_52002f50b4f8",
+      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8562,
+      "importance": 0.8562,
+      "importance_score": 0.8562,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.99,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:47:58Z",
+      "latest_at": "2026-07-23T19:47:58Z",
+      "primary_item": {
+        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c1235e6e1a5b",
+      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "primary_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T20:11:31.906000Z"
+        },
+        {
+          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
+          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "www.darpa.mil",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T20:11:31.906000Z"
+        },
+        {
+          "id": "b7a4cbe5dbd46acf59b5103f767eff70ab52f6bc",
+          "title": "DARPA 和美国空军驾驶人工智能控制的 F-16 / DARPA, U.S. Air Force fly AI-controlled F-16",
+          "url": "https://news.ycombinator.com/item?id=49021597",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T15:49:48.207000Z"
+        },
+        {
+          "id": "33cce87c1d1999b5e8eb79cce6697396a9f41388",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T13:51:36Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.darpa.mil"
+      ],
+      "items": [
+        {
+          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T20:11:31.906000Z"
+        },
+        {
+          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
+          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "www.darpa.mil",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T20:11:31.906000Z"
+        },
+        {
+          "id": "b7a4cbe5dbd46acf59b5103f767eff70ab52f6bc",
+          "title": "DARPA 和美国空军驾驶人工智能控制的 F-16 / DARPA, U.S. Air Force fly AI-controlled F-16",
+          "url": "https://news.ycombinator.com/item?id=49021597",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T15:49:48.207000Z"
+        },
+        {
+          "id": "33cce87c1d1999b5e8eb79cce6697396a9f41388",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T13:51:36Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9957,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T13:51:36Z",
+      "latest_at": "2026-07-23T20:11:31.906000Z",
+      "primary_item": {
+        "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
+        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+        "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_788f933fe449",
       "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
@@ -114,15 +295,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7523,
+        "recency": 0.7423,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -139,68 +320,6 @@
         "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1c806736e9c9",
-      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9821,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T18:19:14Z",
-      "latest_at": "2026-07-23T18:19:14Z",
-      "primary_item": {
-        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -238,15 +357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7538,
+        "recency": 0.7438,
         "story_heat": 0.0
       },
       "category": "official",
@@ -300,15 +419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7538,
+        "recency": 0.7438,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,15 +481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7538,
+        "recency": 0.7438,
         "story_heat": 0.0
       },
       "category": "official",
@@ -386,6 +505,68 @@
         "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
         "url": "https://openai.com/index/health-in-chatgpt",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1c806736e9c9",
+      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9691,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T18:19:14Z",
+      "latest_at": "2026-07-23T18:19:14Z",
+      "primary_item": {
+        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -461,15 +642,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9345,
+        "recency": 0.9221,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -489,145 +670,63 @@
       }
     },
     {
-      "story_id": "story_660c6350b79c",
-      "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_b2558e56df95",
+      "title": "ChatGPT 桌面版上线语音控制多智能体",
+      "url": "https://x.com/OpenAI/status/2080378182469857576",
+      "primary_url": "https://x.com/OpenAI/status/2080378182469857576",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
+          "id": "ca78f89ce07d3e329a5f0e5b085de37423eed476",
+          "title": "ChatGPT 桌面版上线语音控制多智能体",
+          "url": "https://x.com/OpenAI/status/2080378182469857576",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:43:04Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：OpenAI (@OpenAI)"
       ],
       "items": [
         {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
+          "id": "ca78f89ce07d3e329a5f0e5b085de37423eed476",
+          "title": "ChatGPT 桌面版上线语音控制多智能体",
+          "url": "https://x.com/OpenAI/status/2080378182469857576",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:43:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9431,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T15:30:29Z",
-      "latest_at": "2026-07-23T15:30:29Z",
-      "primary_item": {
-        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-        "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2ffe80c9e615",
-      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "primary_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
-        },
-        {
-          "id": "5705f143d153ceee0e8277f80d45b4788e4dff87",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建 / What happened to TheNumbers.com",
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T16:53:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
-        },
-        {
-          "id": "5705f143d153ceee0e8277f80d45b4788e4dff87",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建 / What happened to TheNumbers.com",
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T16:53:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.986,
-        "story_heat": 0.25
+        "recency": 0.9889,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T16:53:33Z",
-      "latest_at": "2026-07-23T18:35:29.016000Z",
+      "earliest_at": "2026-07-23T19:43:04Z",
+      "latest_at": "2026-07-23T19:43:04Z",
       "primary_item": {
-        "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "ca78f89ce07d3e329a5f0e5b085de37423eed476",
+        "title": "ChatGPT 桌面版上线语音控制多智能体",
+        "url": "https://x.com/OpenAI/status/2080378182469857576",
+        "source": "X：OpenAI (@OpenAI)",
         "source_name": "AI HOT"
       }
     },
@@ -685,15 +784,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9639,
+        "recency": 0.9512,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -766,15 +865,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9227,
+        "recency": 0.9105,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -791,6 +890,129 @@
         "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f88b9ddbe0d1",
+      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "primary_url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:55:29.530000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:55:29.530000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9918,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:55:29.530000Z",
+      "latest_at": "2026-07-23T19:55:29.530000Z",
+      "primary_item": {
+        "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_660c6350b79c",
+      "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T15:30:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T15:30:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9306,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T15:30:29Z",
+      "latest_at": "2026-07-23T15:30:29Z",
+      "primary_item": {
+        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+        "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -828,15 +1050,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9037,
+        "recency": 0.8917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,6 +1073,87 @@
         "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
         "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2ffe80c9e615",
+      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "primary_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T18:35:29.016000Z"
+        },
+        {
+          "id": "5705f143d153ceee0e8277f80d45b4788e4dff87",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建 / What happened to TheNumbers.com",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T16:53:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T18:35:29.016000Z"
+        },
+        {
+          "id": "5705f143d153ceee0e8277f80d45b4788e4dff87",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建 / What happened to TheNumbers.com",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T16:53:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9729,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T16:53:33Z",
+      "latest_at": "2026-07-23T18:35:29.016000Z",
+      "primary_item": {
+        "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -908,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8628,
+        "recency": 0.8514,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -989,22 +1292,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7857,
+        "recency": 0.7753,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T02:51:59Z",
       "latest_at": "2026-07-23T02:51:59Z",
@@ -1051,15 +1353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7987,
+        "recency": 0.7881,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1111,15 +1413,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9569,
+        "recency": 0.9442,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1190,15 +1492,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8389,
+        "recency": 0.8278,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1213,267 +1515,6 @@
         "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
         "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
         "url": "https://www.aibase.com/news/29834",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_32eb73a13257",
-      "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
-      "url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
-      "primary_url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
-      "source": "公众号：昆仑万维（天工）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cb3c37d8b55836c6cd51ebbd1972317ec22be3a5",
-          "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
-          "url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T11:20:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：昆仑万维（天工）"
-      ],
-      "items": [
-        {
-          "id": "cb3c37d8b55836c6cd51ebbd1972317ec22be3a5",
-          "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
-          "url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T11:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8879,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T11:20:00Z",
-      "latest_at": "2026-07-23T11:20:00Z",
-      "primary_item": {
-        "id": "cb3c37d8b55836c6cd51ebbd1972317ec22be3a5",
-        "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
-        "url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
-        "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9d674100731",
-      "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
-      "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
-      "primary_url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "972433a07cbca6415e167f2a0a186d7bcd46b590",
-          "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
-          "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T21:00:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "972433a07cbca6415e167f2a0a186d7bcd46b590",
-          "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
-          "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T21:00:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7219,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T21:00:17Z",
-      "latest_at": "2026-07-22T21:00:17Z",
-      "primary_item": {
-        "id": "972433a07cbca6415e167f2a0a186d7bcd46b590",
-        "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
-        "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bc4da3fea4fc",
-      "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "primary_url": "https://github.com/cactus-compute/cactus-hybrid",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9183f24fd0a2f27a4fb7f2151480d9279d4b65e8",
-          "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-          "url": "https://github.com/cactus-compute/cactus-hybrid",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:47:29.042000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "9183f24fd0a2f27a4fb7f2151480d9279d4b65e8",
-          "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-          "url": "https://github.com/cactus-compute/cactus-hybrid",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:47:29.042000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8196,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T05:47:29.042000Z",
-      "latest_at": "2026-07-23T05:47:29.042000Z",
-      "primary_item": {
-        "id": "9183f24fd0a2f27a4fb7f2151480d9279d4b65e8",
-        "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-        "url": "https://github.com/cactus-compute/cactus-hybrid",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b4c8a52eb5bb",
-      "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-      "url": "https://www.aibase.com/news/29816",
-      "primary_url": "https://www.aibase.com/news/29816",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-          "url": "https://www.aibase.com/news/29816",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T01:40:58.970422Z"
-        },
-        {
-          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
-          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
-          "url": "https://www.aibase.com/zh/news/29816",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-          "url": "https://www.aibase.com/news/29816",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T01:40:58.970422Z"
-        },
-        {
-          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
-          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
-          "url": "https://www.aibase.com/zh/news/29816",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7724,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T01:40:58.970422Z",
-      "latest_at": "2026-07-23T03:11:20.825709Z",
-      "primary_item": {
-        "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-        "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-        "url": "https://www.aibase.com/news/29816",
         "source": "AIbase",
         "source_name": "AIbase"
       }
