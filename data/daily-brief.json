@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T08:47:40.254706Z",
+  "generated_at": "2026-07-25T09:37:37.649258Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7922,
+        "recency": 0.7828,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.92,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8008,
+        "recency": 0.7912,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8954,
+        "recency": 0.8847,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8209,
+        "recency": 0.8111,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8595,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -422,15 +422,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7175,
+        "recency": 0.709,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -446,86 +446,6 @@
         "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0d93824837c0",
-      "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-      "url": "https://www.aibase.com/news/29878",
-      "primary_url": "https://www.aibase.com/news/29878",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-          "url": "https://www.aibase.com/news/29878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:19:55.118646Z"
-        },
-        {
-          "id": "853e55fbbd390d90b06120a5a4e83cb63bb8bd29",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入 OpenAI，数学最高荣誉得主转向 AI 安全",
-          "url": "https://www.aibase.com/zh/news/29878",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-          "url": "https://www.aibase.com/news/29878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:19:55.118646Z"
-        },
-        {
-          "id": "853e55fbbd390d90b06120a5a4e83cb63bb8bd29",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入 OpenAI，数学最高荣誉得主转向 AI 安全",
-          "url": "https://www.aibase.com/zh/news/29878",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7126,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T09:19:55.118646Z",
-      "latest_at": "2026-07-24T10:18:55.942032Z",
-      "primary_item": {
-        "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-        "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-        "url": "https://www.aibase.com/news/29878",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -563,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7587,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -642,15 +562,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7174,
+        "recency": 0.7088,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -704,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7782,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -764,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7564,
+        "recency": 0.7474,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -824,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8645,
+        "recency": 0.8542,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,66 +767,6 @@
         "title": "Anthropic Opus 5 发布：性能逼近 Fable 5 但价格砍半，刷新 ARC-AGI-3 纪录",
         "url": "https://www.ithome.com/0/981/398.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_31cf3740c53e",
-      "title": "Runway Agent 推出自然语言工作流功能",
-      "url": "https://x.com/runwayml/status/2080649234672439389",
-      "primary_url": "https://x.com/runwayml/status/2080649234672439389",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
-          "title": "Runway Agent 推出自然语言工作流功能",
-          "url": "https://x.com/runwayml/status/2080649234672439389",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
-          "title": "Runway Agent 推出自然语言工作流功能",
-          "url": "https://x.com/runwayml/status/2080649234672439389",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7587,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:40:08Z",
-      "latest_at": "2026-07-24T13:40:08Z",
-      "primary_item": {
-        "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
-        "title": "Runway Agent 推出自然语言工作流功能",
-        "url": "https://x.com/runwayml/status/2080649234672439389",
-        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -926,20 +786,10 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T11:55:45.885000Z"
-        },
-        {
-          "id": "36542a2fb972d1da2e9bfb21c568c238806bec3f",
-          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:31:48Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -951,37 +801,26 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T11:55:45.885000Z"
-        },
-        {
-          "id": "36542a2fb972d1da2e9bfb21c568c238806bec3f",
-          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:31:48Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7399,
-        "story_heat": 0.25
+        "recency": 0.731,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T09:31:48Z",
+      "earliest_at": "2026-07-24T11:55:45.885000Z",
       "latest_at": "2026-07-24T11:55:45.885000Z",
       "primary_item": {
         "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
@@ -1044,15 +883,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5921,
-      "importance": 0.5921,
-      "importance_score": 0.5921,
+      "score": 0.5904,
+      "importance": 0.5904,
+      "importance_score": 0.5904,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8063,
+        "recency": 0.7966,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1140,15 +979,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5868,
-      "importance": 0.5868,
-      "importance_score": 0.5868,
+      "score": 0.585,
+      "importance": 0.585,
+      "importance_score": 0.585,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8199,
+        "recency": 0.8101,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1276,15 +1115,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5846,
-      "importance": 0.5846,
-      "importance_score": 0.5846,
+      "score": 0.5829,
+      "importance": 0.5829,
+      "importance_score": 0.5829,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7991,
+        "recency": 0.7895,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1372,15 +1211,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
+      "score": 0.5658,
+      "importance": 0.5658,
+      "importance_score": 0.5658,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9837,
+        "recency": 0.972,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1470,15 +1309,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5499,
-      "importance": 0.5499,
-      "importance_score": 0.5499,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8839,
+        "recency": 0.8733,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1568,15 +1407,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5474,
-      "importance": 0.5474,
-      "importance_score": 0.5474,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8697,
+        "recency": 0.8593,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1590,6 +1429,182 @@
         "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
         "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
         "source": "unsung.aresluna.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3ecc7db58a46",
+      "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "primary_url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "source": "www.theguardian.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T18:03:38.315000Z"
+        },
+        {
+          "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T16:33:31Z"
+        },
+        {
+          "id": "ab81b1f75584c63440810504587934f1b70153a7",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T13:15:35.524000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T18:03:38.315000Z"
+        },
+        {
+          "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T16:33:31Z"
+        },
+        {
+          "id": "ab81b1f75584c63440810504587934f1b70153a7",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T13:15:35.524000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7987,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T13:15:35.524000Z",
+      "latest_at": "2026-07-24T18:03:38.315000Z",
+      "primary_item": {
+        "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+        "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+        "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+        "source": "www.theguardian.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7ac2af1acf3c",
+      "title": "英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3dacb4e521229c6cb9568bfbdf5e9cf03d41d1cd",
+          "title": "英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T04:59:44.960000Z"
+        },
+        {
+          "id": "2d49edf4199b844d7de09d9f572dd5aa30b559ef",
+          "title": "英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作协议",
+          "url": "https://www.reuters.com/business/media-telecom/nvidia-[redacted-secret]",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T00:11:32.646000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "3dacb4e521229c6cb9568bfbdf5e9cf03d41d1cd",
+          "title": "英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T04:59:44.960000Z"
+        },
+        {
+          "id": "2d49edf4199b844d7de09d9f572dd5aa30b559ef",
+          "title": "英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作协议",
+          "url": "https://www.reuters.com/business/media-telecom/nvidia-[redacted-secret]",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T00:11:32.646000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9353,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T00:11:32.646000Z",
+      "latest_at": "2026-07-25T04:59:44.960000Z",
+      "primary_item": {
+        "id": "3dacb4e521229c6cb9568bfbdf5e9cf03d41d1cd",
+        "title": "英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     }
