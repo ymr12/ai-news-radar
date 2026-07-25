@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T12:57:13.676541Z",
+  "generated_at": "2026-07-25T13:36:06.711858Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7461,
+        "recency": 0.7391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.92,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7541,
+        "recency": 0.747,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8432,
+        "recency": 0.8354,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -243,20 +243,10 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T19:07:52.324000Z"
-        },
-        {
-          "id": "350c51365d8dc729c33f9dfe9558a88b3d2c3488",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管 / Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T13:32:30Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -268,37 +258,26 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T19:07:52.324000Z"
-        },
-        {
-          "id": "350c51365d8dc729c33f9dfe9558a88b3d2c3488",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管 / Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T13:32:30Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7731,
-        "story_heat": 0.25
+        "recency": 0.7659,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T13:32:30Z",
+      "earliest_at": "2026-07-24T19:07:52.324000Z",
       "latest_at": "2026-07-24T19:07:52.324000Z",
       "primary_item": {
         "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
@@ -343,15 +322,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8094,
+        "recency": 0.8019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -403,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7145,
+        "recency": 0.7079,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -463,15 +442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7328,
+        "recency": 0.726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -485,66 +464,6 @@
         "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
         "url": "https://www.anthropic.com/research/project-pilot",
         "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_886d512748f4",
-      "title": "微软阐述开源模型助力美国竞争力路径",
-      "url": "https://x.com/satyanadella/status/2080646162483417097",
-      "primary_url": "https://x.com/satyanadella/status/2080646162483417097",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-          "title": "微软阐述开源模型助力美国竞争力路径",
-          "url": "https://x.com/satyanadella/status/2080646162483417097",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:27:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-          "title": "微软阐述开源模型助力美国竞争力路径",
-          "url": "https://x.com/satyanadella/status/2080646162483417097",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:27:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:27:56Z",
-      "latest_at": "2026-07-24T13:27:56Z",
-      "primary_item": {
-        "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-        "title": "微软阐述开源模型助力美国竞争力路径",
-        "url": "https://x.com/satyanadella/status/2080646162483417097",
-        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       }
     },
@@ -583,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8141,
+        "recency": 0.8066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -661,15 +580,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6664,
-      "importance": 0.6664,
-      "importance_score": 0.6664,
+      "score": 0.6648,
+      "importance": 0.6648,
+      "importance_score": 0.6648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9593,
+        "recency": 0.9504,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -740,15 +659,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5837,
-      "importance": 0.5837,
-      "importance_score": 0.5837,
+      "score": 0.5824,
+      "importance": 0.5824,
+      "importance_score": 0.5824,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.7593,
+        "recency": 0.7522,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -836,15 +755,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5782,
-      "importance": 0.5782,
-      "importance_score": 0.5782,
+      "score": 0.5769,
+      "importance": 0.5769,
+      "importance_score": 0.5769,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7721,
+        "recency": 0.7649,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -972,15 +891,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5762,
-      "importance": 0.5762,
-      "importance_score": 0.5762,
+      "score": 0.575,
+      "importance": 0.575,
+      "importance_score": 0.575,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7525,
+        "recency": 0.7455,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1068,15 +987,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5575,
-      "importance": 0.5575,
-      "importance_score": 0.5575,
+      "score": 0.556,
+      "importance": 0.556,
+      "importance_score": 0.556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9264,
+        "recency": 0.9178,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1166,15 +1085,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8323,
+        "recency": 0.8246,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1245,15 +1164,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9664,
+        "recency": 0.9574,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1343,15 +1262,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.819,
+        "recency": 0.8114,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1386,27 +1305,28 @@
           "published_at": "2026-07-24T18:03:38.315000Z"
         },
         {
+          "id": "6789045bbad9da5f6137bd2c45a04d41965f7f7e",
+          "title": "对 OpenAI 的流氓黑客代理故事持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://news.ycombinator.com/item?id=49038060",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T17:36:26.193000Z"
+        },
+        {
           "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
           "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-07-24T16:33:31Z"
-        },
-        {
-          "id": "ab81b1f75584c63440810504587934f1b70153a7",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T13:15:35.524000Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
+        "hackernews",
         "www.theguardian.com"
       ],
       "items": [
@@ -1420,42 +1340,42 @@
           "published_at": "2026-07-24T18:03:38.315000Z"
         },
         {
+          "id": "6789045bbad9da5f6137bd2c45a04d41965f7f7e",
+          "title": "对 OpenAI 的流氓黑客代理故事持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://news.ycombinator.com/item?id=49038060",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T17:36:26.193000Z"
+        },
+        {
           "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
           "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-07-24T16:33:31Z"
-        },
-        {
-          "id": "ab81b1f75584c63440810504587934f1b70153a7",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T13:15:35.524000Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7612,
+        "recency": 0.7541,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T13:15:35.524000Z",
+      "earliest_at": "2026-07-24T16:33:31Z",
       "latest_at": "2026-07-24T18:03:38.315000Z",
       "primary_item": {
         "id": "b7cee266358674bbfa115907e1fa668565616cbb",
@@ -1519,15 +1439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8914,
+        "recency": 0.8831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1598,15 +1518,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8703,
+        "recency": 0.8622,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1621,6 +1541,85 @@
         "url": "https://www.huxiu.com/article/4878074.html?f=rss",
         "source": "虎嗅 (Huxiu)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_eff75d4ec392",
+      "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
+      "url": "https://www.ithome.com/0/981/445.htm",
+      "primary_url": "https://www.ithome.com/0/981/445.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
+          "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
+          "url": "https://www.ithome.com/0/981/445.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "994ec55364a1cd588f7c4a6df1b16f7ecc8d1a69",
+          "title": "OpenAI 将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
+          "url": "https://www.ithome.com/0/981/445.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T02:10:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
+          "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
+          "url": "https://www.ithome.com/0/981/445.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "994ec55364a1cd588f7c4a6df1b16f7ecc8d1a69",
+          "title": "OpenAI 将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
+          "url": "https://www.ithome.com/0/981/445.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T02:10:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8602,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T02:10:26Z",
+      "latest_at": "2026-07-25T03:10:10.843036Z",
+      "primary_item": {
+        "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
+        "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
+        "url": "https://www.ithome.com/0/981/445.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
