@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T21:50:18.404752Z",
+  "generated_at": "2026-07-25T22:22:38.480148Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8899,
+        "recency": 0.883,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7417,
+        "recency": 0.7359,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7161,
+        "recency": 0.7106,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -314,15 +314,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6382,
-      "importance": 0.6382,
-      "importance_score": 0.6382,
+      "score": 0.6369,
+      "importance": 0.6369,
+      "importance_score": 0.6369,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9669,
+        "recency": 0.9594,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -412,15 +412,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5619,
-      "importance": 0.5619,
-      "importance_score": 0.5619,
+      "score": 0.5605,
+      "importance": 0.5605,
+      "importance_score": 0.5605,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9504,
+        "recency": 0.9431,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -435,6 +435,85 @@
         "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
         "source": "tobi.knaup.me",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_81e43f035001",
+      "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+      "url": "https://news.ycombinator.com/item?id=49051361",
+      "primary_url": "https://news.ycombinator.com/item?id=49051361",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.993,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:42:35Z",
+      "latest_at": "2026-07-25T21:53:29.575000Z",
+      "primary_item": {
+        "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+        "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+        "url": "https://news.ycombinator.com/item?id=49051361",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -491,15 +570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9878,
+        "recency": 0.9801,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -517,81 +596,82 @@
       }
     },
     {
-      "story_id": "story_8b70706ef7b0",
-      "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-      "url": "https://news.ycombinator.com/item?id=49048034",
-      "primary_url": "https://news.ycombinator.com/item?id=49048034",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_10e81be27811",
+      "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
-          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T19:31:04.082000Z"
+          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
         },
         {
-          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
-          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T16:24:46.237000Z"
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "hackernews"
+        "Hacker News (黑客新闻)",
+        "www.debian.org"
       ],
       "items": [
         {
-          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
-          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T19:31:04.082000Z"
+          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
         },
         {
-          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
-          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T16:24:46.237000Z"
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.967,
+        "recency": 0.9627,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T16:24:46.237000Z",
-      "latest_at": "2026-07-25T19:31:04.082000Z",
+      "earliest_at": "2026-07-25T16:27:16.797000Z",
+      "latest_at": "2026-07-25T19:44:39Z",
       "primary_item": {
-        "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
-        "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-        "url": "https://news.ycombinator.com/item?id=49048034",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
+        "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -665,15 +745,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8148,
+        "recency": 0.8085,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -695,16 +775,16 @@
       "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
       "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
       "primary_url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
           "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
           "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T16:31:15Z"
         },
         {
@@ -719,17 +799,16 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
           "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
           "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T16:31:15Z"
         },
         {
@@ -744,15 +823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9261,
+        "recency": 0.9189,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -762,90 +841,11 @@
       "earliest_at": "2026-07-25T02:36:51Z",
       "latest_at": "2026-07-25T16:31:15Z",
       "primary_item": {
-        "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+        "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
         "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
         "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "一般性决议：Debian 中 LLM 的使用",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        },
-        {
-          "id": "8f313cdf55a1f6800b7b760ff68b1f9aff655ca1",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T16:10:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        },
-        {
-          "id": "8f313cdf55a1f6800b7b760ff68b1f9aff655ca1",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T16:10:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9252,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T16:10:47Z",
-      "latest_at": "2026-07-25T16:27:16.797000Z",
-      "primary_item": {
-        "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-        "title": "一般性决议：Debian 中 LLM 的使用",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -902,15 +902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9181,
+        "recency": 0.9109,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -928,82 +928,82 @@
       }
     },
     {
-      "story_id": "story_64934dbed4f8",
-      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_a92321595322",
+      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://news.ycombinator.com/item?id=49051692",
+      "primary_url": "https://news.ycombinator.com/item?id=49051692",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:41:06Z"
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
         },
         {
-          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.753000Z"
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T18:15:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.theguardian.com"
+        "Daring Fireball",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:41:06Z"
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
         },
         {
-          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.753000Z"
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T18:15:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9019,
+        "recency": 0.993,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T13:14:51.753000Z",
-      "latest_at": "2026-07-25T14:41:06Z",
+      "earliest_at": "2026-07-25T18:15:12Z",
+      "latest_at": "2026-07-25T21:53:29.575000Z",
       "primary_item": {
-        "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+        "url": "https://news.ycombinator.com/item?id=49051692",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1060,15 +1060,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
+      "score": 0.5058,
+      "importance": 0.5058,
+      "importance_score": 0.5058,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7841,
+        "recency": 0.778,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1139,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5036,
-      "importance": 0.5036,
-      "importance_score": 0.5036,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7655,
+        "recency": 0.7595,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1218,15 +1218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5033,
-      "importance": 0.5033,
-      "importance_score": 0.5033,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7637,
+        "recency": 0.7578,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1297,15 +1297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4998,
-      "importance": 0.4998,
-      "importance_score": 0.4998,
+      "score": 0.4988,
+      "importance": 0.4988,
+      "importance_score": 0.4988,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7445,
+        "recency": 0.7387,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1323,82 +1323,82 @@
       }
     },
     {
-      "story_id": "story_4de03213f8f7",
-      "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "url": "https://news.ycombinator.com/item?id=49047448",
-      "primary_url": "https://news.ycombinator.com/item?id=49047448",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_64934dbed4f8",
+      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://news.ycombinator.com/item?id=49047448",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T14:21:50.881000Z"
-        },
-        {
-          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-25T13:33:03Z"
+          "published_at": "2026-07-25T14:41:06Z"
+        },
+        {
+          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.753000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews"
+        "www.theguardian.com"
       ],
       "items": [
         {
-          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://news.ycombinator.com/item?id=49047448",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T14:21:50.881000Z"
-        },
-        {
-          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-25T13:33:03Z"
+          "published_at": "2026-07-25T14:41:06Z"
+        },
+        {
+          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.753000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8977,
+        "recency": 0.8949,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T13:33:03Z",
-      "latest_at": "2026-07-25T14:21:50.881000Z",
+      "earliest_at": "2026-07-25T13:14:51.753000Z",
+      "latest_at": "2026-07-25T14:41:06Z",
       "primary_item": {
-        "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-        "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-        "url": "https://news.ycombinator.com/item?id=49047448",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1455,15 +1455,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4965,
-      "importance": 0.4965,
-      "importance_score": 0.4965,
+      "score": 0.4955,
+      "importance": 0.4955,
+      "importance_score": 0.4955,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.726,
+        "recency": 0.7204,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,15 +1534,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4955,
-      "importance": 0.4955,
-      "importance_score": 0.4955,
+      "score": 0.4945,
+      "importance": 0.4945,
+      "importance_score": 0.4945,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7204,
+        "recency": 0.7148,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1613,15 +1613,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8833,
+        "recency": 0.8765,
         "story_heat": 0.25
       },
       "category": "watch",
