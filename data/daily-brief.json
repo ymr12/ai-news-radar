@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T23:24:17.357465Z",
+  "generated_at": "2026-07-25T23:51:16.567388Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.87,
+        "recency": 0.8644,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7251,
+        "recency": 0.7204,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -254,15 +254,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6343,
-      "importance": 0.6343,
-      "importance_score": 0.6343,
+      "score": 0.6332,
+      "importance": 0.6332,
+      "importance_score": 0.6332,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9453,
+        "recency": 0.9391,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -277,6 +277,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-25",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_81e43f035001",
+      "title": "Claude 5 生成模型的上下文工程新规则",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "claude.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9933,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:42:35Z",
+      "latest_at": "2026-07-25T23:23:09.413000Z",
+      "primary_item": {
+        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+        "title": "Claude 5 生成模型的上下文工程新规则",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "source": "claude.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -352,15 +450,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.558,
-      "importance": 0.558,
-      "importance_score": 0.558,
+      "score": 0.557,
+      "importance": 0.557,
+      "importance_score": 0.557,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9292,
+        "recency": 0.9231,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -378,80 +476,158 @@
       }
     },
     {
-      "story_id": "story_5f284decdfa5",
-      "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://news.ycombinator.com/item?id=49050512",
-      "primary_url": "https://news.ycombinator.com/item?id=49050512",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_4d5da1abe9d0",
+      "title": "Ruff v0.16.0 发布：默认规则集大幅扩展，新增数百条检查规则",
+      "url": "https://simonwillison.net/2026/Jul/25/ruff",
+      "primary_url": "https://simonwillison.net/2026/Jul/25/ruff",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:06:07.579000Z"
+          "id": "52cf925f47e02051a1e0dd1150ae1fc68abefbe8",
+          "title": "Ruff v0.16.0 发布：默认规则集大幅扩展，新增数百条检查规则",
+          "url": "https://simonwillison.net/2026/Jul/25/ruff",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T18:59:50Z"
+          "id": "6f888ab5e2880ada700bbcf86349d14c16646d8a",
+          "title": "Ruff v0.16.0",
+          "url": "https://simonwillison.net/2026/Jul/25/ruff",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:06:07.579000Z"
+          "id": "52cf925f47e02051a1e0dd1150ae1fc68abefbe8",
+          "title": "Ruff v0.16.0 发布：默认规则集大幅扩展，新增数百条检查规则",
+          "url": "https://simonwillison.net/2026/Jul/25/ruff",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T18:59:50Z"
+          "id": "6f888ab5e2880ada700bbcf86349d14c16646d8a",
+          "title": "Ruff v0.16.0",
+          "url": "https://simonwillison.net/2026/Jul/25/ruff",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9956,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T18:59:50Z",
-      "latest_at": "2026-07-25T23:06:07.579000Z",
+      "earliest_at": "2026-07-25T23:24:17.357465Z",
+      "latest_at": "2026-07-25T23:51:16.567388Z",
       "primary_item": {
-        "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-        "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-        "url": "https://news.ycombinator.com/item?id=49050512",
+        "id": "52cf925f47e02051a1e0dd1150ae1fc68abefbe8",
+        "title": "Ruff v0.16.0 发布：默认规则集大幅扩展，新增数百条检查规则",
+        "url": "https://simonwillison.net/2026/Jul/25/ruff",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6876b0340723",
+      "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+      "url": "https://news.ycombinator.com/item?id=49052570",
+      "primary_url": "https://news.ycombinator.com/item?id=49052570",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://news.ycombinator.com/item?id=49052570",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:36:09.455000Z"
+        },
+        {
+          "id": "b18fbc041109800fae4f38b4a6e043d005c00414",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T22:51:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://news.ycombinator.com/item?id=49052570",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:36:09.455000Z"
+        },
+        {
+          "id": "b18fbc041109800fae4f38b4a6e043d005c00414",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T22:51:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9964,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T22:51:10Z",
+      "latest_at": "2026-07-25T23:36:09.455000Z",
+      "primary_item": {
+        "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+        "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+        "url": "https://news.ycombinator.com/item?id=49052570",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -510,15 +686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9657,
+        "recency": 0.9594,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -589,15 +765,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.951,
+        "recency": 0.9449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -668,15 +844,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9485,
+        "recency": 0.9424,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -764,15 +940,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7966,
+        "recency": 0.7915,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -842,15 +1018,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9054,
+        "recency": 0.8995,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -921,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8975,
+        "recency": 0.8917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -947,80 +1123,80 @@
       }
     },
     {
-      "story_id": "story_81e43f035001",
-      "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-      "url": "https://news.ycombinator.com/item?id=49051361",
-      "primary_url": "https://news.ycombinator.com/item?id=49051361",
+      "story_id": "story_5f284decdfa5",
+      "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://news.ycombinator.com/item?id=49050512",
+      "primary_url": "https://news.ycombinator.com/item?id=49050512",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
+          "published_at": "2026-07-25T23:06:07.579000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
+          "published_at": "2026-07-25T23:06:07.579000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9784,
+        "recency": 0.9892,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T20:42:35Z",
-      "latest_at": "2026-07-25T21:53:29.575000Z",
+      "earliest_at": "2026-07-25T18:59:50Z",
+      "latest_at": "2026-07-25T23:06:07.579000Z",
       "primary_item": {
-        "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-        "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-        "url": "https://news.ycombinator.com/item?id=49051361",
+        "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+        "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+        "url": "https://news.ycombinator.com/item?id=49050512",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1079,15 +1255,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5038,
-      "importance": 0.5038,
-      "importance_score": 0.5038,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7666,
+        "recency": 0.7616,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1158,15 +1334,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5005,
-      "importance": 0.5005,
-      "importance_score": 0.5005,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7484,
+        "recency": 0.7435,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,85 +1357,6 @@
         "url": "https://www.huxiu.com/article/4878074.html?f=rss",
         "source": "虎嗅 (Huxiu)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_eff75d4ec392",
-      "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
-      "url": "https://www.ithome.com/0/981/445.htm",
-      "primary_url": "https://www.ithome.com/0/981/445.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
-          "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
-          "url": "https://www.ithome.com/0/981/445.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "994ec55364a1cd588f7c4a6df1b16f7ecc8d1a69",
-          "title": "OpenAI 将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
-          "url": "https://www.ithome.com/0/981/445.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T02:10:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
-          "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
-          "url": "https://www.ithome.com/0/981/445.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "994ec55364a1cd588f7c4a6df1b16f7ecc8d1a69",
-          "title": "OpenAI 将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
-          "url": "https://www.ithome.com/0/981/445.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T02:10:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7466,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T02:10:26Z",
-      "latest_at": "2026-07-25T03:10:10.843036Z",
-      "primary_item": {
-        "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
-        "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
-        "url": "https://www.ithome.com/0/981/445.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1316,15 +1413,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
+      "score": 0.496,
+      "importance": 0.496,
+      "importance_score": 0.496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7278,
+        "recency": 0.7231,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1395,15 +1492,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8817,
+        "recency": 0.876,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1474,15 +1571,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8636,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1553,15 +1650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9784,
+        "recency": 0.9721,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1576,85 +1673,6 @@
         "url": "https://news.ycombinator.com/item?id=49051692",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3f7650520ee0",
-      "title": "9 点 1 氪｜宇树科技 CEO 王兴兴登上《时代》杂志封面；国家反诈中心 App 可一键检测 AI 生成痕迹；Claude Opus 5 正式发布",
-      "url": "https://36kr.com/p/3910351337821318?f=rss",
-      "primary_url": "https://36kr.com/p/3910351337821318?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3a1e70f41ddb0bb4a1ca1092bd8672cefaad017c",
-          "title": "9 点 1 氪｜宇树科技 CEO 王兴兴登上《时代》杂志封面；国家反诈中心 App 可一键检测 AI 生成痕迹；Claude Opus 5 正式发布",
-          "url": "https://36kr.com/p/3910351337821318?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7bac0788e0f935fd785c64555515c11bcafc75e6",
-          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
-          "url": "https://36kr.com/p/3910351337821318?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T00:57:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3a1e70f41ddb0bb4a1ca1092bd8672cefaad017c",
-          "title": "9 点 1 氪｜宇树科技 CEO 王兴兴登上《时代》杂志封面；国家反诈中心 App 可一键检测 AI 生成痕迹；Claude Opus 5 正式发布",
-          "url": "https://36kr.com/p/3910351337821318?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7bac0788e0f935fd785c64555515c11bcafc75e6",
-          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
-          "url": "https://36kr.com/p/3910351337821318?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T00:57:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7307,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T00:57:52Z",
-      "latest_at": "2026-07-25T01:40:41.246842Z",
-      "primary_item": {
-        "id": "3a1e70f41ddb0bb4a1ca1092bd8672cefaad017c",
-        "title": "9 点 1 氪｜宇树科技 CEO 王兴兴登上《时代》杂志封面；国家反诈中心 App 可一键检测 AI 生成痕迹；Claude Opus 5 正式发布",
-        "url": "https://36kr.com/p/3910351337821318?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
