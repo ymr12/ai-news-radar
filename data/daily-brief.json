@@ -1,127 +1,8 @@
 {
-  "generated_at": "2026-07-26T18:54:41.964099Z",
+  "generated_at": "2026-07-26T19:32:09.043023Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_5f284decdfa5",
-      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "primary_url": "https://github.com/slvDev/esp32-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
-          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:06:07.579000Z"
-        },
-        {
-          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T18:59:50Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
-          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:06:07.579000Z"
-        },
-        {
-          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T18:59:50Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8053,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-25T18:59:50Z",
-      "latest_at": "2026-07-26T03:54:52.332000Z",
-      "primary_item": {
-        "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-        "url": "https://github.com/slvDev/esp32-ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_f8f08a1eac71",
       "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
@@ -176,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9087,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8616,
+        "recency": 0.8539,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,6 +162,87 @@
         "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
         "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f284decdfa5",
+      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "primary_url": "https://github.com/slvDev/esp32-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7981,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T03:54:52.332000Z",
+      "latest_at": "2026-07-26T03:54:52.332000Z",
+      "primary_item": {
+        "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -319,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9904,
+        "recency": 0.9815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -399,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8247,
+        "recency": 0.8173,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -460,38 +422,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-26T16:26:06.516724Z"
-        },
-        {
-          "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
-          "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:30:24.566453Z"
-        },
-        {
-          "id": "5613709695b567a2783bb96dd67b4aad3cc1e0c9",
-          "title": "写作很难靠一个万能工具解决，你要先判断写什么，再搭框架、补素材，最后慢慢校准自己的表达。不过YouMind的这6 个写作Skills或许会在各个阶段帮助到你：选题阶段用「公众号选题分析师」做定位、热度调研和竞品拆解，用「智能选题助手」把知识库素材和实时热点组合成可写方向；写作阶段用商业特稿助手、新世相编辑、卡兹克文风教练，分别处理商业深度、都市情绪和 AI 观点风格；长期风格建设则交给「灵魂笔触」，沉淀个人写作资产。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:30:24.566453Z"
-        },
-        {
-          "id": "9bfe739b4d31abcc6e3626ba28819f72e3e0caa1",
-          "title": "现在做GEO，最容易踩的坑，是把它当成新版 SEO：内容发了很多，却没搞清楚豆包、元宝、文心、DeepSeek、Kimi 各自更愿意引用谁。姚金刚和向阳乔木的GEO公开课第3期基于21万条AI引用记录，拆解了12个AI平台的信源偏好。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:30:24.566453Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 3,
       "source_names": [
-        "社区更新 · 2026-07-25",
         "社区更新 · 2026-07-26"
       ],
       "items": [
@@ -521,53 +455,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-26T16:26:06.516724Z"
-        },
-        {
-          "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
-          "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:30:24.566453Z"
-        },
-        {
-          "id": "5613709695b567a2783bb96dd67b4aad3cc1e0c9",
-          "title": "写作很难靠一个万能工具解决，你要先判断写什么，再搭框架、补素材，最后慢慢校准自己的表达。不过YouMind的这6 个写作Skills或许会在各个阶段帮助到你：选题阶段用「公众号选题分析师」做定位、热度调研和竞品拆解，用「智能选题助手」把知识库素材和实时热点组合成可写方向；写作阶段用商业特稿助手、新世相编辑、卡兹克文风教练，分别处理商业深度、都市情绪和 AI 观点风格；长期风格建设则交给「灵魂笔触」，沉淀个人写作资产。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:30:24.566453Z"
-        },
-        {
-          "id": "9bfe739b4d31abcc6e3626ba28819f72e3e0caa1",
-          "title": "现在做GEO，最容易踩的坑，是把它当成新版 SEO：内容发了很多，却没搞清楚豆包、元宝、文心、DeepSeek、Kimi 各自更愿意引用谁。姚金刚和向阳乔木的GEO公开课第3期基于21万条AI引用记录，拆解了12个AI平台的信源偏好。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:30:24.566453Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6665,
-      "importance": 0.6665,
-      "importance_score": 0.6665,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6149,
+      "importance": 0.6149,
+      "importance_score": 0.6149,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.985,
-        "story_heat": 1.0
+        "recency": 0.9762,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T19:30:24.566453Z",
+      "earliest_at": "2026-07-26T16:26:06.516724Z",
       "latest_at": "2026-07-26T17:52:04.145974Z",
       "primary_item": {
         "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
@@ -686,15 +593,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5858,
-      "importance": 0.5858,
-      "importance_score": 0.5858,
+      "score": 0.5844,
+      "importance": 0.5844,
+      "importance_score": 0.5844,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8053,
+        "recency": 0.7981,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -784,15 +691,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.5681,
+      "importance": 0.5681,
+      "importance_score": 0.5681,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9937,
+        "recency": 0.9848,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -882,15 +789,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5652,
-      "importance": 0.5652,
-      "importance_score": 0.5652,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9687,
+        "recency": 0.9601,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -980,15 +887,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5516,
-      "importance": 0.5516,
-      "importance_score": 0.5516,
+      "score": 0.5502,
+      "importance": 0.5502,
+      "importance_score": 0.5502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8935,
+        "recency": 0.8855,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1078,15 +985,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8532,
+        "recency": 0.8455,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1176,15 +1083,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8053,
+        "recency": 0.7981,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1255,15 +1162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.925,
+        "recency": 0.9167,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,15 +1260,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7543,
+        "recency": 0.7475,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1396,18 +1303,18 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
+          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "huggingface.co"
       ],
       "items": [
@@ -1421,26 +1328,26 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
+          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5188,
-      "importance": 0.5188,
-      "importance_score": 0.5188,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8499,
+        "recency": 0.8423,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1510,15 +1417,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8471,
+        "recency": 0.8395,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1536,80 +1443,80 @@
       }
     },
     {
-      "story_id": "story_8a0d9544ac70",
-      "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-      "url": "https://news.ycombinator.com/item?id=49059660",
-      "primary_url": "https://news.ycombinator.com/item?id=49059660",
+      "story_id": "story_495f7b95d6b8",
+      "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://news.ycombinator.com/item?id=49061015",
+      "primary_url": "https://news.ycombinator.com/item?id=49061015",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://news.ycombinator.com/item?id=49059660",
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://news.ycombinator.com/item?id=49061015",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T17:26:06.895000Z"
+          "published_at": "2026-07-26T19:32:41.025000Z"
         },
         {
-          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T16:23:56Z"
+          "id": "610523dc201d5c47da83a2664c7cff8ffb9b780a",
+          "title": "Show HN: 一种操作系统，其中难题会自动升级到更强大的模型中 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T18:40:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://news.ycombinator.com/item?id=49059660",
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://news.ycombinator.com/item?id=49061015",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T17:26:06.895000Z"
+          "published_at": "2026-07-26T19:32:41.025000Z"
         },
         {
-          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T16:23:56Z"
+          "id": "610523dc201d5c47da83a2664c7cff8ffb9b780a",
+          "title": "Show HN: 一种操作系统，其中难题会自动升级到更强大的模型中 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T18:40:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9789,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T16:23:56Z",
-      "latest_at": "2026-07-26T17:26:06.895000Z",
+      "earliest_at": "2026-07-26T18:40:08Z",
+      "latest_at": "2026-07-26T19:32:41.025000Z",
       "primary_item": {
-        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-        "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-        "url": "https://news.ycombinator.com/item?id=49059660",
+        "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+        "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "url": "https://news.ycombinator.com/item?id=49061015",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1667,15 +1574,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5076,
-      "importance": 0.5076,
-      "importance_score": 0.5076,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7876,
+        "recency": 0.7805,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1746,15 +1653,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.495,
-      "importance": 0.495,
-      "importance_score": 0.495,
+      "score": 0.4938,
+      "importance": 0.4938,
+      "importance_score": 0.4938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7175,
+        "recency": 0.7111,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1825,15 +1732,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8832,
+        "recency": 0.8753,
         "story_heat": 0.25
       },
       "category": "watch",
