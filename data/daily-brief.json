@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T07:25:15.888829Z",
+  "generated_at": "2026-07-26T08:20:11.053579Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9506,
+        "recency": 0.9381,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9607,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7749,
+        "recency": 0.7648,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8921,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -433,15 +433,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6157,
-      "importance": 0.6157,
-      "importance_score": 0.6157,
+      "score": 0.6138,
+      "importance": 0.6138,
+      "importance_score": 0.6138,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8419,
+        "recency": 0.8309,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -549,15 +549,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5869,
-      "importance": 0.5869,
-      "importance_score": 0.5869,
+      "score": 0.5847,
+      "importance": 0.5847,
+      "importance_score": 0.5847,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9506,
+        "recency": 0.9381,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -571,6 +571,104 @@
         "title": "Debian 中 LLM 的应用：三项提案",
         "url": "https://www.debian.org/vote/2026/vote_002",
         "source": "www.debian.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6ed4f8aaa0e3",
+      "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
+      "primary_url": "https://blog.cloudflare.com/content-independence-day-ai-options",
+      "source": "blog.cloudflare.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ca789375d6785f531fef17d4ac34cc2b4ac2de69",
+          "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
+          "source": "blog.cloudflare.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T07:54:52.835000Z"
+        },
+        {
+          "id": "7920be7f61ea9be43a5e49edb0b813f6eb89c993",
+          "title": "Cloudflare 为客户提供的新 AI 流量选项 / Cloudflare's new AI traffic options for customers",
+          "url": "https://news.ycombinator.com/item?id=49052564",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:36:11.814000Z"
+        },
+        {
+          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T22:50:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "blog.cloudflare.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ca789375d6785f531fef17d4ac34cc2b4ac2de69",
+          "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
+          "source": "blog.cloudflare.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T07:54:52.835000Z"
+        },
+        {
+          "id": "7920be7f61ea9be43a5e49edb0b813f6eb89c993",
+          "title": "Cloudflare 为客户提供的新 AI 流量选项 / Cloudflare's new AI traffic options for customers",
+          "url": "https://news.ycombinator.com/item?id=49052564",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:36:11.814000Z"
+        },
+        {
+          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T22:50:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5697,
+      "importance": 0.5697,
+      "importance_score": 0.5697,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9939,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T22:50:49Z",
+      "latest_at": "2026-07-26T07:54:52.835000Z",
+      "primary_item": {
+        "id": "ca789375d6785f531fef17d4ac34cc2b4ac2de69",
+        "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
+        "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
+        "source": "blog.cloudflare.com",
         "source_name": "Buzzing"
       }
     },
@@ -647,15 +745,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5619,
-      "importance": 0.5619,
-      "importance_score": 0.5619,
+      "score": 0.5597,
+      "importance": 0.5597,
+      "importance_score": 0.5597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9506,
+        "recency": 0.9381,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -745,15 +843,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5511,
-      "importance": 0.5511,
-      "importance_score": 0.5511,
+      "score": 0.549,
+      "importance": 0.549,
+      "importance_score": 0.549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8904,
+        "recency": 0.8788,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -843,15 +941,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5477,
-      "importance": 0.5477,
-      "importance_score": 0.5477,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8714,
+        "recency": 0.86,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -866,6 +964,85 @@
         "url": "https://news.ycombinator.com/item?id=49051692",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_16b138d9f3a3",
+      "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "primary_url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "source": "huggingface.co",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
+          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T07:38:53.861000Z"
+        },
+        {
+          "id": "49a2b799efdc859150bd76035d48aa0aa53aece1",
+          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T00:36:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "huggingface.co"
+      ],
+      "items": [
+        {
+          "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
+          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T07:38:53.861000Z"
+        },
+        {
+          "id": "49a2b799efdc859150bd76035d48aa0aa53aece1",
+          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T00:36:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9901,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T00:36:30Z",
+      "latest_at": "2026-07-26T07:38:53.861000Z",
+      "primary_item": {
+        "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
+        "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
+        "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+        "source": "huggingface.co",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -921,15 +1098,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9869,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1019,15 +1196,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8276,
+        "recency": 0.8167,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1097,15 +1274,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9297,
+        "recency": 0.9175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1175,15 +1352,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.918,
+        "recency": 0.906,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1254,15 +1431,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8601,
+        "recency": 0.8488,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1333,15 +1510,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8471,
+        "recency": 0.8359,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1412,15 +1589,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5097,
-      "importance": 0.5097,
-      "importance_score": 0.5097,
+      "score": 0.5078,
+      "importance": 0.5078,
+      "importance_score": 0.5078,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7994,
+        "recency": 0.7889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1491,15 +1668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9409,
+        "recency": 0.9285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1569,15 +1746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9204,
+        "recency": 0.9084,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1592,163 +1769,6 @@
         "url": "https://news.ycombinator.com/item?id=49050859",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_764d08a751dc",
-      "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d84311d892e772be7feb398d4473d1e03c63cc10",
-          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T10:35:06.986000Z"
-        },
-        {
-          "id": "9000cdfe989925fdc37baffe9561af4590153830",
-          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
-          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T07:39:30.981000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "d84311d892e772be7feb398d4473d1e03c63cc10",
-          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T10:35:06.986000Z"
-        },
-        {
-          "id": "9000cdfe989925fdc37baffe9561af4590153830",
-          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
-          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T07:39:30.981000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.499,
-      "importance": 0.499,
-      "importance_score": 0.499,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7402,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T07:39:30.981000Z",
-      "latest_at": "2026-07-25T10:35:06.986000Z",
-      "primary_item": {
-        "id": "d84311d892e772be7feb398d4473d1e03c63cc10",
-        "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9130fcc2d02a",
-      "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-      "url": "https://fly.io/blog/kurt-scott-money-sprites",
-      "primary_url": "https://fly.io/blog/kurt-scott-money-sprites",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        },
-        {
-          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        },
-        {
-          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8568,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:43:11Z",
-      "latest_at": "2026-07-25T20:43:11Z",
-      "primary_item": {
-        "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
-        "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-        "url": "https://fly.io/blog/kurt-scott-money-sprites",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
