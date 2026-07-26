@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:32:09.043023Z",
+  "generated_at": "2026-07-26T20:25:44.285227Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9087,
+        "recency": 0.8971,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8539,
+        "recency": 0.8429,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7981,
+        "recency": 0.7878,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.9689,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -361,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8173,
+        "recency": 0.8068,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -459,15 +459,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6149,
-      "importance": 0.6149,
-      "importance_score": 0.6149,
+      "score": 0.6127,
+      "importance": 0.6127,
+      "importance_score": 0.6127,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9762,
+        "recency": 0.9637,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -482,140 +482,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-26",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "Debian 中 LLM 的应用：三项提案",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T01:40:47.942000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:36:06.535000Z"
-        },
-        {
-          "id": "adc741f3dfe93d6a83c194fdcc525ca3141c7cb8",
-          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T01:40:47.942000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:36:06.535000Z"
-        },
-        {
-          "id": "adc741f3dfe93d6a83c194fdcc525ca3141c7cb8",
-          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5844,
-      "importance": 0.5844,
-      "importance_score": 0.5844,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7981,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T19:44:39Z",
-      "latest_at": "2026-07-26T03:54:52.336000Z",
-      "primary_item": {
-        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-        "title": "Debian 中 LLM 的应用：三项提案",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -645,18 +511,18 @@
           "published_at": "2026-07-26T17:30:55.877000Z"
         },
         {
-          "id": "80f664a5742d09d1aa63ae8cd0de07bd2721cb3a",
+          "id": "24a9065f0540f35746be5b9d2257def900d10402",
           "title": "Show HN: Boffin——面向AI编码代理的资深工程师层 / Show HN: Boffin – Staff-engineer layer for AI coding agents",
           "url": "https://github.com/MicSm/boffin",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T17:28:03Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "github.com",
         "hackernews"
       ],
@@ -680,26 +546,26 @@
           "published_at": "2026-07-26T17:30:55.877000Z"
         },
         {
-          "id": "80f664a5742d09d1aa63ae8cd0de07bd2721cb3a",
+          "id": "24a9065f0540f35746be5b9d2257def900d10402",
           "title": "Show HN: Boffin——面向AI编码代理的资深工程师层 / Show HN: Boffin – Staff-engineer layer for AI coding agents",
           "url": "https://github.com/MicSm/boffin",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T17:28:03Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5681,
-      "importance": 0.5681,
-      "importance_score": 0.5681,
+      "score": 0.5658,
+      "importance": 0.5658,
+      "importance_score": 0.5658,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9848,
+        "recency": 0.9721,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -743,18 +609,18 @@
           "published_at": "2026-07-26T14:40:27Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "Hacker News · 24h最热",
         "aerospaceglobalnews.com"
       ],
@@ -778,26 +644,26 @@
           "published_at": "2026-07-26T14:40:27Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5636,
-      "importance": 0.5636,
-      "importance_score": 0.5636,
+      "score": 0.5614,
+      "importance": 0.5614,
+      "importance_score": 0.5614,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9601,
+        "recency": 0.9478,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -887,15 +753,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5502,
-      "importance": 0.5502,
-      "importance_score": 0.5502,
+      "score": 0.5481,
+      "importance": 0.5481,
+      "importance_score": 0.5481,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8855,
+        "recency": 0.8741,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -985,15 +851,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8455,
+        "recency": 0.8347,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1008,6 +874,84 @@
         "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
         "source": "blog.cloudflare.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ace01848219f",
+      "title": "德克尔 / Decker",
+      "url": "https://beyondloom.com/decker",
+      "primary_url": "https://beyondloom.com/decker",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
+          "title": "德克尔 / Decker",
+          "url": "https://beyondloom.com/decker",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T18:23:06Z"
+        },
+        {
+          "id": "3e076c483b484105febe0765c8b7bc3023659421",
+          "title": "Decker，一个建立在 Hypercard 和经典 macOS 基础上的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+          "url": "https://beyondloom.com/decker",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T18:23:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
+          "title": "德克尔 / Decker",
+          "url": "https://beyondloom.com/decker",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T18:23:06Z"
+        },
+        {
+          "id": "3e076c483b484105febe0765c8b7bc3023659421",
+          "title": "Decker，一个建立在 Hypercard 和经典 macOS 基础上的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+          "url": "https://beyondloom.com/decker",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T18:23:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9709,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T18:23:06Z",
+      "latest_at": "2026-07-26T18:23:06Z",
+      "primary_item": {
+        "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
+        "title": "德克尔 / Decker",
+        "url": "https://beyondloom.com/decker",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1083,15 +1027,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7981,
+        "recency": 0.7878,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1162,15 +1106,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9167,
+        "recency": 0.905,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1260,15 +1204,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7475,
+        "recency": 0.738,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1339,15 +1283,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
+      "score": 0.5155,
+      "importance": 0.5155,
+      "importance_score": 0.5155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8423,
+        "recency": 0.8315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1417,15 +1361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8395,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,15 +1440,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9873,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1522,30 +1466,109 @@
       }
     },
     {
-      "story_id": "story_8ca75aca4ab6",
-      "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-      "url": "https://golfcoursebrowser.com",
-      "primary_url": "https://golfcoursebrowser.com",
+      "story_id": "story_40b66364c786",
+      "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T02:18:54.069000Z"
+        },
+        {
+          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T20:59:11.659000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T02:18:54.069000Z"
+        },
+        {
+          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T20:59:11.659000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5044,
+      "importance": 0.5044,
+      "importance_score": 0.5044,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7698,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:59:11.659000Z",
+      "latest_at": "2026-07-26T02:18:54.069000Z",
+      "primary_item": {
+        "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
+        "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_94d030042966",
+      "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "primary_url": "https://vectoral.com/blog/token-relay-market",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-          "url": "https://golfcoursebrowser.com",
+          "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+          "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+          "url": "https://vectoral.com/blog/token-relay-market",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
+          "published_at": "2026-07-26T15:17:06Z"
         },
         {
-          "id": "a43faab724386e56e5a4956c91402045b9b1022e",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-          "url": "https://golfcoursebrowser.com",
+          "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
+          "title": "中继市场为代币经销商和欺诈提供动力 / The relay market powering token resellers and fraud",
+          "url": "https://vectoral.com/blog/token-relay-market",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
+          "published_at": "2026-07-26T15:17:06Z"
         }
       ],
       "source_count": 2,
@@ -1554,128 +1577,49 @@
       ],
       "items": [
         {
-          "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-          "url": "https://golfcoursebrowser.com",
+          "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+          "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+          "url": "https://vectoral.com/blog/token-relay-market",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
+          "published_at": "2026-07-26T15:17:06Z"
         },
         {
-          "id": "a43faab724386e56e5a4956c91402045b9b1022e",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-          "url": "https://golfcoursebrowser.com",
+          "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
+          "title": "中继市场为代币经销商和欺诈提供动力 / The relay market powering token resellers and fraud",
+          "url": "https://vectoral.com/blog/token-relay-market",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
+          "published_at": "2026-07-26T15:17:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5063,
-      "importance": 0.5063,
-      "importance_score": 0.5063,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7805,
+        "recency": 0.9284,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T02:22:26Z",
-      "latest_at": "2026-07-26T02:22:26Z",
+      "earliest_at": "2026-07-26T15:17:06Z",
+      "latest_at": "2026-07-26T15:17:06Z",
       "primary_item": {
-        "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
-        "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-        "url": "https://golfcoursebrowser.com",
+        "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+        "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+        "url": "https://vectoral.com/blog/token-relay-market",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_98671c483284",
-      "title": "Show HN: 《扫雷》光线投射版",
-      "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-      "primary_url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-      "source": "claude.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-          "title": "Show HN: 《扫雷》光线投射版",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "claude.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T19:55:34.429000Z"
-        },
-        {
-          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
-          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:39:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.ai"
-      ],
-      "items": [
-        {
-          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-          "title": "Show HN: 《扫雷》光线投射版",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "claude.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T19:55:34.429000Z"
-        },
-        {
-          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
-          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:39:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4938,
-      "importance": 0.4938,
-      "importance_score": 0.4938,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7111,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T19:39:12Z",
-      "latest_at": "2026-07-25T19:55:34.429000Z",
-      "primary_item": {
-        "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-        "title": "Show HN: 《扫雷》光线投射版",
-        "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-        "source": "claude.ai",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1732,15 +1676,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5213,
+      "importance": 0.5213,
+      "importance_score": 0.5213,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8753,
+        "recency": 0.8641,
         "story_heat": 0.25
       },
       "category": "watch",
