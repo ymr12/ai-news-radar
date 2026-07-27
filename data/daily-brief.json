@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T17:11:20.855732Z",
+  "generated_at": "2026-07-27T18:04:23.258433Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8739,
-      "importance": 0.8739,
-      "importance_score": 0.8739,
+      "score": 0.8717,
+      "importance": 0.8717,
+      "importance_score": 0.8717,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.983,
+        "recency": 0.9705,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8954,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8206,
+        "recency": 0.8102,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9823,
+        "recency": 0.9699,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -325,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9723,
+        "recency": 0.96,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -405,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 0.8807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -430,6 +430,67 @@
         "url": "https://www.aibase.com/news/29910",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a2a90feaf49f",
+      "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+      "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+      "primary_url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T17:50:17.260000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T17:50:17.260000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9966,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:50:17.260000Z",
+      "latest_at": "2026-07-27T17:50:17.260000Z",
+      "primary_item": {
+        "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+        "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+        "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -467,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8098,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -546,15 +607,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8727,
+        "recency": 0.8617,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -627,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8885,
+        "recency": 0.8772,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -688,15 +749,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.9668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -711,66 +772,6 @@
         "title": "Kimi K3 上线 Modal，支持无损加速推理",
         "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
         "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3ce06022d2fe",
-      "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-      "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-      "primary_url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-      "source": "Berkeley RDI：Blog（AI 安全与评测）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
-          "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-          "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-          "source": "Berkeley RDI：Blog（AI 安全与评测）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T07:51:26.272000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Berkeley RDI：Blog（AI 安全与评测）"
-      ],
-      "items": [
-        {
-          "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
-          "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-          "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-          "source": "Berkeley RDI：Blog（AI 安全与评测）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T07:51:26.272000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8739,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T07:51:26.272000Z",
-      "latest_at": "2026-07-27T07:51:26.272000Z",
-      "primary_item": {
-        "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
-        "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-        "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-        "source": "Berkeley RDI：Blog（AI 安全与评测）",
         "source_name": "AI HOT"
       }
     },
@@ -828,15 +829,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8727,
+        "recency": 0.8617,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -890,15 +891,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9625,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -970,15 +971,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8727,
+        "recency": 0.8617,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1076,20 +1077,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-27T07:45:44.851748Z"
-        },
-        {
-          "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
-          "title": "这周GitHub Trending又被 AI Agent 和工程化工具刷屏了，梳理了TOP 17排名的开源项目，适合开发者、AI 产品同学和工具控收藏：从1.9w Star的Agent开源书和92个实验，到长视频实时3D 建图、croc 口令传文件、UI Skills约束AI生成界面，再到Kimi Code、Pi Web、Rust Agent jcode。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-26T17:52:04.145974Z"
         }
       ],
-      "source_count": 9,
+      "source_count": 8,
       "source_names": [
-        "社区更新 · 2026-07-26",
         "社区更新 · 2026-07-27"
       ],
       "items": [
@@ -1164,35 +1155,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-27T07:45:44.851748Z"
-        },
-        {
-          "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
-          "title": "这周GitHub Trending又被 AI Agent 和工程化工具刷屏了，梳理了TOP 17排名的开源项目，适合开发者、AI 产品同学和工具控收藏：从1.9w Star的Agent开源书和92个实验，到长视频实时3D 建图、croc 口令传文件、UI Skills约束AI生成界面，再到Kimi Code、Pi Web、Rust Agent jcode。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-26T17:52:04.145974Z"
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.6672,
-      "importance": 0.6672,
-      "importance_score": 0.6672,
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.665,
+      "importance": 0.665,
+      "importance_score": 0.665,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.989,
+        "recency": 0.9764,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T17:52:04.145974Z",
+      "earliest_at": "2026-07-27T07:45:44.851748Z",
       "latest_at": "2026-07-27T16:25:18.572805Z",
       "primary_item": {
         "id": "5da1f76dd068d28320cabf134e998f45c16a733e",
@@ -1256,15 +1238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8535,
+        "recency": 0.8426,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1281,6 +1263,276 @@
         "url": "https://www.aibase.com/news/29900",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7372d8cb937a",
+      "title": "HuggingFace 上的 Kimi-K3 / Kimi-K3 on HuggingFace",
+      "url": "https://news.ycombinator.com/item?id=49065752",
+      "primary_url": "https://news.ycombinator.com/item?id=49065752",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
+          "title": "HuggingFace 上的 Kimi-K3 / Kimi-K3 on HuggingFace",
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T17:48:13.459000Z"
+        },
+        {
+          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
+          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T09:02:33.760000Z"
+        },
+        {
+          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T08:09:26.811000Z"
+        },
+        {
+          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T06:18:10Z"
+        },
+        {
+          "id": "03d4def794bcdda6e8136fe808b398aba9d2cd0b",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 on HuggingFace",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T06:18:10Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "huggingface.co"
+      ],
+      "items": [
+        {
+          "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
+          "title": "HuggingFace 上的 Kimi-K3 / Kimi-K3 on HuggingFace",
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T17:48:13.459000Z"
+        },
+        {
+          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
+          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T09:02:33.760000Z"
+        },
+        {
+          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T08:09:26.811000Z"
+        },
+        {
+          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T06:18:10Z"
+        },
+        {
+          "id": "03d4def794bcdda6e8136fe808b398aba9d2cd0b",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 on HuggingFace",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T06:18:10Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6201,
+      "importance": 0.6201,
+      "importance_score": 0.6201,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9961,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T06:18:10Z",
+      "latest_at": "2026-07-27T17:48:13.459000Z",
+      "primary_item": {
+        "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
+        "title": "HuggingFace 上的 Kimi-K3 / Kimi-K3 on HuggingFace",
+        "url": "https://news.ycombinator.com/item?id=49065752",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_e045d97ea961",
+      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+      "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
+      "primary_url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
+      "source": "Slashdot (科技资讯)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f27fb4bbbc56f278c0b4717e04d3dd1a7fbf980b",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+          "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T17:00:00Z"
+        },
+        {
+          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://news.ycombinator.com/item?id=49070427",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T16:25:49.894000Z"
+        },
+        {
+          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T16:09:40.788000Z"
+        },
+        {
+          "id": "b721e0783cfafd2c5cdc089a540d7f1273c44a7a",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-27T14:42:41Z"
+        },
+        {
+          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T14:11:48Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Mac Rumors",
+        "Slashdot (科技资讯)",
+        "hackernews",
+        "www.macrumors.com"
+      ],
+      "items": [
+        {
+          "id": "f27fb4bbbc56f278c0b4717e04d3dd1a7fbf980b",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+          "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T17:00:00Z"
+        },
+        {
+          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://news.ycombinator.com/item?id=49070427",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T16:25:49.894000Z"
+        },
+        {
+          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T16:09:40.788000Z"
+        },
+        {
+          "id": "b721e0783cfafd2c5cdc089a540d7f1273c44a7a",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-27T14:42:41Z"
+        },
+        {
+          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T14:11:48Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.618,
+      "importance": 0.618,
+      "importance_score": 0.618,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9846,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T14:11:48Z",
+      "latest_at": "2026-07-27T17:00:00Z",
+      "primary_item": {
+        "id": "f27fb4bbbc56f278c0b4717e04d3dd1a7fbf980b",
+        "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+        "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
+        "source": "Slashdot (科技资讯)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1337,15 +1589,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8174,
+        "recency": 0.8071,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1362,123 +1614,6 @@
         "url": "https://www.aibase.com/news/29895",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e045d97ea961",
-      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "url": "https://news.ycombinator.com/item?id=49070427",
-      "primary_url": "https://news.ycombinator.com/item?id=49070427",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://news.ycombinator.com/item?id=49070427",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T16:25:49.894000Z"
-        },
-        {
-          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:09:40.788000Z"
-        },
-        {
-          "id": "645b1a83e934d258b80516c66c287427507c1420",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:42:41Z"
-        },
-        {
-          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T14:11:48Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Mac Rumors",
-        "hackernews",
-        "www.macrumors.com"
-      ],
-      "items": [
-        {
-          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://news.ycombinator.com/item?id=49070427",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T16:25:49.894000Z"
-        },
-        {
-          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:09:40.788000Z"
-        },
-        {
-          "id": "645b1a83e934d258b80516c66c287427507c1420",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:42:41Z"
-        },
-        {
-          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T14:11:48Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9891,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T14:11:48Z",
-      "latest_at": "2026-07-27T16:25:49.894000Z",
-      "primary_item": {
-        "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
-        "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-        "url": "https://news.ycombinator.com/item?id=49070427",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1535,15 +1670,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8174,
+        "recency": 0.8071,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1560,103 +1695,6 @@
         "url": "https://www.aibase.com/news/29897",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8c2ab21032bb",
-      "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "primary_url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "source": "www.ft.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:41:20.960000Z"
-        },
-        {
-          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:07:48Z"
-        },
-        {
-          "id": "21feef6673198e67530ddef42b80ba5ba71485c0",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T04:10:31.499000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:41:20.960000Z"
-        },
-        {
-          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:07:48Z"
-        },
-        {
-          "id": "21feef6673198e67530ddef42b80ba5ba71485c0",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T04:10:31.499000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9928,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T04:10:31.499000Z",
-      "latest_at": "2026-07-27T16:41:20.960000Z",
-      "primary_item": {
-        "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
-        "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-        "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-        "source": "www.ft.com",
-        "source_name": "Buzzing"
       }
     }
   ]
