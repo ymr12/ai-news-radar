@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T12:06:59.779534Z",
+  "generated_at": "2026-07-27T13:29:03.811055Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8634,
-      "importance": 0.8634,
-      "importance_score": 0.8634,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9635,
+        "recency": 0.9446,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.883,
+        "recency": 0.8657,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9598,
+        "recency": 0.941,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8713,
+        "recency": 0.8543,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -323,15 +323,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9391,
+        "recency": 0.9207,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -348,86 +348,6 @@
         "url": "https://www.aibase.com/news/29904",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f8f08a1eac71",
-      "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-      "url": "https://www.ithome.com/0/981/797.htm",
-      "primary_url": "https://www.ithome.com/0/981/797.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
-          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "url": "https://www.ithome.com/0/981/797.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T12:54:28Z"
-        },
-        {
-          "id": "2d83a34bc0ea8deab0490155f3c73d3d011a0017",
-          "title": "消息称 OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋马斯克公开反对",
-          "url": "https://www.ithome.com/0/981/797.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T12:54:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
-          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "url": "https://www.ithome.com/0/981/797.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T12:54:28Z"
-        },
-        {
-          "id": "2d83a34bc0ea8deab0490155f3c73d3d011a0017",
-          "title": "消息称 OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋马斯克公开反对",
-          "url": "https://www.ithome.com/0/981/797.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T12:54:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7152,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T12:54:28Z",
-      "latest_at": "2026-07-26T12:54:28Z",
-      "primary_item": {
-        "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
-        "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-        "url": "https://www.ithome.com/0/981/797.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -465,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9403,
+        "recency": 0.922,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -525,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8419,
+        "recency": 0.8254,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -604,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9391,
+        "recency": 0.9207,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -685,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9391,
+        "recency": 0.9207,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -838,15 +758,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.662,
-      "importance": 0.662,
-      "importance_score": 0.662,
+      "score": 0.6586,
+      "importance": 0.6586,
+      "importance_score": 0.6586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9598,
+        "recency": 0.941,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -917,15 +837,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9183,
+        "recency": 0.9004,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -998,15 +918,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8796,
+        "recency": 0.8624,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1079,15 +999,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8796,
+        "recency": 0.8624,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1104,6 +1024,422 @@
         "url": "https://www.aibase.com/news/29897",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_af8546d362a0",
+      "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
+      "url": "https://news.ycombinator.com/item?id=49068738",
+      "primary_url": "https://news.ycombinator.com/item?id=49068738",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
+          "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
+          "url": "https://news.ycombinator.com/item?id=49068738",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T13:17:16.211000Z"
+        },
+        {
+          "id": "656cc9dca182ad075423f09c171670ad90d55eff",
+          "title": "人工智能公司正在销毁珍本古籍",
+          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+          "source": "xcancel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T13:13:18.076000Z"
+        },
+        {
+          "id": "0b147b85e4634799b17b31382da70f2cac8468c0",
+          "title": "人工智能公司正在销毁珍本古籍 / AI companies are shredding rare books",
+          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T12:32:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "xcancel.com"
+      ],
+      "items": [
+        {
+          "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
+          "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
+          "url": "https://news.ycombinator.com/item?id=49068738",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T13:17:16.211000Z"
+        },
+        {
+          "id": "656cc9dca182ad075423f09c171670ad90d55eff",
+          "title": "人工智能公司正在销毁珍本古籍",
+          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+          "source": "xcancel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T13:13:18.076000Z"
+        },
+        {
+          "id": "0b147b85e4634799b17b31382da70f2cac8468c0",
+          "title": "人工智能公司正在销毁珍本古籍 / AI companies are shredding rare books",
+          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T12:32:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9972,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T12:32:12Z",
+      "latest_at": "2026-07-27T13:17:16.211000Z",
+      "primary_item": {
+        "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
+        "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
+        "url": "https://news.ycombinator.com/item?id=49068738",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_52a56cd50acb",
+      "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+      "url": "https://www.aibase.com/news/29894",
+      "primary_url": "https://www.aibase.com/news/29894",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
+          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+          "url": "https://www.aibase.com/news/29894",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T03:13:45.356563Z"
+        },
+        {
+          "id": "2d82d04cc7474d905a3456592ac3632204a3870f",
+          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+          "url": "https://www.aibase.com/zh/news/29894",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
+          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+          "url": "https://www.aibase.com/news/29894",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T03:13:45.356563Z"
+        },
+        {
+          "id": "2d82d04cc7474d905a3456592ac3632204a3870f",
+          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+          "url": "https://www.aibase.com/zh/news/29894",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8624,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T03:13:45.356563Z",
+      "latest_at": "2026-07-27T04:46:31.348423Z",
+      "primary_item": {
+        "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
+        "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
+        "url": "https://www.aibase.com/news/29894",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_274cfc678475",
+      "title": "OpenAI 将在爱尔兰设立新的欧盟总部，两年内新增 250 个工作岗位",
+      "url": "https://www.ithome.com/0/982/233.htm",
+      "primary_url": "https://www.ithome.com/0/982/233.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "334a03267ea0d7f3c98036f6bb0a62c5eebd0ec6",
+          "title": "OpenAI 将在爱尔兰设立新的欧盟总部，两年内新增 250 个工作岗位",
+          "url": "https://www.ithome.com/0/982/233.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T12:17:43Z"
+        },
+        {
+          "id": "68c851b82838252218074a301671bb7199da4d8b",
+          "title": "OpenAI将在爱尔兰设立新的欧盟总部，并新增250个工作岗位",
+          "url": "https://36kr.com/newsflashes/3913739589981319?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T10:21:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "334a03267ea0d7f3c98036f6bb0a62c5eebd0ec6",
+          "title": "OpenAI 将在爱尔兰设立新的欧盟总部，两年内新增 250 个工作岗位",
+          "url": "https://www.ithome.com/0/982/233.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T12:17:43Z"
+        },
+        {
+          "id": "68c851b82838252218074a301671bb7199da4d8b",
+          "title": "OpenAI将在爱尔兰设立新的欧盟总部，并新增250个工作岗位",
+          "url": "https://36kr.com/newsflashes/3913739589981319?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T10:21:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.983,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T10:21:47Z",
+      "latest_at": "2026-07-27T12:17:43Z",
+      "primary_item": {
+        "id": "334a03267ea0d7f3c98036f6bb0a62c5eebd0ec6",
+        "title": "OpenAI 将在爱尔兰设立新的欧盟总部，两年内新增 250 个工作岗位",
+        "url": "https://www.ithome.com/0/982/233.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_34b90ee402fb",
+      "title": "Claude Code 出现“API 错误：529 重载”",
+      "url": "https://news.ycombinator.com/item?id=49067964",
+      "primary_url": "https://news.ycombinator.com/item?id=49067964",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "45c6d6bea7e2464471f0147915b613736f50bdb7",
+          "title": "Claude Code 出现“API 错误：529 重载”",
+          "url": "https://news.ycombinator.com/item?id=49067964",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T11:37:28.493000Z"
+        },
+        {
+          "id": "f1455cb4ebe5c7973a5fd63229a2a45bb4c98ed9",
+          "title": "Claude Code 出现“API 错误：529 重载” / Claude Code getting \"API Error: 529 Overloaded\"",
+          "url": "https://news.ycombinator.com/item?id=49067964",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-27T11:25:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "45c6d6bea7e2464471f0147915b613736f50bdb7",
+          "title": "Claude Code 出现“API 错误：529 重载”",
+          "url": "https://news.ycombinator.com/item?id=49067964",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T11:37:28.493000Z"
+        },
+        {
+          "id": "f1455cb4ebe5c7973a5fd63229a2a45bb4c98ed9",
+          "title": "Claude Code 出现“API 错误：529 重载” / Claude Code getting \"API Error: 529 Overloaded\"",
+          "url": "https://news.ycombinator.com/item?id=49067964",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-27T11:25:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9735,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T11:25:28Z",
+      "latest_at": "2026-07-27T11:37:28.493000Z",
+      "primary_item": {
+        "id": "45c6d6bea7e2464471f0147915b613736f50bdb7",
+        "title": "Claude Code 出现“API 错误：529 重载”",
+        "url": "https://news.ycombinator.com/item?id=49067964",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e45482a3354c",
+      "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
+      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
+          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
+          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T11:21:32.901000Z"
+        },
+        {
+          "id": "04d62a3ed1402e340fbb82fcb96f1228eb71be18",
+          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售 / Artist sues AI meme generator for selling deeply personal comic as ad template",
+          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T10:50:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
+          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
+          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T11:21:32.901000Z"
+        },
+        {
+          "id": "04d62a3ed1402e340fbb82fcb96f1228eb71be18",
+          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售 / Artist sues AI meme generator for selling deeply personal comic as ad template",
+          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T10:50:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9698,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T10:50:37Z",
+      "latest_at": "2026-07-27T11:21:32.901000Z",
+      "primary_item": {
+        "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
+        "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
+        "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1179,15 +1515,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5673,
+      "importance": 0.5673,
+      "importance_score": 0.5673,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9806,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1202,245 +1538,6 @@
         "url": "https://news.ycombinator.com/item?id=49066591",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_52a56cd50acb",
-      "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-      "url": "https://www.aibase.com/news/29894",
-      "primary_url": "https://www.aibase.com/news/29894",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
-          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-          "url": "https://www.aibase.com/news/29894",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T03:13:45.356563Z"
-        },
-        {
-          "id": "2d82d04cc7474d905a3456592ac3632204a3870f",
-          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-          "url": "https://www.aibase.com/zh/news/29894",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
-          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-          "url": "https://www.aibase.com/news/29894",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T03:13:45.356563Z"
-        },
-        {
-          "id": "2d82d04cc7474d905a3456592ac3632204a3870f",
-          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-          "url": "https://www.aibase.com/zh/news/29894",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8796,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T03:13:45.356563Z",
-      "latest_at": "2026-07-27T04:46:31.348423Z",
-      "primary_item": {
-        "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
-        "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-        "url": "https://www.aibase.com/news/29894",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_34b90ee402fb",
-      "title": "Claude Code 出现“API 错误：529 重载”",
-      "url": "https://news.ycombinator.com/item?id=49067964",
-      "primary_url": "https://news.ycombinator.com/item?id=49067964",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "45c6d6bea7e2464471f0147915b613736f50bdb7",
-          "title": "Claude Code 出现“API 错误：529 重载”",
-          "url": "https://news.ycombinator.com/item?id=49067964",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T11:37:28.493000Z"
-        },
-        {
-          "id": "f1455cb4ebe5c7973a5fd63229a2a45bb4c98ed9",
-          "title": "Claude Code 出现“API 错误：529 重载” / Claude Code getting \"API Error: 529 Overloaded\"",
-          "url": "https://news.ycombinator.com/item?id=49067964",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-27T11:25:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "45c6d6bea7e2464471f0147915b613736f50bdb7",
-          "title": "Claude Code 出现“API 错误：529 重载”",
-          "url": "https://news.ycombinator.com/item?id=49067964",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T11:37:28.493000Z"
-        },
-        {
-          "id": "f1455cb4ebe5c7973a5fd63229a2a45bb4c98ed9",
-          "title": "Claude Code 出现“API 错误：529 重载” / Claude Code getting \"API Error: 529 Overloaded\"",
-          "url": "https://news.ycombinator.com/item?id=49067964",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-27T11:25:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9929,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T11:25:28Z",
-      "latest_at": "2026-07-27T11:37:28.493000Z",
-      "primary_item": {
-        "id": "45c6d6bea7e2464471f0147915b613736f50bdb7",
-        "title": "Claude Code 出现“API 错误：529 重载”",
-        "url": "https://news.ycombinator.com/item?id=49067964",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e45482a3354c",
-      "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
-      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
-          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
-          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T11:21:32.901000Z"
-        },
-        {
-          "id": "04d62a3ed1402e340fbb82fcb96f1228eb71be18",
-          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售 / Artist sues AI meme generator for selling deeply personal comic as ad template",
-          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T10:50:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
-          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
-          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T11:21:32.901000Z"
-        },
-        {
-          "id": "04d62a3ed1402e340fbb82fcb96f1228eb71be18",
-          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售 / Artist sues AI meme generator for selling deeply personal comic as ad template",
-          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T10:50:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9891,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T10:50:37Z",
-      "latest_at": "2026-07-27T11:21:32.901000Z",
-      "primary_item": {
-        "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
-        "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
-        "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1496,15 +1593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9703,
+        "recency": 0.9513,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,85 +1615,6 @@
         "title": "非政府组织称，Instagram和Facebook刊登了来自中国的AI“裸体化”广告",
         "url": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says",
         "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_67a8f2940ce9",
-      "title": "他们曾主演过电视剧。随后，AI演员抄袭了他们的表演。",
-      "url": "https://www.businessinsider.com/actors-see-ai-versions-of-their-performances-in-new-shows-2026-7",
-      "primary_url": "https://www.businessinsider.com/actors-see-ai-versions-of-their-performances-in-new-shows-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5f30f4b4e359319c5ec6f6b092050fce183230ae",
-          "title": "他们曾主演过电视剧。随后，AI演员抄袭了他们的表演。",
-          "url": "https://www.businessinsider.com/actors-see-ai-versions-of-their-performances-in-new-shows-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T09:29:27.473000Z"
-        },
-        {
-          "id": "92199e98a75d236868f168c443c37c481717b05f",
-          "title": "他们曾主演过电视剧。随后，AI演员抄袭了他们的表演。 / Actors are losing roles to AI knockoffs of themselves",
-          "url": "https://www.businessinsider.com/actors-see-ai-versions-of-their-performances-in-new-shows-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T09:02:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "5f30f4b4e359319c5ec6f6b092050fce183230ae",
-          "title": "他们曾主演过电视剧。随后，AI演员抄袭了他们的表演。",
-          "url": "https://www.businessinsider.com/actors-see-ai-versions-of-their-performances-in-new-shows-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T09:29:27.473000Z"
-        },
-        {
-          "id": "92199e98a75d236868f168c443c37c481717b05f",
-          "title": "他们曾主演过电视剧。随后，AI演员抄袭了他们的表演。 / Actors are losing roles to AI knockoffs of themselves",
-          "url": "https://www.businessinsider.com/actors-see-ai-versions-of-their-performances-in-new-shows-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T09:02:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9628,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T09:02:01Z",
-      "latest_at": "2026-07-27T09:29:27.473000Z",
-      "primary_item": {
-        "id": "5f30f4b4e359319c5ec6f6b092050fce183230ae",
-        "title": "他们曾主演过电视剧。随后，AI演员抄袭了他们的表演。",
-        "url": "https://www.businessinsider.com/actors-see-ai-versions-of-their-performances-in-new-shows-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
