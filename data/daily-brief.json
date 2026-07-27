@@ -1,8 +1,150 @@
 {
-  "generated_at": "2026-07-27T01:41:44.356577Z",
+  "generated_at": "2026-07-27T03:13:45.356563Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_32fc745a2f66",
+      "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
+      "url": "https://www.aibase.com/news/29892",
+      "primary_url": "https://www.aibase.com/news/29892",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f58d35bf9c140e68a65481faf3349bf2521e4ade",
+          "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
+          "url": "https://www.aibase.com/news/29892",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T03:13:45.356563Z"
+        },
+        {
+          "id": "f1463870a48e5adebe9dc083500d94fa150a93bd",
+          "title": "谷歌确认正在训练 Gemini4 大模型：承诺算力优先供给 AGI，未来或每月迭代新模型",
+          "url": "https://www.aibase.com/zh/news/29892",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f58d35bf9c140e68a65481faf3349bf2521e4ade",
+          "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
+          "url": "https://www.aibase.com/news/29892",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T03:13:45.356563Z"
+        },
+        {
+          "id": "f1463870a48e5adebe9dc083500d94fa150a93bd",
+          "title": "谷歌确认正在训练 Gemini4 大模型：承诺算力优先供给 AGI，未来或每月迭代新模型",
+          "url": "https://www.aibase.com/zh/news/29892",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T03:13:45.356563Z",
+      "latest_at": "2026-07-27T03:13:45.356563Z",
+      "primary_item": {
+        "id": "f58d35bf9c140e68a65481faf3349bf2521e4ade",
+        "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
+        "url": "https://www.aibase.com/news/29892",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e8f58161e79c",
+      "title": "用AI Skill自动生成可协作HTML PPT",
+      "url": "https://x.com/vista8/status/2081568902241513786",
+      "primary_url": "https://x.com/vista8/status/2081568902241513786",
+      "source": "X：Vista (@vista8)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "29e61cc109f21b35c2460b50e409520ec711253b",
+          "title": "用AI Skill自动生成可协作HTML PPT",
+          "url": "https://x.com/vista8/status/2081568902241513786",
+          "source": "X：Vista (@vista8)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T02:34:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Vista (@vista8)"
+      ],
+      "items": [
+        {
+          "id": "29e61cc109f21b35c2460b50e409520ec711253b",
+          "title": "用AI Skill自动生成可协作HTML PPT",
+          "url": "https://x.com/vista8/status/2081568902241513786",
+          "source": "X：Vista (@vista8)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T02:34:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9906,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T02:34:34Z",
+      "latest_at": "2026-07-27T02:34:34Z",
+      "primary_item": {
+        "id": "29e61cc109f21b35c2460b50e409520ec711253b",
+        "title": "用AI Skill自动生成可协作HTML PPT",
+        "url": "https://x.com/vista8/status/2081568902241513786",
+        "source": "X：Vista (@vista8)",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_2d350dad9fd8",
       "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
@@ -57,15 +199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9781,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -80,87 +222,6 @@
         "id": "f080379452297bc69c4c6b7ebed85183d0a85119",
         "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
         "url": "https://www.aibase.com/news/29883",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_592e66f5a688",
-      "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
-      "url": "https://www.aibase.com/news/29884",
-      "primary_url": "https://www.aibase.com/news/29884",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
-          "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
-          "url": "https://www.aibase.com/news/29884",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T01:41:44.356577Z"
-        },
-        {
-          "id": "ebbbbb00984179a66cfa3a08b3e96fae1565c02d",
-          "title": "月之暗面举办 Kimi K3 庆功活动，现场标语透露 K4 研发动向",
-          "url": "https://www.aibase.com/zh/news/29884",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
-          "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
-          "url": "https://www.aibase.com/news/29884",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T01:41:44.356577Z"
-        },
-        {
-          "id": "ebbbbb00984179a66cfa3a08b3e96fae1565c02d",
-          "title": "月之暗面举办 Kimi K3 庆功活动，现场标语透露 K4 研发动向",
-          "url": "https://www.aibase.com/zh/news/29884",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T01:41:44.356577Z",
-      "latest_at": "2026-07-27T01:41:44.356577Z",
-      "primary_item": {
-        "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
-        "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
-        "url": "https://www.aibase.com/news/29884",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -219,15 +280,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8314,
+        "recency": 0.8132,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -243,87 +304,6 @@
         "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
         "url": "https://www.ithome.com/0/981/797.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2332c9c7f07c",
-      "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-      "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-      "primary_url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f34c5f8938e737f61226a3a0dc451a972cd5b3db",
-          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-          "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T08:35:49Z"
-        },
-        {
-          "id": "897f3c5b75ad7e520e605abceccf81680f3c534d",
-          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南 / Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-          "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-26T08:35:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f34c5f8938e737f61226a3a0dc451a972cd5b3db",
-          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-          "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T08:35:49Z"
-        },
-        {
-          "id": "897f3c5b75ad7e520e605abceccf81680f3c534d",
-          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南 / Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-          "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-26T08:35:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7812,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-26T08:35:49Z",
-      "latest_at": "2026-07-26T08:35:49Z",
-      "primary_item": {
-        "id": "f34c5f8938e737f61226a3a0dc451a972cd5b3db",
-        "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-        "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -381,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7301,
+        "recency": 0.7141,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -405,6 +385,87 @@
         "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
         "url": "https://github.com/slvDev/esp32-ai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2332c9c7f07c",
+      "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+      "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+      "primary_url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f34c5f8938e737f61226a3a0dc451a972cd5b3db",
+          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+          "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T08:35:49Z"
+        },
+        {
+          "id": "897f3c5b75ad7e520e605abceccf81680f3c534d",
+          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南 / Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+          "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-26T08:35:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f34c5f8938e737f61226a3a0dc451a972cd5b3db",
+          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+          "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T08:35:49Z"
+        },
+        {
+          "id": "897f3c5b75ad7e520e605abceccf81680f3c534d",
+          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南 / Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+          "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-26T08:35:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7641,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T08:35:49Z",
+      "latest_at": "2026-07-26T08:35:49Z",
+      "primary_item": {
+        "id": "f34c5f8938e737f61226a3a0dc451a972cd5b3db",
+        "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+        "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -443,15 +504,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8979,
+        "recency": 0.8783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -469,26 +530,26 @@
       }
     },
     {
-      "story_id": "story_b276eb1e3d9d",
-      "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
-      "url": "https://www.aibase.com/news/29885",
-      "primary_url": "https://www.aibase.com/news/29885",
+      "story_id": "story_46a2fcf54a3c",
+      "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+      "url": "https://www.aibase.com/news/29889",
+      "primary_url": "https://www.aibase.com/news/29889",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "28a6b927d89106c9d2a7a3454ecd934c53628cf4",
-          "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
-          "url": "https://www.aibase.com/news/29885",
+          "id": "2c66198fe6dbc5d8c70bd5a7307f65ae59656270",
+          "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+          "url": "https://www.aibase.com/news/29889",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-27T01:41:44.356577Z"
         },
         {
-          "id": "cec9c9f68ad71cebb46efb73b9bc71f437ab7875",
-          "title": "英伟达联手韩国 Naver 豪掷 10 亿美元，打造 200 兆瓦 AI 算力工厂",
-          "url": "https://www.aibase.com/zh/news/29885",
+          "id": "a07e146af471f52828aca86740b9c1c6daa05e40",
+          "title": "OpenAI 暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+          "url": "https://www.aibase.com/zh/news/29889",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -502,18 +563,18 @@
       ],
       "items": [
         {
-          "id": "28a6b927d89106c9d2a7a3454ecd934c53628cf4",
-          "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
-          "url": "https://www.aibase.com/news/29885",
+          "id": "2c66198fe6dbc5d8c70bd5a7307f65ae59656270",
+          "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+          "url": "https://www.aibase.com/news/29889",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-27T01:41:44.356577Z"
         },
         {
-          "id": "cec9c9f68ad71cebb46efb73b9bc71f437ab7875",
-          "title": "英伟达联手韩国 Naver 豪掷 10 亿美元，打造 200 兆瓦 AI 算力工厂",
-          "url": "https://www.aibase.com/zh/news/29885",
+          "id": "a07e146af471f52828aca86740b9c1c6daa05e40",
+          "title": "OpenAI 暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+          "url": "https://www.aibase.com/zh/news/29889",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -522,15 +583,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9781,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -540,11 +601,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-27T01:41:44.356577Z",
-      "latest_at": "2026-07-27T01:41:44.356577Z",
+      "latest_at": "2026-07-27T03:13:45.356563Z",
       "primary_item": {
-        "id": "28a6b927d89106c9d2a7a3454ecd934c53628cf4",
-        "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
-        "url": "https://www.aibase.com/news/29885",
+        "id": "2c66198fe6dbc5d8c70bd5a7307f65ae59656270",
+        "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
+        "url": "https://www.aibase.com/news/29889",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -603,15 +664,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7477,
+        "recency": 0.7313,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,123 +691,82 @@
       }
     },
     {
-      "story_id": "story_bf758397b93b",
-      "title": "Kimi K3 庆功宴画面流出：月之暗面北京夜店喊出\"冲上月球\"，K4 已在路上",
-      "url": "https://www.aibase.com/news/29890",
-      "primary_url": "https://www.aibase.com/news/29890",
+      "story_id": "story_592e66f5a688",
+      "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+      "url": "https://www.aibase.com/news/29884",
+      "primary_url": "https://www.aibase.com/news/29884",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c0dd5f25f9d95d8a99ffe82e552084ce99b61ab8",
-          "title": "Kimi K3 庆功宴画面流出：月之暗面北京夜店喊出\"冲上月球\"，K4 已在路上",
-          "url": "https://www.aibase.com/news/29890",
+          "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
+          "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+          "url": "https://www.aibase.com/news/29884",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-27T01:41:44.356577Z"
+        },
+        {
+          "id": "ebbbbb00984179a66cfa3a08b3e96fae1565c02d",
+          "title": "月之暗面举办 Kimi K3 庆功活动，现场标语透露 K4 研发动向",
+          "url": "https://www.aibase.com/zh/news/29884",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "c0dd5f25f9d95d8a99ffe82e552084ce99b61ab8",
-          "title": "Kimi K3 庆功宴画面流出：月之暗面北京夜店喊出\"冲上月球\"，K4 已在路上",
-          "url": "https://www.aibase.com/news/29890",
+          "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
+          "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+          "url": "https://www.aibase.com/news/29884",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-27T01:41:44.356577Z"
+        },
+        {
+          "id": "ebbbbb00984179a66cfa3a08b3e96fae1565c02d",
+          "title": "月之暗面举办 Kimi K3 庆功活动，现场标语透露 K4 研发动向",
+          "url": "https://www.aibase.com/zh/news/29884",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9781,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-07-27T01:41:44.356577Z",
       "latest_at": "2026-07-27T01:41:44.356577Z",
       "primary_item": {
-        "id": "c0dd5f25f9d95d8a99ffe82e552084ce99b61ab8",
-        "title": "Kimi K3 庆功宴画面流出：月之暗面北京夜店喊出\"冲上月球\"，K4 已在路上",
-        "url": "https://www.aibase.com/news/29890",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_46a2fcf54a3c",
-      "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
-      "url": "https://www.aibase.com/news/29889",
-      "primary_url": "https://www.aibase.com/news/29889",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2c66198fe6dbc5d8c70bd5a7307f65ae59656270",
-          "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
-          "url": "https://www.aibase.com/news/29889",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T01:41:44.356577Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2c66198fe6dbc5d8c70bd5a7307f65ae59656270",
-          "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
-          "url": "https://www.aibase.com/news/29889",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T01:41:44.356577Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T01:41:44.356577Z",
-      "latest_at": "2026-07-27T01:41:44.356577Z",
-      "primary_item": {
-        "id": "2c66198fe6dbc5d8c70bd5a7307f65ae59656270",
-        "title": "OpenAI暗推限制中国开源模型，黄仁勋马斯克联手反击：开放必胜",
-        "url": "https://www.aibase.com/news/29889",
+        "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
+        "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+        "url": "https://www.aibase.com/news/29884",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -767,11 +787,21 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-27T01:41:44.356577Z"
+        },
+        {
+          "id": "b015bc5b97a0158a8a4fd388e6aaa80d3f3170ca",
+          "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
+          "url": "https://www.aibase.com/zh/news/29887",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
@@ -782,32 +812,204 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-27T01:41:44.356577Z"
+        },
+        {
+          "id": "b015bc5b97a0158a8a4fd388e6aaa80d3f3170ca",
+          "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
+          "url": "https://www.aibase.com/zh/news/29887",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9781,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T01:41:44.356577Z",
+      "latest_at": "2026-07-27T03:13:45.356563Z",
+      "primary_item": {
+        "id": "c6491d7233e959458c654241f3525ce9f88b3673",
+        "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
+        "url": "https://www.aibase.com/news/29887",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b276eb1e3d9d",
+      "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
+      "url": "https://www.aibase.com/news/29885",
+      "primary_url": "https://www.aibase.com/news/29885",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "28a6b927d89106c9d2a7a3454ecd934c53628cf4",
+          "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
+          "url": "https://www.aibase.com/news/29885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T01:41:44.356577Z"
+        },
+        {
+          "id": "cec9c9f68ad71cebb46efb73b9bc71f437ab7875",
+          "title": "英伟达联手韩国 Naver 豪掷 10 亿美元，打造 200 兆瓦 AI 算力工厂",
+          "url": "https://www.aibase.com/zh/news/29885",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "28a6b927d89106c9d2a7a3454ecd934c53628cf4",
+          "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
+          "url": "https://www.aibase.com/news/29885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T01:41:44.356577Z"
+        },
+        {
+          "id": "cec9c9f68ad71cebb46efb73b9bc71f437ab7875",
+          "title": "英伟达联手韩国 Naver 豪掷 10 亿美元，打造 200 兆瓦 AI 算力工厂",
+          "url": "https://www.aibase.com/zh/news/29885",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9781,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-07-27T01:41:44.356577Z",
       "latest_at": "2026-07-27T01:41:44.356577Z",
       "primary_item": {
-        "id": "c6491d7233e959458c654241f3525ce9f88b3673",
-        "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
-        "url": "https://www.aibase.com/news/29887",
+        "id": "28a6b927d89106c9d2a7a3454ecd934c53628cf4",
+        "title": "英伟达联手韩国Naver豪掷 10 亿美元，打造 200 兆瓦AI算力工厂",
+        "url": "https://www.aibase.com/news/29885",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1e00c23bb12c",
+      "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
+      "url": "https://www.aibase.com/news/29888",
+      "primary_url": "https://www.aibase.com/news/29888",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "77b761b31a189ff4f45efb18662256518747b98e",
+          "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
+          "url": "https://www.aibase.com/news/29888",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T01:41:44.356577Z"
+        },
+        {
+          "id": "93c082426363ca83d2ba31d763e21f67547add4e",
+          "title": "苹果智能眼镜或于 WWDC27 亮相，隐私保护成产品核心卖点",
+          "url": "https://www.aibase.com/zh/news/29888",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "77b761b31a189ff4f45efb18662256518747b98e",
+          "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
+          "url": "https://www.aibase.com/news/29888",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T01:41:44.356577Z"
+        },
+        {
+          "id": "93c082426363ca83d2ba31d763e21f67547add4e",
+          "title": "苹果智能眼镜或于 WWDC27 亮相，隐私保护成产品核心卖点",
+          "url": "https://www.aibase.com/zh/news/29888",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9781,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T01:41:44.356577Z",
+      "latest_at": "2026-07-27T03:13:45.356563Z",
+      "primary_item": {
+        "id": "77b761b31a189ff4f45efb18662256518747b98e",
+        "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
+        "url": "https://www.aibase.com/news/29888",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -883,15 +1085,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6,
-      "importance": 0.6,
-      "importance_score": 0.6,
+      "score": 0.5964,
+      "importance": 0.5964,
+      "importance_score": 0.5964,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8931,
+        "recency": 0.8736,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -909,62 +1111,82 @@
       }
     },
     {
-      "story_id": "story_1e00c23bb12c",
-      "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
-      "url": "https://www.aibase.com/news/29888",
-      "primary_url": "https://www.aibase.com/news/29888",
+      "story_id": "story_4c1b6f834b83",
+      "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+      "url": "https://www.aibase.com/news/29886",
+      "primary_url": "https://www.aibase.com/news/29886",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "77b761b31a189ff4f45efb18662256518747b98e",
-          "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
-          "url": "https://www.aibase.com/news/29888",
+          "id": "870ef7095167a56f00d3994286a4c1f01339a659",
+          "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+          "url": "https://www.aibase.com/news/29886",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-27T01:41:44.356577Z"
+        },
+        {
+          "id": "1e655dc5d7a174493fb5d680e091f33f718ca4e4",
+          "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+          "url": "https://www.aibase.com/zh/news/29886",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "77b761b31a189ff4f45efb18662256518747b98e",
-          "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
-          "url": "https://www.aibase.com/news/29888",
+          "id": "870ef7095167a56f00d3994286a4c1f01339a659",
+          "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+          "url": "https://www.aibase.com/news/29886",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-27T01:41:44.356577Z"
+        },
+        {
+          "id": "1e655dc5d7a174493fb5d680e091f33f718ca4e4",
+          "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+          "url": "https://www.aibase.com/zh/news/29886",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9781,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-07-27T01:41:44.356577Z",
-      "latest_at": "2026-07-27T01:41:44.356577Z",
+      "latest_at": "2026-07-27T03:13:45.356563Z",
       "primary_item": {
-        "id": "77b761b31a189ff4f45efb18662256518747b98e",
-        "title": "苹果智能眼镜或于 WWDC27亮相，隐私保护成产品核心卖点",
-        "url": "https://www.aibase.com/news/29888",
+        "id": "870ef7095167a56f00d3994286a4c1f01339a659",
+        "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
+        "url": "https://www.aibase.com/news/29886",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1042,15 +1264,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5609,
-      "importance": 0.5609,
-      "importance_score": 0.5609,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9449,
+        "recency": 0.9242,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1065,67 +1287,6 @@
         "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
         "source": "www.rickmanelius.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4c1b6f834b83",
-      "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
-      "url": "https://www.aibase.com/news/29886",
-      "primary_url": "https://www.aibase.com/news/29886",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "870ef7095167a56f00d3994286a4c1f01339a659",
-          "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
-          "url": "https://www.aibase.com/news/29886",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T01:41:44.356577Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "870ef7095167a56f00d3994286a4c1f01339a659",
-          "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
-          "url": "https://www.aibase.com/news/29886",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T01:41:44.356577Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T01:41:44.356577Z",
-      "latest_at": "2026-07-27T01:41:44.356577Z",
-      "primary_item": {
-        "id": "870ef7095167a56f00d3994286a4c1f01339a659",
-        "title": "谷歌测试 Gemini Daily Brief 文本定制功能，早间 AI 摘要迎来精准微调",
-        "url": "https://www.aibase.com/news/29886",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1155,18 +1316,18 @@
           "published_at": "2026-07-26T17:30:55.877000Z"
         },
         {
-          "id": "24a9065f0540f35746be5b9d2257def900d10402",
+          "id": "bda2c842d2257409f9763fa2ab128dbc4ce56451",
           "title": "Show HN: Boffin——面向AI编码代理的资深工程师层 / Show HN: Boffin – Staff-engineer layer for AI coding agents",
           "url": "https://github.com/MicSm/boffin",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T17:28:03Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "github.com",
         "hackernews"
       ],
@@ -1190,26 +1351,26 @@
           "published_at": "2026-07-26T17:30:55.877000Z"
         },
         {
-          "id": "24a9065f0540f35746be5b9d2257def900d10402",
+          "id": "bda2c842d2257409f9763fa2ab128dbc4ce56451",
           "title": "Show HN: Boffin——面向AI编码代理的资深工程师层 / Show HN: Boffin – Staff-engineer layer for AI coding agents",
           "url": "https://github.com/MicSm/boffin",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T17:28:03Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.553,
-      "importance": 0.553,
-      "importance_score": 0.553,
+      "score": 0.5494,
+      "importance": 0.5494,
+      "importance_score": 0.5494,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9009,
+        "recency": 0.8812,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1299,15 +1460,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5489,
-      "importance": 0.5489,
-      "importance_score": 0.5489,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8783,
+        "recency": 0.8591,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1378,15 +1539,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9781,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1457,15 +1618,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9707,
+        "recency": 0.9495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1480,84 +1641,6 @@
         "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
         "source": "teorth.github.io",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ace01848219f",
-      "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
-      "url": "https://beyondloom.com/decker",
-      "primary_url": "https://beyondloom.com/decker",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
-          "url": "https://beyondloom.com/decker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T18:23:06Z"
-        },
-        {
-          "id": "3e076c483b484105febe0765c8b7bc3023659421",
-          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-          "url": "https://beyondloom.com/decker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T18:23:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
-          "url": "https://beyondloom.com/decker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T18:23:06Z"
-        },
-        {
-          "id": "3e076c483b484105febe0765c8b7bc3023659421",
-          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-          "url": "https://beyondloom.com/decker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T18:23:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8998,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T18:23:06Z",
-      "latest_at": "2026-07-26T18:23:06Z",
-      "primary_item": {
-        "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-        "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
-        "url": "https://beyondloom.com/decker",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
