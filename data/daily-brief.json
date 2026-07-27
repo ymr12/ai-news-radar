@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:25:49.018064Z",
+  "generated_at": "2026-07-27T15:29:48.142035Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8577,
-      "importance": 0.8577,
-      "importance_score": 0.8577,
+      "score": 0.8552,
+      "importance": 0.8552,
+      "importance_score": 0.8552,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9318,
+        "recency": 0.9176,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.854,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9282,
+        "recency": 0.9141,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -243,21 +243,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.8298,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T02:34:34Z",
       "latest_at": "2026-07-27T02:34:34Z",
@@ -323,15 +322,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8943,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -385,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9094,
+        "recency": 0.8955,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -407,66 +406,6 @@
         "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
         "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
         "source": "Berkeley RDI：Blog（AI 安全与评测）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e62ad53d9af",
-      "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-      "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-      "primary_url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
-          "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T00:12:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
-          "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T00:12:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8142,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T00:12:00Z",
-      "latest_at": "2026-07-27T00:12:00Z",
-      "primary_item": {
-        "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
-        "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-        "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -524,15 +463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8943,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -605,15 +544,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8943,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -634,13 +573,40 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "小七姐和团队打磨了三个月的产品“Her” 今天正式上线了。她是与你一起成长的 AI 伙伴。她会记得你、理解你，能真正和你一起做事。你可以和她一起写文章、做研究、处理文件、推进项目，也可以把那些一时说不清楚的感受慢慢讲给她听。快来上手体验下吧！",
+      "title": "AI视频角色演得假，很多时候是提示词太粗：只写“悲伤、愤怒、崩溃”，AI 只会给你一张情绪脸。小歪总结了5条好用的提示词技巧，还用了分手、医院噩耗、母子重逢、豪门反转、女子化妖这几个具体案例来展示效果。快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-07-27",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "e904adc39d0148d2abe11a57e39363583c1372d6",
+          "title": "AI视频角色演得假，很多时候是提示词太粗：只写“悲伤、愤怒、崩溃”，AI 只会给你一张情绪脸。小歪总结了5条好用的提示词技巧，还用了分手、医院噩耗、母子重逢、豪门反转、女子化妖这几个具体案例来展示效果。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-27T15:29:48.142035Z"
+        },
+        {
+          "id": "4491bbbcad8ff32fc35779129d7505c2bf4234be",
+          "title": "InfoQ极客传媒与GMI Cloud为核心出品方，火山引擎、小米MiMo、快手、出门问问、商汤科技、像素绽放PixelBloom、Moka等数十家产业链头部企业为联合出品方的《中国AI产业核心要素出海发展白皮书》在今天正式发布。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-27T15:29:48.142035Z"
+        },
+        {
+          "id": "a64f4d371e852f46dbc0d79d332bf7c2edd3e943",
+          "title": "做短视频最累的地方，往往不是想法，而是每天重复选题、写脚本、找素材、配音、剪辑、上字幕、做封面。作者把自己日常的创作流程拆成55个标准化 Skill，覆盖12 大模块，再串起 Codex、HyperFrames、HeyGen、IndexTTS2，从选题策划到成片质检基本都能自动流转。想降低制作成本、稳定更新频率，甚至跑商单变现，这套可以直接参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-27T15:29:48.142035Z"
+        },
+        {
           "id": "88895fa310ae24dda86a76a1976fe349b19bcf8f",
           "title": "小七姐和团队打磨了三个月的产品“Her” 今天正式上线了。她是与你一起成长的 AI 伙伴。她会记得你、理解你，能真正和你一起做事。你可以和她一起写文章、做研究、处理文件、推进项目，也可以把那些一时说不清楚的感受慢慢讲给她听。快来上手体验下吧！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -695,13 +661,40 @@
           "published_at": "2026-07-26T16:26:06.516724Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 9,
       "source_names": [
         "社区更新 · 2026-07-26",
         "社区更新 · 2026-07-27"
       ],
       "items": [
         {
+          "id": "e904adc39d0148d2abe11a57e39363583c1372d6",
+          "title": "AI视频角色演得假，很多时候是提示词太粗：只写“悲伤、愤怒、崩溃”，AI 只会给你一张情绪脸。小歪总结了5条好用的提示词技巧，还用了分手、医院噩耗、母子重逢、豪门反转、女子化妖这几个具体案例来展示效果。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-27T15:29:48.142035Z"
+        },
+        {
+          "id": "4491bbbcad8ff32fc35779129d7505c2bf4234be",
+          "title": "InfoQ极客传媒与GMI Cloud为核心出品方，火山引擎、小米MiMo、快手、出门问问、商汤科技、像素绽放PixelBloom、Moka等数十家产业链头部企业为联合出品方的《中国AI产业核心要素出海发展白皮书》在今天正式发布。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-27T15:29:48.142035Z"
+        },
+        {
+          "id": "a64f4d371e852f46dbc0d79d332bf7c2edd3e943",
+          "title": "做短视频最累的地方，往往不是想法，而是每天重复选题、写脚本、找素材、配音、剪辑、上字幕、做封面。作者把自己日常的创作流程拆成55个标准化 Skill，覆盖12 大模块，再串起 Codex、HyperFrames、HeyGen、IndexTTS2，从选题策划到成片质检基本都能自动流转。想降低制作成本、稳定更新频率，甚至跑商单变现，这套可以直接参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-27T15:29:48.142035Z"
+        },
+        {
           "id": "88895fa310ae24dda86a76a1976fe349b19bcf8f",
           "title": "小七姐和团队打磨了三个月的产品“Her” 今天正式上线了。她是与你一起成长的 AI 伙伴。她会记得你、理解你，能真正和你一起做事。你可以和她一起写文章、做研究、处理文件、推进项目，也可以把那些一时说不清楚的感受慢慢讲给她听。快来上手体验下吧！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -756,17 +749,17 @@
           "published_at": "2026-07-26T16:26:06.516724Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6563,
-      "importance": 0.6563,
-      "importance_score": 0.6563,
+      "item_count": 9,
+      "duplicate_count": 9,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9282,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -774,10 +767,10 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-26T16:26:06.516724Z",
-      "latest_at": "2026-07-27T09:16:27.467286Z",
+      "latest_at": "2026-07-27T15:29:48.142035Z",
       "primary_item": {
-        "id": "88895fa310ae24dda86a76a1976fe349b19bcf8f",
-        "title": "小七姐和团队打磨了三个月的产品“Her” 今天正式上线了。她是与你一起成长的 AI 伙伴。她会记得你、理解你，能真正和你一起做事。你可以和她一起写文章、做研究、处理文件、推进项目，也可以把那些一时说不清楚的感受慢慢讲给她听。快来上手体验下吧！",
+        "id": "e904adc39d0148d2abe11a57e39363583c1372d6",
+        "title": "AI视频角色演得假，很多时候是提示词太粗：只写“悲伤、愤怒、崩溃”，AI 只会给你一张情绪脸。小歪总结了5条好用的提示词技巧，还用了分手、医院噩耗、母子重逢、豪门反转、女子化妖这几个具体案例来展示效果。快来试试！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-27",
         "source_name": "WaytoAGI"
@@ -837,15 +830,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8882,
+        "recency": 0.8746,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -918,15 +911,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8507,
+        "recency": 0.8377,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -999,15 +992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8507,
+        "recency": 0.8377,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1099,15 +1092,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
+      "score": 0.5651,
+      "importance": 0.5651,
+      "importance_score": 0.5651,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9836,
+        "recency": 0.9686,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1178,15 +1171,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8507,
+        "recency": 0.8377,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1203,6 +1196,85 @@
         "url": "https://www.aibase.com/news/29894",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e045d97ea961",
+      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+      "primary_url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "645b1a83e934d258b80516c66c287427507c1420",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T14:42:41Z"
+        },
+        {
+          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
+          "title": "Ed Zitron：当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T14:11:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Mac Rumors"
+      ],
+      "items": [
+        {
+          "id": "645b1a83e934d258b80516c66c287427507c1420",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T14:42:41Z"
+        },
+        {
+          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
+          "title": "Ed Zitron：当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T14:11:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9887,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T14:11:48Z",
+      "latest_at": "2026-07-27T14:42:41Z",
+      "primary_item": {
+        "id": "645b1a83e934d258b80516c66c287427507c1420",
+        "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+        "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1259,15 +1331,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9847,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1282,6 +1354,85 @@
         "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
         "source": "Product Hunt · 今日新产品",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e736f3ac4979",
+      "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具",
+      "url": "https://github.com/salmanzafar949/ctxdiff",
+      "primary_url": "https://github.com/salmanzafar949/ctxdiff",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7defd81d657e24397dc747d2658819638595755e",
+          "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具",
+          "url": "https://github.com/salmanzafar949/ctxdiff",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T14:17:27.375000Z"
+        },
+        {
+          "id": "3cd46521e99933ca61b29a871101f6d0eedb6805",
+          "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具 / Show HN: Ctxdiff – Git diff for your LLM agent's context window",
+          "url": "https://github.com/salmanzafar949/ctxdiff",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-27T14:14:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "7defd81d657e24397dc747d2658819638595755e",
+          "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具",
+          "url": "https://github.com/salmanzafar949/ctxdiff",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T14:17:27.375000Z"
+        },
+        {
+          "id": "3cd46521e99933ca61b29a871101f6d0eedb6805",
+          "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具 / Show HN: Ctxdiff – Git diff for your LLM agent's context window",
+          "url": "https://github.com/salmanzafar949/ctxdiff",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-27T14:14:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9827,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T14:14:05Z",
+      "latest_at": "2026-07-27T14:17:27.375000Z",
+      "primary_item": {
+        "id": "7defd81d657e24397dc747d2658819638595755e",
+        "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具",
+        "url": "https://github.com/salmanzafar949/ctxdiff",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1338,15 +1489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9696,
+        "recency": 0.9548,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1417,15 +1568,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9603,
+        "recency": 0.9456,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,15 +1647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9566,
+        "recency": 0.942,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1519,104 +1670,6 @@
         "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_82e17f04394c",
-      "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
-      "url": "https://news.ycombinator.com/item?id=49066591",
-      "primary_url": "https://news.ycombinator.com/item?id=49066591",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "664b72220941b9396422ffc521c0d95bd1e01de2",
-          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
-          "url": "https://news.ycombinator.com/item?id=49066591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T12:07:37.792000Z"
-        },
-        {
-          "id": "63c5eb8dd391036d7752e7691ffb154c6b4e6686",
-          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
-          "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T11:32:32Z"
-        },
-        {
-          "id": "0c5e0c400b84872915e36b61935e326db6a55c04",
-          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
-          "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T08:20:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "664b72220941b9396422ffc521c0d95bd1e01de2",
-          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
-          "url": "https://news.ycombinator.com/item?id=49066591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T12:07:37.792000Z"
-        },
-        {
-          "id": "63c5eb8dd391036d7752e7691ffb154c6b4e6686",
-          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
-          "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T11:32:32Z"
-        },
-        {
-          "id": "0c5e0c400b84872915e36b61935e326db6a55c04",
-          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
-          "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T08:20:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5649,
-      "importance": 0.5649,
-      "importance_score": 0.5649,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9673,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T08:20:06Z",
-      "latest_at": "2026-07-27T12:07:37.792000Z",
-      "primary_item": {
-        "id": "664b72220941b9396422ffc521c0d95bd1e01de2",
-        "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
-        "url": "https://news.ycombinator.com/item?id=49066591",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
