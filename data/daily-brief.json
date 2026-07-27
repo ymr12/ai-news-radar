@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-07-27T16:25:18.572805Z",
+  "generated_at": "2026-07-27T17:11:20.855732Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_eb885d8898bd",
+      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T16:00:00Z"
+        },
+        {
+          "id": "512978bfc570bbb869cc1e3f95711e04bbd058f8",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T16:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T16:00:00Z"
+        },
+        {
+          "id": "512978bfc570bbb869cc1e3f95711e04bbd058f8",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T16:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8739,
+      "importance": 0.8739,
+      "importance_score": 0.8739,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.983,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T16:00:00Z",
+      "latest_at": "2026-07-27T16:00:00Z",
+      "primary_item": {
+        "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+        "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_9101339b1ac2",
       "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.853,
-      "importance": 0.853,
-      "importance_score": 0.853,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8954,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +144,6 @@
         "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
         "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_eb885d8898bd",
-      "title": "面向初学者的 GitHub Copilot 应用程序：入门 / GitHub Copilot app for Beginners: Getting started",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
-          "title": "面向初学者的 GitHub Copilot 应用程序：入门 / GitHub Copilot app for Beginners: Getting started",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
-          "title": "面向初学者的 GitHub Copilot 应用程序：入门 / GitHub Copilot app for Beginners: Getting started",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8509,
-      "importance": 0.8509,
-      "importance_score": 0.8509,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9939,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T16:00:00Z",
-      "latest_at": "2026-07-27T16:00:00Z",
-      "primary_item": {
-        "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
-        "title": "面向初学者的 GitHub Copilot 应用程序：入门 / GitHub Copilot app for Beginners: Getting started",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8298,
+        "recency": 0.8206,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,6 +207,87 @@
         "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d14f026f455c",
+      "title": "Google AI Overviews 搜索结果出现率升至43%",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+      "primary_url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
+          "title": "Google AI Overviews 搜索结果出现率升至43%",
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:57:12Z"
+        },
+        {
+          "id": "b813ebb1e1c0e4f2b03a93ced98dc08b8f4c9895",
+          "title": "Google AI Overviews 搜索结果出现率升至43% / Google’s AI search is rapidly becoming the default, new data shows",
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T15:57:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
+          "title": "Google AI Overviews 搜索结果出现率升至43%",
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:57:12Z"
+        },
+        {
+          "id": "b813ebb1e1c0e4f2b03a93ced98dc08b8f4c9895",
+          "title": "Google AI Overviews 搜索结果出现率升至43% / Google’s AI search is rapidly becoming the default, new data shows",
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T15:57:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9823,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:57:12Z",
+      "latest_at": "2026-07-27T15:57:12Z",
+      "primary_item": {
+        "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
+        "title": "Google AI Overviews 搜索结果出现率升至43%",
+        "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -224,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -304,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9019,
+        "recency": 0.892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -366,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8188,
+        "recency": 0.8098,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -445,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8727,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -526,15 +627,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8984,
+        "recency": 0.8885,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -587,15 +688,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.9792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -648,15 +749,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7227,
-      "importance": 0.7227,
-      "importance_score": 0.7227,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8837,
+        "recency": 0.8739,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -727,15 +828,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8727,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -789,15 +890,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9858,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -869,15 +970,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8727,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -984,27 +1085,9 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-26T17:52:04.145974Z"
-        },
-        {
-          "id": "b29739372b4ee3cd716f8fe4f4906a5ef2057a44",
-          "title": "Claude 5 这一代模型来了之后，Anthropic 删掉 Claude Code 80% 以上的系统提示词，也顺手把一套更轻的上下文工程方法讲清楚了。大家最关心的肯定是：那我自己的项目到底该怎么弄？可以来试试作者这段提示词。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-26T16:51:41.617148Z"
-        },
-        {
-          "id": "b71e03557acf60939e074c5f69d635ec3b889a86",
-          "title": "长期用Codex的开发者可以用老金这套设置大幅压缩重复操作、提升协作的流畅度。这份实操优化指南覆盖语音、权限、模型、提示词这些核心设置，快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-26T16:26:06.516724Z"
         }
       ],
-      "source_count": 11,
+      "source_count": 9,
       "source_names": [
         "社区更新 · 2026-07-26",
         "社区更新 · 2026-07-27"
@@ -1090,44 +1173,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-26T17:52:04.145974Z"
-        },
-        {
-          "id": "b29739372b4ee3cd716f8fe4f4906a5ef2057a44",
-          "title": "Claude 5 这一代模型来了之后，Anthropic 删掉 Claude Code 80% 以上的系统提示词，也顺手把一套更轻的上下文工程方法讲清楚了。大家最关心的肯定是：那我自己的项目到底该怎么弄？可以来试试作者这段提示词。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-26T16:51:41.617148Z"
-        },
-        {
-          "id": "b71e03557acf60939e074c5f69d635ec3b889a86",
-          "title": "长期用Codex的开发者可以用老金这套设置大幅压缩重复操作、提升协作的流畅度。这份实操优化指南覆盖语音、权限、模型、提示词这些核心设置，快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-26T16:26:06.516724Z"
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 9,
+      "duplicate_count": 9,
+      "score": 0.6672,
+      "importance": 0.6672,
+      "importance_score": 0.6672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.989,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T16:26:06.516724Z",
+      "earliest_at": "2026-07-26T17:52:04.145974Z",
       "latest_at": "2026-07-27T16:25:18.572805Z",
       "primary_item": {
         "id": "5da1f76dd068d28320cabf134e998f45c16a733e",
@@ -1191,15 +1256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.863,
+        "recency": 0.8535,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1272,15 +1337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8265,
+        "recency": 0.8174,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1391,15 +1456,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5958,
-      "importance": 0.5958,
-      "importance_score": 0.5958,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9891,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1470,15 +1535,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8265,
+        "recency": 0.8174,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1498,162 +1563,99 @@
       }
     },
     {
-      "story_id": "story_52a56cd50acb",
-      "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-      "url": "https://www.aibase.com/news/29894",
-      "primary_url": "https://www.aibase.com/news/29894",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
-          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-          "url": "https://www.aibase.com/news/29894",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T03:13:45.356563Z"
-        },
-        {
-          "id": "2d82d04cc7474d905a3456592ac3632204a3870f",
-          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-          "url": "https://www.aibase.com/zh/news/29894",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
-          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-          "url": "https://www.aibase.com/news/29894",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T03:13:45.356563Z"
-        },
-        {
-          "id": "2d82d04cc7474d905a3456592ac3632204a3870f",
-          "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-          "url": "https://www.aibase.com/zh/news/29894",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8265,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T03:13:45.356563Z",
-      "latest_at": "2026-07-27T04:46:31.348423Z",
-      "primary_item": {
-        "id": "792e2f4bacdba7932507c4138b0da08179e2ce08",
-        "title": "腾讯云李郁韬谈世界杯直播：AI 首次大规模走进生产，云厂商卡位多模态 Harness",
-        "url": "https://www.aibase.com/news/29894",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3f9257b92839",
-      "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评",
-      "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
-      "primary_url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
-      "source": "www.businessinsider.com",
+      "story_id": "story_8c2ab21032bb",
+      "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "primary_url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "source": "www.ft.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "36207c7e8c2dbef679da9877f07614b5a608c661",
-          "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评",
-          "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
-          "source": "www.businessinsider.com",
+          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "www.ft.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-27T15:53:10.544000Z"
+          "published_at": "2026-07-27T16:41:20.960000Z"
         },
         {
-          "id": "e8bba41a37d0449dcd86a54d5a2a75036486c711",
-          "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评 / Anthropic gets heat for being the only major AI lab not supporting open models",
-          "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:54:33Z"
+          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T14:07:48Z"
+        },
+        {
+          "id": "21feef6673198e67530ddef42b80ba5ba71485c0",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T04:10:31.499000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News (黑客新闻)",
+        "www.ft.com"
       ],
       "items": [
         {
-          "id": "36207c7e8c2dbef679da9877f07614b5a608c661",
-          "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评",
-          "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
-          "source": "www.businessinsider.com",
+          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "www.ft.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-27T15:53:10.544000Z"
+          "published_at": "2026-07-27T16:41:20.960000Z"
         },
         {
-          "id": "e8bba41a37d0449dcd86a54d5a2a75036486c711",
-          "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评 / Anthropic gets heat for being the only major AI lab not supporting open models",
-          "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:54:33Z"
+          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T14:07:48Z"
+        },
+        {
+          "id": "21feef6673198e67530ddef42b80ba5ba71485c0",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T04:10:31.499000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5695,
+      "importance": 0.5695,
+      "importance_score": 0.5695,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9923,
-        "story_heat": 0.25
+        "recency": 0.9928,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-27T12:54:33Z",
-      "latest_at": "2026-07-27T15:53:10.544000Z",
+      "earliest_at": "2026-07-27T04:10:31.499000Z",
+      "latest_at": "2026-07-27T16:41:20.960000Z",
       "primary_item": {
-        "id": "36207c7e8c2dbef679da9877f07614b5a608c661",
-        "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评",
-        "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
-        "source": "www.businessinsider.com",
+        "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
+        "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+        "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+        "source": "www.ft.com",
         "source_name": "Buzzing"
       }
     }
