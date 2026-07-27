@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T15:29:48.142035Z",
+  "generated_at": "2026-07-27T16:25:18.572805Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.853,
+      "importance": 0.853,
+      "importance_score": 0.853,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9176,
+        "recency": 0.9054,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
         "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eb885d8898bd",
+      "title": "面向初学者的 GitHub Copilot 应用程序：入门 / GitHub Copilot app for Beginners: Getting started",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+          "title": "面向初学者的 GitHub Copilot 应用程序：入门 / GitHub Copilot app for Beginners: Getting started",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+          "title": "面向初学者的 GitHub Copilot 应用程序：入门 / GitHub Copilot app for Beginners: Getting started",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8509,
+      "importance": 0.8509,
+      "importance_score": 0.8509,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T16:00:00Z",
+      "latest_at": "2026-07-27T16:00:00Z",
+      "primary_item": {
+        "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+        "title": "面向初学者的 GitHub Copilot 应用程序：入门 / GitHub Copilot app for Beginners: Getting started",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8409,
+        "recency": 0.8298,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +187,67 @@
         "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7f5f5cea2cda",
+      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:14:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:14:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9831,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:14:40Z",
+      "latest_at": "2026-07-27T15:14:40Z",
+      "primary_item": {
+        "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+        "title": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+        "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -181,15 +304,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9141,
+        "recency": 0.9019,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -243,15 +366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8298,
+        "recency": 0.8188,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -322,15 +445,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8943,
+        "recency": 0.8825,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -347,6 +470,147 @@
         "url": "https://www.aibase.com/news/29904",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c87b2e5fb45e",
+      "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
+      "primary_url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bcb128a1135d0a51d9fe999cfa4eaeb9a831370f",
+          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
+          "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T09:00:07Z"
+        },
+        {
+          "id": "583321ca753d9c2f5c197a2c9d6033b0f9807928",
+          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化 / Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+          "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "NVIDIA Blog（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bcb128a1135d0a51d9fe999cfa4eaeb9a831370f",
+          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
+          "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T09:00:07Z"
+        },
+        {
+          "id": "583321ca753d9c2f5c197a2c9d6033b0f9807928",
+          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化 / Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+          "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8984,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T09:00:07Z",
+      "latest_at": "2026-07-27T10:48:15.013556Z",
+      "primary_item": {
+        "id": "bcb128a1135d0a51d9fe999cfa4eaeb9a831370f",
+        "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
+        "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7e5aebcddeab",
+      "title": "Kimi K3 上线 Modal，支持无损加速推理",
+      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理",
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:44:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理",
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:44:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9901,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:44:05Z",
+      "latest_at": "2026-07-27T15:44:05Z",
+      "primary_item": {
+        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+        "title": "Kimi K3 上线 Modal，支持无损加速推理",
+        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -384,15 +648,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8955,
+        "recency": 0.8837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -463,15 +727,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8943,
+        "recency": 0.8825,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -488,6 +752,67 @@
         "url": "https://www.aibase.com/news/29905",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_19eeca1736fb",
+      "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:25:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:25:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9858,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:25:45Z",
+      "latest_at": "2026-07-27T15:25:45Z",
+      "primary_item": {
+        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+        "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -544,15 +869,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8943,
+        "recency": 0.8825,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -573,13 +898,31 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "AI视频角色演得假，很多时候是提示词太粗：只写“悲伤、愤怒、崩溃”，AI 只会给你一张情绪脸。小歪总结了5条好用的提示词技巧，还用了分手、医院噩耗、母子重逢、豪门反转、女子化妖这几个具体案例来展示效果。快来试试！",
+      "title": "本周的AI音乐周刊很适合音乐创作者、AI 音乐工具玩家和关注版权合规的人快速补课：索尼再次起诉 Udio，说明训练数据合法性会越来越关键；德国 GEMA 推出合规训练数据集 PLAI，给行业开辟另一条路。产品侧，Suno 支持控制歌曲时长，ElevenMusic 能复刻人声和曲风，ElevenLabs 开放音乐微调 API，Google Flow Music、海绵音乐也在加强编辑和改编能力。还有中央音乐学院开源的“韶元 1.0”和 4 篇精选论文。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-07-27",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "5da1f76dd068d28320cabf134e998f45c16a733e",
+          "title": "本周的AI音乐周刊很适合音乐创作者、AI 音乐工具玩家和关注版权合规的人快速补课：索尼再次起诉 Udio，说明训练数据合法性会越来越关键；德国 GEMA 推出合规训练数据集 PLAI，给行业开辟另一条路。产品侧，Suno 支持控制歌曲时长，ElevenMusic 能复刻人声和曲风，ElevenLabs 开放音乐微调 API，Google Flow Music、海绵音乐也在加强编辑和改编能力。还有中央音乐学院开源的“韶元 1.0”和 4 篇精选论文。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-27T16:25:18.572805Z"
+        },
+        {
+          "id": "8c280319e40b5c3d9f515ce2e3a1d2092bf9fa52",
+          "title": "表面看是给Codex换皮肤，实际苍何这篇文章更像一个“用 AI 做完整产品”的实战复盘。苍何开源了 Codex Themes：可以一键给 Codex 换主题，也能恢复默认；通过CDP注入装饰层，不改安装包。更有意思的是，它还能让Codex帮你生成新主题，做完后发布到社区广场，用户可用积分或支付宝购买，形成“创作—发布—交易”的闭环。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-27T16:25:18.572805Z"
+        },
+        {
           "id": "e904adc39d0148d2abe11a57e39363583c1372d6",
           "title": "AI视频角色演得假，很多时候是提示词太粗：只写“悲伤、愤怒、崩溃”，AI 只会给你一张情绪脸。小歪总结了5条好用的提示词技巧，还用了分手、医院噩耗、母子重逢、豪门反转、女子化妖这几个具体案例来展示效果。快来试试！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -661,13 +1004,31 @@
           "published_at": "2026-07-26T16:26:06.516724Z"
         }
       ],
-      "source_count": 9,
+      "source_count": 11,
       "source_names": [
         "社区更新 · 2026-07-26",
         "社区更新 · 2026-07-27"
       ],
       "items": [
         {
+          "id": "5da1f76dd068d28320cabf134e998f45c16a733e",
+          "title": "本周的AI音乐周刊很适合音乐创作者、AI 音乐工具玩家和关注版权合规的人快速补课：索尼再次起诉 Udio，说明训练数据合法性会越来越关键；德国 GEMA 推出合规训练数据集 PLAI，给行业开辟另一条路。产品侧，Suno 支持控制歌曲时长，ElevenMusic 能复刻人声和曲风，ElevenLabs 开放音乐微调 API，Google Flow Music、海绵音乐也在加强编辑和改编能力。还有中央音乐学院开源的“韶元 1.0”和 4 篇精选论文。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-27T16:25:18.572805Z"
+        },
+        {
+          "id": "8c280319e40b5c3d9f515ce2e3a1d2092bf9fa52",
+          "title": "表面看是给Codex换皮肤，实际苍何这篇文章更像一个“用 AI 做完整产品”的实战复盘。苍何开源了 Codex Themes：可以一键给 Codex 换主题，也能恢复默认；通过CDP注入装饰层，不改安装包。更有意思的是，它还能让Codex帮你生成新主题，做完后发布到社区广场，用户可用积分或支付宝购买，形成“创作—发布—交易”的闭环。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-27T16:25:18.572805Z"
+        },
+        {
           "id": "e904adc39d0148d2abe11a57e39363583c1372d6",
           "title": "AI视频角色演得假，很多时候是提示词太粗：只写“悲伤、愤怒、崩溃”，AI 只会给你一张情绪脸。小歪总结了5条好用的提示词技巧，还用了分手、医院噩耗、母子重逢、豪门反转、女子化妖这几个具体案例来展示效果。快来试试！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -749,8 +1110,8 @@
           "published_at": "2026-07-26T16:26:06.516724Z"
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
+      "item_count": 11,
+      "duplicate_count": 11,
       "score": 0.6692,
       "importance": 0.6692,
       "importance_score": 0.6692,
@@ -767,10 +1128,10 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-26T16:26:06.516724Z",
-      "latest_at": "2026-07-27T15:29:48.142035Z",
+      "latest_at": "2026-07-27T16:25:18.572805Z",
       "primary_item": {
-        "id": "e904adc39d0148d2abe11a57e39363583c1372d6",
-        "title": "AI视频角色演得假，很多时候是提示词太粗：只写“悲伤、愤怒、崩溃”，AI 只会给你一张情绪脸。小歪总结了5条好用的提示词技巧，还用了分手、医院噩耗、母子重逢、豪门反转、女子化妖这几个具体案例来展示效果。快来试试！",
+        "id": "5da1f76dd068d28320cabf134e998f45c16a733e",
+        "title": "本周的AI音乐周刊很适合音乐创作者、AI 音乐工具玩家和关注版权合规的人快速补课：索尼再次起诉 Udio，说明训练数据合法性会越来越关键；德国 GEMA 推出合规训练数据集 PLAI，给行业开辟另一条路。产品侧，Suno 支持控制歌曲时长，ElevenMusic 能复刻人声和曲风，ElevenLabs 开放音乐微调 API，Google Flow Music、海绵音乐也在加强编辑和改编能力。还有中央音乐学院开源的“韶元 1.0”和 4 篇精选论文。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-27",
         "source_name": "WaytoAGI"
@@ -830,15 +1191,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8746,
+        "recency": 0.863,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -911,15 +1272,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8377,
+        "recency": 0.8265,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -936,6 +1297,123 @@
         "url": "https://www.aibase.com/news/29895",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e045d97ea961",
+      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+      "url": "https://news.ycombinator.com/item?id=49070427",
+      "primary_url": "https://news.ycombinator.com/item?id=49070427",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://news.ycombinator.com/item?id=49070427",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T16:25:49.894000Z"
+        },
+        {
+          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T16:09:40.788000Z"
+        },
+        {
+          "id": "645b1a83e934d258b80516c66c287427507c1420",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T14:42:41Z"
+        },
+        {
+          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T14:11:48Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Mac Rumors",
+        "hackernews",
+        "www.macrumors.com"
+      ],
+      "items": [
+        {
+          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://news.ycombinator.com/item?id=49070427",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T16:25:49.894000Z"
+        },
+        {
+          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T16:09:40.788000Z"
+        },
+        {
+          "id": "645b1a83e934d258b80516c66c287427507c1420",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T14:42:41Z"
+        },
+        {
+          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T14:11:48Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5958,
+      "importance": 0.5958,
+      "importance_score": 0.5958,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T14:11:48Z",
+      "latest_at": "2026-07-27T16:25:49.894000Z",
+      "primary_item": {
+        "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
+        "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+        "url": "https://news.ycombinator.com/item?id=49070427",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -992,15 +1470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8377,
+        "recency": 0.8265,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1017,104 +1495,6 @@
         "url": "https://www.aibase.com/news/29897",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_af8546d362a0",
-      "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
-      "url": "https://news.ycombinator.com/item?id=49068738",
-      "primary_url": "https://news.ycombinator.com/item?id=49068738",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
-          "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
-          "url": "https://news.ycombinator.com/item?id=49068738",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T13:17:16.211000Z"
-        },
-        {
-          "id": "656cc9dca182ad075423f09c171670ad90d55eff",
-          "title": "人工智能公司正在销毁珍本古籍",
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "xcancel.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T13:13:18.076000Z"
-        },
-        {
-          "id": "0b147b85e4634799b17b31382da70f2cac8468c0",
-          "title": "人工智能公司正在销毁珍本古籍 / AI companies are shredding rare books",
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:32:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "xcancel.com"
-      ],
-      "items": [
-        {
-          "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
-          "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
-          "url": "https://news.ycombinator.com/item?id=49068738",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T13:17:16.211000Z"
-        },
-        {
-          "id": "656cc9dca182ad075423f09c171670ad90d55eff",
-          "title": "人工智能公司正在销毁珍本古籍",
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "xcancel.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T13:13:18.076000Z"
-        },
-        {
-          "id": "0b147b85e4634799b17b31382da70f2cac8468c0",
-          "title": "人工智能公司正在销毁珍本古籍 / AI companies are shredding rare books",
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:32:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5651,
-      "importance": 0.5651,
-      "importance_score": 0.5651,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9686,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T12:32:12Z",
-      "latest_at": "2026-07-27T13:17:16.211000Z",
-      "primary_item": {
-        "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
-        "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
-        "url": "https://news.ycombinator.com/item?id=49068738",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1171,15 +1551,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8377,
+        "recency": 0.8265,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1199,476 +1579,81 @@
       }
     },
     {
-      "story_id": "story_e045d97ea961",
-      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-      "primary_url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "645b1a83e934d258b80516c66c287427507c1420",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:42:41Z"
-        },
-        {
-          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
-          "title": "Ed Zitron：当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T14:11:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Mac Rumors"
-      ],
-      "items": [
-        {
-          "id": "645b1a83e934d258b80516c66c287427507c1420",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:42:41Z"
-        },
-        {
-          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
-          "title": "Ed Zitron：当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T14:11:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9887,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T14:11:48Z",
-      "latest_at": "2026-07-27T14:42:41Z",
-      "primary_item": {
-        "id": "645b1a83e934d258b80516c66c287427507c1420",
-        "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-        "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_40e4f325384d",
-      "title": "罗宾·艾 / Robynn AI",
-      "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
-      "primary_url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
-      "source": "Product Hunt · 今日新产品",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9b9c8e1888184ae9d977320e3ee5f7aeb156a3ef",
-          "title": "罗宾·艾 / Robynn AI",
-          "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
-          "source": "Product Hunt · 今日新产品",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1ee60963d1f3f3d242017980c8dd4dafd285c008",
-          "title": "Robynn AI - 自我改进网站 / Robynn AI - Self Improving Websites",
-          "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T11:38:22.172000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt · 今日新产品",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "9b9c8e1888184ae9d977320e3ee5f7aeb156a3ef",
-          "title": "罗宾·艾 / Robynn AI",
-          "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
-          "source": "Product Hunt · 今日新产品",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1ee60963d1f3f3d242017980c8dd4dafd285c008",
-          "title": "Robynn AI - 自我改进网站 / Robynn AI - Self Improving Websites",
-          "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T11:38:22.172000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9847,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T11:38:22.172000Z",
-      "latest_at": "2026-07-27T14:25:49.018064Z",
-      "primary_item": {
-        "id": "9b9c8e1888184ae9d977320e3ee5f7aeb156a3ef",
-        "title": "罗宾·艾 / Robynn AI",
-        "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
-        "source": "Product Hunt · 今日新产品",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e736f3ac4979",
-      "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具",
-      "url": "https://github.com/salmanzafar949/ctxdiff",
-      "primary_url": "https://github.com/salmanzafar949/ctxdiff",
-      "source": "github.com",
+      "story_id": "story_3f9257b92839",
+      "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评",
+      "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
+      "primary_url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7defd81d657e24397dc747d2658819638595755e",
-          "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具",
-          "url": "https://github.com/salmanzafar949/ctxdiff",
-          "source": "github.com",
+          "id": "36207c7e8c2dbef679da9877f07614b5a608c661",
+          "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评",
+          "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-27T14:17:27.375000Z"
+          "published_at": "2026-07-27T15:53:10.544000Z"
         },
         {
-          "id": "3cd46521e99933ca61b29a871101f6d0eedb6805",
-          "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具 / Show HN: Ctxdiff – Git diff for your LLM agent's context window",
-          "url": "https://github.com/salmanzafar949/ctxdiff",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-27T14:14:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "7defd81d657e24397dc747d2658819638595755e",
-          "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具",
-          "url": "https://github.com/salmanzafar949/ctxdiff",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T14:17:27.375000Z"
-        },
-        {
-          "id": "3cd46521e99933ca61b29a871101f6d0eedb6805",
-          "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具 / Show HN: Ctxdiff – Git diff for your LLM agent's context window",
-          "url": "https://github.com/salmanzafar949/ctxdiff",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-27T14:14:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9827,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T14:14:05Z",
-      "latest_at": "2026-07-27T14:17:27.375000Z",
-      "primary_item": {
-        "id": "7defd81d657e24397dc747d2658819638595755e",
-        "title": "Show HN: Ctxdiff – 适用于您的大语言模型（LLM）代理上下文窗口的 Git 差异比较工具",
-        "url": "https://github.com/salmanzafar949/ctxdiff",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_274cfc678475",
-      "title": "OpenAI 将在爱尔兰设立新的欧盟总部，两年内新增 250 个工作岗位",
-      "url": "https://www.ithome.com/0/982/233.htm",
-      "primary_url": "https://www.ithome.com/0/982/233.htm",
-      "source": "IT之家 (ITHome)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "334a03267ea0d7f3c98036f6bb0a62c5eebd0ec6",
-          "title": "OpenAI 将在爱尔兰设立新的欧盟总部，两年内新增 250 个工作岗位",
-          "url": "https://www.ithome.com/0/982/233.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T12:17:43Z"
-        },
-        {
-          "id": "68c851b82838252218074a301671bb7199da4d8b",
-          "title": "OpenAI将在爱尔兰设立新的欧盟总部，并新增250个工作岗位",
-          "url": "https://36kr.com/newsflashes/3913739589981319?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T10:21:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "334a03267ea0d7f3c98036f6bb0a62c5eebd0ec6",
-          "title": "OpenAI 将在爱尔兰设立新的欧盟总部，两年内新增 250 个工作岗位",
-          "url": "https://www.ithome.com/0/982/233.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T12:17:43Z"
-        },
-        {
-          "id": "68c851b82838252218074a301671bb7199da4d8b",
-          "title": "OpenAI将在爱尔兰设立新的欧盟总部，并新增250个工作岗位",
-          "url": "https://36kr.com/newsflashes/3913739589981319?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T10:21:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9548,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T10:21:47Z",
-      "latest_at": "2026-07-27T12:17:43Z",
-      "primary_item": {
-        "id": "334a03267ea0d7f3c98036f6bb0a62c5eebd0ec6",
-        "title": "OpenAI 将在爱尔兰设立新的欧盟总部，两年内新增 250 个工作岗位",
-        "url": "https://www.ithome.com/0/982/233.htm",
-        "source": "IT之家 (ITHome)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_34b90ee402fb",
-      "title": "Claude Code 出现“API 错误：529 重载”",
-      "url": "https://news.ycombinator.com/item?id=49067964",
-      "primary_url": "https://news.ycombinator.com/item?id=49067964",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "45c6d6bea7e2464471f0147915b613736f50bdb7",
-          "title": "Claude Code 出现“API 错误：529 重载”",
-          "url": "https://news.ycombinator.com/item?id=49067964",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T11:37:28.493000Z"
-        },
-        {
-          "id": "f1455cb4ebe5c7973a5fd63229a2a45bb4c98ed9",
-          "title": "Claude Code 出现“API 错误：529 重载” / Claude Code getting \"API Error: 529 Overloaded\"",
-          "url": "https://news.ycombinator.com/item?id=49067964",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-27T11:25:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "45c6d6bea7e2464471f0147915b613736f50bdb7",
-          "title": "Claude Code 出现“API 错误：529 重载”",
-          "url": "https://news.ycombinator.com/item?id=49067964",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T11:37:28.493000Z"
-        },
-        {
-          "id": "f1455cb4ebe5c7973a5fd63229a2a45bb4c98ed9",
-          "title": "Claude Code 出现“API 错误：529 重载” / Claude Code getting \"API Error: 529 Overloaded\"",
-          "url": "https://news.ycombinator.com/item?id=49067964",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-27T11:25:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9456,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T11:25:28Z",
-      "latest_at": "2026-07-27T11:37:28.493000Z",
-      "primary_item": {
-        "id": "45c6d6bea7e2464471f0147915b613736f50bdb7",
-        "title": "Claude Code 出现“API 错误：529 重载”",
-        "url": "https://news.ycombinator.com/item?id=49067964",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e45482a3354c",
-      "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
-      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
-          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
-          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T11:21:32.901000Z"
-        },
-        {
-          "id": "04d62a3ed1402e340fbb82fcb96f1228eb71be18",
-          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售 / Artist sues AI meme generator for selling deeply personal comic as ad template",
-          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-          "source": "Ars Technica",
+          "id": "e8bba41a37d0449dcd86a54d5a2a75036486c711",
+          "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评 / Anthropic gets heat for being the only major AI lab not supporting open models",
+          "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-27T10:50:37Z"
+          "published_at": "2026-07-27T12:54:33Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
-          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
-          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-          "source": "arstechnica.com",
+          "id": "36207c7e8c2dbef679da9877f07614b5a608c661",
+          "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评",
+          "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-27T11:21:32.901000Z"
+          "published_at": "2026-07-27T15:53:10.544000Z"
         },
         {
-          "id": "04d62a3ed1402e340fbb82fcb96f1228eb71be18",
-          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售 / Artist sues AI meme generator for selling deeply personal comic as ad template",
-          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-          "source": "Ars Technica",
+          "id": "e8bba41a37d0449dcd86a54d5a2a75036486c711",
+          "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评 / Anthropic gets heat for being the only major AI lab not supporting open models",
+          "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-27T10:50:37Z"
+          "published_at": "2026-07-27T12:54:33Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.942,
+        "recency": 0.9923,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-27T10:50:37Z",
-      "latest_at": "2026-07-27T11:21:32.901000Z",
+      "earliest_at": "2026-07-27T12:54:33Z",
+      "latest_at": "2026-07-27T15:53:10.544000Z",
       "primary_item": {
-        "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
-        "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
-        "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
-        "source": "arstechnica.com",
+        "id": "36207c7e8c2dbef679da9877f07614b5a608c661",
+        "title": "Anthropic因成为唯一一家不支持开放模型的主要人工智能实验室而遭到批评",
+        "url": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
