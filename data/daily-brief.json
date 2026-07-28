@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-07-28T17:02:28.710278Z",
+  "generated_at": "2026-07-28T18:00:46.756831Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_df22037e3e0f",
+      "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "primary_url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "095806aaf687656a24379222198efda373b88fe4",
+          "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T17:00:00Z"
+        },
+        {
+          "id": "bf7e96558104ca1bea86d92f623144cbd88bf278",
+          "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
+          "url": "https://news.ycombinator.com/item?id=49086987",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-28T17:35:29.702000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "095806aaf687656a24379222198efda373b88fe4",
+          "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T17:00:00Z"
+        },
+        {
+          "id": "bf7e96558104ca1bea86d92f623144cbd88bf278",
+          "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
+          "url": "https://news.ycombinator.com/item?id=49086987",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-28T17:35:29.702000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8744,
+      "importance": 0.8744,
+      "importance_score": 0.8744,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9855,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T17:00:00Z",
+      "latest_at": "2026-07-28T17:35:29.702000Z",
+      "primary_item": {
+        "id": "095806aaf687656a24379222198efda373b88fe4",
+        "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
+        "url": "https://openai.com/index/scientific-computing-agentic-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_d81cfe08f75c",
       "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
@@ -57,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8743,
-      "importance": 0.8743,
-      "importance_score": 0.8743,
+      "score": 0.8718,
+      "importance": 0.8718,
+      "importance_score": 0.8718,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9851,
+        "recency": 0.9713,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.8608,
-      "importance_score": 0.8608,
+      "score": 0.8584,
+      "importance": 0.8584,
+      "importance_score": 0.8584,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9714,
+        "recency": 0.9578,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,68 +226,6 @@
         "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
         "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_df22037e3e0f",
-      "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "primary_url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "095806aaf687656a24379222198efda373b88fe4",
-          "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
-          "url": "https://openai.com/index/scientific-computing-agentic-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "095806aaf687656a24379222198efda373b88fe4",
-          "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
-          "url": "https://openai.com/index/scientific-computing-agentic-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9994,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T17:00:00Z",
-      "latest_at": "2026-07-28T17:00:00Z",
-      "primary_item": {
-        "id": "095806aaf687656a24379222198efda373b88fe4",
-        "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
-        "url": "https://openai.com/index/scientific-computing-agentic-ai",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -244,15 +264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9699,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -325,15 +345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8588,
-      "importance": 0.8588,
-      "importance_score": 0.8588,
+      "score": 0.8564,
+      "importance": 0.8564,
+      "importance_score": 0.8564,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9433,
+        "recency": 0.9302,
         "story_heat": 0.25
       },
       "category": "official",
@@ -388,15 +408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8585,
-      "importance": 0.8585,
-      "importance_score": 0.8585,
+      "score": 0.856,
+      "importance": 0.856,
+      "importance_score": 0.856,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9917,
+        "recency": 0.9778,
         "story_heat": 0.0
       },
       "category": "official",
@@ -412,88 +432,6 @@
         "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
         "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_97b8a5b6a8dc",
-      "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
-      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
-          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
-          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T18:00:00Z"
-        },
-        {
-          "id": "14c3844b789a43cdd84064b00b5779806855f4b4",
-          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
-          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
-          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
-          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T18:00:00Z"
-        },
-        {
-          "id": "14c3844b789a43cdd84064b00b5779806855f4b4",
-          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
-          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.717,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T18:00:00Z",
-      "latest_at": "2026-07-27T18:00:00Z",
-      "primary_item": {
-        "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
-        "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
-        "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -570,15 +508,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9207,
+        "recency": 0.9079,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -632,15 +570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9292,
+        "recency": 0.9162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -713,15 +651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.976,
+        "recency": 0.9624,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -775,15 +713,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9433,
+        "recency": 0.9302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -856,15 +794,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.857,
+        "recency": 0.845,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -937,15 +875,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8847,
+        "recency": 0.8724,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -999,15 +937,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7977,
+        "recency": 0.7865,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1080,15 +1018,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9207,
+        "recency": 0.9079,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1105,6 +1043,66 @@
         "url": "https://www.aibase.com/news/29953",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6cc97f0cf5b5",
+      "title": "Claude 发现加密算法弱点研究发布",
+      "url": "https://x.com/AnthropicAI/status/2082153297670992134",
+      "primary_url": "https://x.com/AnthropicAI/status/2082153297670992134",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "82b0b0016068666bfbb00cc5720f6265d5afb043",
+          "title": "Claude 发现加密算法弱点研究发布",
+          "url": "https://x.com/AnthropicAI/status/2082153297670992134",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T17:16:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "82b0b0016068666bfbb00cc5720f6265d5afb043",
+          "title": "Claude 发现加密算法弱点研究发布",
+          "url": "https://x.com/AnthropicAI/status/2082153297670992134",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T17:16:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9895,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T17:16:45Z",
+      "latest_at": "2026-07-28T17:16:45Z",
+      "primary_item": {
+        "id": "82b0b0016068666bfbb00cc5720f6265d5afb043",
+        "title": "Claude 发现加密算法弱点研究发布",
+        "url": "https://x.com/AnthropicAI/status/2082153297670992134",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1134,19 +1132,19 @@
           "published_at": "2026-07-27T22:49:24.268000Z"
         },
         {
-          "id": "19ac8b53dc8f59af2b17a93baf220bd38c09512e",
+          "id": "76df325ef658a1148c63f55e35145d5124f5d32b",
           "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
           "url": "https://www.anthropic.com/news/position-open-weights-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-27T22:03:49Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.anthropic.com"
       ],
       "items": [
@@ -1169,26 +1167,26 @@
           "published_at": "2026-07-27T22:49:24.268000Z"
         },
         {
-          "id": "19ac8b53dc8f59af2b17a93baf220bd38c09512e",
+          "id": "76df325ef658a1148c63f55e35145d5124f5d32b",
           "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
           "url": "https://www.anthropic.com/news/position-open-weights-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-27T22:03:49Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7644,
+        "recency": 0.7537,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1241,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9571,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1320,15 +1318,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7289,
+        "recency": 0.7188,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1343,66 +1341,6 @@
         "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
         "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bce699caba55",
-      "title": "Kimi 发布视觉感知基准 PerceptionBench",
-      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
-          "title": "Kimi 发布视觉感知基准 PerceptionBench",
-          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:45:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
-          "title": "Kimi 发布视觉感知基准 PerceptionBench",
-          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:45:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7248,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T18:45:20Z",
-      "latest_at": "2026-07-27T18:45:20Z",
-      "primary_item": {
-        "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
-        "title": "Kimi 发布视觉感知基准 PerceptionBench",
-        "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       }
     },
@@ -1441,15 +1379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7458,
+        "recency": 0.7354,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1466,6 +1404,87 @@
         "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ba2e6d7c0264",
+      "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+      "url": "https://www.aibase.com/news/29948",
+      "primary_url": "https://www.aibase.com/news/29948",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cbb0a2755205a6257fedab4efede42214dc84bfb",
+          "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+          "url": "https://www.aibase.com/news/29948",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:26:46.706955Z"
+        },
+        {
+          "id": "c78a2044c5802dbcdbbeb460f307d6c7b5cf83bf",
+          "title": "宇树 G1 人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+          "url": "https://www.aibase.com/zh/news/29948",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cbb0a2755205a6257fedab4efede42214dc84bfb",
+          "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+          "url": "https://www.aibase.com/news/29948",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:26:46.706955Z"
+        },
+        {
+          "id": "c78a2044c5802dbcdbbeb460f307d6c7b5cf83bf",
+          "title": "宇树 G1 人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+          "url": "https://www.aibase.com/zh/news/29948",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8836,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T09:26:46.706955Z",
+      "latest_at": "2026-07-28T09:26:46.706955Z",
+      "primary_item": {
+        "id": "cbb0a2755205a6257fedab4efede42214dc84bfb",
+        "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+        "url": "https://www.aibase.com/news/29948",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
