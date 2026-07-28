@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:11:25.300514Z",
+  "generated_at": "2026-07-28T04:36:13.075012Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8501,
-      "importance": 0.8501,
-      "importance_score": 0.8501,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8508,
+        "recency": 0.8336,
         "story_heat": 0.25
       },
       "category": "official",
@@ -86,21 +86,21 @@
       }
     },
     {
-      "story_id": "story_1fe7f694c616",
-      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "story_id": "story_4464a24ffd5f",
+      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "source_count": 1,
@@ -109,26 +109,26 @@
       ],
       "items": [
         {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9109,
+        "recency": 0.9546,
         "story_heat": 0.0
       },
       "category": "official",
@@ -137,12 +137,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T20:43:37Z",
-      "latest_at": "2026-07-27T20:43:37Z",
+      "earliest_at": "2026-07-28T01:23:10Z",
+      "latest_at": "2026-07-28T01:23:10Z",
       "primary_item": {
-        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.775,
+        "recency": 0.7593,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8466,
-      "importance": 0.8466,
-      "importance_score": 0.8466,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8757,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "category": "official",
@@ -292,21 +292,21 @@
       }
     },
     {
-      "story_id": "story_58d617805c7f",
-      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "story_id": "story_1fe7f694c616",
+      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
+          "published_at": "2026-07-27T20:43:37Z"
         }
       ],
       "source_count": 1,
@@ -315,88 +315,26 @@
       ],
       "items": [
         {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
+          "published_at": "2026-07-27T20:43:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8633,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T17:00:35Z",
-      "latest_at": "2026-07-27T17:00:35Z",
-      "primary_item": {
-        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f143efbfe201",
-      "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T03:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T03:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7103,
+        "recency": 0.8925,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,14 +343,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T03:30:00Z",
-      "latest_at": "2026-07-27T03:30:00Z",
+      "earliest_at": "2026-07-27T20:43:37Z",
+      "latest_at": "2026-07-27T20:43:37Z",
       "primary_item": {
-        "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-        "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-        "source": "OpenAI News",
+        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3ca2abb5d195",
+      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+      "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+      "primary_url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+      "source": "公众号：月之暗面（Kimi）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "42526505b55797eaf88ea9c31254fb05a1c963d4",
+          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:34:59Z"
+        },
+        {
+          "id": "7b9bd561c7939980c4b2e85699101d90480396dc",
+          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "url": "https://wallstreetcn.com/livenews/3140420",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "公众号：月之暗面（Kimi）"
+      ],
+      "items": [
+        {
+          "id": "42526505b55797eaf88ea9c31254fb05a1c963d4",
+          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:34:59Z"
+        },
+        {
+          "id": "7b9bd561c7939980c4b2e85699101d90480396dc",
+          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "url": "https://wallstreetcn.com/livenews/3140420",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8286,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:34:59Z",
+      "latest_at": "2026-07-27T16:25:18.572805Z",
+      "primary_item": {
+        "id": "42526505b55797eaf88ea9c31254fb05a1c963d4",
+        "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+        "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+        "source": "公众号：月之暗面（Kimi）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -469,15 +488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9798,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -550,15 +569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8502,
+        "recency": 0.833,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -575,6 +594,68 @@
         "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_58d617805c7f",
+      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8458,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:00:35Z",
+      "latest_at": "2026-07-27T17:00:35Z",
+      "primary_item": {
+        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -650,15 +731,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9336,
+        "recency": 0.9148,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -731,15 +812,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.8598,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -812,15 +893,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8903,
+        "recency": 0.8724,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -874,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8416,
+        "recency": 0.8246,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -954,15 +1035,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9798,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1016,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8737,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1076,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.955,
+        "recency": 0.9357,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9781,
+        "recency": 0.9583,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1217,21 +1298,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8853,
+        "recency": 0.8674,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T18:45:20Z",
       "latest_at": "2026-07-27T18:45:20Z",
@@ -1297,15 +1377,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.718,
-      "importance": 0.718,
-      "importance_score": 0.718,
+      "score": 0.7152,
+      "importance": 0.7152,
+      "importance_score": 0.7152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.769,
+        "recency": 0.7535,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9781,
+        "recency": 0.9583,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1402,66 +1482,6 @@
         "url": "https://www.aibase.com/news/29920",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7e5aebcddeab",
-      "title": "Kimi K3 上线 Modal，支持无损加速推理",
-      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-          "title": "Kimi K3 上线 Modal，支持无损加速推理",
-          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:44:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-          "title": "Kimi K3 上线 Modal，支持无损加速推理",
-          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:44:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8475,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T15:44:05Z",
-      "latest_at": "2026-07-27T15:44:05Z",
-      "primary_item": {
-        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-        "title": "Kimi K3 上线 Modal，支持无损加速推理",
-        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
       }
     }
   ]
