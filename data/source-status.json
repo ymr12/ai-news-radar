@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T16:03:35.376019Z",
+  "generated_at": "2026-07-29T17:50:08.480042Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 170,
-      "duration_ms": 2637,
+      "item_count": 171,
+      "duration_ms": 2073,
       "error": null
     },
     {
@@ -14,16 +14,16 @@
       "site_name": "Curated Media",
       "ok": true,
       "item_count": 42,
-      "duration_ms": 3795,
+      "duration_ms": 3403,
       "error": null
     },
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
-      "ok": true,
-      "item_count": 8,
-      "duration_ms": 357,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 22,
+      "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
       "site_id": "followbuilders",
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 511,
+      "duration_ms": 462,
       "error": null
     },
     {
@@ -46,15 +46,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 566,
+      "duration_ms": 481,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 345,
-      "duration_ms": 14659,
+      "item_count": 354,
+      "duration_ms": 12896,
       "error": null
     },
     {
@@ -62,31 +62,31 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 814,
+      "duration_ms": 651,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3046,
-      "duration_ms": 1828,
+      "item_count": 3039,
+      "duration_ms": 1639,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 79,
-      "duration_ms": 447,
+      "item_count": 78,
+      "duration_ms": 506,
       "error": null
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "ok": true,
-      "item_count": 4,
-      "duration_ms": 5932,
+      "item_count": 3,
+      "duration_ms": 5779,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 26,
-      "duration_ms": 297,
+      "duration_ms": 339,
       "error": null
     },
     {
@@ -102,15 +102,15 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 2692,
+      "duration_ms": 1579,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "ok": true,
-      "item_count": 88,
-      "duration_ms": 1650,
+      "item_count": 92,
+      "duration_ms": 4774,
       "error": null
     },
     {
@@ -118,15 +118,15 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 127,
-      "duration_ms": 1251,
+      "duration_ms": 1140,
       "error": null
     },
     {
       "site_id": "waytoagi",
       "site_name": "WaytoAGI",
       "ok": true,
-      "item_count": 3,
-      "duration_ms": 5645,
+      "item_count": 8,
+      "duration_ms": 5790,
       "error": null
     },
     {
@@ -134,8 +134,8 @@
       "site_name": "OPML RSS",
       "ok": true,
       "partial_failures": 0,
-      "item_count": 2225,
-      "duration_ms": 6423,
+      "item_count": 2226,
+      "duration_ms": 5795,
       "error": null,
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -145,13 +145,15 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 17,
-  "failed_sites": [],
+  "successful_sites": 16,
+  "failed_sites": [
+    "aibreakfast"
+  ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 7356,
-  "items_before_topic_filter": 7190,
-  "items_in_24h": 843,
+  "fetched_raw_items": 7359,
+  "items_before_topic_filter": 7167,
+  "items_in_24h": 840,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -171,7 +173,7 @@
         "effective_feed_url": "https://blog.google/technology/ai/rss/",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 337,
+        "duration_ms": 354,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -186,7 +188,7 @@
         "effective_feed_url": "https://deepmind.google/blog/rss.xml",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 533,
+        "duration_ms": 419,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -201,7 +203,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 833,
-        "duration_ms": 433,
+        "duration_ms": 336,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -216,7 +218,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 1519,
+        "duration_ms": 1591,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -231,7 +233,7 @@
         "effective_feed_url": "https://news.microsoft.com/source/topics/ai/feed/",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 256,
+        "duration_ms": 361,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -246,7 +248,7 @@
         "effective_feed_url": "https://developer.nvidia.com/blog/category/generative-ai/feed/",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 751,
+        "duration_ms": 613,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -260,8 +262,8 @@
         "feed_url": "https://openai.com/news/rss.xml",
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
-        "item_count": 1052,
-        "duration_ms": 1168,
+        "item_count": 1053,
+        "duration_ms": 921,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -276,7 +278,7 @@
         "effective_feed_url": "https://simonwillison.net/atom/everything/",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 673,
+        "duration_ms": 497,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -291,7 +293,7 @@
         "effective_feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 293,
+        "duration_ms": 326,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -306,7 +308,7 @@
         "effective_feed_url": "https://baoyu.io/feed.xml",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 460,
+        "duration_ms": 377,
         "error": null,
         "skipped": false,
         "skip_reason": null,
