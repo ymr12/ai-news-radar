@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T17:58:00.838829Z",
+  "generated_at": "2026-07-30T19:45:15.495523Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -30,6 +30,15 @@
           "published_at": "2026-07-30T10:00:00Z"
         },
         {
+          "id": "d285a9d4f35e566f21b9c59df8f133f1b7a6eae5",
+          "title": "借助 GPT‑5.6 突破性价比新高度",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-30T18:01:26.158000Z"
+        },
+        {
           "id": "af8f1b1d31789a420e865923da8400555fad0207",
           "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT‑5.6",
           "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
@@ -39,11 +48,12 @@
           "published_at": "2026-07-30T17:15:51Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News",
         "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com"
       ],
       "items": [
         {
@@ -65,6 +75,15 @@
           "published_at": "2026-07-30T10:00:00Z"
         },
         {
+          "id": "d285a9d4f35e566f21b9c59df8f133f1b7a6eae5",
+          "title": "借助 GPT‑5.6 突破性价比新高度",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-30T18:01:26.158000Z"
+        },
+        {
           "id": "af8f1b1d31789a420e865923da8400555fad0207",
           "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT‑5.6",
           "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
@@ -74,18 +93,18 @@
           "published_at": "2026-07-30T17:15:51Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8904,
-      "importance": 0.8904,
-      "importance_score": 0.8904,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.9114,
+      "importance": 0.9114,
+      "importance_score": 0.9114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8913,
-        "story_heat": 0.5
+        "recency": 0.8686,
+        "story_heat": 0.75
       },
       "category": "official",
       "reasons": [
@@ -95,7 +114,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-30T10:00:00Z",
-      "latest_at": "2026-07-30T17:15:51Z",
+      "latest_at": "2026-07-30T18:01:26.158000Z",
       "primary_item": {
         "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
         "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
@@ -158,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8815,
-      "importance": 0.8815,
-      "importance_score": 0.8815,
+      "score": 0.8771,
+      "importance": 0.8771,
+      "importance_score": 0.8771,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.9583,
+        "recency": 0.9339,
         "story_heat": 0.25
       },
       "category": "official",
@@ -240,15 +259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8758,
-      "importance": 0.8758,
-      "importance_score": 0.8758,
+      "score": 0.8713,
+      "importance": 0.8713,
+      "importance_score": 0.8713,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9934,
+        "recency": 0.9681,
         "story_heat": 0.25
       },
       "category": "official",
@@ -322,15 +341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8646,
-      "importance": 0.8646,
-      "importance_score": 0.8646,
+      "score": 0.8601,
+      "importance": 0.8601,
+      "importance_score": 0.8601,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9754,
+        "recency": 0.9505,
         "story_heat": 0.25
       },
       "category": "official",
@@ -385,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8588,
-      "importance": 0.8588,
-      "importance_score": 0.8588,
+      "score": 0.8544,
+      "importance": 0.8544,
+      "importance_score": 0.8544,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9602,
+        "recency": 0.9357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -447,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8445,
-      "importance": 0.8445,
-      "importance_score": 0.8445,
+      "score": 0.8401,
+      "importance": 0.8401,
+      "importance_score": 0.8401,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9585,
+        "recency": 0.9341,
         "story_heat": 0.0
       },
       "category": "official",
@@ -509,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9926,
+        "recency": 0.9673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -533,6 +552,68 @@
         "url": "https://x.com/sama/status/2082880720989532597",
         "source": "X：Sam Altman (@sama)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_af33f72d4acf",
+      "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+      "primary_url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:39:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:39:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9702,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T17:39:46Z",
+      "latest_at": "2026-07-30T17:39:46Z",
+      "primary_item": {
+        "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+        "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+        "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -589,15 +670,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9281,
+        "recency": 0.9044,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -614,68 +695,6 @@
         "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9cb4cbdb834e",
-      "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "primary_url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T14:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T14:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9569,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T14:54:47Z",
-      "latest_at": "2026-07-30T14:54:47Z",
-      "primary_item": {
-        "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-        "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-        "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -732,15 +751,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8625,
+        "recency": 0.8405,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -813,15 +832,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.886,
+        "recency": 0.8634,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -841,49 +860,49 @@
       }
     },
     {
-      "story_id": "story_fe4ad710c72f",
-      "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-      "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-      "primary_url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "story_id": "story_235ce9288be4",
+      "title": "Google Earth 集成 Nano Banana 2 图像生成",
+      "url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "primary_url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "source": "X：Google AI (@GoogleAI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
-          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-          "source": "X：Google DeepMind (@GoogleDeepMind)",
+          "id": "0868d412089140b46edc3f1649b972040bed8699",
+          "title": "Google Earth 集成 Nano Banana 2 图像生成",
+          "url": "https://x.com/GoogleAI/status/2082902334984609936",
+          "source": "X：Google AI (@GoogleAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T15:02:00Z"
+          "published_at": "2026-07-30T18:53:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Google DeepMind (@GoogleDeepMind)"
+        "X：Google AI (@GoogleAI)"
       ],
       "items": [
         {
-          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
-          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-          "source": "X：Google DeepMind (@GoogleDeepMind)",
+          "id": "0868d412089140b46edc3f1649b972040bed8699",
+          "title": "Google Earth 集成 Nano Banana 2 图像生成",
+          "url": "https://x.com/GoogleAI/status/2082902334984609936",
+          "source": "X：Google AI (@GoogleAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T15:02:00Z"
+          "published_at": "2026-07-30T18:53:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9585,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -891,13 +910,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T15:02:00Z",
-      "latest_at": "2026-07-30T15:02:00Z",
+      "earliest_at": "2026-07-30T18:53:09Z",
+      "latest_at": "2026-07-30T18:53:09Z",
       "primary_item": {
-        "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
-        "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-        "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-        "source": "X：Google DeepMind (@GoogleDeepMind)",
+        "id": "0868d412089140b46edc3f1649b972040bed8699",
+        "title": "Google Earth 集成 Nano Banana 2 图像生成",
+        "url": "https://x.com/GoogleAI/status/2082902334984609936",
+        "source": "X：Google AI (@GoogleAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_351e94ae0e4c",
+      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+      "url": "https://x.com/OpenRouter/status/2082882158574911564",
+      "primary_url": "https://x.com/OpenRouter/status/2082882158574911564",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
+          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+          "url": "https://x.com/OpenRouter/status/2082882158574911564",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T17:32:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
+          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+          "url": "https://x.com/OpenRouter/status/2082882158574911564",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T17:32:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9687,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T17:32:59Z",
+      "latest_at": "2026-07-30T17:32:59Z",
+      "primary_item": {
+        "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
+        "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+        "url": "https://x.com/OpenRouter/status/2082882158574911564",
+        "source": "X：OpenRouter (@OpenRouter)",
         "source_name": "AI HOT"
       }
     },
@@ -955,15 +1035,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7658,
+        "recency": 0.7463,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -979,6 +1059,67 @@
         "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
         "url": "https://www.ithome.com/0/983/374.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fe4ad710c72f",
+      "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+      "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+      "primary_url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+          "source": "X：Google DeepMind (@GoogleDeepMind)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T15:02:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google DeepMind (@GoogleDeepMind)"
+      ],
+      "items": [
+        {
+          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+          "source": "X：Google DeepMind (@GoogleDeepMind)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T15:02:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9341,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T15:02:00Z",
+      "latest_at": "2026-07-30T15:02:00Z",
+      "primary_item": {
+        "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+        "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+        "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+        "source": "X：Google DeepMind (@GoogleDeepMind)",
         "source_name": "AI HOT"
       }
     },
@@ -1017,21 +1158,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9849,
+        "recency": 0.9598,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T16:54:48Z",
       "latest_at": "2026-07-30T16:54:48Z",
@@ -1044,84 +1184,65 @@
       }
     },
     {
-      "story_id": "story_2b31e5040cd9",
-      "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "primary_url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_9cb4cbdb834e",
+      "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+      "primary_url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T18:45:27Z"
-        },
-        {
-          "id": "9797d71520f75e59daa04536256009c0f9afb601",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T18:45:27Z"
+          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
+          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T14:54:47Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T18:45:27Z"
-        },
-        {
-          "id": "9797d71520f75e59daa04536256009c0f9afb601",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T18:45:27Z"
+          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
+          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T14:54:47Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7152,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9325,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T18:45:27Z",
-      "latest_at": "2026-07-29T18:45:27Z",
+      "earliest_at": "2026-07-30T14:54:47Z",
+      "latest_at": "2026-07-30T14:54:47Z",
       "primary_item": {
-        "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-        "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "63114627b4555cb419a1da7bffb9887203ad3083",
+        "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+        "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1178,15 +1299,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.886,
+        "recency": 0.8634,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1240,15 +1361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8005,
+        "recency": 0.7801,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1262,128 +1383,6 @@
         "title": "腾讯混元Hyra破解50年数学难题",
         "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
         "source": "X：腾讯混元 (@TencentHunyuan)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6683db9728fe",
-      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7435,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T21:26:19Z",
-      "latest_at": "2026-07-29T21:26:19Z",
-      "primary_item": {
-        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_071f7e647b41",
-      "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-      "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-      "primary_url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2fc69b4da0329da8e9d988f85d71ac5da6eff6b4",
-          "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-          "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:50:35.428000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "2fc69b4da0329da8e9d988f85d71ac5da6eff6b4",
-          "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-          "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:50:35.428000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9698,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T15:50:35.428000Z",
-      "latest_at": "2026-07-30T15:50:35.428000Z",
-      "primary_item": {
-        "id": "2fc69b4da0329da8e9d988f85d71ac5da6eff6b4",
-        "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-        "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
@@ -1422,15 +1421,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7362,
+        "recency": 0.7175,
         "story_heat": 0.0
       },
       "category": "industry",
