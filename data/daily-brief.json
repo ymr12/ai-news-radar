@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:38:35.764510Z",
+  "generated_at": "2026-09-05T22:44:42.256193Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9638,
+        "recency": 0.935,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8733,
+        "recency": 0.8472,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -163,68 +163,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_df6f2ef5089d",
-      "title": "GitHub Copilot weekly releases — August 31",
-      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-      "primary_url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
-          "title": "GitHub Copilot weekly releases — August 31",
-          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T21:05:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
-          "title": "GitHub Copilot weekly releases — August 31",
-          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T21:05:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7116,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T21:05:01Z",
-      "latest_at": "2026-09-04T21:05:01Z",
-      "primary_item": {
-        "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
-        "title": "GitHub Copilot weekly releases — August 31",
-        "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -281,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8791,
+        "recency": 0.8528,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9687,
+        "recency": 0.9397,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -423,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9022,
+        "recency": 0.8752,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -447,6 +385,67 @@
         "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
         "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e46c6749700e",
+      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+      "url": "https://x.com/testingcatalog/status/2096350628054176240",
+      "primary_url": "https://x.com/testingcatalog/status/2096350628054176240",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+          "url": "https://x.com/testingcatalog/status/2096350628054176240",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T21:31:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "items": [
+        {
+          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+          "url": "https://x.com/testingcatalog/status/2096350628054176240",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T21:31:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9826,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T21:31:52Z",
+      "latest_at": "2026-09-05T21:31:52Z",
+      "primary_item": {
+        "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+        "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+        "url": "https://x.com/testingcatalog/status/2096350628054176240",
+        "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
       }
     },
@@ -504,15 +503,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8317,
+        "recency": 0.8069,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -585,15 +584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8293,
+        "recency": 0.8045,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -647,15 +646,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8784,
+        "recency": 0.8521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -708,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8325,
+        "recency": 0.8076,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7303,
+        "recency": 0.7084,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -829,15 +828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7299,
+        "recency": 0.7081,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,15 +888,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7303,
+        "recency": 0.7085,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -950,21 +949,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7498,
+        "recency": 0.7274,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-05T00:42:24Z",
       "latest_at": "2026-09-05T00:42:24Z",
@@ -1065,15 +1063,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6376,
-      "importance": 0.6376,
-      "importance_score": 0.6376,
+      "score": 0.6324,
+      "importance": 0.6324,
+      "importance_score": 0.6324,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9635,
+        "recency": 0.9347,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1125,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7353,
+        "recency": 0.7133,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1152,12 +1150,21 @@
     },
     {
       "story_id": "story_774f7412d1a3",
-      "title": "OpenAI GPT-6 Astra is AGI? [video]",
-      "url": "https://www.youtube.com/watch?v=vuFYLqe3-xc",
-      "primary_url": "https://www.youtube.com/watch?v=vuFYLqe3-xc",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
+      "title": "Isar Aerospace launch into orbit [video]",
+      "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "primary_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
+        {
+          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+          "title": "Isar Aerospace launch into orbit [video]",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T20:25:30Z"
+        },
         {
           "id": "bdd65f94339878103168417a32707a27748f002b",
           "title": "OpenAI GPT-6 Astra is AGI? [video]",
@@ -1186,13 +1193,22 @@
           "published_at": "2026-09-05T05:45:54Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "HN Algolia · AI 24h",
         "Hacker News · 24h最热"
       ],
       "items": [
         {
+          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+          "title": "Isar Aerospace launch into orbit [video]",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T20:25:30Z"
+        },
+        {
           "id": "bdd65f94339878103168417a32707a27748f002b",
           "title": "OpenAI GPT-6 Astra is AGI? [video]",
           "url": "https://www.youtube.com/watch?v=vuFYLqe3-xc",
@@ -1220,31 +1236,207 @@
           "published_at": "2026-09-05T05:45:54Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5899,
+      "importance": 0.5899,
+      "importance_score": 0.5899,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9185,
-        "story_heat": 0.5
+        "recency": 0.9671,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-09-05T05:45:54Z",
-      "latest_at": "2026-09-05T14:45:29Z",
+      "latest_at": "2026-09-05T20:25:30Z",
       "primary_item": {
-        "id": "bdd65f94339878103168417a32707a27748f002b",
-        "title": "OpenAI GPT-6 Astra is AGI? [video]",
-        "url": "https://www.youtube.com/watch?v=vuFYLqe3-xc",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
+        "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+        "title": "Isar Aerospace launch into orbit [video]",
+        "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_b6a75cdb30da",
+      "title": "大型语言模型作为认知病毒",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "primary_url": "https://arxiv.org/abs/2609.03344",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+          "title": "大型语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.980000Z"
+        },
+        {
+          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+          "title": "大语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.965000Z"
+        },
+        {
+          "id": "ba7f752a88a436339b1d58b6f63d691f5816e129",
+          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:02:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "arxiv.org"
+      ],
+      "items": [
+        {
+          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+          "title": "大型语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.980000Z"
+        },
+        {
+          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+          "title": "大语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.965000Z"
+        },
+        {
+          "id": "ba7f752a88a436339b1d58b6f63d691f5816e129",
+          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:02:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5697,
+      "importance": 0.5697,
+      "importance_score": 0.5697,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9941,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T20:02:35Z",
+      "latest_at": "2026-09-05T22:19:59.980000Z",
+      "primary_item": {
+        "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+        "title": "大型语言模型作为认知病毒",
+        "url": "https://arxiv.org/abs/2609.03344",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7b7e5871aea3",
+      "title": "America's Two Largest School Districts Impose AI Moratoriums",
+      "url": "https://news.ycombinator.com/item?id=49580980",
+      "primary_url": "https://news.ycombinator.com/item?id=49580980",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "url": "https://news.ycombinator.com/item?id=49580980",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T22:26:27.804000Z"
+        },
+        {
+          "id": "c46c4730621034b7751ac0cf57c7c030201f890e",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T21:43:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "url": "https://news.ycombinator.com/item?id=49580980",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T22:26:27.804000Z"
+        },
+        {
+          "id": "c46c4730621034b7751ac0cf57c7c030201f890e",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T21:43:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T21:43:22Z",
+      "latest_at": "2026-09-05T22:26:27.804000Z",
+      "primary_item": {
+        "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+        "title": "America's Two Largest School Districts Impose AI Moratoriums",
+        "url": "https://news.ycombinator.com/item?id=49580980",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1319,15 +1511,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5476,
-      "importance": 0.5476,
-      "importance_score": 0.5476,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8712,
+        "recency": 0.8452,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1342,164 +1534,6 @@
         "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
         "source": "www.sylvainkalache.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a20ed4a4c949",
-      "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-      "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-      "primary_url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
-          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
-          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T20:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
-          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
-          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T20:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T20:00:00Z",
-      "latest_at": "2026-09-05T20:38:35.764510Z",
-      "primary_item": {
-        "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
-        "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-        "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fc526c0c8fab",
-      "title": "WorldFlowAI / everything-claude-code",
-      "url": "https://github.com/WorldFlowAI/everything-claude-code",
-      "primary_url": "https://github.com/WorldFlowAI/everything-claude-code",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
-          "title": "WorldFlowAI / everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "db8325c704100ae0306275acc13c4421b60d2eff",
-          "title": "WorldFlowAI /      everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T17:53:13.429000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
-          "title": "WorldFlowAI / everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "db8325c704100ae0306275acc13c4421b60d2eff",
-          "title": "WorldFlowAI /      everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T17:53:13.429000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9635,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T17:53:13.429000Z",
-      "latest_at": "2026-09-05T18:04:09.581877Z",
-      "primary_item": {
-        "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
-        "title": "WorldFlowAI / everything-claude-code",
-        "url": "https://github.com/WorldFlowAI/everything-claude-code",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
       }
     }
   ]
