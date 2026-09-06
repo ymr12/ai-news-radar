@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:43:02.900320Z",
+  "generated_at": "2026-09-06T14:04:28.624736Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9446,
+        "recency": 0.8999,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7866,
+        "recency": 0.7493,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -162,168 +162,6 @@
         "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
         "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ac5a64ceef28",
-      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:15:55Z"
-        },
-        {
-          "id": "bf56e38204fe5072d81300a4e5630ba736115791",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki ‘incident’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T11:15:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:15:55Z"
-        },
-        {
-          "id": "bf56e38204fe5072d81300a4e5630ba736115791",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki ‘incident’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T11:15:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T11:15:55Z",
-      "latest_at": "2026-09-05T11:15:55Z",
-      "primary_item": {
-        "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
-        "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e2d719d60d77",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
-        },
-        {
-          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T13:31:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
-        },
-        {
-          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T13:31:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7363,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T13:31:04Z",
-      "latest_at": "2026-09-05T13:31:04Z",
-      "primary_item": {
-        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -362,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7905,
+        "recency": 0.7531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -385,87 +223,6 @@
         "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
         "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
-        },
-        {
-          "id": "f033073f5f9302d9922d2cd3ce433f07bbecf908",
-          "title": "谷歌让 AI 互怼几天！小模型竟复现 3 道博士级难题",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652723377&idx=2&sn=58fb4dbd0753589cf4e5b8d290062326",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
-        },
-        {
-          "id": "f033073f5f9302d9922d2cd3ce433f07bbecf908",
-          "title": "谷歌让 AI 互怼几天！小模型竟复现 3 道博士级难题",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652723377&idx=2&sn=58fb4dbd0753589cf4e5b8d290062326",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7168,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T11:39:52Z",
-      "latest_at": "2026-09-06T05:43:58.421330Z",
-      "primary_item": {
-        "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -504,15 +261,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8266,
+        "recency": 0.7875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,87 +283,6 @@
         "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
         "url": "https://x.com/testingcatalog/status/2096350628054176240",
         "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fdab4dad7ac0",
-      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-      "url": "https://www.ithome.com/0/998/814.htm",
-      "primary_url": "https://www.ithome.com/0/998/814.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:43:16Z"
-        },
-        {
-          "id": "c65181578f0b81966af424b1fc0ad36bb3b9d44c",
-          "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T11:43:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:43:16Z"
-        },
-        {
-          "id": "c65181578f0b81966af424b1fc0ad36bb3b9d44c",
-          "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T11:43:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7174,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T11:43:16Z",
-      "latest_at": "2026-09-05T11:43:16Z",
-      "primary_item": {
-        "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-        "url": "https://www.ithome.com/0/998/814.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -699,15 +375,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6057,
-      "importance": 0.6057,
-      "importance_score": 0.6057,
+      "score": 0.599,
+      "importance": 0.599,
+      "importance_score": 0.599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7863,
+        "recency": 0.7491,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -797,15 +473,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5575,
-      "importance": 0.5575,
-      "importance_score": 0.5575,
+      "score": 0.5496,
+      "importance": 0.5496,
+      "importance_score": 0.5496,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9263,
+        "recency": 0.8824,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -823,55 +499,55 @@
       }
     },
     {
-      "story_id": "story_7d6bff4b18cf",
-      "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
-      "url": "https://www.ithome.com/0/999/001.htm",
-      "primary_url": "https://www.ithome.com/0/999/001.htm",
+      "story_id": "story_00143ffe2cbd",
+      "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+      "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+      "primary_url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
-          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
-          "url": "https://www.ithome.com/0/999/001.htm",
+          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ae92636981b8e989516f05356118f8b623d2c809",
-          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
-          "url": "https://www.ithome.com/0/999/001.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T09:30:01Z"
+          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T12:30:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
-          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
-          "url": "https://www.ithome.com/0/999/001.htm",
+          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ae92636981b8e989516f05356118f8b623d2c809",
-          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
-          "url": "https://www.ithome.com/0/999/001.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T09:30:01Z"
+          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T12:30:00Z"
         }
       ],
       "item_count": 2,
@@ -891,14 +567,172 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T09:30:01Z",
-      "latest_at": "2026-09-06T10:43:02.900320Z",
+      "earliest_at": "2026-09-06T12:30:00Z",
+      "latest_at": "2026-09-06T14:04:28.624736Z",
       "primary_item": {
-        "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
-        "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
-        "url": "https://www.ithome.com/0/999/001.htm",
+        "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+        "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+        "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_40e9283ab126",
+      "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+      "url": "https://www.oschina.net/news/502302",
+      "primary_url": "https://www.oschina.net/news/502302",
+      "source": "开源中国 · 热门资讯",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7d21a1f09097b20ecd9a79b2f62226be1b2527e9",
+          "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+          "url": "https://www.oschina.net/news/502302",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "78fbc2d35f8ef42b4eae155c6ba544f197d61148",
+          "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+          "url": "https://juejin.cn/post/7681142626944450614",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T10:25:23.892000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "juejin",
+        "开源中国 · 热门资讯"
+      ],
+      "items": [
+        {
+          "id": "7d21a1f09097b20ecd9a79b2f62226be1b2527e9",
+          "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+          "url": "https://www.oschina.net/news/502302",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "78fbc2d35f8ef42b4eae155c6ba544f197d61148",
+          "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+          "url": "https://juejin.cn/post/7681142626944450614",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T10:25:23.892000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T10:25:23.892000Z",
+      "latest_at": "2026-09-06T14:04:28.624736Z",
+      "primary_item": {
+        "id": "7d21a1f09097b20ecd9a79b2f62226be1b2527e9",
+        "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+        "url": "https://www.oschina.net/news/502302",
+        "source": "开源中国 · 热门资讯",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4aff7db928cd",
+      "title": "开放/技能 / openai /      skills",
+      "url": "https://github.com/openai/skills",
+      "primary_url": "https://github.com/openai/skills",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+          "title": "开放/技能 / openai /      skills",
+          "url": "https://github.com/openai/skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T14:05:20.203000Z"
+        },
+        {
+          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+          "title": "开放/技能 / openai / skills",
+          "url": "https://github.com/openai/skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+          "title": "开放/技能 / openai /      skills",
+          "url": "https://github.com/openai/skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T14:05:20.203000Z"
+        },
+        {
+          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+          "title": "开放/技能 / openai / skills",
+          "url": "https://github.com/openai/skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T14:04:28.624736Z",
+      "latest_at": "2026-09-06T14:05:20.203000Z",
+      "primary_item": {
+        "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+        "title": "开放/技能 / openai /      skills",
+        "url": "https://github.com/openai/skills",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -973,15 +807,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8362,
+        "recency": 0.7967,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1052,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.959,
+        "recency": 0.9136,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1078,55 +912,55 @@
       }
     },
     {
-      "story_id": "story_7f7d5d336686",
-      "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
-      "url": "https://www.huxiu.com/article/4888906.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4888906.html?f=rss",
+      "story_id": "story_d23e2982639a",
+      "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+      "url": "https://www.ithome.com/0/999/014.htm",
+      "primary_url": "https://www.ithome.com/0/999/014.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "0d0e539f81a38011fd5c0a6f6cad2a473526deb4",
-          "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
-          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+          "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+          "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "3a62bb11befaac54efe99a806fec4e075126c864",
-          "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
-          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "caa20886270988499beb1538247d5da585229a41",
+          "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-06T07:30:15Z"
+          "published_at": "2026-09-06T10:51:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "0d0e539f81a38011fd5c0a6f6cad2a473526deb4",
-          "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
-          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+          "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+          "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "3a62bb11befaac54efe99a806fec4e075126c864",
-          "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
-          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "caa20886270988499beb1538247d5da585229a41",
+          "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-06T07:30:15Z"
+          "published_at": "2026-09-06T10:51:36Z"
         }
       ],
       "item_count": 2,
@@ -1146,12 +980,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T07:30:15Z",
-      "latest_at": "2026-09-06T10:43:02.900320Z",
+      "earliest_at": "2026-09-06T10:51:36Z",
+      "latest_at": "2026-09-06T14:04:28.624736Z",
       "primary_item": {
-        "id": "0d0e539f81a38011fd5c0a6f6cad2a473526deb4",
-        "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
-        "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+        "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+        "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+        "url": "https://www.ithome.com/0/999/014.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1210,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5122,
-      "importance": 0.5122,
-      "importance_score": 0.5122,
+      "score": 0.5053,
+      "importance": 0.5053,
+      "importance_score": 0.5053,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8135,
+        "recency": 0.775,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1289,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5073,
-      "importance": 0.5073,
-      "importance_score": 0.5073,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7863,
+        "recency": 0.7491,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1368,15 +1202,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.781,
+        "recency": 0.744,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1447,15 +1281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5059,
-      "importance": 0.5059,
-      "importance_score": 0.5059,
+      "score": 0.4992,
+      "importance": 0.4992,
+      "importance_score": 0.4992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7782,
+        "recency": 0.7414,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1526,15 +1360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5038,
-      "importance": 0.5038,
-      "importance_score": 0.5038,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7666,
+        "recency": 0.7303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1552,82 +1386,240 @@
       }
     },
     {
-      "story_id": "story_44c50944f9bd",
-      "title": "费马最后定理的形式化表述",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
+      "story_id": "story_f31be0c625cb",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=49581240",
+      "primary_url": "https://news.ycombinator.com/item?id=49581240",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
-          "title": "费马最后定理的形式化表述",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T16:18:46.923000Z"
+          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=49581240",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T00:26:45.201000Z"
         },
         {
-          "id": "ec3e90eede4080deb0304c59f27b85c80b25094a",
-          "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T12:54:53Z"
+          "id": "7169d8ff80c698e3e571469b77e94308d5fd557b",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T22:15:52Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "www.anthropic.com"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
-          "title": "费马最后定理的形式化表述",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T16:18:46.923000Z"
+          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=49581240",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T00:26:45.201000Z"
         },
         {
-          "id": "ec3e90eede4080deb0304c59f27b85c80b25094a",
-          "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T12:54:53Z"
+          "id": "7169d8ff80c698e3e571469b77e94308d5fd557b",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T22:15:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5038,
-      "importance": 0.5038,
-      "importance_score": 0.5038,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7666,
+        "recency": 0.8213,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T12:54:53Z",
-      "latest_at": "2026-09-05T16:18:46.923000Z",
+      "earliest_at": "2026-09-05T22:15:52Z",
+      "latest_at": "2026-09-06T00:26:45.201000Z",
       "primary_item": {
-        "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
-        "title": "费马最后定理的形式化表述",
-        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
+        "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "url": "https://news.ycombinator.com/item?id=49581240",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7d6bff4b18cf",
+      "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+      "url": "https://www.ithome.com/0/999/001.htm",
+      "primary_url": "https://www.ithome.com/0/999/001.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ae92636981b8e989516f05356118f8b623d2c809",
+          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T09:30:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ae92636981b8e989516f05356118f8b623d2c809",
+          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T09:30:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9527,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T09:30:01Z",
+      "latest_at": "2026-09-06T10:43:02.900320Z",
+      "primary_item": {
+        "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+        "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+        "url": "https://www.ithome.com/0/999/001.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7b7e5871aea3",
+      "title": "America's two largest school districts impose AI moratoriums",
+      "url": "https://news.ycombinator.com/item?id=49580980",
+      "primary_url": "https://news.ycombinator.com/item?id=49580980",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+          "title": "America's two largest school districts impose AI moratoriums",
+          "url": "https://news.ycombinator.com/item?id=49580980",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T22:26:27.804000Z"
+        },
+        {
+          "id": "137de3428944d9b069466dd685f194a57994c0b8",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T21:43:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+          "title": "America's two largest school districts impose AI moratoriums",
+          "url": "https://news.ycombinator.com/item?id=49580980",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T22:26:27.804000Z"
+        },
+        {
+          "id": "137de3428944d9b069466dd685f194a57994c0b8",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T21:43:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7979,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T21:43:22Z",
+      "latest_at": "2026-09-05T22:26:27.804000Z",
+      "primary_item": {
+        "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+        "title": "America's two largest school districts impose AI moratoriums",
+        "url": "https://news.ycombinator.com/item?id=49580980",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
