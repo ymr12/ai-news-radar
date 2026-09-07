@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T09:36:55.638182Z",
+  "generated_at": "2026-09-07T15:42:20.975638Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8704,
+        "recency": 0.7971,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +63,187 @@
         "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e984e0578aa3",
+      "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+      "url": "https://www.aibase.com/news/30883",
+      "primary_url": "https://www.aibase.com/news/30883",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
+          "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+          "url": "https://www.aibase.com/news/30883",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T15:42:20.975638Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
+          "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+          "url": "https://www.aibase.com/news/30883",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T15:42:20.975638Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T15:42:20.975638Z",
+      "latest_at": "2026-09-07T15:42:20.975638Z",
+      "primary_item": {
+        "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
+        "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+        "url": "https://www.aibase.com/news/30883",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6f9290dbd1a1",
+      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T18:23:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T18:23:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.735,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-06T18:23:14Z",
+      "latest_at": "2026-09-06T18:23:14Z",
+      "primary_item": {
+        "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2f0075a3b653",
+      "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
+          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-07T03:26:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
+          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-07T03:26:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8378,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-07T03:26:50Z",
+      "latest_at": "2026-09-07T03:26:50Z",
+      "primary_item": {
+        "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
+        "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -119,15 +300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.8466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -147,125 +328,63 @@
       }
     },
     {
-      "story_id": "story_6f9290dbd1a1",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_6cbde97d8260",
+      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
+          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
+          "published_at": "2026-09-07T00:08:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
+          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
+          "published_at": "2026-09-07T00:08:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8026,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-06T18:23:14Z",
-      "latest_at": "2026-09-06T18:23:14Z",
+      "earliest_at": "2026-09-07T00:08:00Z",
+      "latest_at": "2026-09-07T00:08:00Z",
       "primary_item": {
-        "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
+        "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2f0075a3b653",
-      "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-07T03:26:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-07T03:26:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9148,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T03:26:50Z",
-      "latest_at": "2026-09-07T03:26:50Z",
-      "primary_item": {
-        "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-        "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
       }
     },
     {
@@ -322,15 +441,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.8466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -347,66 +466,6 @@
         "url": "https://www.aibase.com/news/30858",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
-          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T00:08:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
-          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T00:08:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.872,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-07T00:08:00Z",
-      "latest_at": "2026-09-07T00:08:00Z",
-      "primary_item": {
-        "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
-        "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -463,15 +522,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.8466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -544,15 +603,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.8466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -567,87 +626,6 @@
         "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
         "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
         "url": "https://www.aibase.com/news/30861",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e7fc2c23cd20",
-      "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-      "url": "https://www.aibase.com/news/30864",
-      "primary_url": "https://www.aibase.com/news/30864",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/news/30864",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T04:10:13.012873Z"
-        },
-        {
-          "id": "7e5b2fcce2ce53792145dee33071d4457944619a",
-          "title": "千亿算力大战背后：OpenAI Astra 暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/zh/news/30864",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/news/30864",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T04:10:13.012873Z"
-        },
-        {
-          "id": "7e5b2fcce2ce53792145dee33071d4457944619a",
-          "title": "千亿算力大战背后：OpenAI Astra 暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/zh/news/30864",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9244,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T04:10:13.012873Z",
-      "latest_at": "2026-09-07T04:10:13.012873Z",
-      "primary_item": {
-        "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-        "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-        "url": "https://www.aibase.com/news/30864",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -777,15 +755,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6359,
-      "importance": 0.6359,
-      "importance_score": 0.6359,
+      "score": 0.6235,
+      "importance": 0.6235,
+      "importance_score": 0.6235,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8149,
+        "recency": 0.7463,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -800,6 +778,87 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-06",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_e7fc2c23cd20",
+      "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
+      "url": "https://www.aibase.com/news/30864",
+      "primary_url": "https://www.aibase.com/news/30864",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
+          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
+          "url": "https://www.aibase.com/news/30864",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T04:10:13.012873Z"
+        },
+        {
+          "id": "7e5b2fcce2ce53792145dee33071d4457944619a",
+          "title": "千亿算力大战背后：OpenAI Astra 暴烧百亿美元，国产大模型与美企差距在哪",
+          "url": "https://www.aibase.com/zh/news/30864",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
+          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
+          "url": "https://www.aibase.com/news/30864",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T04:10:13.012873Z"
+        },
+        {
+          "id": "7e5b2fcce2ce53792145dee33071d4457944619a",
+          "title": "千亿算力大战背后：OpenAI Astra 暴烧百亿美元，国产大模型与美企差距在哪",
+          "url": "https://www.aibase.com/zh/news/30864",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8466,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T04:10:13.012873Z",
+      "latest_at": "2026-09-07T04:10:13.012873Z",
+      "primary_item": {
+        "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
+        "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
+        "url": "https://www.aibase.com/news/30864",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -856,15 +915,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.8466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -879,87 +938,6 @@
         "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
         "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
         "url": "https://www.aibase.com/news/30857",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a21ca5497d73",
-      "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-      "url": "https://www.aibase.com/news/30866",
-      "primary_url": "https://www.aibase.com/news/30866",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e0ff566020e35871055507058e039095e3752046",
-          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/news/30866",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T04:10:13.012873Z"
-        },
-        {
-          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
-          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/zh/news/30866",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e0ff566020e35871055507058e039095e3752046",
-          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/news/30866",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T04:10:13.012873Z"
-        },
-        {
-          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
-          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/zh/news/30866",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9244,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T04:10:13.012873Z",
-      "latest_at": "2026-09-07T04:10:13.012873Z",
-      "primary_item": {
-        "id": "e0ff566020e35871055507058e039095e3752046",
-        "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-        "url": "https://www.aibase.com/news/30866",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1037,15 +1015,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5551,
+      "importance": 0.5551,
+      "importance_score": 0.5551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9967,
+        "recency": 0.9128,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1063,26 +1041,26 @@
       }
     },
     {
-      "story_id": "story_60e85370b99d",
-      "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-      "url": "https://www.aibase.com/news/30853",
-      "primary_url": "https://www.aibase.com/news/30853",
+      "story_id": "story_a21ca5497d73",
+      "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
+      "url": "https://www.aibase.com/news/30866",
+      "primary_url": "https://www.aibase.com/news/30866",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
-          "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-          "url": "https://www.aibase.com/news/30853",
+          "id": "e0ff566020e35871055507058e039095e3752046",
+          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
+          "url": "https://www.aibase.com/news/30866",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-07T04:10:13.012873Z"
         },
         {
-          "id": "ee739cdf42096205f19867e5528999535f5c1b76",
-          "title": "微软发布 MAI-Image-2.6-Flash：图像生成速度提升 2.8 倍，成本降低逾 50%",
-          "url": "https://www.aibase.com/zh/news/30853",
+          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
+          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
+          "url": "https://www.aibase.com/zh/news/30866",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1096,18 +1074,18 @@
       ],
       "items": [
         {
-          "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
-          "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-          "url": "https://www.aibase.com/news/30853",
+          "id": "e0ff566020e35871055507058e039095e3752046",
+          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
+          "url": "https://www.aibase.com/news/30866",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-07T04:10:13.012873Z"
         },
         {
-          "id": "ee739cdf42096205f19867e5528999535f5c1b76",
-          "title": "微软发布 MAI-Image-2.6-Flash：图像生成速度提升 2.8 倍，成本降低逾 50%",
-          "url": "https://www.aibase.com/zh/news/30853",
+          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
+          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
+          "url": "https://www.aibase.com/zh/news/30866",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1116,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.8466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1136,11 +1114,169 @@
       "earliest_at": "2026-09-07T04:10:13.012873Z",
       "latest_at": "2026-09-07T04:10:13.012873Z",
       "primary_item": {
-        "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
-        "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-        "url": "https://www.aibase.com/news/30853",
+        "id": "e0ff566020e35871055507058e039095e3752046",
+        "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
+        "url": "https://www.aibase.com/news/30866",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d8552f3c7c0d",
+      "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+      "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+      "primary_url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T13:59:38.134000Z"
+        },
+        {
+          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T13:30:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T13:59:38.134000Z"
+        },
+        {
+          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T13:30:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9756,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T13:30:01Z",
+      "latest_at": "2026-09-07T13:59:38.134000Z",
+      "primary_item": {
+        "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+        "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+        "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9b302088afa1",
+      "title": "32亿美元人工智能数据中心背后的复杂企业网络",
+      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+      "primary_url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e100875a8c2d68e43d072b082c8ca7a33f488d86",
+          "title": "32亿美元人工智能数据中心背后的复杂企业网络",
+          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T11:53:15.765000Z"
+        },
+        {
+          "id": "1cdda30e545fc493fe9adc729b9ea39aed8da473",
+          "title": "32亿美元人工智能数据中心背后的复杂企业网络 / The complex corporate web behind a $3.2 billion AI data center",
+          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T11:00:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "e100875a8c2d68e43d072b082c8ca7a33f488d86",
+          "title": "32亿美元人工智能数据中心背后的复杂企业网络",
+          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T11:53:15.765000Z"
+        },
+        {
+          "id": "1cdda30e545fc493fe9adc729b9ea39aed8da473",
+          "title": "32亿美元人工智能数据中心背后的复杂企业网络 / The complex corporate web behind a $3.2 billion AI data center",
+          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T11:00:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9464,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T11:00:03Z",
+      "latest_at": "2026-09-07T11:53:15.765000Z",
+      "primary_item": {
+        "id": "e100875a8c2d68e43d072b082c8ca7a33f488d86",
+        "title": "32亿美元人工智能数据中心背后的复杂企业网络",
+        "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1216,15 +1352,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5481,
-      "importance": 0.5481,
-      "importance_score": 0.5481,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8741,
+        "recency": 0.8005,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1294,15 +1430,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9999,
+        "recency": 0.9157,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1372,15 +1508,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.995,
+        "recency": 0.9113,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1394,84 +1530,6 @@
         "title": "联合国警告称，人工智能可能对人类构成“生存性”风险",
         "url": "https://www.reuters.com/es/tecnolog%C3%ADa/ON7NAFYECBKLZLCVBQI5KHRFNY-2026-09-07",
         "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_67139f617902",
-      "title": "油价震荡抵消了人工智能带来的乐观情绪，股市涨跌互现：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6c741f2781ca269b235d3aa1921435148a1d1e2a",
-          "title": "油价震荡抵消了人工智能带来的乐观情绪，股市涨跌互现：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T08:44:33.057000Z"
-        },
-        {
-          "id": "928c8ccc0d8ab4a6b2592ed14c9132a3b698472a",
-          "title": "受人工智能利好提振，科技股上涨，原油价格走高：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T02:56:59.797000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "6c741f2781ca269b235d3aa1921435148a1d1e2a",
-          "title": "油价震荡抵消了人工智能带来的乐观情绪，股市涨跌互现：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T08:44:33.057000Z"
-        },
-        {
-          "id": "928c8ccc0d8ab4a6b2592ed14c9132a3b698472a",
-          "title": "受人工智能利好提振，科技股上涨，原油价格走高：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T02:56:59.797000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9875,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T02:56:59.797000Z",
-      "latest_at": "2026-09-07T08:44:33.057000Z",
-      "primary_item": {
-        "id": "6c741f2781ca269b235d3aa1921435148a1d1e2a",
-        "title": "油价震荡抵消了人工智能带来的乐观情绪，股市涨跌互现：市场综述",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
-        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
@@ -1548,15 +1606,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8409,
+        "recency": 0.7701,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1571,85 +1629,6 @@
         "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_cdb7e8ec64f6",
-      "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-      "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
-          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T05:23:31Z"
-        },
-        {
-          "id": "2c1143d0a66d8fcd167e65bffc7984ca1958baae",
-          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T23:16:50.561000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
-          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T05:23:31Z"
-        },
-        {
-          "id": "2c1143d0a66d8fcd167e65bffc7984ca1958baae",
-          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T23:16:50.561000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9408,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T23:16:50.561000Z",
-      "latest_at": "2026-09-07T05:23:31Z",
-      "primary_item": {
-        "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
-        "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-        "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
