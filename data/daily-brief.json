@@ -1,206 +1,66 @@
 {
-  "generated_at": "2026-09-07T04:10:13.012873Z",
+  "generated_at": "2026-09-07T09:36:55.638182Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_a8e8f9dc895a",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "primary_url": "https://openai.com/index/an-alien-mind",
+      "story_id": "story_e02ae19def6b",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "primary_url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "07df97fa324316a3761be85953d935f46ac91560",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-          "url": "https://openai.com/index/an-alien-mind",
+          "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
+          "title": "Supporting independent journalism in Ukraine",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "f94f7b5e1736ec0dee7ec7e9760600d5018ad8f1",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
+          "published_at": "2026-09-07T00:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "07df97fa324316a3761be85953d935f46ac91560",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-          "url": "https://openai.com/index/an-alien-mind",
+          "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
+          "title": "Supporting independent journalism in Ukraine",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "f94f7b5e1736ec0dee7ec7e9760600d5018ad8f1",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
+          "published_at": "2026-09-07T00:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8585,
-      "importance": 0.8585,
-      "importance_score": 0.8585,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7582,
-        "story_heat": 0.5
+        "recency": 0.8704,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T09:00:00Z",
-      "latest_at": "2026-09-06T18:33:46.745000Z",
+      "earliest_at": "2026-09-07T00:00:00Z",
+      "latest_at": "2026-09-07T00:00:00Z",
       "primary_item": {
-        "id": "07df97fa324316a3761be85953d935f46ac91560",
-        "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-        "url": "https://openai.com/index/an-alien-mind",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_19672c4832d4",
-      "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-          "title": "研究加速：OpenAI内部视角",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T00:17:54.906000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-          "title": "研究加速：OpenAI内部视角",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T00:17:54.906000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8565,
-      "importance": 0.8565,
-      "importance_score": 0.8565,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7473,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-06T08:00:00Z",
-      "latest_at": "2026-09-07T00:17:54.906000Z",
-      "primary_item": {
-        "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-        "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
+        "title": "Supporting independent journalism in Ukraine",
+        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -259,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -284,87 +144,6 @@
         "url": "https://www.aibase.com/news/30863",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
-          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T00:08:00Z"
-        },
-        {
-          "id": "f033073f5f9302d9922d2cd3ce433f07bbecf908",
-          "title": "谷歌让 AI 互怼几天！小模型竟复现 3 道博士级难题",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652723377&idx=2&sn=58fb4dbd0753589cf4e5b8d290062326",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
-          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T00:08:00Z"
-        },
-        {
-          "id": "f033073f5f9302d9922d2cd3ce433f07bbecf908",
-          "title": "谷歌让 AI 互怼几天！小模型竟复现 3 道博士级难题",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652723377&idx=2&sn=58fb4dbd0753589cf4e5b8d290062326",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9434,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-06T05:43:58.421330Z",
-      "latest_at": "2026-09-07T00:08:00Z",
-      "primary_item": {
-        "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
-        "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -402,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8683,
+        "recency": 0.8026,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -463,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -543,15 +322,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -571,83 +350,62 @@
       }
     },
     {
-      "story_id": "story_ec06a66103fb",
-      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-      "url": "https://www.ithome.com/0/998/927.htm",
-      "primary_url": "https://www.ithome.com/0/998/927.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_6cbde97d8260",
+      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
+          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
+          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
-        },
-        {
-          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
-          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T06:46:16Z"
+          "published_at": "2026-09-07T00:08:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
+          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
+          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
-        },
-        {
-          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
-          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T06:46:16Z"
+          "published_at": "2026-09-07T00:08:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7342,
-        "story_heat": 0.25
+        "recency": 0.872,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-06T06:46:16Z",
-      "latest_at": "2026-09-06T06:46:16Z",
+      "earliest_at": "2026-09-07T00:08:00Z",
+      "latest_at": "2026-09-07T00:08:00Z",
       "primary_item": {
-        "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-        "url": "https://www.ithome.com/0/998/927.htm",
-        "source": "IT之家（RSS）",
+        "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
+        "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -705,15 +463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,15 +544,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -867,15 +625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1019,15 +777,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6479,
-      "importance": 0.6479,
-      "importance_score": 0.6479,
+      "score": 0.6359,
+      "importance": 0.6359,
+      "importance_score": 0.6359,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8815,
+        "recency": 0.8149,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1098,15 +856,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1179,15 +937,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1204,6 +962,104 @@
         "url": "https://www.aibase.com/news/30866",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d02abe3b70f4",
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://news.ycombinator.com/item?id=49594008",
+      "primary_url": "https://news.ycombinator.com/item?id=49594008",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cfc850214623432cc591ce60e20d33942d84b081",
+          "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "url": "https://news.ycombinator.com/item?id=49594008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T09:23:10.101000Z"
+        },
+        {
+          "id": "60942f04ac501b837dd14413d96acc1b32460f94",
+          "title": "Show HN: Engrim——一款适用于 AI 命令行界面的通用、本地优先的 SQLite 内存引擎",
+          "url": "https://github.com/timgordontg/engrim",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T05:02:53.123000Z"
+        },
+        {
+          "id": "d555adb885ab679330a93291abf9a4f9141a65bd",
+          "title": "Show HN: Engrim——一款适用于 AI 命令行界面的通用、本地优先的 SQLite 内存引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "url": "https://github.com/timgordontg/engrim",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T04:49:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cfc850214623432cc591ce60e20d33942d84b081",
+          "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "url": "https://news.ycombinator.com/item?id=49594008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T09:23:10.101000Z"
+        },
+        {
+          "id": "60942f04ac501b837dd14413d96acc1b32460f94",
+          "title": "Show HN: Engrim——一款适用于 AI 命令行界面的通用、本地优先的 SQLite 内存引擎",
+          "url": "https://github.com/timgordontg/engrim",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T05:02:53.123000Z"
+        },
+        {
+          "id": "d555adb885ab679330a93291abf9a4f9141a65bd",
+          "title": "Show HN: Engrim——一款适用于 AI 命令行界面的通用、本地优先的 SQLite 内存引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "url": "https://github.com/timgordontg/engrim",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T04:49:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9967,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T04:49:36Z",
+      "latest_at": "2026-09-07T09:23:10.101000Z",
+      "primary_item": {
+        "id": "cfc850214623432cc591ce60e20d33942d84b081",
+        "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+        "url": "https://news.ycombinator.com/item?id=49594008",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1260,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1285,6 +1141,338 @@
         "url": "https://www.aibase.com/news/30853",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_19672c4832d4",
+      "title": "研究加速：OpenAI内部视角",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
+          "title": "研究加速：OpenAI内部视角",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T00:17:54.906000Z"
+        },
+        {
+          "id": "64d5243b62263771a4447effedb8cd9b0d4ddf39",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49587217",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T17:18:13.260000Z"
+        },
+        {
+          "id": "ee7076a74d731ad5b7c092e0fa768fdd4898005e",
+          "title": "研究加速：OpenAI内部视角 / Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Readhub · AI",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
+          "title": "研究加速：OpenAI内部视角",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T00:17:54.906000Z"
+        },
+        {
+          "id": "64d5243b62263771a4447effedb8cd9b0d4ddf39",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49587217",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T17:18:13.260000Z"
+        },
+        {
+          "id": "ee7076a74d731ad5b7c092e0fa768fdd4898005e",
+          "title": "研究加速：OpenAI内部视角 / Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5481,
+      "importance": 0.5481,
+      "importance_score": 0.5481,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8741,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T17:17:34.230052Z",
+      "latest_at": "2026-09-07T00:17:54.906000Z",
+      "primary_item": {
+        "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
+        "title": "研究加速：OpenAI内部视角",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5250a31628bf",
+      "title": "[Codex] Codex 有 1000 邀请额度了，有条件的留邮箱",
+      "url": "https://www.v2ex.com/t/1240134",
+      "primary_url": "https://www.v2ex.com/t/1240134",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "967efba66b70520ae2111d673fb40ee0abc71d04",
+          "title": "[Codex] Codex 有 1000 邀请额度了，有条件的留邮箱",
+          "url": "https://www.v2ex.com/t/1240134",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T09:36:25Z"
+        },
+        {
+          "id": "5f74176079209dd22165f5e74eb95e674f6cf2e4",
+          "title": "[Codex] Codex 1000 邀请额度，需要的留下邮箱",
+          "url": "https://www.v2ex.com/t/1240094",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T07:49:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "967efba66b70520ae2111d673fb40ee0abc71d04",
+          "title": "[Codex] Codex 有 1000 邀请额度了，有条件的留邮箱",
+          "url": "https://www.v2ex.com/t/1240134",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T09:36:25Z"
+        },
+        {
+          "id": "5f74176079209dd22165f5e74eb95e674f6cf2e4",
+          "title": "[Codex] Codex 1000 邀请额度，需要的留下邮箱",
+          "url": "https://www.v2ex.com/t/1240094",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T07:49:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9999,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T07:49:29Z",
+      "latest_at": "2026-09-07T09:36:25Z",
+      "primary_item": {
+        "id": "967efba66b70520ae2111d673fb40ee0abc71d04",
+        "title": "[Codex] Codex 有 1000 邀请额度了，有条件的留邮箱",
+        "url": "https://www.v2ex.com/t/1240134",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_893c30a731eb",
+      "title": "联合国警告称，人工智能可能对人类构成“生存性”风险",
+      "url": "https://www.reuters.com/es/tecnolog%C3%ADa/ON7NAFYECBKLZLCVBQI5KHRFNY-2026-09-07",
+      "primary_url": "https://www.reuters.com/es/tecnolog%C3%ADa/ON7NAFYECBKLZLCVBQI5KHRFNY-2026-09-07",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "555aa7739b36ea6199354d7c0c71274e7a741290",
+          "title": "联合国警告称，人工智能可能对人类构成“生存性”风险",
+          "url": "https://www.reuters.com/es/tecnolog%C3%ADa/ON7NAFYECBKLZLCVBQI5KHRFNY-2026-09-07",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T09:16:15.179000Z"
+        },
+        {
+          "id": "19b849df16c7496d63bd76fde2914f5f6c709e48",
+          "title": "联合国人权事务高级专员警告称，人工智能可能对人类构成“生存性”风险",
+          "url": "https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T08:59:50.084000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "555aa7739b36ea6199354d7c0c71274e7a741290",
+          "title": "联合国警告称，人工智能可能对人类构成“生存性”风险",
+          "url": "https://www.reuters.com/es/tecnolog%C3%ADa/ON7NAFYECBKLZLCVBQI5KHRFNY-2026-09-07",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T09:16:15.179000Z"
+        },
+        {
+          "id": "19b849df16c7496d63bd76fde2914f5f6c709e48",
+          "title": "联合国人权事务高级专员警告称，人工智能可能对人类构成“生存性”风险",
+          "url": "https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T08:59:50.084000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.995,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T08:59:50.084000Z",
+      "latest_at": "2026-09-07T09:16:15.179000Z",
+      "primary_item": {
+        "id": "555aa7739b36ea6199354d7c0c71274e7a741290",
+        "title": "联合国警告称，人工智能可能对人类构成“生存性”风险",
+        "url": "https://www.reuters.com/es/tecnolog%C3%ADa/ON7NAFYECBKLZLCVBQI5KHRFNY-2026-09-07",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_67139f617902",
+      "title": "油价震荡抵消了人工智能带来的乐观情绪，股市涨跌互现：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6c741f2781ca269b235d3aa1921435148a1d1e2a",
+          "title": "油价震荡抵消了人工智能带来的乐观情绪，股市涨跌互现：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T08:44:33.057000Z"
+        },
+        {
+          "id": "928c8ccc0d8ab4a6b2592ed14c9132a3b698472a",
+          "title": "受人工智能利好提振，科技股上涨，原油价格走高：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T02:56:59.797000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "6c741f2781ca269b235d3aa1921435148a1d1e2a",
+          "title": "油价震荡抵消了人工智能带来的乐观情绪，股市涨跌互现：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T08:44:33.057000Z"
+        },
+        {
+          "id": "928c8ccc0d8ab4a6b2592ed14c9132a3b698472a",
+          "title": "受人工智能利好提振，科技股上涨，原油价格走高：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T02:56:59.797000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9875,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T02:56:59.797000Z",
+      "latest_at": "2026-09-07T08:44:33.057000Z",
+      "primary_item": {
+        "id": "6c741f2781ca269b235d3aa1921435148a1d1e2a",
+        "title": "油价震荡抵消了人工智能带来的乐观情绪，股市涨跌互现：市场综述",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1360,15 +1548,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5546,
-      "importance": 0.5546,
-      "importance_score": 0.5546,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9097,
+        "recency": 0.8409,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1386,355 +1574,82 @@
       }
     },
     {
-      "story_id": "story_8bb7f24fe47b",
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "url": "https://news.ycombinator.com/item?id=49592366",
-      "primary_url": "https://news.ycombinator.com/item?id=49592366",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_cdb7e8ec64f6",
+      "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://news.ycombinator.com/item?id=49592366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T04:10:58.753000Z"
-        },
-        {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T00:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://news.ycombinator.com/item?id=49592366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T04:10:58.753000Z"
-        },
-        {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T00:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T00:21:01Z",
-      "latest_at": "2026-09-07T04:10:58.753000Z",
-      "primary_item": {
-        "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "url": "https://news.ycombinator.com/item?id=49592366",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_304ac9324c8f",
-      "title": "[程序员] codex 有 500 邀请额度，需要留邮箱",
-      "url": "https://www.v2ex.com/t/1240024",
-      "primary_url": "https://www.v2ex.com/t/1240024",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "88329802bded9f0781f41329d266de450877790e",
-          "title": "[程序员] codex 有 500 邀请额度，需要留邮箱",
-          "url": "https://www.v2ex.com/t/1240024",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T04:03:27Z"
-        },
-        {
-          "id": "f9e2a95ea013b391196266a9ad061fbbe4d080eb",
-          "title": "[程序员] Codex 有 1000 和 500 的邀请额度，需要的留邮箱",
-          "url": "https://www.v2ex.com/t/1239978",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T02:54:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "88329802bded9f0781f41329d266de450877790e",
-          "title": "[程序员] codex 有 500 邀请额度，需要留邮箱",
-          "url": "https://www.v2ex.com/t/1240024",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T04:03:27Z"
-        },
-        {
-          "id": "f9e2a95ea013b391196266a9ad061fbbe4d080eb",
-          "title": "[程序员] Codex 有 1000 和 500 的邀请额度，需要的留邮箱",
-          "url": "https://www.v2ex.com/t/1239978",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T02:54:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5455,
-      "importance": 0.5455,
-      "importance_score": 0.5455,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9984,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T02:54:58Z",
-      "latest_at": "2026-09-07T04:03:27Z",
-      "primary_item": {
-        "id": "88329802bded9f0781f41329d266de450877790e",
-        "title": "[程序员] codex 有 500 邀请额度，需要留邮箱",
-        "url": "https://www.v2ex.com/t/1240024",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_5b887074ff6d",
-      "title": "我对人工智能的看法",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "source": "beza1e1.tuxen.de",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
-        },
-        {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "我对人工智能的看法 / How I feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
+          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
+          "published_at": "2026-09-07T05:23:31Z"
         },
         {
-          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
-          "title": "我对人工智能的看法 / I Feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T15:00:19Z"
+          "id": "2c1143d0a66d8fcd167e65bffc7984ca1958baae",
+          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T23:16:50.561000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
         "Hacker News · 24h最热",
-        "beza1e1.tuxen.de"
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
-        },
-        {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "我对人工智能的看法 / How I feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
+          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
+          "published_at": "2026-09-07T05:23:31Z"
         },
         {
-          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
-          "title": "我对人工智能的看法 / I Feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T15:00:19Z"
+          "id": "2c1143d0a66d8fcd167e65bffc7984ca1958baae",
+          "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T23:16:50.561000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8413,
-        "story_heat": 0.5
+        "recency": 0.9408,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T15:00:19Z",
-      "latest_at": "2026-09-06T16:12:11.446000Z",
+      "earliest_at": "2026-09-06T23:16:50.561000Z",
+      "latest_at": "2026-09-07T05:23:31Z",
       "primary_item": {
-        "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-        "title": "我对人工智能的看法",
-        "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-        "source": "beza1e1.tuxen.de",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7737bba1b986",
-      "title": "人工智能关机——保持人性",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "source": "keepitfree.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
-        },
-        {
-          "id": "d99d9067ae36803e05aadde62718427389c1660f",
-          "title": "人工智能关机——保持人性 / A/I shuts down",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "keepitfree.ai"
-      ],
-      "items": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
-        },
-        {
-          "id": "d99d9067ae36803e05aadde62718427389c1660f",
-          "title": "人工智能关机——保持人性 / A/I shuts down",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8321,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T14:34:34Z",
-      "latest_at": "2026-09-06T15:26:17.429000Z",
-      "primary_item": {
-        "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-        "title": "人工智能关机——保持人性",
-        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-        "source": "keepitfree.ai",
-        "source_name": "Buzzing"
+        "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
+        "title": "英伟达的黄仁勋表示“AGI已经到来”，并向OpenAI表示祝贺 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+        "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
