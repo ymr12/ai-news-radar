@@ -1,29 +1,267 @@
 {
-  "generated_at": "2026-09-08T06:27:16.724820Z",
+  "generated_at": "2026-09-08T11:40:26.075399Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_6aff23f6ac5c",
-      "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-      "url": "https://www.aibase.com/news/30898",
-      "primary_url": "https://www.aibase.com/news/30898",
+      "story_id": "story_6d05cbe635d4",
+      "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "primary_url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T07:20:02.739000Z"
+        },
+        {
+          "id": "639547c5fc1f628ec8abf934114ed368bbfc0175",
+          "title": "关于受迫三维欧拉方程有限时间爆发现象的声明，以及OpenAI的行为",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "cims.nyu.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T08:23:46.610000Z"
+        },
+        {
+          "id": "0867d943437cf9a5e6c76f8c4fa848f034552b6d",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T08:14:40Z"
+        },
+        {
+          "id": "f70db481dd26494940be8fb91f2bd9140238aac7",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Navier-Stokes – Tristan Buckmaster [pdf]",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T05:42:28Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "cims.nyu.edu"
+      ],
+      "items": [
+        {
+          "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T07:20:02.739000Z"
+        },
+        {
+          "id": "639547c5fc1f628ec8abf934114ed368bbfc0175",
+          "title": "关于受迫三维欧拉方程有限时间爆发现象的声明，以及OpenAI的行为",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "cims.nyu.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T08:23:46.610000Z"
+        },
+        {
+          "id": "0867d943437cf9a5e6c76f8c4fa848f034552b6d",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T08:14:40Z"
+        },
+        {
+          "id": "f70db481dd26494940be8fb91f2bd9140238aac7",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Navier-Stokes – Tristan Buckmaster [pdf]",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T05:42:28Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8617,
+      "importance": 0.8617,
+      "importance_score": 0.8617,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9393,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:42:28Z",
+      "latest_at": "2026-09-08T08:23:46.610000Z",
+      "primary_item": {
+        "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
+        "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_55085dd14800",
+      "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "primary_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "source": "Mistral AI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T05:58:27.839000Z"
+        },
+        {
+          "id": "c29c64c5acf58ef412fc779d4311fea3d8c8b34f",
+          "title": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T06:48:43.523000Z"
+        },
+        {
+          "id": "f334cccbcaea5049296537c60a694c156e76b8aa",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T05:06:23Z"
+        },
+        {
+          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:06:23Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "Mistral AI：News（网页）",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T05:58:27.839000Z"
+        },
+        {
+          "id": "c29c64c5acf58ef412fc779d4311fea3d8c8b34f",
+          "title": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T06:48:43.523000Z"
+        },
+        {
+          "id": "f334cccbcaea5049296537c60a694c156e76b8aa",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T05:06:23Z"
+        },
+        {
+          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:06:23Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.921,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:06:23Z",
+      "latest_at": "2026-09-08T06:48:43.523000Z",
+      "primary_item": {
+        "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
+        "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+        "source": "Mistral AI：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fe3179d00c3d",
+      "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+      "url": "https://www.aibase.com/news/30911",
+      "primary_url": "https://www.aibase.com/news/30911",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "url": "https://www.aibase.com/news/30898",
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
+          "published_at": "2026-09-08T11:40:26.075399Z"
         },
         {
-          "id": "c3494f0c92872342d83cded9a5afef83f78bfdc0",
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，60 亿美元交易告吹",
-          "url": "https://www.aibase.com/zh/news/30898",
+          "id": "482cc00387ced8b3672ecd387a8abb3c4d71187c",
+          "title": "DeepSeek V4.1-Flash 内测：更强的视觉智能，更极致的速度与成本",
+          "url": "https://www.aibase.com/zh/news/30911",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -37,18 +275,18 @@
       ],
       "items": [
         {
-          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "url": "https://www.aibase.com/news/30898",
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
+          "published_at": "2026-09-08T11:40:26.075399Z"
         },
         {
-          "id": "c3494f0c92872342d83cded9a5afef83f78bfdc0",
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，60 亿美元交易告吹",
-          "url": "https://www.aibase.com/zh/news/30898",
+          "id": "482cc00387ced8b3672ecd387a8abb3c4d71187c",
+          "title": "DeepSeek V4.1-Flash 内测：更强的视觉智能，更极致的速度与成本",
+          "url": "https://www.aibase.com/zh/news/30911",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -74,176 +312,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T06:27:16.724820Z",
-      "latest_at": "2026-09-08T06:27:16.724820Z",
+      "earliest_at": "2026-09-08T11:40:26.075399Z",
+      "latest_at": "2026-09-08T11:40:26.075399Z",
       "primary_item": {
-        "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
-        "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-        "url": "https://www.aibase.com/news/30898",
+        "id": "fca343610ea50224e783418e5186b3f2329bff06",
+        "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+        "url": "https://www.aibase.com/news/30911",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_55085dd14800",
-      "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-      "primary_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
-          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T05:58:27.839000Z"
-        },
-        {
-          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
-          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T05:06:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
-          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T05:58:27.839000Z"
-        },
-        {
-          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
-          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T05:06:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9931,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T05:06:23Z",
-      "latest_at": "2026-09-08T05:58:27.839000Z",
-      "primary_item": {
-        "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
-        "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-        "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f4b0267f1dc7",
-      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-      "url": "https://www.ithome.com/0/999/313.htm",
-      "primary_url": "https://www.ithome.com/0/999/313.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
-          "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-          "url": "https://www.ithome.com/0/999/313.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T07:46:08Z"
-        },
-        {
-          "id": "0ea1f2a6b40cffcc521bf424375a55203b462c4a",
-          "title": "最高法发文明确“AI 换脸拟声”等案件裁判规则",
-          "url": "https://www.ithome.com/0/999/313.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T07:46:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
-          "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-          "url": "https://www.ithome.com/0/999/313.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T07:46:08Z"
-        },
-        {
-          "id": "0ea1f2a6b40cffcc521bf424375a55203b462c4a",
-          "title": "最高法发文明确“AI 换脸拟声”等案件裁判规则",
-          "url": "https://www.ithome.com/0/999/313.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T07:46:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7207,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T07:46:08Z",
-      "latest_at": "2026-09-07T07:46:08Z",
-      "primary_item": {
-        "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
-        "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-        "url": "https://www.ithome.com/0/999/313.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -300,15 +376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8379,
+        "recency": 0.7771,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9148,
+        "recency": 0.8484,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -386,6 +462,87 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6aff23f6ac5c",
+      "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+      "url": "https://www.aibase.com/news/30898",
+      "primary_url": "https://www.aibase.com/news/30898",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+          "url": "https://www.aibase.com/news/30898",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T06:27:16.724820Z"
+        },
+        {
+          "id": "c3494f0c92872342d83cded9a5afef83f78bfdc0",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，60 亿美元交易告吹",
+          "url": "https://www.aibase.com/zh/news/30898",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+          "url": "https://www.aibase.com/news/30898",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T06:27:16.724820Z"
+        },
+        {
+          "id": "c3494f0c92872342d83cded9a5afef83f78bfdc0",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，60 亿美元交易告吹",
+          "url": "https://www.aibase.com/zh/news/30898",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9274,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T06:27:16.724820Z",
+      "latest_at": "2026-09-08T06:27:16.724820Z",
+      "primary_item": {
+        "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
+        "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+        "url": "https://www.aibase.com/news/30898",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -442,15 +599,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9274,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -523,15 +680,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9274,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -604,15 +761,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9274,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -627,67 +784,6 @@
         "id": "03d3e6a042936187ed9bb280b57eb61697da223a",
         "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
         "url": "https://www.aibase.com/news/30884",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_47ee76b38cb3",
-      "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-      "url": "https://www.aibase.com/news/30889",
-      "primary_url": "https://www.aibase.com/news/30889",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "url": "https://www.aibase.com/news/30889",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "url": "https://www.aibase.com/news/30889",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T06:27:16.724820Z",
-      "latest_at": "2026-09-08T06:27:16.724820Z",
-      "primary_item": {
-        "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-        "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "url": "https://www.aibase.com/news/30889",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -781,15 +877,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.6311,
+      "importance": 0.6311,
+      "importance_score": 0.6311,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9274,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -807,21 +903,21 @@
       }
     },
     {
-      "story_id": "story_e147e3b4c260",
-      "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-      "url": "https://www.aibase.com/news/30887",
-      "primary_url": "https://www.aibase.com/news/30887",
+      "story_id": "story_96ac2e7248ef",
+      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+      "url": "https://www.aibase.com/news/30908",
+      "primary_url": "https://www.aibase.com/news/30908",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
-          "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-          "url": "https://www.aibase.com/news/30887",
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "url": "https://www.aibase.com/news/30908",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
+          "published_at": "2026-09-08T11:40:26.075399Z"
         }
       ],
       "source_count": 1,
@@ -830,13 +926,13 @@
       ],
       "items": [
         {
-          "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
-          "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-          "url": "https://www.aibase.com/news/30887",
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "url": "https://www.aibase.com/news/30908",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
+          "published_at": "2026-09-08T11:40:26.075399Z"
         }
       ],
       "item_count": 1,
@@ -857,32 +953,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T06:27:16.724820Z",
-      "latest_at": "2026-09-08T06:27:16.724820Z",
+      "earliest_at": "2026-09-08T11:40:26.075399Z",
+      "latest_at": "2026-09-08T11:40:26.075399Z",
       "primary_item": {
-        "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
-        "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-        "url": "https://www.aibase.com/news/30887",
+        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "url": "https://www.aibase.com/news/30908",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1ef5a8b0ee06",
-      "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-      "url": "https://www.aibase.com/news/30897",
-      "primary_url": "https://www.aibase.com/news/30897",
+      "story_id": "story_3cdfb928c5d3",
+      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+      "url": "https://www.aibase.com/news/30905",
+      "primary_url": "https://www.aibase.com/news/30905",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-          "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "url": "https://www.aibase.com/news/30897",
+          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "url": "https://www.aibase.com/news/30905",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
+          "published_at": "2026-09-08T11:40:26.075399Z"
         }
       ],
       "source_count": 1,
@@ -891,13 +987,13 @@
       ],
       "items": [
         {
-          "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-          "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "url": "https://www.aibase.com/news/30897",
+          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "url": "https://www.aibase.com/news/30905",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
+          "published_at": "2026-09-08T11:40:26.075399Z"
         }
       ],
       "item_count": 1,
@@ -918,12 +1014,171 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T06:27:16.724820Z",
-      "latest_at": "2026-09-08T06:27:16.724820Z",
+      "earliest_at": "2026-09-08T11:40:26.075399Z",
+      "latest_at": "2026-09-08T11:40:26.075399Z",
       "primary_item": {
-        "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-        "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-        "url": "https://www.aibase.com/news/30897",
+        "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+        "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "url": "https://www.aibase.com/news/30905",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_af5a9540264b",
+      "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d0ff29d34fc249f6f8350859ad93f125543860ba",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI will cure cancer in our lifetime, claims boss of UK chip giant",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T09:17:48Z"
+        },
+        {
+          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T23:57:48.244000Z"
+        },
+        {
+          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T23:05:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "d0ff29d34fc249f6f8350859ad93f125543860ba",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI will cure cancer in our lifetime, claims boss of UK chip giant",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T09:17:48Z"
+        },
+        {
+          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T23:57:48.244000Z"
+        },
+        {
+          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T23:05:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9663,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T23:05:12Z",
+      "latest_at": "2026-09-08T09:17:48Z",
+      "primary_item": {
+        "id": "d0ff29d34fc249f6f8350859ad93f125543860ba",
+        "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI will cure cancer in our lifetime, claims boss of UK chip giant",
+        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_e283f466ff4c",
+      "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
+      "url": "https://www.aibase.com/news/30906",
+      "primary_url": "https://www.aibase.com/news/30906",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "547a898a428bde7c6214d47235a5d3149578eec7",
+          "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
+          "url": "https://www.aibase.com/news/30906",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T11:40:26.075399Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "547a898a428bde7c6214d47235a5d3149578eec7",
+          "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
+          "url": "https://www.aibase.com/news/30906",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T11:40:26.075399Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T11:40:26.075399Z",
+      "latest_at": "2026-09-08T11:40:26.075399Z",
+      "primary_item": {
+        "id": "547a898a428bde7c6214d47235a5d3149578eec7",
+        "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
+        "url": "https://www.aibase.com/news/30906",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1000,15 +1255,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.565,
-      "importance": 0.565,
-      "importance_score": 0.565,
+      "score": 0.5524,
+      "importance": 0.5524,
+      "importance_score": 0.5524,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9679,
+        "recency": 0.8976,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1026,486 +1281,188 @@
       }
     },
     {
-      "story_id": "story_7a53f4b3fa8e",
-      "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-      "url": "https://www.aibase.com/news/30899",
-      "primary_url": "https://www.aibase.com/news/30899",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e1ab1a88f586",
+      "title": "OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+      "url": "https://www.oschina.net/news/502379",
+      "primary_url": "https://www.oschina.net/news/502379",
+      "source": "开源中国 · 热门资讯",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
-          "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-          "url": "https://www.aibase.com/news/30899",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
+          "id": "cdbbb6dfd9582a6f651ccf0c8f30ae58b969b6a5",
+          "title": "OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+          "url": "https://www.oschina.net/news/502379",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f2c31a40274f494de7641848e6b8c4471f84c16f",
+          "title": "[分享发现] OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+          "url": "https://www.v2ex.com/t/1240456",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T09:20:08Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "V2EX (创意工作者社区)",
+        "开源中国 · 热门资讯"
       ],
       "items": [
         {
-          "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
-          "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-          "url": "https://www.aibase.com/news/30899",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
+          "id": "cdbbb6dfd9582a6f651ccf0c8f30ae58b969b6a5",
+          "title": "OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+          "url": "https://www.oschina.net/news/502379",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f2c31a40274f494de7641848e6b8c4471f84c16f",
+          "title": "[分享发现] OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+          "url": "https://www.v2ex.com/t/1240456",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T09:20:08Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-08T06:27:16.724820Z",
-      "latest_at": "2026-09-08T06:27:16.724820Z",
+      "earliest_at": "2026-09-08T09:20:08Z",
+      "latest_at": "2026-09-08T11:40:26.075399Z",
       "primary_item": {
-        "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
-        "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-        "url": "https://www.aibase.com/news/30899",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "cdbbb6dfd9582a6f651ccf0c8f30ae58b969b6a5",
+        "title": "OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+        "url": "https://www.oschina.net/news/502379",
+        "source": "开源中国 · 热门资讯",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_8fb31a39b25a",
-      "title": "基于AMD GPU的vLLM中的推测性解码",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "primary_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "source": "vllm.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_1936484a24f4",
+      "title": "openai/插件 / openai /      plugins",
+      "url": "https://github.com/openai/plugins",
+      "primary_url": "https://github.com/openai/plugins",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-          "title": "基于AMD GPU的vLLM中的推测性解码",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "vllm.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T17:40:59.747000Z"
-        },
-        {
-          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://news.ycombinator.com/item?id=49596054",
-          "source": "hackernews",
+          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+          "title": "openai/插件 / openai /      plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-07T15:13:16.090000Z"
+          "published_at": "2026-09-08T11:41:09.470000Z"
         },
         {
-          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
-          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T09:26:41Z"
+          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+          "title": "openai/插件 / openai / plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews",
-        "vllm.ai"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-          "title": "基于AMD GPU的vLLM中的推测性解码",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "vllm.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T17:40:59.747000Z"
-        },
-        {
-          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://news.ycombinator.com/item?id=49596054",
-          "source": "hackernews",
+          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+          "title": "openai/插件 / openai /      plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-07T15:13:16.090000Z"
+          "published_at": "2026-09-08T11:41:09.470000Z"
         },
         {
-          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
-          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T09:26:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8316,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T09:26:41Z",
-      "latest_at": "2026-09-07T17:40:59.747000Z",
-      "primary_item": {
-        "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-        "title": "基于AMD GPU的vLLM中的推测性解码",
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "source": "vllm.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
-      "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-      "primary_url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
-          "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
-          "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T02:53:51Z"
-        },
-        {
-          "id": "e078b438e5b60831561f859f25279a793fbe55c8",
-          "title": "September 2026 Emacs meetup recap [video]",
-          "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T00:40:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
-          "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
-          "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T02:53:51Z"
-        },
-        {
-          "id": "e078b438e5b60831561f859f25279a793fbe55c8",
-          "title": "September 2026 Emacs meetup recap [video]",
-          "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T00:40:45Z"
+          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+          "title": "openai/插件 / openai / plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9499,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-08T00:40:45Z",
-      "latest_at": "2026-09-08T02:53:51Z",
-      "primary_item": {
-        "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
-        "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
-        "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_af5a9540264b",
-      "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T23:57:48.244000Z"
-        },
-        {
-          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:05:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T23:57:48.244000Z"
-        },
-        {
-          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:05:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9105,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T23:05:12Z",
-      "latest_at": "2026-09-07T23:57:48.244000Z",
-      "primary_item": {
-        "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
-        "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e9bd5549cb2e",
-      "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-      "url": "https://www.aibase.com/news/30894",
-      "primary_url": "https://www.aibase.com/news/30894",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7c6ced8167e4c79e4d3d7f61df4d53729f9f6b90",
-          "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-          "url": "https://www.aibase.com/news/30894",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7c6ced8167e4c79e4d3d7f61df4d53729f9f6b90",
-          "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-          "url": "https://www.aibase.com/news/30894",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T06:27:16.724820Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T06:27:16.724820Z",
-      "latest_at": "2026-09-08T06:27:16.724820Z",
-      "primary_item": {
-        "id": "7c6ced8167e4c79e4d3d7f61df4d53729f9f6b90",
-        "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-        "url": "https://www.aibase.com/news/30894",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_56e608b540ff",
-      "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
-      "url": "https://news.ycombinator.com/item?id=49598441",
-      "primary_url": "https://news.ycombinator.com/item?id=49598441",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "edc0eadfe478e4799081115df691094d17673972",
-          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
-          "url": "https://news.ycombinator.com/item?id=49598441",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T13:59:27.293000Z"
-        },
-        {
-          "id": "e68a33ed00c5a8f4b63f8d442b67054b806fd3f5",
-          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？ / Is OpenAI silently routing GPT‑6 requests to GPT‑4o?",
-          "url": "https://news.ycombinator.com/item?id=49598441",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-07T13:49:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "edc0eadfe478e4799081115df691094d17673972",
-          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
-          "url": "https://news.ycombinator.com/item?id=49598441",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T13:59:27.293000Z"
-        },
-        {
-          "id": "e68a33ed00c5a8f4b63f8d442b67054b806fd3f5",
-          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？ / Is OpenAI silently routing GPT‑6 requests to GPT‑4o?",
-          "url": "https://news.ycombinator.com/item?id=49598441",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-07T13:49:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7884,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T13:49:22Z",
-      "latest_at": "2026-09-07T13:59:27.293000Z",
+      "earliest_at": "2026-09-08T11:40:26.075399Z",
+      "latest_at": "2026-09-08T11:41:09.470000Z",
       "primary_item": {
-        "id": "edc0eadfe478e4799081115df691094d17673972",
-        "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
-        "url": "https://news.ycombinator.com/item?id=49598441",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
+        "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+        "title": "openai/插件 / openai /      plugins",
+        "url": "https://github.com/openai/plugins",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_d8552f3c7c0d",
-      "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
-      "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
-      "primary_url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+      "story_id": "story_0124adb44450",
+      "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
+      "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
+      "primary_url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
-          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
-          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "id": "d103dee57bda1982181544a93aed2a22876cc344",
+          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
+          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-07T13:59:38.134000Z"
+          "published_at": "2026-09-08T09:25:47.650000Z"
         },
         {
-          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
-          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
-          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "id": "d3e851657dae28a7e9b7c8be50e8951cf8521736",
+          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。 / 'There's no accountability;' AI startups keep claiming huge revenue. VCs say the math is getting 'murky.'",
+          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-07T13:30:01Z"
+          "published_at": "2026-09-08T09:00:03Z"
         }
       ],
       "source_count": 2,
@@ -1515,49 +1472,189 @@
       ],
       "items": [
         {
-          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
-          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
-          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "id": "d103dee57bda1982181544a93aed2a22876cc344",
+          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
+          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-07T13:59:38.134000Z"
+          "published_at": "2026-09-08T09:25:47.650000Z"
         },
         {
-          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
-          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
-          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "id": "d3e851657dae28a7e9b7c8be50e8951cf8521736",
+          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。 / 'There's no accountability;' AI startups keep claiming huge revenue. VCs say the math is getting 'murky.'",
+          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-07T13:30:01Z"
+          "published_at": "2026-09-08T09:00:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7884,
+        "recency": 0.9681,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T13:30:01Z",
-      "latest_at": "2026-09-07T13:59:38.134000Z",
+      "earliest_at": "2026-09-08T09:00:03Z",
+      "latest_at": "2026-09-08T09:25:47.650000Z",
       "primary_item": {
-        "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
-        "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
-        "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+        "id": "d103dee57bda1982181544a93aed2a22876cc344",
+        "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
+        "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_48bba5baa06d",
+      "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "primary_url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "source": "www.bottlenecklabs.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
+          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "source": "www.bottlenecklabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T06:33:02.028000Z"
+        },
+        {
+          "id": "639b0a274e579aa8fbcd697bbe5c515cbd93e974",
+          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元 / AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T18:24:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.bottlenecklabs.com"
+      ],
+      "items": [
+        {
+          "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
+          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "source": "www.bottlenecklabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T06:33:02.028000Z"
+        },
+        {
+          "id": "639b0a274e579aa8fbcd697bbe5c515cbd93e974",
+          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元 / AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T18:24:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9287,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T18:24:32Z",
+      "latest_at": "2026-09-08T06:33:02.028000Z",
+      "primary_item": {
+        "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
+        "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+        "source": "www.bottlenecklabs.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fb3d8f3a2541",
+      "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+      "url": "https://www.aibase.com/news/30904",
+      "primary_url": "https://www.aibase.com/news/30904",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
+          "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+          "url": "https://www.aibase.com/news/30904",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T11:40:26.075399Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
+          "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+          "url": "https://www.aibase.com/news/30904",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T11:40:26.075399Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T11:40:26.075399Z",
+      "latest_at": "2026-09-08T11:40:26.075399Z",
+      "primary_item": {
+        "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
+        "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+        "url": "https://www.aibase.com/news/30904",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
