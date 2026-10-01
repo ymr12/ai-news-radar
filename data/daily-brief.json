@@ -1,71 +1,172 @@
 {
-  "generated_at": "2026-09-28T17:33:16.142715Z",
+  "generated_at": "2026-10-01T08:44:19.019056Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_9552195c964d",
-      "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "primary_url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face Blog",
+      "story_id": "story_6a91381a4292",
+      "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "primary_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face Blog",
+          "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
+          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T09:44:05Z"
+          "published_at": "2026-09-30T10:30:00Z"
         },
         {
-          "id": "0d6001e5b47158eac2111e56ff978269ce38ca40",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face：Blog（RSS）",
+          "id": "502c30fa4af11a58586bb4ac62a5ade86a3530d5",
+          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T09:44:05Z"
+          "published_at": "2026-09-30T10:30:00Z"
+        },
+        {
+          "id": "7f59be596ca13723d2442e4b8845b0e1fb5a280a",
+          "title": "OpenAI 挫败协同模型蒸馏行动",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face Blog",
+          "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
+          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T09:44:05Z"
+          "published_at": "2026-09-30T10:30:00Z"
         },
         {
-          "id": "0d6001e5b47158eac2111e56ff978269ce38ca40",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face：Blog（RSS）",
+          "id": "502c30fa4af11a58586bb4ac62a5ade86a3530d5",
+          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T09:44:05Z"
+          "published_at": "2026-09-30T10:30:00Z"
+        },
+        {
+          "id": "7f59be596ca13723d2442e4b8845b0e1fb5a280a",
+          "title": "OpenAI 挫败协同模型蒸馏行动",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8658,
-      "importance": 0.8658,
-      "importance_score": 0.8658,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8526,
+      "importance": 0.8526,
+      "importance_score": 0.8526,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8932,
+        "ai_relevance": 0.91,
+        "recency": 0.7253,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T10:30:00Z",
+      "latest_at": "2026-10-01T08:44:19.019056Z",
+      "primary_item": {
+        "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
+        "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
+        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_311e095023e6",
+      "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+      "primary_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
+          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T20:01:45Z"
+        },
+        {
+          "id": "3f27dce6b1b35d033935fe1e7e186d55beeafa44",
+          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T20:01:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
+          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T20:01:45Z"
+        },
+        {
+          "id": "3f27dce6b1b35d033935fe1e7e186d55beeafa44",
+          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T20:01:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8323,
         "story_heat": 0.25
       },
       "category": "official",
@@ -75,98 +176,160 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T09:44:05Z",
-      "latest_at": "2026-09-28T09:44:05Z",
+      "earliest_at": "2026-09-30T20:01:45Z",
+      "latest_at": "2026-09-30T20:01:45Z",
       "primary_item": {
-        "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-        "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-        "url": "https://huggingface.co/blog/Hcompany/holo4",
-        "source": "Hugging Face Blog",
+        "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
+        "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
+        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_9f284effa55e",
-      "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "primary_url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "source": "Hacker News：AI 热帖",
+      "story_id": "story_d12535d4e632",
+      "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T21:03:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T21:03:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8447,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T21:03:09Z",
+      "latest_at": "2026-09-30T21:03:09Z",
+      "primary_item": {
+        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+        "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_beee353d4f9f",
+      "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+      "source": "Ars Technica：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1cf176a7b40b0a7dfcd779b509769955e8f71c99",
-          "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "Hacker News：AI 热帖",
+          "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
+          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T07:33:29Z"
+          "published_at": "2026-09-30T18:47:01Z"
         },
         {
-          "id": "be66ec51177d2f5947e2b4727fa370c623136537",
-          "title": "向Claude Opus 5.5提供提示",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "platform.claude.com",
+          "id": "11a7b41c054453fed87f32bad796899fd92070ee",
+          "title": "特朗普应对人工智能风险的计划取决于科技巨头伙伴们能否进行自我监管",
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-28T10:51:57.660000Z"
+          "published_at": "2026-09-30T20:52:17.993000Z"
         },
         {
-          "id": "f830b7c36ffbdd1d104b03d8cc39c037f3f283b7",
-          "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "Hacker News",
+          "id": "cc84c0a249a9e388baf098576aa5ef8fdd106766",
+          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+          "source": "Ars Technica",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-28T07:33:29Z"
+          "published_at": "2026-09-30T18:47:01Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "Hacker News：AI 热帖",
-        "platform.claude.com"
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "1cf176a7b40b0a7dfcd779b509769955e8f71c99",
-          "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "Hacker News：AI 热帖",
+          "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
+          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T07:33:29Z"
+          "published_at": "2026-09-30T18:47:01Z"
         },
         {
-          "id": "be66ec51177d2f5947e2b4727fa370c623136537",
-          "title": "向Claude Opus 5.5提供提示",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "platform.claude.com",
+          "id": "11a7b41c054453fed87f32bad796899fd92070ee",
+          "title": "特朗普应对人工智能风险的计划取决于科技巨头伙伴们能否进行自我监管",
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-28T10:51:57.660000Z"
+          "published_at": "2026-09-30T20:52:17.993000Z"
         },
         {
-          "id": "f830b7c36ffbdd1d104b03d8cc39c037f3f283b7",
-          "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "Hacker News",
+          "id": "cc84c0a249a9e388baf098576aa5ef8fdd106766",
+          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+          "source": "Ars Technica",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-28T07:33:29Z"
+          "published_at": "2026-09-30T18:47:01Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.86,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8175,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -175,323 +338,161 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T07:33:29Z",
-      "latest_at": "2026-09-28T10:51:57.660000Z",
+      "earliest_at": "2026-09-30T18:47:01Z",
+      "latest_at": "2026-09-30T20:52:17.993000Z",
       "primary_item": {
-        "id": "1cf176a7b40b0a7dfcd779b509769955e8f71c99",
-        "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
-        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-        "source": "Hacker News：AI 热帖",
+        "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
+        "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
+        "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9aceb85fa24f",
-      "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-      "url": "https://x.com/JensenHuang/status/2104499465055023424",
-      "primary_url": "https://x.com/JensenHuang/status/2104499465055023424",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "source_name": "AI HOT",
+      "story_id": "story_396b95f3429c",
+      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio",
+      "primary_url": "https://deepmind.google/blog/introducing-synthid-bio",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
-          "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-          "url": "https://x.com/JensenHuang/status/2104499465055023424",
-          "source": "X：Jensen Huang (@JensenHuang)",
+          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
+          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T15:03:07Z"
+        },
+        {
+          "id": "d227a7e21209de44cca6245c5f4df093f1ef374f",
+          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio",
+          "source": "Google DeepMind：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T09:12:26Z"
+          "published_at": "2026-09-30T15:03:07Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
-          "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-          "url": "https://x.com/JensenHuang/status/2104499465055023424",
-          "source": "X：Jensen Huang (@JensenHuang)",
+          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
+          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T15:03:07Z"
+        },
+        {
+          "id": "d227a7e21209de44cca6245c5f4df093f1ef374f",
+          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio",
+          "source": "Google DeepMind：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T09:12:26Z"
+          "published_at": "2026-09-30T15:03:07Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8864,
-        "story_heat": 0.0
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7746,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T09:12:26Z",
-      "latest_at": "2026-09-28T09:12:26Z",
+      "earliest_at": "2026-09-30T15:03:07Z",
+      "latest_at": "2026-09-30T15:03:07Z",
       "primary_item": {
-        "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
-        "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-        "url": "https://x.com/JensenHuang/status/2104499465055023424",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "source_name": "AI HOT"
+        "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
+        "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
+        "url": "https://deepmind.google/blog/introducing-synthid-bio",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_e96d2e641d13",
-      "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件",
-      "url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_6eb18f6ff1c2",
+      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+      "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "92edeaf6b0072be1248265116bec07687c132237",
-          "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件",
-          "url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "642e8da577619291348e2e74443467b30fe57f10",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T06:58:30Z"
+          "published_at": "2026-09-30T16:20:04Z"
+        },
+        {
+          "id": "a195258c40a8cb62860dd4e3b4a235df445dd8a4",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-30T16:20:04Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "92edeaf6b0072be1248265116bec07687c132237",
-          "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件",
-          "url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "642e8da577619291348e2e74443467b30fe57f10",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T06:58:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T06:58:30Z",
-      "latest_at": "2026-09-28T06:58:30Z",
-      "primary_item": {
-        "id": "92edeaf6b0072be1248265116bec07687c132237",
-        "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件",
-        "url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b88187e1c6aa",
-      "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
-      "url": "https://www.ithome.com/1/007/937.htm",
-      "primary_url": "https://www.ithome.com/1/007/937.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
+          "published_at": "2026-09-30T16:20:04Z"
+        },
         {
-          "id": "46fc85e0b9e4a6b82565020330053d9a85eff4f2",
-          "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
-          "url": "https://www.ithome.com/1/007/937.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:33:59Z"
+          "id": "a195258c40a8cb62860dd4e3b4a235df445dd8a4",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-30T16:20:04Z"
         }
       ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "46fc85e0b9e4a6b82565020330053d9a85eff4f2",
-          "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
-          "url": "https://www.ithome.com/1/007/937.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:33:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T09:33:59Z",
-      "latest_at": "2026-09-28T09:33:59Z",
-      "primary_item": {
-        "id": "46fc85e0b9e4a6b82565020330053d9a85eff4f2",
-        "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
-        "url": "https://www.ithome.com/1/007/937.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d64e6ea25654",
-      "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-      "url": "https://x.com/arena/status/2104617283679379704",
-      "primary_url": "https://x.com/arena/status/2104617283679379704",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
-          "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-          "url": "https://x.com/arena/status/2104617283679379704",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:00:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
-          "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-          "url": "https://x.com/arena/status/2104617283679379704",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:00:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9922,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:00:36Z",
-      "latest_at": "2026-09-28T17:00:36Z",
-      "primary_item": {
-        "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
-        "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-        "url": "https://x.com/arena/status/2104617283679379704",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6f64c67742b4",
-      "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-      "url": "https://www.aibase.com/news/31379",
-      "primary_url": "https://www.aibase.com/news/31379",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "url": "https://www.aibase.com/news/31379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:33:05.590857Z"
-        },
-        {
-          "id": "e683df5299f7c8d8f92a79f31f6bb5baf2225f3a",
-          "title": "OpenAI 重排 Pro 档位：5x 和 20x 用量承诺下线",
-          "url": "https://www.aibase.com/zh/news/31379",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "url": "https://www.aibase.com/news/31379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:33:05.590857Z"
-        },
-        {
-          "id": "e683df5299f7c8d8f92a79f31f6bb5baf2225f3a",
-          "title": "OpenAI 重排 Pro 档位：5x 和 20x 用量承诺下线",
-          "url": "https://www.aibase.com/zh/news/31379",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.7891,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -500,60 +501,122 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T08:33:05.590857Z",
-      "latest_at": "2026-09-28T08:33:05.590857Z",
+      "earliest_at": "2026-09-30T16:20:04Z",
+      "latest_at": "2026-09-30T16:20:04Z",
       "primary_item": {
-        "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-        "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-        "url": "https://www.aibase.com/news/31379",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "642e8da577619291348e2e74443467b30fe57f10",
+        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c4f4fba90aab",
-      "title": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗",
-      "url": "https://x.com/thexpin/status/2104508227451027712",
-      "primary_url": "https://x.com/thexpin/status/2104508227451027712",
-      "source": "X：X.PIN (@thexpin)",
-      "source_name": "AI HOT",
+      "story_id": "story_40e72bec9edf",
+      "title": "HydraFusion in VS Code and the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3877773b71cf936e256b42874a5c47327929d03e",
-          "title": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗",
-          "url": "https://x.com/thexpin/status/2104508227451027712",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:47:15Z"
+          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T14:31:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：X.PIN (@thexpin)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "3877773b71cf936e256b42874a5c47327929d03e",
-          "title": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗",
-          "url": "https://x.com/thexpin/status/2104508227451027712",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:47:15Z"
+          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T14:31:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7687,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T14:31:19Z",
+      "latest_at": "2026-09-30T14:31:19Z",
+      "primary_item": {
+        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+        "title": "HydraFusion in VS Code and the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d53090d93605",
+      "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+      "primary_url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
+          "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+          "source": "Berkeley RDI：Blog（AI 安全与评测）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Berkeley RDI：Blog（AI 安全与评测）"
+      ],
+      "items": [
+        {
+          "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
+          "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+          "source": "Berkeley RDI：Blog（AI 安全与评测）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8939,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -561,60 +624,203 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T09:47:15Z",
-      "latest_at": "2026-09-28T09:47:15Z",
+      "earliest_at": "2026-10-01T08:44:19.019056Z",
+      "latest_at": "2026-10-01T08:44:19.019056Z",
       "primary_item": {
-        "id": "3877773b71cf936e256b42874a5c47327929d03e",
-        "title": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗",
-        "url": "https://x.com/thexpin/status/2104508227451027712",
-        "source": "X：X.PIN (@thexpin)",
+        "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
+        "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+        "source": "Berkeley RDI：Blog（AI 安全与评测）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_875cad4e1ea4",
-      "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
-      "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
-      "primary_url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
-      "source": "MIT News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_b5e5e43443d2",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "primary_url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "85b238f8cd19489978004e283867c2ca5dc5d1de",
-          "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
-          "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
-          "source": "MIT News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:00:00Z"
+          "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
+          "title": "Helping small businesses put AI to work",
+          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T10:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MIT News（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "85b238f8cd19489978004e283867c2ca5dc5d1de",
-          "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
-          "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
-          "source": "MIT News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:00:00Z"
+          "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
+          "title": "Helping small businesses put AI to work",
+          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T10:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7201,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T10:00:00Z",
+      "latest_at": "2026-09-30T10:00:00Z",
+      "primary_item": {
+        "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
+        "title": "Helping small businesses put AI to work",
+        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fa3d1425cbe7",
+      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+      "url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "primary_url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T04:44:34Z"
+        },
+        {
+          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-01T04:44:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T04:44:34Z"
+        },
+        {
+          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-01T04:44:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.9439,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T04:44:34Z",
+      "latest_at": "2026-10-01T04:44:34Z",
+      "primary_item": {
+        "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+        "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+        "url": "https://x.com/thsottiaux/status/2105519215092584786",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_373fab5c5505",
+      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+      "url": "https://x.com/arena/status/2105411271525052418",
+      "primary_url": "https://x.com/arena/status/2105411271525052418",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:35:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:35:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -622,32 +828,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T09:00:00Z",
-      "latest_at": "2026-09-28T09:00:00Z",
+      "earliest_at": "2026-09-30T21:35:38Z",
+      "latest_at": "2026-09-30T21:35:38Z",
       "primary_item": {
-        "id": "85b238f8cd19489978004e283867c2ca5dc5d1de",
-        "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
-        "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
-        "source": "MIT News（RSS）",
+        "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+        "url": "https://x.com/arena/status/2105411271525052418",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2020727ab2c9",
-      "title": "Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40%",
-      "url": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens",
-      "primary_url": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens",
+      "story_id": "story_8f584ffddbc7",
+      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+      "primary_url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
       "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "13f0ff18bf61036275a515cd59438f1b78746086",
-          "title": "Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40%",
-          "url": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens",
+          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T07:22:33Z"
+          "published_at": "2026-09-30T21:09:24Z"
         }
       ],
       "source_count": 1,
@@ -656,26 +862,26 @@
       ],
       "items": [
         {
-          "id": "13f0ff18bf61036275a515cd59438f1b78746086",
-          "title": "Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40%",
-          "url": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens",
+          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T07:22:33Z"
+          "published_at": "2026-09-30T21:09:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8633,
+        "recency": 0.846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -683,564 +889,57 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T07:22:33Z",
-      "latest_at": "2026-09-28T07:22:33Z",
+      "earliest_at": "2026-09-30T21:09:24Z",
+      "latest_at": "2026-09-30T21:09:24Z",
       "primary_item": {
-        "id": "13f0ff18bf61036275a515cd59438f1b78746086",
-        "title": "Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40%",
-        "url": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens",
+        "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+        "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+        "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2b106d23e153",
-      "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-      "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-      "primary_url": "https://x.com/AravSrinivas/status/2104597362475708781",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "story_id": "story_7b0443d9889b",
+      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+      "url": "https://modal.com/blog/modal-clusters-generally-available",
+      "primary_url": "https://modal.com/blog/modal-clusters-generally-available",
+      "source": "Modal 官方工程博客（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "562570b09efa2839bd00ee40c059e6dc5550cedf",
-          "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-          "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "id": "10475e511695c99db79c08d74b401b4da02fb238",
+          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+          "url": "https://modal.com/blog/modal-clusters-generally-available",
+          "source": "Modal 官方工程博客（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T15:41:27Z"
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+        "Modal 官方工程博客（RSS）"
       ],
       "items": [
         {
-          "id": "562570b09efa2839bd00ee40c059e6dc5550cedf",
-          "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-          "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "id": "10475e511695c99db79c08d74b401b4da02fb238",
+          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+          "url": "https://modal.com/blog/modal-clusters-generally-available",
+          "source": "Modal 官方工程博客（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T15:41:27Z"
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9734,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T15:41:27Z",
-      "latest_at": "2026-09-28T15:41:27Z",
-      "primary_item": {
-        "id": "562570b09efa2839bd00ee40c059e6dc5550cedf",
-        "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-        "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c46400b89708",
-      "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-      "url": "https://www.aibase.com/news/31366",
-      "primary_url": "https://www.aibase.com/news/31366",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
-          "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-          "url": "https://www.aibase.com/news/31366",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:33:05.590857Z"
-        },
-        {
-          "id": "9244e70e8dc7f06ac44e8fec3a33a7499bc8f6c3",
-          "title": "OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型",
-          "url": "https://www.aibase.com/zh/news/31366",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
-          "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-          "url": "https://www.aibase.com/news/31366",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:33:05.590857Z"
-        },
-        {
-          "id": "9244e70e8dc7f06ac44e8fec3a33a7499bc8f6c3",
-          "title": "OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型",
-          "url": "https://www.aibase.com/zh/news/31366",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T08:33:05.590857Z",
-      "latest_at": "2026-09-28T08:33:05.590857Z",
-      "primary_item": {
-        "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
-        "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-        "url": "https://www.aibase.com/news/31366",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_36f194b0d7a3",
-      "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-      "url": "https://x.com/arena/status/2104618173966504429",
-      "primary_url": "https://x.com/arena/status/2104618173966504429",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
-          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-          "url": "https://x.com/arena/status/2104618173966504429",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:04:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
-          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-          "url": "https://x.com/arena/status/2104618173966504429",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:04:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.993,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:04:09Z",
-      "latest_at": "2026-09-28T17:04:09Z",
-      "primary_item": {
-        "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
-        "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-        "url": "https://x.com/arena/status/2104618173966504429",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_945b7e0bdbdf",
-      "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-      "url": "https://www.ithome.com/1/007/767.htm",
-      "primary_url": "https://www.ithome.com/1/007/767.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
-          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-          "url": "https://www.ithome.com/1/007/767.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T04:31:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
-          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-          "url": "https://www.ithome.com/1/007/767.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T04:31:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8284,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T04:31:04Z",
-      "latest_at": "2026-09-28T04:31:04Z",
-      "primary_item": {
-        "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
-        "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-        "url": "https://www.ithome.com/1/007/767.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6a821b8c2e98",
-      "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-      "url": "https://www.aibase.com/news/31384",
-      "primary_url": "https://www.aibase.com/news/31384",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/news/31384",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:33:05.590857Z"
-        },
-        {
-          "id": "d46f528833e48d2cea5784d4c7be08e39b2ba1ee",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/zh/news/31384",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/news/31384",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:33:05.590857Z"
-        },
-        {
-          "id": "d46f528833e48d2cea5784d4c7be08e39b2ba1ee",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/zh/news/31384",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T08:33:05.590857Z",
-      "latest_at": "2026-09-28T08:33:05.590857Z",
-      "primary_item": {
-        "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
-        "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-        "url": "https://www.aibase.com/news/31384",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_966afa88c9e9",
-      "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-      "url": "https://www.aibase.com/news/31373",
-      "primary_url": "https://www.aibase.com/news/31373",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "97baeee0c1ff2f1d647d94d2ad72f5d331d9e50f",
-          "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-          "url": "https://www.aibase.com/news/31373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:33:05.590857Z"
-        },
-        {
-          "id": "d47b122b7207dc93d6508ff11d3cbae1273375de",
-          "title": "自信心暴涨但正确率暴跌？最新研究揭示 AI 辅助下的人类决策悖论",
-          "url": "https://www.aibase.com/zh/news/31373",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "97baeee0c1ff2f1d647d94d2ad72f5d331d9e50f",
-          "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-          "url": "https://www.aibase.com/news/31373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:33:05.590857Z"
-        },
-        {
-          "id": "d47b122b7207dc93d6508ff11d3cbae1273375de",
-          "title": "自信心暴涨但正确率暴跌？最新研究揭示 AI 辅助下的人类决策悖论",
-          "url": "https://www.aibase.com/zh/news/31373",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T08:33:05.590857Z",
-      "latest_at": "2026-09-28T08:33:05.590857Z",
-      "primary_item": {
-        "id": "97baeee0c1ff2f1d647d94d2ad72f5d331d9e50f",
-        "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-        "url": "https://www.aibase.com/news/31373",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e9b093399540",
-      "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-      "url": "https://www.aibase.com/news/31382",
-      "primary_url": "https://www.aibase.com/news/31382",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "url": "https://www.aibase.com/news/31382",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:33:05.590857Z"
-        },
-        {
-          "id": "d010544698f534bcacf57f17c939c04ece5d2e04",
-          "title": "英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别",
-          "url": "https://www.aibase.com/zh/news/31382",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "url": "https://www.aibase.com/news/31382",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:33:05.590857Z"
-        },
-        {
-          "id": "d010544698f534bcacf57f17c939c04ece5d2e04",
-          "title": "英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别",
-          "url": "https://www.aibase.com/zh/news/31382",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T08:33:05.590857Z",
-      "latest_at": "2026-09-28T08:33:05.590857Z",
-      "primary_item": {
-        "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-        "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-        "url": "https://www.aibase.com/news/31382",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6ac12b41478c",
-      "title": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
-      "url": "https://www.aibase.com/news/31388",
-      "primary_url": "https://www.aibase.com/news/31388",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9ea2012906cba087958d8f7e2f886b2dac013daf",
-          "title": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
-          "url": "https://www.aibase.com/news/31388",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T17:33:16.142715Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9ea2012906cba087958d8f7e2f886b2dac013daf",
-          "title": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
-          "url": "https://www.aibase.com/news/31388",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T17:33:16.142715Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
@@ -1251,146 +950,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T17:33:16.142715Z",
-      "latest_at": "2026-09-28T17:33:16.142715Z",
+      "earliest_at": "2026-10-01T08:44:19.019056Z",
+      "latest_at": "2026-10-01T08:44:19.019056Z",
       "primary_item": {
-        "id": "9ea2012906cba087958d8f7e2f886b2dac013daf",
-        "title": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
-        "url": "https://www.aibase.com/news/31388",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "10475e511695c99db79c08d74b401b4da02fb238",
+        "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+        "url": "https://modal.com/blog/modal-clusters-generally-available",
+        "source": "Modal 官方工程博客（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-27",
-      "source_name": "WaytoAGI",
+      "story_id": "story_6caab1facf6a",
+      "title": "GitHub Advanced Security trials for GitHub Team",
+      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3e38e0a198f3df4b984abcdce4f2a5cb9da11d4d",
-          "title": "作者把他做 100 多支视频后的经验整理成了一个开源库 Lemo-opuscar：39 种视频风格、每种风格的 STYLE.md，再加 DIRECTOR.md 和 TECHNIQUE.md，告诉 Agent 怎么讲故事、定节奏、拍镜头、配声音、逐帧渲染和自检。你只要讲清主题、故事、节奏、对标、素材和画幅，编排交给Agent，就可以稳定出片！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-28T01:30:24.055647Z"
-        },
-        {
-          "id": "dadc2c54fac79f7e77c6b2ec4798e2a86aff8948",
-          "title": "作者把 Anthropic 提速 Claude 产品 3 倍的方法拆成了可复用的流程：先找到能量化的指标，再验证这个指标和真实体验相关，接着让 Agent 持续爬山优化，最后用测试、CI 棘轮、功能开关和人工审批把成果锁住。他还把这套方法做成了「闪电.skill」，并拿自己的 4 个网站进行了实测，快来看看效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-27T19:12:45.847220Z"
-        },
-        {
-          "id": "80a1f204080656307afd43a312c49f49baca8323",
-          "title": "作者抢先装上还没正式官宣的 DeepSeek Harness 桌面版，实测了它的登录引导、任务模式、插件系统和完整思维链展示，并用“读取本地环境，生成一个模拟 macOS 的演示网页”做了对比测试。结果很反常识：便宜的 DeepSeek V4.1 flash 在 Harness 里还原出了非常接近本机桌面的交互效果，速度快、过程清晰；而同定位的 GPT-6 Luna 反而更像凭理解重画了一版。模型之外，任务规划和执行框架可能才是下一轮差距。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-27T19:12:45.847220Z"
-        },
-        {
-          "id": "bdbc2371905e16b28483913d60c6862f96c80b4f",
-          "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-27T19:12:45.847220Z"
+          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+          "title": "GitHub Advanced Security trials for GitHub Team",
+          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T16:48:24Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "社区更新 · 2026-09-27"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "3e38e0a198f3df4b984abcdce4f2a5cb9da11d4d",
-          "title": "作者把他做 100 多支视频后的经验整理成了一个开源库 Lemo-opuscar：39 种视频风格、每种风格的 STYLE.md，再加 DIRECTOR.md 和 TECHNIQUE.md，告诉 Agent 怎么讲故事、定节奏、拍镜头、配声音、逐帧渲染和自检。你只要讲清主题、故事、节奏、对标、素材和画幅，编排交给Agent，就可以稳定出片！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-28T01:30:24.055647Z"
-        },
-        {
-          "id": "dadc2c54fac79f7e77c6b2ec4798e2a86aff8948",
-          "title": "作者把 Anthropic 提速 Claude 产品 3 倍的方法拆成了可复用的流程：先找到能量化的指标，再验证这个指标和真实体验相关，接着让 Agent 持续爬山优化，最后用测试、CI 棘轮、功能开关和人工审批把成果锁住。他还把这套方法做成了「闪电.skill」，并拿自己的 4 个网站进行了实测，快来看看效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-27T19:12:45.847220Z"
-        },
-        {
-          "id": "80a1f204080656307afd43a312c49f49baca8323",
-          "title": "作者抢先装上还没正式官宣的 DeepSeek Harness 桌面版，实测了它的登录引导、任务模式、插件系统和完整思维链展示，并用“读取本地环境，生成一个模拟 macOS 的演示网页”做了对比测试。结果很反常识：便宜的 DeepSeek V4.1 flash 在 Harness 里还原出了非常接近本机桌面的交互效果，速度快、过程清晰；而同定位的 GPT-6 Luna 反而更像凭理解重画了一版。模型之外，任务规划和执行框架可能才是下一轮差距。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-27T19:12:45.847220Z"
-        },
-        {
-          "id": "bdbc2371905e16b28483913d60c6862f96c80b4f",
-          "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-27T19:12:45.847220Z"
+          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+          "title": "GitHub Advanced Security trials for GitHub Team",
+          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T16:48:24Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6112,
-      "importance": 0.6112,
-      "importance_score": 0.6112,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.4968,
-        "source_tier": 0.54,
-        "ai_relevance": 0.69,
-        "recency": 0.7242,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7945,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-27T19:12:45.847220Z",
-      "latest_at": "2026-09-28T01:30:24.055647Z",
+      "earliest_at": "2026-09-30T16:48:24Z",
+      "latest_at": "2026-09-30T16:48:24Z",
       "primary_item": {
-        "id": "bdbc2371905e16b28483913d60c6862f96c80b4f",
-        "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-27",
-        "source_name": "WaytoAGI"
+        "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+        "title": "GitHub Advanced Security trials for GitHub Team",
+        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_860e814a2864",
-      "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
-      "url": "https://www.aibase.com/news/31389",
-      "primary_url": "https://www.aibase.com/news/31389",
+      "story_id": "story_97bc90269c17",
+      "title": "苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链",
+      "url": "https://www.aibase.com/news/31445",
+      "primary_url": "https://www.aibase.com/news/31445",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "76e82be4fec4e4adf6eb5c09024d7a5239a575d2",
-          "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
-          "url": "https://www.aibase.com/news/31389",
+          "id": "01c814b5764f311695cf54e7d5ba4b48a43fb854",
+          "title": "苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链",
+          "url": "https://www.aibase.com/news/31445",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T17:33:16.142715Z"
+          "published_at": "2026-09-30T18:44:19.019056Z"
         }
       ],
       "source_count": 1,
@@ -1399,39 +1046,340 @@
       ],
       "items": [
         {
-          "id": "76e82be4fec4e4adf6eb5c09024d7a5239a575d2",
-          "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
-          "url": "https://www.aibase.com/news/31389",
+          "id": "01c814b5764f311695cf54e7d5ba4b48a43fb854",
+          "title": "苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链",
+          "url": "https://www.aibase.com/news/31445",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T17:33:16.142715Z"
+          "published_at": "2026-09-30T18:44:19.019056Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.817,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T18:44:19.019056Z",
+      "latest_at": "2026-09-30T18:44:19.019056Z",
+      "primary_item": {
+        "id": "01c814b5764f311695cf54e7d5ba4b48a43fb854",
+        "title": "苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链",
+        "url": "https://www.aibase.com/news/31445",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_433c6b8fa491",
+      "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
+      "url": "https://x.com/ClementDelangue/status/2105276853632094607",
+      "primary_url": "https://x.com/ClementDelangue/status/2105276853632094607",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
+          "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
+          "url": "https://x.com/ClementDelangue/status/2105276853632094607",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T12:41:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+      ],
+      "items": [
+        {
+          "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
+          "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
+          "url": "https://x.com/ClementDelangue/status/2105276853632094607",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T12:41:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7486,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T12:41:30Z",
+      "latest_at": "2026-09-30T12:41:30Z",
+      "primary_item": {
+        "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
+        "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
+        "url": "https://x.com/ClementDelangue/status/2105276853632094607",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c943108bbbb2",
+      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "primary_url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8814,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
+      "primary_item": {
+        "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a0ce837e4743",
+      "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+      "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:09:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:09:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8834,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T00:09:22Z",
+      "latest_at": "2026-10-01T00:09:22Z",
+      "primary_item": {
+        "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+        "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+        "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5294bab58d74",
+      "title": "X25519-only TLS ends for GHE.com on October 7",
+      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "X25519-only TLS ends for GHE.com on October 7",
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "X25519-only TLS ends for GHE.com on October 7",
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7575,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T17:33:16.142715Z",
-      "latest_at": "2026-09-28T17:33:16.142715Z",
+      "earliest_at": "2026-09-30T13:30:24Z",
+      "latest_at": "2026-09-30T13:30:24Z",
       "primary_item": {
-        "id": "76e82be4fec4e4adf6eb5c09024d7a5239a575d2",
-        "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
-        "url": "https://www.aibase.com/news/31389",
+        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+        "title": "X25519-only TLS ends for GHE.com on October 7",
+        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1935b0311ad2",
+      "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+      "url": "https://www.aibase.com/news/31442",
+      "primary_url": "https://www.aibase.com/news/31442",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6757c36b81c628fb06c093fe683ab944bdaf493e",
+          "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+          "url": "https://www.aibase.com/news/31442",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:44:19.019056Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6757c36b81c628fb06c093fe683ab944bdaf493e",
+          "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+          "url": "https://www.aibase.com/news/31442",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:44:19.019056Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8052,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T17:44:19.019056Z",
+      "latest_at": "2026-09-30T17:44:19.019056Z",
+      "primary_item": {
+        "id": "6757c36b81c628fb06c093fe683ab944bdaf493e",
+        "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+        "url": "https://www.aibase.com/news/31442",
         "source": "AIbase",
         "source_name": "AIbase"
       }
