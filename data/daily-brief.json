@@ -1,52 +1,134 @@
 {
-  "generated_at": "2026-10-02T14:03:50.617926Z",
+  "generated_at": "2026-10-02T19:28:06.392671Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_04cee568ccaf",
-      "title": "Confidential comments on repository security advisories",
-      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-      "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-      "source": "GitHub Changelog",
+      "story_id": "story_8e206c4d9ed6",
+      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "primary_url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "75d3ae652733e012708727418c039e9c82d67827",
-          "title": "Confidential comments on repository security advisories",
-          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-          "source": "GitHub Changelog",
+          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
+          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
+          "url": "https://openai.com/index/practical-guide-building-gpt-6",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:40Z"
+          "published_at": "2026-10-02T16:15:00Z"
+        },
+        {
+          "id": "b6a5169a91a32d900daf93ec976dae4a837ed8e3",
+          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+          "url": "https://openai.com/index/practical-guide-building-gpt-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T16:15:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "75d3ae652733e012708727418c039e9c82d67827",
-          "title": "Confidential comments on repository security advisories",
-          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-          "source": "GitHub Changelog",
+          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
+          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
+          "url": "https://openai.com/index/practical-guide-building-gpt-6",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:40Z"
+          "published_at": "2026-10-02T16:15:00Z"
+        },
+        {
+          "id": "b6a5169a91a32d900daf93ec976dae4a837ed8e3",
+          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+          "url": "https://openai.com/index/practical-guide-building-gpt-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T16:15:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8768,
+      "importance": 0.8768,
+      "importance_score": 0.8768,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9885,
+        "ai_relevance": 0.95,
+        "recency": 0.9546,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T16:15:00Z",
+      "latest_at": "2026-10-02T16:15:00Z",
+      "primary_item": {
+        "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
+        "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d599f0a282be",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "primary_url": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:19:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:19:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.942,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,12 +137,342 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T13:15:40Z",
-      "latest_at": "2026-10-02T13:15:40Z",
+      "earliest_at": "2026-10-02T15:19:50Z",
+      "latest_at": "2026-10-02T15:19:50Z",
       "primary_item": {
-        "id": "75d3ae652733e012708727418c039e9c82d67827",
-        "title": "Confidential comments on repository security advisories",
-        "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+        "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
+        "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "url": "https://huggingface.co/blog/allenai/astabrief",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d3c3f6996fb2",
+      "title": "Selected models in GitHub Copilot deprecated",
+      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+          "title": "Selected models in GitHub Copilot deprecated",
+          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T18:24:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+          "title": "Selected models in GitHub Copilot deprecated",
+          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T18:24:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9848,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T18:24:19Z",
+      "latest_at": "2026-10-02T18:24:19Z",
+      "primary_item": {
+        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+        "title": "Selected models in GitHub Copilot deprecated",
+        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8a253d0557ff",
+      "title": "AI is changing developer work. Here are three skills to strengthen.",
+      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+      "primary_url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
+          "title": "AI is changing developer work. Here are three skills to strengthen.",
+          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
+          "title": "AI is changing developer work. Here are three skills to strengthen.",
+          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.9375,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T15:00:00Z",
+      "latest_at": "2026-10-02T15:00:00Z",
+      "primary_item": {
+        "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
+        "title": "AI is changing developer work. Here are three skills to strengthen.",
+        "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d26cbd179582",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
+          "title": "The latest AI news we announced in September 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
+          "title": "The latest AI news we announced in September 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9375,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T15:00:00Z",
+      "latest_at": "2026-10-02T15:00:00Z",
+      "primary_item": {
+        "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
+        "title": "The latest AI news we announced in September 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a97398f76ee5",
+      "title": "Chatham Financial 借助 OpenAI 扩展资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "primary_url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
+          "title": "Chatham Financial 借助 OpenAI 扩展资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T00:00:00Z"
+        },
+        {
+          "id": "12bd3b50679f04e3731c739d664394efc817ad05",
+          "title": "Chatham Financial 借助 OpenAI 扩展资本市场专业能力",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
+          "title": "Chatham Financial 借助 OpenAI 扩展资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T00:00:00Z"
+        },
+        {
+          "id": "12bd3b50679f04e3731c739d664394efc817ad05",
+          "title": "Chatham Financial 借助 OpenAI 扩展资本市场专业能力",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7549,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T00:00:00Z",
+      "latest_at": "2026-10-02T19:28:06.392671Z",
+      "primary_item": {
+        "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
+        "title": "Chatham Financial 借助 OpenAI 扩展资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
+        "url": "https://openai.com/index/chatham-financial",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6389d30d2002",
+      "title": "New fields for SecurityAdvisory GraphQL API",
+      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "primary_url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+          "title": "New fields for SecurityAdvisory GraphQL API",
+          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:18:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+          "title": "New fields for SecurityAdvisory GraphQL API",
+          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:18:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9148,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:18:00Z",
+      "latest_at": "2026-10-02T13:18:00Z",
+      "primary_item": {
+        "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+        "title": "New fields for SecurityAdvisory GraphQL API",
+        "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -100,15 +512,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8651,
+        "recency": 0.8001,
         "story_heat": 0.0
       },
       "category": "official",
@@ -128,83 +540,21 @@
       }
     },
     {
-      "story_id": "story_7e67b43cf9d0",
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "primary_url": "https://openai.com/index/the-eternal-complement",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
-          "title": "The eternal complement",
-          "url": "https://openai.com/index/the-eternal-complement",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
-          "title": "The eternal complement",
-          "url": "https://openai.com/index/the-eternal-complement",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7377,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T17:00:00Z",
-      "latest_at": "2026-10-01T17:00:00Z",
-      "primary_item": {
-        "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
-        "title": "The eternal complement",
-        "url": "https://openai.com/index/the-eternal-complement",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_819b8b6c47de",
-      "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "story_id": "story_04cee568ccaf",
+      "title": "Confidential comments on repository security advisories",
+      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "Confidential comments on repository security advisories",
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
+          "published_at": "2026-10-02T13:15:40Z"
         }
       ],
       "source_count": 1,
@@ -213,26 +563,26 @@
       ],
       "items": [
         {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "Confidential comments on repository security advisories",
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
+          "published_at": "2026-10-02T13:15:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7614,
+        "ai_relevance": 0.87,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,75 +591,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:11:26Z",
-      "latest_at": "2026-10-01T19:11:26Z",
+      "earliest_at": "2026-10-02T13:15:40Z",
+      "latest_at": "2026-10-02T13:15:40Z",
       "primary_item": {
-        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-        "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+        "id": "75d3ae652733e012708727418c039e9c82d67827",
+        "title": "Confidential comments on repository security advisories",
+        "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0bf00b70dbd7",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.717,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T15:01:43Z",
-      "latest_at": "2026-10-01T15:01:43Z",
-      "primary_item": {
-        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-        "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "url": "https://huggingface.co/blog/allenai/olmocore3",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -367,15 +655,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9849,
+        "recency": 0.911,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -395,65 +683,64 @@
       }
     },
     {
-      "story_id": "story_a80484c2d584",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "primary_url": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c2f358888364",
+      "title": "ChatGPT 推出 Finances 财务管理功能",
+      "url": "https://x.com/ChatGPT/status/2106083595433791573",
+      "primary_url": "https://x.com/ChatGPT/status/2106083595433791573",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "url": "https://openai.com/index/albertsons-reimagining-retail",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:00:00Z"
+          "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
+          "title": "ChatGPT 推出 Finances 财务管理功能",
+          "url": "https://x.com/ChatGPT/status/2106083595433791573",
+          "source": "X：ChatGPT (@ChatGPT)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T18:07:12Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：ChatGPT (@ChatGPT)"
       ],
       "items": [
         {
-          "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "url": "https://openai.com/index/albertsons-reimagining-retail",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:00:00Z"
+          "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
+          "title": "ChatGPT 推出 Finances 财务管理功能",
+          "url": "https://x.com/ChatGPT/status/2106083595433791573",
+          "source": "X：ChatGPT (@ChatGPT)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T18:07:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
-      "importance_label": "官方更新",
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7272,
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9807,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T16:00:00Z",
-      "latest_at": "2026-10-01T16:00:00Z",
+      "earliest_at": "2026-10-02T18:07:12Z",
+      "latest_at": "2026-10-02T18:07:12Z",
       "primary_item": {
-        "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
-        "title": "How Albertsons Companies is reimagining retail from the inside out",
-        "url": "https://openai.com/index/albertsons-reimagining-retail",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
+        "title": "ChatGPT 推出 Finances 财务管理功能",
+        "url": "https://x.com/ChatGPT/status/2106083595433791573",
+        "source": "X：ChatGPT (@ChatGPT)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -491,15 +778,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9081,
+        "recency": 0.8399,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -514,6 +801,66 @@
         "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
         "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_73ddda4b2e49",
+      "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
+      "url": "https://x.com/GoogleAI/status/2106049984164463069",
+      "primary_url": "https://x.com/GoogleAI/status/2106049984164463069",
+      "source": "X：Google AI (@GoogleAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
+          "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
+          "url": "https://x.com/GoogleAI/status/2106049984164463069",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T15:53:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI (@GoogleAI)"
+      ],
+      "items": [
+        {
+          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
+          "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
+          "url": "https://x.com/GoogleAI/status/2106049984164463069",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T15:53:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9497,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-02T15:53:39Z",
+      "latest_at": "2026-10-02T15:53:39Z",
+      "primary_item": {
+        "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
+        "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
+        "url": "https://x.com/GoogleAI/status/2106049984164463069",
+        "source": "X：Google AI (@GoogleAI)",
         "source_name": "AI HOT"
       }
     },
@@ -552,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8174,
+        "recency": 0.7561,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,21 +925,21 @@
       }
     },
     {
-      "story_id": "story_b33dfcad9023",
-      "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "story_id": "story_15293fa08b51",
+      "title": "Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-          "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "Repository security advisory comments API in public preview",
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:09:10Z"
+          "published_at": "2026-10-02T13:15:25Z"
         }
       ],
       "source_count": 1,
@@ -601,26 +948,26 @@
       ],
       "items": [
         {
-          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-          "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "Repository security advisory comments API in public preview",
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:09:10Z"
+          "published_at": "2026-10-02T13:15:25Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.761,
+        "ai_relevance": 0.87,
+        "recency": 0.9142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -629,14 +976,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:09:10Z",
-      "latest_at": "2026-10-01T19:09:10Z",
+      "earliest_at": "2026-10-02T13:15:25Z",
+      "latest_at": "2026-10-02T13:15:25Z",
       "primary_item": {
-        "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-        "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+        "title": "Repository security advisory comments API in public preview",
+        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b7a4cac8ba63",
+      "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
+      "primary_url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
+      "source": "Google Research：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
+          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Research：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
+          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-02T19:28:06.392671Z",
+      "latest_at": "2026-10-02T19:28:06.392671Z",
+      "primary_item": {
+        "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
+        "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+        "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
+        "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -674,15 +1081,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8196,
+        "recency": 0.7581,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -734,21 +1141,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.825,
+        "recency": 0.7631,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T00:44:40Z",
       "latest_at": "2026-10-02T00:44:40Z",
@@ -757,126 +1163,6 @@
         "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
         "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_50566681553e",
-      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-      "url": "https://x.com/OpenRouter/status/2105759062835220852",
-      "primary_url": "https://x.com/OpenRouter/status/2105759062835220852",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
-          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-          "url": "https://x.com/OpenRouter/status/2105759062835220852",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T20:37:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
-          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-          "url": "https://x.com/OpenRouter/status/2105759062835220852",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T20:37:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7774,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T20:37:38Z",
-      "latest_at": "2026-10-01T20:37:38Z",
-      "primary_item": {
-        "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
-        "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-        "url": "https://x.com/OpenRouter/status/2105759062835220852",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9506769ef6ff",
-      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-      "url": "https://suno.com/blog/introducing-speech-beta",
-      "primary_url": "https://suno.com/blog/introducing-speech-beta",
-      "source": "Suno：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
-          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-          "url": "https://suno.com/blog/introducing-speech-beta",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T20:35:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Suno：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
-          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-          "url": "https://suno.com/blog/introducing-speech-beta",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T20:35:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7769,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T20:35:00Z",
-      "latest_at": "2026-10-01T20:35:00Z",
-      "primary_item": {
-        "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
-        "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-        "url": "https://suno.com/blog/introducing-speech-beta",
-        "source": "Suno：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -915,15 +1201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7699,
+        "recency": 0.7121,
         "story_heat": 0.0
       },
       "category": "official",
@@ -940,126 +1226,6 @@
         "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9128069ece23",
-      "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-      "primary_url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
-          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T23:44:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
-          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T23:44:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8131,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T23:44:13Z",
-      "latest_at": "2026-10-01T23:44:13Z",
-      "primary_item": {
-        "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
-        "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-        "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e2222d31e665",
-      "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-      "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8e18fbe70daa6a142ef1934895750767f733646e",
-          "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-          "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T22:43:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "8e18fbe70daa6a142ef1934895750767f733646e",
-          "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-          "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T22:43:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7228,
-      "importance": 0.7228,
-      "importance_score": 0.7228,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8013,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T22:43:17Z",
-      "latest_at": "2026-10-01T22:43:17Z",
-      "primary_item": {
-        "id": "8e18fbe70daa6a142ef1934895750767f733646e",
-        "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-        "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1097,15 +1263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.77,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1120,130 +1286,6 @@
         "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
         "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
         "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c0216d3311cd",
-      "title": "GitHub Actions：macOS 14 运行程序图像停用 / GitHub Actions: macOS 14 runner image retirement",
-      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
-          "title": "GitHub Actions：macOS 14 运行程序图像停用 / GitHub Actions: macOS 14 runner image retirement",
-          "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
-          "title": "GitHub Actions：macOS 14 运行程序图像停用 / GitHub Actions: macOS 14 runner image retirement",
-          "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7614,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:11:23Z",
-      "latest_at": "2026-10-01T19:11:23Z",
-      "primary_item": {
-        "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
-        "title": "GitHub Actions：macOS 14 运行程序图像停用 / GitHub Actions: macOS 14 runner image retirement",
-        "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1d7c1228c839",
-      "title": "存储库概述中突出显示的可访问性声明 / Accessibility statements highlighted on repository overview",
-      "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-          "title": "存储库概述中突出显示的可访问性声明 / Accessibility statements highlighted on repository overview",
-          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:04:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-          "title": "存储库概述中突出显示的可访问性声明 / Accessibility statements highlighted on repository overview",
-          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:04:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7602,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:04:32Z",
-      "latest_at": "2026-10-01T19:04:32Z",
-      "primary_item": {
-        "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-        "title": "存储库概述中突出显示的可访问性声明 / Accessibility statements highlighted on repository overview",
-        "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
